@@ -8,8 +8,11 @@ function App(settings) {
 	/** @type {MayanLogCollector} */
 	this.log = this.logger.log;
 
-	/** @type {AwesomeGoSource} */
-	this.awesomeGoSource = require('./lib/awesome_go').createAwesomeGoSource(this);
+	/** @type {AwesomeGoClient} */
+	this.awesomeGoClient = require('./lib/awesome_go').createAwesomeGoClient(this);
+
+	/** @type {GitHubClient} */
+	this.githubClient = require('./lib/github_client').createGitHubClient(this);
 }
 
 module.exports = {
