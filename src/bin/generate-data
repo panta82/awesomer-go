@@ -1,0 +1,19 @@
+#!/usr/bin/env node
+
+const settings = require('../settings');
+const { App } = require('../app');
+
+async function main() {
+	const app = new App(settings);
+
+	const data = await app.awesomeGoSource.getData();
+
+	console.log(JSON.stringify(data, null, '  '));
+}
+
+Promise.resolve()
+	.then(() => main())
+	.catch(err => {
+		console.error(err);
+		process.exit(1);
+	});
