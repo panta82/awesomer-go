@@ -41,11 +41,16 @@ function createAwesomeGoSource(app) {
 
 		const sections = [];
 
+		let group = null;
+
 		/** @type {AwesomeGoLink} */
 		let currentLink = null;
 
 		/** @type {AwesomeGoSection} */
 		let currentSection = null;
+
+		/** @type {AwesomeGoSection} */
+		let currentParentSection = null;
 
 		parseTokens(tokens);
 
@@ -55,10 +60,11 @@ function createAwesomeGoSource(app) {
 		});
 
 		function parseTokens(tokens) {
+			/** @type {AwesomeGoLink} */
+			let previousSiblingLink;
+
 			for (let index = 0; index < tokens.length; index++) {
 				const token = tokens[index];
-
-				//console.log(token);
 
 				if (token.type.endsWith('_open') && token.tag) {
 					tagStack.push({
@@ -79,9 +85,23 @@ function createAwesomeGoSource(app) {
 
 				if (token.type === 'heading_open' && token.tag === 'h2') {
 					currentSection = new AwesomeGoSection({
+						group,
 						links: [],
+						subsections: [],
 					});
 					sections.push(currentSection);
+					// Clear parent, we are back to the top level
+					currentParentSection = null;
+				} else if (token.type === 'heading_open' && token.tag === 'h3' && currentSection) {
+					if (!currentParentSection) {
+						// We are entering subsections
+						currentParentSection = currentSection;
+					}
+					currentSection = new AwesomeGoSection({
+						links: [],
+						subsections: [],
+					});
+					currentParentSection.subsections.push(currentSection);
 				} else if (token.type === 'link_open' && currentSection) {
 					const hrefAttr = token.attrs.find(attr => attr[0] === 'href');
 					if (hrefAttr) {
@@ -89,6 +109,7 @@ function createAwesomeGoSource(app) {
 						currentLink = new AwesomeGoLink({
 							href,
 						});
+						previousSiblingLink = currentLink;
 					}
 				} else if (token.type === 'link_close' && currentLink) {
 					if (currentSection) {
@@ -96,11 +117,15 @@ function createAwesomeGoSource(app) {
 					}
 					currentLink = null;
 				} else if (token.type === 'text') {
-					if (inTags('h2') && currentSection && !currentSection.title) {
+					if (inTags('h1')) {
+						// Set current group
+						group = token.content;
+					}
+					if ((inTags('h2') || inTags('h3')) && currentSection && !currentSection.title) {
 						// First text in section, this is title
 						currentSection.title = token.content;
 					} else if (
-						inTags('em', 'p') &&
+						inTags('p', 'em') &&
 						currentSection &&
 						!currentSection.subtitle &&
 						!currentSection.links.length
@@ -111,12 +136,25 @@ function createAwesomeGoSource(app) {
 					} else if (inTags('a') && currentLink && !currentLink.title) {
 						// We are reading a link
 						currentLink.title = token.content;
+					} else if (
+						previousSiblingLink &&
+						!previousSiblingLink.description &&
+						inTags('ul', 'li', 'p')
+					) {
+						const match = /^\s*-\s+(.+)$/.exec(token.content);
+						{
+							if (match) {
+								// This is a text block sibling to link which starts with " - ". Presume link description.
+								previousSiblingLink.description = match[1];
+							}
+						}
 					}
 				}
 			}
 
 			/**
-			 * Returns true if we are currently inside given sequence of tags (given in reverse order, from the top)
+			 * Returns true if we are currently inside given sequence of tags
+			 * Eg. if stack is ['div', 'p', 'a'], we are in ['p', 'a'], but not in ['div', 'p']
 			 * @return {{tag, attrs}}
 			 */
 			function inTags(...tags) {
@@ -186,9 +224,15 @@ class AwesomeGoLink {
 
 		/**
 		 * Link title
-		 * @type {undefined}
+		 * @type {string}
 		 */
 		this.title = undefined;
+
+		/**
+		 * Description of what the link leads to. This goes after link, like: "<link> - Some text here."
+		 * @type {string}
+		 */
+		this.description = undefined;
 
 		Object.assign(this, source);
 	}
@@ -196,6 +240,12 @@ class AwesomeGoLink {
 
 class AwesomeGoSection {
 	constructor(/** AwesomeGoSection */ source = undefined) {
+		/**
+		 * Global group where this section can be found. There are generally 3 on the page: 'Awesome Go', 'Tools' and 'Resources'
+		 * @type {string}
+		 */
+		this.group = undefined;
+
 		/**
 		 * @type {string}
 		 */
@@ -205,6 +255,12 @@ class AwesomeGoSection {
 		 * @type {string}
 		 */
 		this.subtitle = undefined;
+
+		/**
+		 * Some sections have subsections, so we might see more links here
+		 * @type {AwesomeGoSection[]}
+		 */
+		this.subsections = undefined;
 
 		/**
 		 * Links in this section
