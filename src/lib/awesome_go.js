@@ -18,15 +18,13 @@ function createAwesomeGoClient(app) {
 
 	async function _fetchRawData() {
 		log.info(`Fetching awesomego data from ${AWESOME_GO_URL}...`);
-		const res = await axios.get(AWESOME_GO_URL);
-		if (res.status !== 200) {
-			const error = new Error(
-				`Failed to fetch AwesomeGo source data: ${res.status} ${res.statusText}`
-			);
-			log.error(error, res);
-			throw error;
+		try {
+			const res = await axios.get(AWESOME_GO_URL);
+			return res.data;
+		} catch (err) {
+			log.error(err);
+			throw new Error(`Failed to fetch AwesomeGo source data: ${err.message}`);
 		}
-		return res.data;
 	}
 
 	/**

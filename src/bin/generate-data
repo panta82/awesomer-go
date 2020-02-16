@@ -6,9 +6,11 @@ const { App } = require('../app');
 async function main() {
 	const app = new App(settings);
 
-	const data = await app.awesomeGoClient.getData();
+	//const data = await app.awesomeGoClient.getData();
 
-	console.log(JSON.stringify(data, null, '  '));
+	//console.log(JSON.stringify(data, null, '  '));
+
+	console.log(await app.githubClient.getRepository('panta82', 'yaal'));
 }
 
 Promise.resolve()
