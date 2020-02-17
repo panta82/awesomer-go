@@ -4,11 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "update-data": "node generator/bin/generate-data -f website/data.json",
+    "serve": "cd website && live-server"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "live-server": "^1.2.1",
     "prettier": "^1.19.1"
   },
   "dependencies": {
