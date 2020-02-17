@@ -5,12 +5,17 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 		<meta http-equiv="X-UA-Compatible" content="ie=edge" />
 		<title>Awesomer Go</title>
+
 		<link rel="stylesheet" href="assets/css/bootstrap.min.css" />
 		<link rel="stylesheet" href="assets/css/dataTables.bootstrap4.min.css" />
+		<link rel="stylesheet" href="assets/css/bootstrap-select.min.css" />
+
+		<script src="assets/js/popper.min.js"></script>
 		<!-- This bundle includes jquery, bootstrap and datatables stuff, all in one -->
 		<script src="assets/js/datatables-bundle.min.js"></script>
 		<script src="assets/js/jquery.timeago.js"></script>
 		<script src="assets/js/jquery.mark.min.js"></script>
+		<script src="assets/js/bootstrap-select.min.js"></script>
 		<style rel="stylesheet">
 			#datatable {
 				width: 100% !important;
@@ -18,6 +23,22 @@
 			mark[data-markjs] {
 				padding: 0;
 				background-color: yellow;
+			}
+			#datatable_length {
+				display: none;
+			}
+			.clear-btn {
+				border-top-left-radius: 0;
+				border-bottom-left-radius: 0;
+				position: relative;
+				margin-left: -6px;
+			}
+			.clear-btn img {
+				width: 0.8rem;
+			}
+			.category-picker-input {
+				display: inline-block;
+				white-space: nowrap;
 			}
 		</style>
 		<script>
@@ -29,24 +50,126 @@
 	<body>
 		<nav class="navbar navbar-expand-md navbar-light bg-light">
 			<div class="d-flex justify-content-between mx-5">
-				<a class="navbar-brand" href="#">Awesomer GO</a>
+				<a class="navbar-brand" href="#">Awesomer Go</a>
 			</div>
 		</nav>
 
 		<main role="main" class="my-5 mx-5">
 			<table id="datatable" class="table table-striped table-bordered"></table>
 		</main>
+
+		<div style="display: none">
+			<div class="dataTables_length" id="category_picker">
+				<label
+					>Category:
+					<div class="category-picker-input">
+						<select aria-controls="datatable" data-live-search="true"></select>
+						<button class="btn btn-primary clear-btn" disabled="disabled">
+							<img src="assets/images/close_x.svg" alt="close" />
+						</button>
+					</div>
+				</label>
+			</div>
+		</div>
 	</body>
 
 	<script>
 		$(document).ready(function() {
 			if (!DATA) {
-				alert(`Something went wrong during loading. We didn't get awesomer-go data.`);
+				alert("Something went wrong during loading. We didn't get awesomer-go data.");
 				return;
 			}
 
+			var table = initDataTable(DATA);
+			initCategoryPicker(table, DATA);
+			initSearchHighlight(table);
+		});
+
+		function initDataTable(data) {
 			// TODO
 			// $.fn.dataTable.ext.errMode = 'none';
+
+			var table = $('#datatable').DataTable({
+				data: data,
+				pageLength: 100,
+				lengthMenu: false,
+				columns: [
+					{
+						data: 'index'
+					},
+					{
+						data: 'category',
+						title: 'Category',
+						searchable: false,
+						render: function(_, type, row) {
+							return row.subcategory
+								? row.category + '<span class="text-muted"> &gt; </span>' + row.subcategory
+								: row.category || '';
+						}
+					},
+					{
+						data: 'title',
+						title: 'Project',
+						className: 'dt-searchable-col',
+						render: function(data, type, row, meta) {
+							return type === 'display'
+								? '<a href="' + row.url + '" target="_blank" rel="nofollow">' + data + '</a>'
+								: data;
+						}
+					},
+					{
+						data: 'description',
+						title: 'Description',
+						className: 'dt-searchable-col'
+					},
+					{
+						data: 'stars',
+						title: 'Stars',
+						type: 'num',
+						searchable: false,
+						defaultContent: ''
+					},
+					{
+						data: 'forks',
+						title: 'Forks',
+						type: 'num',
+						searchable: false,
+						defaultContent: ''
+					},
+					{
+						data: 'subscribers',
+						title: 'Subscribers',
+						type: 'num',
+						searchable: false,
+						defaultContent: ''
+					},
+					{
+						data: 'created_at',
+						title: 'Created',
+						type: 'date',
+						searchable: false,
+						render: renderDate
+					},
+					{
+						data: 'last_commit_at',
+						title: 'Updated',
+						type: 'date',
+						searchable: false,
+						render: renderDate
+					},
+					{
+						data: 'license',
+						title: 'License',
+						className: 'dt-searchable-col',
+						defaultContent: ''
+					}
+				]
+			});
+
+			// Remove sm form control, due to visuals
+			$('.form-control-sm', '#datatable_filter').removeClass('form-control-sm');
+
+			return table;
 
 			function renderDate(date, type) {
 				return type === 'display' && date
@@ -59,78 +182,90 @@
 							'</time>'
 					: date || '';
 			}
+		}
 
-			var table = $('#datatable').DataTable({
-				data: DATA,
-				pageLength: 100,
-				columns: [
-					{
-						data: 'index',
-					},
-					{
-						data: 'category',
-						title: 'Category',
-						searchable: false,
-						render: function(_, type, row) {
-							return row.subcategory
-								? row.category + '<span class="text-muted"> &gt; </span>' + row.subcategory
-								: row.category || '';
-						},
-					},
-					{
-						data: 'title',
-						title: 'Project',
-						className: 'dt-searchable-col',
-						render: function(data, type, row, meta) {
-							return type === 'display'
-								? '<a href="' + row.url + '" target="_blank" rel="nofollow">' + data + '</a>'
-								: data;
-						},
-					},
-					{
-						data: 'description',
-						title: 'Description',
-						className: 'dt-searchable-col',
-					},
-					{
-						data: 'stars',
-						title: 'Stars',
-						type: 'num',
-						searchable: false,
-						defaultContent: 0,
-					},
-					{
-						data: 'forks',
-						title: 'Forks',
-						type: 'num',
-						searchable: false,
-						defaultContent: 0,
-					},
-					{
-						data: 'subscribers',
-						title: 'Subscribers',
-						type: 'num',
-						searchable: false,
-						defaultContent: 0,
-					},
-					{
-						data: 'created_at',
-						title: 'Created',
-						type: 'date',
-						searchable: false,
-						render: renderDate,
-					},
-					{
-						data: 'last_commit_at',
-						title: 'Updated',
-						type: 'date',
-						searchable: false,
-						render: renderDate,
-					},
-				],
+		function initCategoryPicker(table, data) {
+			var $categoryPicker = $('#category_picker');
+
+			var optionsLookup = {};
+			for (var i = 0; i < data.length; i++) {
+				var project = data[i];
+				var categoryLabel = project.subcategory
+					? project.category + ' > ' + project.subcategory
+					: project.category;
+				if (!optionsLookup[categoryLabel]) {
+					optionsLookup[categoryLabel] = {
+						category: project.category,
+						subcategory: project.subcategory
+					};
+				}
+			}
+
+			var selected = null;
+
+			var $select = $('select', $categoryPicker);
+			$select.append(
+				'<option value="ALL" selected="selected" data-category="" data-subcategory="">ALL</option>'
+			);
+			for (var label in optionsLookup) {
+				$select.append(
+					'<option value="' +
+						label +
+						'" data-category="' +
+						optionsLookup[label].category +
+						'" data-subcategory="' +
+						(optionsLookup[label].subcategory || '') +
+						'">' +
+						label +
+						'</option>'
+				);
+			}
+
+			// Clear button
+			var $clearButton = $('.clear-btn', $categoryPicker);
+			$clearButton.on('click', function() {
+				$select.selectpicker('val', 'ALL');
 			});
 
-			var activeSearch = null;
+			// Custom filter function
+			$.fn.dataTable.ext.search.push(function(_, __, index) {
+				if (!selected) {
+					return true;
+				}
+
+				var project = data[index];
+				return (
+					project.category === selected.category &&
+					(project.subcategory || '') === (selected.subcategory || '')
+				);
+			});
+
+			// Move select and init selectpicker
+			$categoryPicker.insertAfter('#datatable_length');
+			$select.selectpicker({
+				liveSearch: true
+			});
+
+			// On change event
+			$select.on('changed.bs.select', function() {
+				var option = $(':selected', $select);
+				var category = option.attr('data-category');
+				if (!category) {
+					selected = null;
+					$clearButton.prop('disabled', true);
+				} else {
+					var subcategory = option.attr('data-subcategory') || null;
+					selected = {
+						category: category,
+						subcategory: subcategory
+					};
+					$clearButton.prop('disabled', false);
+				}
+				table.draw();
+			});
+		}
+
+		function initSearchHighlight(table) {
 			var updateHighlightsTimeout;
 			table.on('draw.dt', function() {
 				clearTimeout(updateHighlightsTimeout);
@@ -138,19 +273,13 @@
 			});
 
 			function updateHighlights() {
-				if (activeSearch === table.search()) {
-					// Nothing to do
-					return;
-				}
-				activeSearch = table.search();
-				var savedActiveSearch = activeSearch;
 				var targets = $('#datatable td.dt-searchable-col');
 				targets.unmark({
 					done: function() {
-						targets.mark(savedActiveSearch);
-					},
+						targets.mark(table.search());
+					}
 				});
 			}
-		});
+		}
 	</script>
 </html>
