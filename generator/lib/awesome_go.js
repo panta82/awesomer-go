@@ -121,7 +121,12 @@ function parseAwesomeGoData(sourceStr) {
 					subsections: [],
 				});
 				currentParentSection.subsections.push(currentSection);
-			} else if (token.type === 'link_open' && currentSection && !linkForThisBlock) {
+			} else if (
+				token.type === 'link_open' &&
+				currentSection &&
+				!linkForThisBlock &&
+				inTags('ul', 'li', 'p', 'a')
+			) {
 				// NOTE: we only parse link if it is the first link in line. Otherwise, we presume it is something like:
 				//       [some-link](link) - Text text [some-other-link-in-text]() text text
 				const hrefAttr = token.attrs.find(attr => attr[0] === 'href');
@@ -137,7 +142,7 @@ function parseAwesomeGoData(sourceStr) {
 					currentSection.links.push(currentLink);
 				}
 				currentLink = null;
-			} else if (token.type === 'text') {
+			} else if (token.type === 'text' || token.type === 'code_inline') {
 				if (inTags('h1')) {
 					// Set current group
 					group = token.content;
@@ -158,16 +163,14 @@ function parseAwesomeGoData(sourceStr) {
 					// We are reading a link
 					currentLink.title = token.content;
 				} else if (linkForThisBlock && (inTags('ul', 'li', 'p') || inTags('ul', 'li', 'p', 'a'))) {
-					const startMatch = /^\s*-\s+(.+)$/.exec(token.content);
-					{
-						if (startMatch) {
-							// This is a text block sibling to link which starts with " - ". Presume the start of link description.
-							linkForThisBlock.description = startMatch[1];
-						} else if (linkForThisBlock.description) {
-							// Presume continuation of description
-							linkForThisBlock.description =
-								linkForThisBlock.description.trimRight() + ' ' + token.content.trimLeft();
-						}
+					const startMatch = /^\s*-\s+(.*)$/.exec(token.content);
+					if (startMatch) {
+						// This is a text block sibling to link which starts with " - ". Presume the start of link description.
+						linkForThisBlock.description = startMatch[1];
+					} else if (linkForThisBlock.description !== undefined) {
+						// Presume continuation of description
+						linkForThisBlock.description =
+							linkForThisBlock.description.trimRight() + ' ' + token.content.trimLeft();
 					}
 				}
 			}

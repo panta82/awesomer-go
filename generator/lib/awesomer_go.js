@@ -3,6 +3,11 @@ const { promisify } = require('util');
 
 const { promiseChain } = require('./tools');
 
+const OUTPUT_FORMATS = {
+	json: 'json',
+	jsonp: 'jsonp',
+};
+
 /**
  * @param {App} app
  */
@@ -11,8 +16,8 @@ function createAwesomerGoGenerator(app) {
 
 	return /** @lends {AwesomerGoGenerator.prototype} */ {
 		generate,
-		generateJSON,
-		generateIntoAJSONFile,
+		generateFormatted,
+		generateIntoAFile,
 	};
 
 	async function generate() {
@@ -30,17 +35,24 @@ function createAwesomerGoGenerator(app) {
 		return projects;
 	}
 
-	async function generateJSON() {
+	async function generateFormatted(format) {
+		if (!OUTPUT_FORMATS[format]) {
+			throw new Error(`Unknown format: "${format}"`);
+		}
+
 		const data = await generate();
-		const json = JSON.stringify(data, null, '  ');
-		return json;
+		let result = JSON.stringify(data, null, '  ');
+		if (format === OUTPUT_FORMATS.jsonp) {
+			result = `${app.settings.jsonpVariable} = ${result};`;
+		}
+		return result;
 	}
 
-	async function generateIntoAJSONFile(targetPath) {
-		const json = await generateJSON();
+	async function generateIntoAFile(targetPath, format) {
+		const content = await generateFormatted(format);
 
-		log.info(`Writing data as JSON into "${targetPath}"...`);
-		await promisify(fs.writeFile)(targetPath, json, 'utf8');
+		log.info(`Writing data as ${format} into "${targetPath}"...`);
+		await promisify(fs.writeFile)(targetPath, content, 'utf8');
 
 		log.info(`Data written.`);
 		return true;
@@ -52,6 +64,7 @@ function createAwesomerGoGenerator(app) {
 	 */
 	function generateProjects(/** AwesomeGoData */ sourceData) {
 		const projects = [];
+		let lastIndex = 0;
 
 		for (const topSection of sourceData.sections) {
 			gatherFromSection(topSection);
@@ -68,6 +81,7 @@ function createAwesomerGoGenerator(app) {
 			for (const link of section.links) {
 				projects.push(
 					new AwesomerGoProject({
+						index: ++lastIndex,
 						title: link.title,
 						description: link.description,
 						url: link.href,
@@ -133,6 +147,12 @@ function createAwesomerGoGenerator(app) {
 
 class AwesomerGoProject {
 	constructor(/** AwesomerGoProject */ source) {
+		/**
+		 * Original index on the awesomego list
+		 * @type {number}
+		 */
+		this.index = undefined;
+
 		/**
 		 * Link to the project repo or website
 		 * @type {string}
@@ -236,4 +256,6 @@ class AwesomerGoRepo {
 
 module.exports = {
 	createAwesomerGoGenerator,
+
+	OUTPUT_FORMATS,
 };

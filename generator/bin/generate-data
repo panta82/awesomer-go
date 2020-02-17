@@ -3,11 +3,16 @@
 const settings = require('../settings');
 const program = require('commander');
 const { App } = require('../app');
+const { OUTPUT_FORMATS } = require('../lib/awesomer_go');
 
 async function main() {
 	program
 		.description('Generate awesomer-go data as JSON. Can print it out or write into a file.')
-		.option('-f, --file <path>', 'Save generated output to file.')
+		.option(
+			'-f, --format <format>',
+			`How to format output. "${OUTPUT_FORMATS.json}" (the default) or "${OUTPUT_FORMATS.jsonp}"`
+		)
+		.option('-w, --write <path>', 'Write generated output to given file.')
 		.option('-q, --quiet', 'No logging, only output. Useful if you want to pipe stdout somewhere.');
 
 	program.parse(process.argv);
@@ -19,10 +24,12 @@ async function main() {
 	const app = new App(settings);
 	await app.initialize();
 
-	if (program.file) {
-		await app.awesomerGoGenerator.generateIntoAJSONFile(program.file);
+	const format = program.format || OUTPUT_FORMATS.json;
+
+	if (program.write) {
+		await app.awesomerGoGenerator.generateIntoAFile(program.write, format);
 	} else {
-		console.log(await app.awesomerGoGenerator.generateJSON());
+		console.log(await app.awesomerGoGenerator.generateFormatted(format));
 	}
 }
 

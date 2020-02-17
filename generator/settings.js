@@ -23,4 +23,5 @@ module.exports = /** @lends {Settings.prototype} */ {
 	githubClientId: getEnv('GITHUB_CLIENT_ID'),
 	githubClientSecret: getEnv('GITHUB_CLIENT_SECRET'),
 	githubCacheDirectory: getEnv('GITHUB_CACHE_DIRECTORY'),
+	jsonpVariable: getEnv('JSONP_VARIABLE') || 'DATA',
 };
