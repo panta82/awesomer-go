@@ -10,9 +10,14 @@
 		<!-- This bundle includes jquery, bootstrap and datatables stuff, all in one -->
 		<script src="assets/js/datatables-bundle.min.js"></script>
 		<script src="assets/js/jquery.timeago.js"></script>
+		<script src="assets/js/jquery.mark.min.js"></script>
 		<style rel="stylesheet">
 			#datatable {
 				width: 100% !important;
+			}
+			mark[data-markjs] {
+				padding: 0;
+				background-color: yellow;
 			}
 		</style>
 		<script>
@@ -23,12 +28,12 @@
 	</head>
 	<body>
 		<nav class="navbar navbar-expand-md navbar-light bg-light">
-			<div class="container d-flex justify-content-between">
+			<div class="d-flex justify-content-between mx-5">
 				<a class="navbar-brand" href="#">Awesomer GO</a>
 			</div>
 		</nav>
 
-		<main role="main" class="container my-5">
+		<main role="main" class="my-5 mx-5">
 			<table id="datatable" class="table table-striped table-bordered"></table>
 		</main>
 	</body>
@@ -55,15 +60,27 @@
 					: date || '';
 			}
 
-			$('#datatable').DataTable({
+			var table = $('#datatable').DataTable({
 				data: DATA,
+				pageLength: 100,
 				columns: [
 					{
 						data: 'index',
 					},
 					{
+						data: 'category',
+						title: 'Category',
+						searchable: false,
+						render: function(_, type, row) {
+							return row.subcategory
+								? row.category + '<span class="text-muted"> &gt; </span>' + row.subcategory
+								: row.category || '';
+						},
+					},
+					{
 						data: 'title',
 						title: 'Project',
+						className: 'dt-searchable-col',
 						render: function(data, type, row, meta) {
 							return type === 'display'
 								? '<a href="' + row.url + '" target="_blank" rel="nofollow">' + data + '</a>'
@@ -73,21 +90,67 @@
 					{
 						data: 'description',
 						title: 'Description',
+						className: 'dt-searchable-col',
+					},
+					{
+						data: 'stars',
+						title: 'Stars',
+						type: 'num',
+						searchable: false,
+						defaultContent: 0,
+					},
+					{
+						data: 'forks',
+						title: 'Forks',
+						type: 'num',
+						searchable: false,
+						defaultContent: 0,
+					},
+					{
+						data: 'subscribers',
+						title: 'Subscribers',
+						type: 'num',
+						searchable: false,
+						defaultContent: 0,
 					},
 					{
 						data: 'created_at',
 						title: 'Created',
 						type: 'date',
+						searchable: false,
 						render: renderDate,
 					},
 					{
 						data: 'last_commit_at',
 						title: 'Updated',
 						type: 'date',
+						searchable: false,
 						render: renderDate,
 					},
 				],
 			});
+
+			var activeSearch = null;
+			var updateHighlightsTimeout;
+			table.on('draw.dt', function() {
+				clearTimeout(updateHighlightsTimeout);
+				updateHighlightsTimeout = setTimeout(updateHighlights, 300);
+			});
+
+			function updateHighlights() {
+				if (activeSearch === table.search()) {
+					// Nothing to do
+					return;
+				}
+				activeSearch = table.search();
+				var savedActiveSearch = activeSearch;
+				var targets = $('#datatable td.dt-searchable-col');
+				targets.unmark({
+					done: function() {
+						targets.mark(savedActiveSearch);
+					},
+				});
+			}
 		});
 	</script>
 </html>
