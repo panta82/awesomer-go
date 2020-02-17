@@ -6,7 +6,7 @@
 		<meta http-equiv="X-UA-Compatible" content="ie=edge" />
 		<title>Awesomer Go</title>
 
-		<link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+		<link rel="stylesheet" href="assets/css/bootstrap-superhero.min.css" />
 		<link rel="stylesheet" href="assets/css/dataTables.bootstrap4.min.css" />
 		<link rel="stylesheet" href="assets/css/bootstrap-select.min.css" />
 
@@ -17,6 +17,25 @@
 		<script src="assets/js/jquery.mark.min.js"></script>
 		<script src="assets/js/bootstrap-select.min.js"></script>
 		<style rel="stylesheet">
+			html,
+			body {
+				min-height: 100vh;
+			}
+			.sticky-footer-wrapper {
+				position: absolute;
+				min-height: 100%;
+				min-width: 100%;
+				display: grid;
+				grid-template-rows: auto 1fr auto;
+				grid-template-columns: minmax(0, 1fr);
+			}
+			.navbar-brand {
+				position: relative;
+				margin: auto;
+			}
+			.navbar-brand img {
+				height: 30px;
+			}
 			#datatable {
 				width: 100% !important;
 			}
@@ -31,44 +50,94 @@
 				border-top-left-radius: 0;
 				border-bottom-left-radius: 0;
 				position: relative;
-				margin-left: -6px;
+				margin-left: -3px;
 			}
 			.clear-btn img {
 				width: 0.8rem;
+			}
+			.clear-btn:disabled {
+				/* From btn-secondary */
+				background-color: #4e5d6c;
+				border-color: #4e5d6c;
+				cursor: default;
 			}
 			.category-picker-input {
 				display: inline-block;
 				white-space: nowrap;
 			}
+			.category-picker-input .dropdown {
+				z-index: 1;
+				width: 260px !important;
+			}
+
+			footer {
+				background-color: hsla(209, 24%, 19%, 1);
+				display: flex;
+				justify-content: space-between;
+			}
+			#about {
+				color: hsla(209, 24%, 75%, 0.7);
+			}
+			#about p {
+				margin: 0;
+			}
+			#awesomer_link {
+				margin-left: 1rem;
+				opacity: 0.6;
+			}
+			#awesomer_link img {
+				height: 48px;
+			}
 		</style>
 		<script>
-			// Prepare variable for jsonp loading
+			/**
+			 * Prepared variable for jsonp loaded data
+			 * @type {AwesomerGoData}
+			 */
 			var DATA = null;
 		</script>
 		<script src="data.js"></script>
 	</head>
 	<body>
-		<nav class="navbar navbar-expand-md navbar-light bg-light">
-			<div class="d-flex justify-content-between mx-5">
-				<a class="navbar-brand" href="#">Awesomer Go</a>
-			</div>
-		</nav>
+		<div class="sticky-footer-wrapper">
+			<nav class="navbar navbar-expand-md navbar-dark bg-primary">
+				<a class="navbar-brand" href="#"><img src="assets/images/awesomer.png" alt="logo"/></a>
+			</nav>
 
-		<main role="main" class="my-5 mx-5">
-			<table id="datatable" class="table table-striped table-bordered"></table>
-		</main>
+			<main role="main" class="my-5 mx-5">
+				<table id="datatable" class="table table-striped table-bordered"></table>
+			</main>
 
-		<div style="display: none">
-			<div class="dataTables_length" id="category_picker">
-				<label
-					>Category:
-					<div class="category-picker-input">
-						<select aria-controls="datatable" data-live-search="true"></select>
-						<button class="btn btn-primary clear-btn" disabled="disabled">
-							<img src="assets/images/close_x.svg" alt="close" />
-						</button>
-					</div>
-				</label>
+			<footer class="px-5 py-3">
+				<div id="about">
+					<p>
+						Made by <a href="https://pantas.net" target="_blank">panta</a>. All data is courtesy of
+						the <a href="https://awesome-go.com/" target="_blank">awesome-go</a> project.
+					</p>
+					<p>
+						This page is automatically updated several times per day. Last time it happened
+						<time></time>.
+					</p>
+				</div>
+				<div id="awesomer_link">
+					<a href="https://github.com/panta82/awesomer-go" target="_blank">
+						<img src="assets/images/GitHub-Mark-Light-64px.png" alt="Repository link logo" />
+					</a>
+				</div>
+			</footer>
+
+			<div style="display: none">
+				<div class="dataTables_length" id="category_picker">
+					<label
+						>Category:
+						<div class="category-picker-input">
+							<select aria-controls="datatable" data-live-search="true"></select>
+							<button class="btn btn-primary clear-btn" disabled="disabled">
+								<img src="assets/images/close_x.svg" alt="close" />
+							</button>
+						</div>
+					</label>
+				</div>
 			</div>
 		</div>
 	</body>
@@ -80,17 +149,18 @@
 				return;
 			}
 
-			var table = initDataTable(DATA);
-			initCategoryPicker(table, DATA);
+			var table = initDataTable(DATA.projects);
+			initCategoryPicker(table, DATA.projects);
 			initSearchHighlight(table);
+			initUpdatedDate(DATA.timestamp);
 		});
 
-		function initDataTable(data) {
+		function initDataTable(projects) {
 			// TODO
 			// $.fn.dataTable.ext.errMode = 'none';
 
 			var table = $('#datatable').DataTable({
-				data: data,
+				data: projects,
 				pageLength: 100,
 				lengthMenu: false,
 				columns: [
@@ -113,7 +183,11 @@
 						className: 'dt-searchable-col',
 						render: function(data, type, row, meta) {
 							return type === 'display'
-								? '<a href="' + row.url + '" target="_blank" rel="nofollow">' + data + '</a>'
+								? '<strong><a href="' +
+										row.url +
+										'" target="_blank" rel="nofollow">' +
+										data +
+										'</a></strong>'
 								: data;
 						}
 					},
@@ -184,12 +258,12 @@
 			}
 		}
 
-		function initCategoryPicker(table, data) {
+		function initCategoryPicker(table, projects) {
 			var $categoryPicker = $('#category_picker');
 
 			var optionsLookup = {};
-			for (var i = 0; i < data.length; i++) {
-				var project = data[i];
+			for (var i = 0; i < projects.length; i++) {
+				var project = projects[i];
 				var categoryLabel = project.subcategory
 					? project.category + ' > ' + project.subcategory
 					: project.category;
@@ -233,7 +307,7 @@
 					return true;
 				}
 
-				var project = data[index];
+				var project = projects[index];
 				return (
 					project.category === selected.category &&
 					(project.subcategory || '') === (selected.subcategory || '')
@@ -280,6 +354,12 @@
 					}
 				});
 			}
+		}
+
+		function initUpdatedDate(timestamp) {
+			$('time', '#about ')
+				.attr('datetime', timestamp)
+				.text($.timeago(timestamp));
 		}
 	</script>
 </html>

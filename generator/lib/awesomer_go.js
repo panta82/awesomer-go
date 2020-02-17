@@ -21,7 +21,8 @@ function createAwesomerGoGenerator(app) {
 	};
 
 	async function generate() {
-		log.info(`Generating AwesomerGo data...`);
+		const timestamp = new Date();
+		log.info(`Generating AwesomerGo data for ${timestamp.toISOString()}...`);
 
 		const sourceData = await app.awesomeGoClient.getData();
 		const projects = generateProjects(sourceData);
@@ -32,7 +33,10 @@ function createAwesomerGoGenerator(app) {
 
 		log.info(`${projects.length} project details loaded.`);
 
-		return projects;
+		return new AwesomerGoData({
+			projects,
+			timestamp,
+		});
 	}
 
 	async function generateFormatted(format) {
@@ -142,6 +146,24 @@ function createAwesomerGoGenerator(app) {
 		// TODO: Try to get it from their website
 
 		return null;
+	}
+}
+
+class AwesomerGoData {
+	constructor(/** AwesomerGoData */ source) {
+		/**
+		 * List of projects
+		 * @type {AwesomerGoProject[]}
+		 */
+		this.projects = undefined;
+
+		/**
+		 * Date when this data was generated
+		 * @type {Date}
+		 */
+		this.timestamp = undefined;
+
+		Object.assign(this, source);
 	}
 }
 
