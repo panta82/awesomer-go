@@ -10,7 +10,8 @@ async function main() {
 
 	//console.log(JSON.stringify(data, null, '  '));
 
-	console.log(await app.githubClient.getRepository('panta82', 'yaal'));
+	const data = await app.githubClient.getRepositoryProfile('golang-standards', 'project-layout');
+	console.log(data);
 }
 
 Promise.resolve()

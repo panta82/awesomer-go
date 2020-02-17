@@ -6,7 +6,7 @@ require('dotenv').config({
 
 function getEnv(name, required = false) {
 	let val = process.env[name];
-	if (required && val === 'undefined') {
+	if (required && val === undefined) {
 		throw new Error(`Missing required env: "${name}"`);
 	}
 	if (val === 'true') {

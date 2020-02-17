@@ -12,10 +12,10 @@
     "prettier": "^1.19.1"
   },
   "dependencies": {
+    "@octokit/rest": "^16.43.1",
     "axios": "^0.19.2",
     "dotenv": "^8.2.0",
     "markdown-it": "^10.0.0",
-    "mayan-logger": "^1.4.1",
-    "octokit": "^1.0.0-hello-world"
+    "mayan-logger": "^1.4.1"
   }
 }

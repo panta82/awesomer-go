@@ -1,25 +1,4 @@
-const axios = require('axios').default;
-
-const GITHUB_API_URL = `https://api.github.com`;
-
-const METHODS = {
-	get: 'get',
-};
-
-class GithubResponseError extends Error {
-	constructor(source, status) {
-		super(`Github request error: ${source.message || source}`);
-		this.status = status;
-		Object.defineProperty(this, 'message', {
-			enumerable: true,
-		});
-		for (const key in source) {
-			if (key !== 'message') {
-				this[key] = source[key];
-			}
-		}
-	}
-}
+const { Octokit } = require('@octokit/rest');
 
 /**
  * @param {App} app
@@ -27,47 +6,115 @@ class GithubResponseError extends Error {
 function createGitHubClient(app) {
 	const log = app.logger.for('GitHubClient');
 
+	const _octokit = new Octokit();
+	_octokit.hook.before('request', request => {
+		// NOTE: This is needed in order to make stupid GitHub not throttle requests, as seen here:
+		//       https://developer.github.com/v3/#oauth2-keysecret
+		//       However, stupid octokit doesn't seem to have a way to submit just these, without a full-on
+		//       auth strategy. So I just add it myself.
+		if (app.settings.githubClientId && app.settings.githubClientSecret) {
+			const hash = Buffer.from(
+				`${app.settings.githubClientId}:${app.settings.githubClientSecret}`
+			).toString('base64');
+			request.headers['authorization'] = `Basic ${hash}`;
+		}
+	});
+
 	return /** @lends {GitHubClient.prototype} */ {
 		getRepositoryProfile,
 		getRepository,
 	};
 
-	async function makeRequest(method, path) {
-		try {
-			const resp = await axios(`${GITHUB_API_URL}${path}`, {
-				method,
-				headers: {
-					Accept: 'application/vnd.github.v3+json',
-				},
-				auth: {
-					username: app.settings.githubClientId,
-					password: app.settings.githubClientSecret,
-				},
-			});
-			return resp.data;
-		} catch (err) {
-			if (err.response) {
-				throw new GithubResponseError(err.response.data, err.response.status);
-			}
-			log.error(err);
-			throw new Error(`Failed to reach GitHub server: ${err.message}`);
-		}
+	/**
+	 * Get our custom "repository profile" object, with combined metrics and info about repository
+	 * @return {Promise<void>}
+	 */
+	async function getRepositoryProfile(owner, repo) {
+		const repoData = await getRepository(owner, repo);
+		return new GithubRepositoryProfile({
+			name: repoData.name,
+			owner,
+			description: repoData.description,
+			created_at: new Date(repoData.created_at),
+			last_commit_at: new Date(repoData.pushed_at),
+			stars: repoData.stargazers_count,
+			forks: repoData.forks,
+			subscribers: repoData.subscribers_count,
+			license: repoData.license.key,
+		});
 	}
 
-	function getRepositoryProfile() {}
-
+	/**
+	 * @param owner
+	 * @param repo
+	 * @return {Promise<Octokit.ReposGetResponse>}
+	 */
 	async function getRepository(owner, repo) {
-		const data = await makeRequest(METHODS.get, `/repos/${owner}/${repo}`);
-		return new GithubRepository(data);
+		return (
+			await _octokit.repos.get({
+				owner,
+				repo,
+			})
+		).data;
 	}
 }
 
-class GithubRepository {
+class GithubRepositoryProfile {
 	constructor(source) {
+		/**
+		 * Repository name
+		 */
+		this.name = undefined;
+
+		/**
+		 * Repository owner
+		 */
+		this.owner = undefined;
+
+		/**
+		 * Repository description
+		 */
+		this.description = undefined;
+
+		/**
+		 * When was the repo created
+		 */
+		this.created_at = undefined;
+
+		/**
+		 * When was last commit pushed
+		 */
+		this.last_commit_at = undefined;
+
+		/**
+		 * Number of stars
+		 * @type {Number}
+		 */
+		this.stars = undefined;
+
+		/**
+		 * Number of forks
+		 * @type {Number}
+		 */
+		this.forks = undefined;
+
+		/**
+		 * Number of subscribers
+		 * @type {Number}
+		 */
+		this.subscribers = undefined;
+
+		/**
+		 * The license the project uses
+		 */
+		this.license = undefined;
+
 		Object.assign(this, source);
 	}
 }
 
 module.exports = {
 	createGitHubClient,
+
+	GithubRepositoryProfile,
 };
