@@ -10,8 +10,10 @@ async function main() {
 
 	//console.log(JSON.stringify(data, null, '  '));
 
-	const data = await app.githubClient.getRepositoryProfile('golang-standards', 'project-layout');
-	console.log(data);
+	// const data = await app.githubClient.getRepositoryProfile('golang-standards', 'project-layout');
+
+	const data = await app.awesomerGoGenerator.generate();
+	console.log(data.filter(item => item.subcategory));
 }
 
 Promise.resolve()

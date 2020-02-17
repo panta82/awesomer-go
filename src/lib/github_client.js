@@ -27,7 +27,7 @@ function createGitHubClient(app) {
 
 	/**
 	 * Get our custom "repository profile" object, with combined metrics and info about repository
-	 * @return {Promise<void>}
+	 * @return {Promise<GithubRepositoryProfile>}
 	 */
 	async function getRepositoryProfile(owner, repo) {
 		const repoData = await getRepository(owner, repo);

@@ -191,16 +191,6 @@ function parseAwesomeGoData(sourceStr) {
 
 // *********************************************************************************************************************
 
-/**
- * Different types of links on awesome go
- * @enum
- */
-const AWESOME_GO_LINK_TYPE = {
-	anchor: 'anchor',
-	github: 'github',
-	external: 'external',
-};
-
 class AwesomeGoData {
 	constructor(/** AwesomeGoData */ source = undefined) {
 		/**
@@ -221,12 +211,6 @@ class AwesomeGoData {
 
 class AwesomeGoLink {
 	constructor(/** AwesomeGoLink */ source = undefined) {
-		/**
-		 * Link type
-		 * @type {AWESOME_GO_LINK_TYPE}
-		 */
-		this.type = undefined;
-
 		/**
 		 * Where the link leads
 		 * @type {string}
@@ -258,6 +242,7 @@ class AwesomeGoSection {
 		this.group = undefined;
 
 		/**
+		 * Section title
 		 * @type {string}
 		 */
 		this.title = undefined;

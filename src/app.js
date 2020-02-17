@@ -13,6 +13,9 @@ function App(settings) {
 
 	/** @type {GitHubClient} */
 	this.githubClient = require('./lib/github_client').createGitHubClient(this);
+
+	/** @type {AwesomerGoGenerator} */
+	this.awesomerGoGenerator = require('./lib/awesomer_go').createAwesomerGoGenerator(this);
 }
 
 module.exports = {
