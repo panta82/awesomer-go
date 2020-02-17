@@ -19,6 +19,8 @@ function getEnv(name, required = false) {
 }
 
 module.exports = /** @lends {Settings.prototype} */ {
-	githubClientId: getEnv('GITHUB_CLIENT_ID', true),
-	githubClientSecret: getEnv('GITHUB_CLIENT_SECRET', true),
+	logLevel: getEnv('LOG_LEVEL'),
+	githubClientId: getEnv('GITHUB_CLIENT_ID'),
+	githubClientSecret: getEnv('GITHUB_CLIENT_SECRET'),
+	githubCacheDirectory: getEnv('GITHUB_CACHE_DIRECTORY'),
 };

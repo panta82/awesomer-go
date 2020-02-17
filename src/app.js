@@ -3,7 +3,9 @@ function App(settings) {
 	this.settings = settings;
 
 	/** @type {MayanLogger} */
-	this.logger = new (require('mayan-logger').MayanLogger)({});
+	this.logger = new (require('mayan-logger').MayanLogger)({
+		level: this.settings.logLevel || undefined,
+	});
 
 	/** @type {MayanLogCollector} */
 	this.log = this.logger.log;
@@ -16,6 +18,10 @@ function App(settings) {
 
 	/** @type {AwesomerGoGenerator} */
 	this.awesomerGoGenerator = require('./lib/awesomer_go').createAwesomerGoGenerator(this);
+
+	this.initialize = async () => {
+		await this.githubClient.initialize();
+	};
 }
 
 module.exports = {

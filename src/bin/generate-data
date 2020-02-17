@@ -1,19 +1,29 @@
 #!/usr/bin/env node
 
 const settings = require('../settings');
+const program = require('commander');
 const { App } = require('../app');
 
 async function main() {
+	program
+		.description('Generate awesomer-go data as JSON. Can print it out or write into a file.')
+		.option('-f, --file <path>', 'Save generated output to file.')
+		.option('-q, --quiet', 'No logging, only output. Useful if you want to pipe stdout somewhere.');
+
+	program.parse(process.argv);
+
+	if (program.quiet) {
+		settings.logLevel = 'silent';
+	}
+
 	const app = new App(settings);
+	await app.initialize();
 
-	//const data = await app.awesomeGoClient.getData();
-
-	//console.log(JSON.stringify(data, null, '  '));
-
-	// const data = await app.githubClient.getRepositoryProfile('golang-standards', 'project-layout');
-
-	const data = await app.awesomerGoGenerator.generate();
-	console.log(data.filter(item => item.subcategory));
+	if (program.file) {
+		await app.awesomerGoGenerator.generateIntoAJSONFile(program.file);
+	} else {
+		console.log(await app.awesomerGoGenerator.generateJSON());
+	}
 }
 
 Promise.resolve()

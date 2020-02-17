@@ -80,7 +80,7 @@ function parseAwesomeGoData(sourceStr) {
 
 	function parseTokens(tokens) {
 		/** @type {AwesomeGoLink} */
-		let previousSiblingLink;
+		let linkForThisBlock;
 
 		for (let index = 0; index < tokens.length; index++) {
 			const token = tokens[index];
@@ -121,14 +121,16 @@ function parseAwesomeGoData(sourceStr) {
 					subsections: [],
 				});
 				currentParentSection.subsections.push(currentSection);
-			} else if (token.type === 'link_open' && currentSection) {
+			} else if (token.type === 'link_open' && currentSection && !linkForThisBlock) {
+				// NOTE: we only parse link if it is the first link in line. Otherwise, we presume it is something like:
+				//       [some-link](link) - Text text [some-other-link-in-text]() text text
 				const hrefAttr = token.attrs.find(attr => attr[0] === 'href');
 				if (hrefAttr) {
 					const href = hrefAttr[1];
 					currentLink = new AwesomeGoLink({
 						href,
 					});
-					previousSiblingLink = currentLink;
+					linkForThisBlock = currentLink;
 				}
 			} else if (token.type === 'link_close' && currentLink) {
 				if (currentSection) {
@@ -155,16 +157,16 @@ function parseAwesomeGoData(sourceStr) {
 				} else if (inTags('a') && currentLink && !currentLink.title) {
 					// We are reading a link
 					currentLink.title = token.content;
-				} else if (
-					previousSiblingLink &&
-					!previousSiblingLink.description &&
-					inTags('ul', 'li', 'p')
-				) {
-					const match = /^\s*-\s+(.+)$/.exec(token.content);
+				} else if (linkForThisBlock && (inTags('ul', 'li', 'p') || inTags('ul', 'li', 'p', 'a'))) {
+					const startMatch = /^\s*-\s+(.+)$/.exec(token.content);
 					{
-						if (match) {
-							// This is a text block sibling to link which starts with " - ". Presume link description.
-							previousSiblingLink.description = match[1];
+						if (startMatch) {
+							// This is a text block sibling to link which starts with " - ". Presume the start of link description.
+							linkForThisBlock.description = startMatch[1];
+						} else if (linkForThisBlock.description) {
+							// Presume continuation of description
+							linkForThisBlock.description =
+								linkForThisBlock.description.trimRight() + ' ' + token.content.trimLeft();
 						}
 					}
 				}
