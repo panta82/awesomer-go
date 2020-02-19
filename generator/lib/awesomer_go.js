@@ -25,7 +25,7 @@ function createAwesomerGoGenerator(app) {
 		log.info(`Generating AwesomerGo data for ${timestamp.toISOString()}...`);
 
 		const sourceData = await app.awesomeGoClient.getData();
-		const projects = generateProjects(sourceData).slice(0, 5);
+		const projects = generateProjects(sourceData);
 
 		log.info(`${projects.length} projects generated. Fetching additional details...`);
 

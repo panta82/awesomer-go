@@ -1,5 +1,7 @@
 #!/usr/bin/env -S bash -I
 
+set -e
+
 ROOT="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && cd .. && pwd )"
 
 echo "Checking out production branch"
