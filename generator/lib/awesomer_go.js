@@ -29,7 +29,7 @@ function createAwesomerGoGenerator(app) {
 
 		log.info(`${projects.length} projects generated. Fetching additional details...`);
 
-		await promiseChain(projects, project => mutateProjectFillingInDetails(project), 10);
+		await promiseChain(projects, project => mutateProjectFillingInDetails(project), 20);
 
 		log.info(`${projects.length} project details loaded.`);
 
