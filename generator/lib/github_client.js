@@ -3,6 +3,8 @@ const libPath = require('path');
 const { promisify } = require('util');
 
 const { Octokit } = require('@octokit/rest');
+const { throttling } = require('@octokit/plugin-throttling');
+const OctokitWithPlugins = Octokit.plugin(throttling);
 
 /**
  * @param {App} app
@@ -10,7 +12,23 @@ const { Octokit } = require('@octokit/rest');
 function createGitHubClient(app) {
 	const log = app.logger.for('GitHubClient');
 
-	const _octokit = new Octokit();
+	const _octokit = new OctokitWithPlugins({
+		throttle: {
+			onRateLimit: (retryAfter, options) => {
+				log.warn(
+					`Rate limit reached for ${options.method} ${options.url}. Retrying in ${retryAfter} seconds!`
+				);
+				return true;
+			},
+			onAbuseLimit: (retryAfter, options) => {
+				log.warn(
+					`Abuse detected for ${options.method} ${options.url}. Retrying in ${retryAfter} seconds!`
+				);
+				return true;
+			},
+		},
+	});
+
 	_octokit.hook.before('request', request => {
 		// NOTE: This is needed in order to make stupid GitHub not throttle requests, as seen here:
 		//       https://developer.github.com/v3/#oauth2-keysecret
@@ -39,9 +57,9 @@ function createGitHubClient(app) {
 	}
 
 	async function doGetRepositoryProfile(owner, repo) {
-		log.verbose(`Fetching profile for ${owner}/${repo}`);
+		log.debug(`Fetching profile for ${owner}/${repo}...`);
 		const repoData = await getRepository(owner, repo);
-		return new GithubRepositoryProfile({
+		const profile = new GithubRepositoryProfile({
 			name: repoData.name,
 			owner,
 			description: repoData.description,
@@ -52,6 +70,14 @@ function createGitHubClient(app) {
 			subscribers: repoData.subscribers_count,
 			license: repoData.license ? repoData.license.key : null,
 		});
+		log.verbose(
+			`Profile for ${owner}/${repo}: ${
+				profile.name
+			} [committed: ${profile.last_commit_at.toISOString()}][⭐ ${profile.stars}][⑂ ${
+				profile.forks
+			}]`
+		);
+		return profile;
 	}
 
 	/**
@@ -133,11 +159,13 @@ class GithubRepositoryProfile {
 
 		/**
 		 * When was the repo created
+		 * @type {Date}
 		 */
 		this.created_at = undefined;
 
 		/**
 		 * When was last commit pushed
+		 * @type {Date}
 		 */
 		this.last_commit_at = undefined;
 
