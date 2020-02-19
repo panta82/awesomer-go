@@ -16,7 +16,7 @@ npm install --production
 echo "Updating data"
 npm run update-data
 
-TIMESTAMP="$(date +%Y/%m/%d %H:%M:%S)"
+TIMESTAMP="$(date '+%Y/%m/%d %H:%M:%S')"
 echo "Creating a new commit for $TIMESTAMP"
 git add .
 git commit -m "Data update: ${TIMESTAMP}"
