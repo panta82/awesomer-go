@@ -8,6 +8,9 @@ git checkout production
 echo "Getting the latest"
 git reset --hard && git pull
 
+echo "Install modules"
+npm install --production
+
 echo "Updating data"
 npm run update-data
 
