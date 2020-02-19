@@ -1,4 +1,4 @@
-#!/usr/bin/env bash -I
+#!/usr/bin/env -S bash -I
 
 ROOT="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && cd .. && pwd )"
 
