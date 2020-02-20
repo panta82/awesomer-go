@@ -4,6 +4,8 @@ set -e
 
 ROOT="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && cd .. && pwd )"
 
+cd "$ROOT"
+
 echo "Checking out production branch"
 git checkout production
 
