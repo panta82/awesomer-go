@@ -13,6 +13,9 @@ function createGitHubClient(app) {
 	const log = app.logger.for('GitHubClient');
 
 	const _octokit = new OctokitWithPlugins({
+		request: {
+			timeout: 1000 * 30, // 30 seconds
+		},
 		throttle: {
 			onRateLimit: (retryAfter, options) => {
 				log.warn(
