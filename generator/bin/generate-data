@@ -12,6 +12,10 @@ async function main() {
 			'-f, --format <format>',
 			`How to format output. "${OUTPUT_FORMATS.json}" (the default) or "${OUTPUT_FORMATS.jsonp}"`
 		)
+		.option(
+			'--fallback <path>',
+			`Optional file with fallback data to be used if some of the repository requests fail. Can be in any of the formats supported by --format flag`
+		)
 		.option('-w, --write <path>', 'Write generated output to given file.')
 		.option('-q, --quiet', 'No logging, only output. Useful if you want to pipe stdout somewhere.');
 
@@ -27,9 +31,9 @@ async function main() {
 	const format = program.format || OUTPUT_FORMATS.json;
 
 	if (program.write) {
-		await app.awesomerGoGenerator.generateIntoAFile(program.write, format);
+		await app.awesomerGoGenerator.generateIntoAFile(program.write, format, program.fallback);
 	} else {
-		console.log(await app.awesomerGoGenerator.generateFormatted(format));
+		console.log(await app.awesomerGoGenerator.generateFormatted(format, program.fallback));
 	}
 }
 

@@ -20,16 +20,24 @@ function createAwesomerGoGenerator(app) {
 		generateIntoAFile,
 	};
 
-	async function generate() {
+	async function generate(fallbackData = undefined) {
 		const timestamp = new Date();
-		log.info(`Generating AwesomerGo data for ${timestamp.toISOString()}...`);
+		log.info(
+			`Generating AwesomerGo data for ${timestamp.toISOString()}${
+				fallbackData ? ' with fallback data provided' : ''
+			}...`
+		);
 
 		const sourceData = await app.awesomeGoClient.getData();
 		const projects = generateProjects(sourceData);
 
 		log.info(`${projects.length} projects generated. Fetching additional details...`);
 
-		await promiseChain(projects, project => mutateProjectFillingInDetails(project), 20);
+		await promiseChain(
+			projects,
+			project => mutateProjectFillingInDetails(project, fallbackData),
+			20
+		);
 
 		log.info(`${projects.length} project details loaded.`);
 
@@ -39,12 +47,35 @@ function createAwesomerGoGenerator(app) {
 		});
 	}
 
-	async function generateFormatted(format) {
+	async function loadFallbackData(fallbackDataPath) {
+		let fallbackDataStr = await promisify(fs.readFile)(fallbackDataPath, 'utf8');
+		const jsonpPrefix = `${app.settings.jsonpVariable} = `;
+		if (fallbackDataStr.indexOf(jsonpPrefix) === 0) {
+			// Strip away JSONP stuff
+			fallbackDataStr = fallbackDataStr.slice(jsonpPrefix.length, -1);
+		}
+
+		let fallbackData = undefined;
+		try {
+			fallbackData = JSON.parse(fallbackDataStr);
+		} catch (err) {
+			throw new Error(`Invalid format of fallback data at "${fallbackDataPath}": ${err.message}`);
+		}
+
+		fallbackData = new AwesomerGoData(fallbackData);
+		fallbackData.projects = (fallbackData.projects || []).map(p => new AwesomerGoProject(p));
+		return fallbackData;
+	}
+
+	async function generateFormatted(format, fallbackDataPath = undefined) {
 		if (!OUTPUT_FORMATS[format]) {
 			throw new Error(`Unknown format: "${format}"`);
 		}
 
-		const data = await generate();
+		const fallbackData = fallbackDataPath ? await loadFallbackData(fallbackDataPath) : null;
+
+		const data = await generate(fallbackData);
+
 		let result = JSON.stringify(data, null, '  ');
 		if (format === OUTPUT_FORMATS.jsonp) {
 			result = `${app.settings.jsonpVariable} = ${result};`;
@@ -52,8 +83,8 @@ function createAwesomerGoGenerator(app) {
 		return result;
 	}
 
-	async function generateIntoAFile(targetPath, format) {
-		const content = await generateFormatted(format);
+	async function generateIntoAFile(targetPath, format, fallbackDataPath = undefined) {
+		const content = await generateFormatted(format, fallbackDataPath);
 
 		log.info(`Writing data as ${format} into "${targetPath}"...`);
 		await promisify(fs.writeFile)(targetPath, content, 'utf8');
@@ -103,28 +134,53 @@ function createAwesomerGoGenerator(app) {
 		}
 	}
 
-	async function mutateProjectFillingInDetails(/** AwesomerGoProject */ project) {
-		project.repo = await determineRepo(project.url);
+	async function mutateProjectFillingInDetails(
+		/** AwesomerGoProject */ project,
+		/** AwesomerGoData */ fallbackData
+	) {
+		try {
+			project.repo = await determineRepo(project.url);
 
-		if (project.repo) {
-			switch (project.repo.type) {
-				case AWESOMER_GO_REPO_TYPES.github: {
-					log.verbose(
-						`Loading details for "${project.title}" from github (${project.repo.owner}/${project.repo.name})...`
-					);
+			if (project.repo) {
+				switch (project.repo.type) {
+					case AWESOMER_GO_REPO_TYPES.github: {
+						log.verbose(
+							`Loading details for "${project.title}" from github (${project.repo.owner}/${project.repo.name})...`
+						);
 
-					const profile = await app.githubClient.getRepositoryProfile(
-						project.repo.owner,
-						project.repo.name
-					);
-					project.created_at = profile.created_at;
-					project.last_commit_at = profile.last_commit_at;
-					project.stars = profile.stars;
-					project.forks = profile.forks;
-					project.subscribers = profile.subscribers;
-					project.license = profile.license;
+						const profile = await app.githubClient.getRepositoryProfile(
+							project.repo.owner,
+							project.repo.name
+						);
+						project.created_at = profile.created_at;
+						project.last_commit_at = profile.last_commit_at;
+						project.stars = profile.stars;
+						project.forks = profile.forks;
+						project.subscribers = profile.subscribers;
+						project.license = profile.license;
+						project.repository_data_timestamp = new Date();
+					}
 				}
 			}
+		} catch (err) {
+			if (!fallbackData) {
+				// Just error out
+				throw err;
+			}
+
+			// Try to fall back to an earlier version of this project
+			const fallbackProject = fallbackData.projects.find(p => p.title === project.title);
+			if (!fallbackProject) {
+				// No fallback found. Error out.
+				throw err;
+			}
+
+			// Use data from previous version of this project
+			Object.assign(project, fallbackProject);
+			log.error(`Failed to load details for "${project.title}"`, err);
+			log.warn(
+				`For project "${project.title}", we will fall back to the repository data we've obtained at ${project.repository_data_timestamp}`
+			);
 		}
 	}
 
@@ -243,6 +299,12 @@ class AwesomerGoProject {
 		 * The license the project uses
 		 */
 		this.license = undefined;
+
+		/**
+		 * When was repository data loaded
+		 * @type {Date}
+		 */
+		this.repository_data_timestamp = undefined;
 
 		Object.assign(this, source);
 	}
