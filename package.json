@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "update-data": "node generator/bin/generate-data --format jsonp --write website/data.js",
+    "update-data": "node generator/bin/generate-data --format jsonp --write website/data.js --fallback website/data.js",
     "serve": "cd website && live-server"
   },
   "author": "",
