@@ -30,7 +30,7 @@ function createRepoFinder(app) {
 	/**
 	 * @param {string} url
 	 * @param {string} name This name will be used to narrow down repos to just a particular project
-	 * @return {Promise<AwesomerGoRepo[]>}
+	 * @return {Promise<FoundRepo[]>}
 	 */
 	async function findRepos(url, name = undefined) {
 		assert.ok(url, 'url must be provided');
@@ -98,16 +98,16 @@ function createRepoFinder(app) {
 	/**
 	 * @param {string} name
 	 * @param {CheerioStatic} dom
-	 * @return {AwesomerGoRepo[]}
+	 * @return {FoundRepo[]}
 	 */
 	function findReposInDOM(name, dom) {
 		// Find all the links
 		const els = dom('a').toArray();
 
 		/**
-		 * @type {Map<string, {repo: AwesomerGoRepo, nameMatchScore, positionScore, repetitionScore, repetitions}>}
+		 * @type {Map<string, FoundRepo>}
 		 */
-		const linkMap = new Map();
+		const resultMap = new Map();
 
 		let positionScore = 0;
 		for (let index = 0; index < els.length; index++) {
@@ -143,12 +143,12 @@ function createRepoFinder(app) {
 					(SCORES.repetitionMax - SCORES.repetitionMin) +
 				SCORES.repetitionMin;
 
-			const existing = linkMap.get(canonicalUrl);
+			const existing = resultMap.get(canonicalUrl);
 			if (existing) {
 				// Update existing
-				existing.positionScore = Math.max(existing.positionScore, positionScore);
-				existing.repetitionScore += repetitionScore;
-				existing.repetitions++;
+				existing.position_score = Math.max(existing.position_score, positionScore);
+				existing.repetition_score += repetitionScore;
+				existing.occurance_count++;
 				continue;
 			}
 
@@ -178,31 +178,71 @@ function createRepoFinder(app) {
 				}
 			}
 
-			linkMap.set(canonicalUrl, {
-				repo,
-				repetitionScore,
-				positionScore,
-				nameMatchScore,
-				repetitions: 1,
-			});
+			resultMap.set(
+				canonicalUrl,
+				new FoundRepo({
+					repo,
+					name_match_score: nameMatchScore,
+					repetition_score: repetitionScore,
+					position_score: positionScore,
+					occurance_count: 1,
+				})
+			);
 		}
 
-		const links = Array.from(linkMap.values());
+		const results = Array.from(resultMap.values());
 
 		// Sort by highest score first
-		links.sort(
-			(a, b) =>
-				b.positionScore +
-				b.nameMatchScore +
-				b.repetitionScore -
-				(a.positionScore + a.nameMatchScore + a.repetitionScore)
-		);
+		results.sort((a, b) => b.score - a.score);
 
-		// Strip away metadata
-		return links.map(link => link.repo);
+		return results;
+	}
+}
+
+class FoundRepo {
+	constructor(/** FoundRepo */ source) {
+		/**
+		 * @type {AwesomerGoRepo}
+		 */
+		this.repo = undefined;
+
+		/**
+		 * Score derived from link's position within the page. Top and bottom get the highest score
+		 * @type {Number}
+		 */
+		this.position_score = undefined;
+
+		/**
+		 * Score derived from a project name match. 0 if project name wasn't provided
+		 * @type {Number}
+		 */
+		this.name_match_score = undefined;
+
+		/**
+		 * Score that grows the more instances of this link we find on the page. Each link is tallied
+		 * based on its position score within the page
+		 * @type {Number}
+		 */
+		this.repetition_score = undefined;
+
+		/**
+		 * How many of these links were found on the page in total
+		 * @type {Number}
+		 */
+		this.occurance_count = undefined;
+
+		Object.assign(this, source);
+	}
+
+	get score() {
+		return (
+			this.position_score + this.name_match_score + this.repetition_score + this.occurance_count
+		);
 	}
 }
 
 module.exports = {
 	createRepoFinder,
+
+	FoundRepo,
 };
