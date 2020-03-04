@@ -1,0 +1,35 @@
+#!/usr/bin/env node
+
+const settings = require('../settings');
+const program = require('commander');
+const { App } = require('../app');
+const { OUTPUT_FORMATS } = require('../lib/awesomer_go');
+
+async function main() {
+	let url;
+	program
+		.description('Tester tools to find repositories in an URL')
+		.option('-n, --name <name>', `Project name. This will be used to narrow down the search`)
+		.arguments('<url>')
+		.action(_url => (url = _url));
+
+	program.parse(process.argv);
+
+	if (!url) {
+		throw `URL is a required argument`;
+	}
+
+	const app = new App(settings);
+	await app.initialize();
+
+	const repos = await app.repoFinder.findRepos(url, program.name);
+
+	console.log(repos);
+}
+
+Promise.resolve()
+	.then(() => main())
+	.catch(err => {
+		console.error(err);
+		process.exit(1);
+	});

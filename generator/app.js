@@ -13,6 +13,9 @@ function App(settings) {
 	/** @type {AwesomeGoClient} */
 	this.awesomeGoClient = require('./lib/awesome_go').createAwesomeGoClient(this);
 
+	/** @type {RepoFinder} */
+	this.repoFinder = require('./lib/repo_finder').createRepoFinder(this);
+
 	/** @type {GitHubClient} */
 	this.githubClient = require('./lib/github_client').createGitHubClient(this);
 
