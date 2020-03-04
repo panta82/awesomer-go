@@ -3,7 +3,7 @@
 const settings = require('../settings');
 const program = require('commander');
 const { App } = require('../app');
-const { OUTPUT_FORMATS } = require('../lib/awesomer_go');
+const { OUTPUT_FORMATS } = require('../lib/awesomer_go_generator');
 
 async function main() {
 	let url;

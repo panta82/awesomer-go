@@ -20,7 +20,7 @@ function App(settings) {
 	this.githubClient = require('./lib/github_client').createGitHubClient(this);
 
 	/** @type {AwesomerGoGenerator} */
-	this.awesomerGoGenerator = require('./lib/awesomer_go').createAwesomerGoGenerator(this);
+	this.awesomerGoGenerator = require('./lib/awesomer_go_generator').createAwesomerGoGenerator(this);
 
 	this.initialize = async () => {
 		await this.githubClient.initialize();
