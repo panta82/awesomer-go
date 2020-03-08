@@ -22,7 +22,10 @@ async function main() {
 	const app = new App(settings);
 	await app.initialize();
 
-	const repos = await app.repoFinder.findRepos(url, program.name);
+	// Instead of hasOwnProperty
+	const { name } = { ...program };
+
+	const repos = await app.repoFinder.findRepos(url, name);
 
 	console.log(repos);
 }
