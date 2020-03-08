@@ -59,7 +59,21 @@ function createAwesomerGoGenerator(app) {
 	}
 
 	async function loadFallbackData(fallbackDataPath) {
-		let fallbackDataStr = await promisify(fs.readFile)(fallbackDataPath, 'utf8');
+		let fallbackDataStr;
+		try {
+			fallbackDataStr = await promisify(fs.readFile)(fallbackDataPath, 'utf8');
+		} catch (err) {
+			if (err.code === 'ENOENT') {
+				// Fallback data not found. Warn and move on.
+				log.warn(
+					`Fallback data file at ${fallbackDataPath} doesn't exist. Fallback data will not be used.`
+				);
+				return null;
+			}
+
+			throw err;
+		}
+
 		const jsonpPrefix = `${app.settings.jsonpVariable} = `;
 		if (fallbackDataStr.indexOf(jsonpPrefix) === 0) {
 			// Strip away JSONP stuff
@@ -159,7 +173,7 @@ function createAwesomerGoGenerator(app) {
 		/** AwesomerGoData */ fallbackData
 	) {
 		try {
-			project.repo = await determineRepo(project.url);
+			project.repo = await determineRepo(project.url, project.title);
 
 			if (project.repo) {
 				switch (project.repo.type) {
@@ -208,15 +222,23 @@ function createAwesomerGoGenerator(app) {
 	 * Try to detect repository based on given URL
 	 * @return {Promise<AwesomerGoRepo>}
 	 */
-	async function determineRepo(url) {
-		const repo = AwesomerGoRepo.guessFromURL(url);
+	async function determineRepo(url, title) {
+		let repo = AwesomerGoRepo.guessFromURL(url);
 		if (repo) {
 			// We have the repo
+			log.debug(`Repo for "${title}" determined from url: ${repo.canonicalUrl}`);
 			return repo;
 		}
 
-		// TODO: Try to get it from their website
+		const foundRepos = await app.repoFinder.findRepos(url, title);
+		if (foundRepos.length) {
+			// The first repo is gonna be the best match
+			repo = foundRepos[0].repo;
+			log.debug(`Repo for "${title}" found on website "${url}": ${repo.canonicalUrl}`);
+			return repo;
+		}
 
+		log.debug(`Couldn't determine repo for "${title}"`);
 		return null;
 	}
 }
