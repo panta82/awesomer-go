@@ -26,16 +26,21 @@ function createAwesomerGoGenerator(app) {
 		generateIntoAFile,
 	};
 
-	async function generate(fallbackData = undefined) {
+	async function generate(fallbackData = undefined, projectFilter = undefined) {
 		const timestamp = new Date();
 		log.info(
 			`Generating AwesomerGo data for ${timestamp.toISOString()}${
 				fallbackData ? ' with fallback data provided' : ''
-			}...`
+			}${projectFilter ? ` filtered to project "${projectFilter}"` : ''}...`
 		);
 
 		const sourceData = await app.awesomeGoClient.getData();
-		const projects = generateProjects(sourceData);
+		let projects = generateProjects(sourceData);
+
+		if (projectFilter) {
+			log.verbose(`${projects.length} projects found. Filtering...`);
+			projects = projects.filter(p => p.title.toLowerCase().includes(projectFilter.toLowerCase()));
+		}
 
 		log.info(`${projects.length} projects generated. Fetching additional details...`);
 
@@ -73,14 +78,18 @@ function createAwesomerGoGenerator(app) {
 		return fallbackData;
 	}
 
-	async function generateFormatted(format, fallbackDataPath = undefined) {
+	async function generateFormatted(
+		format,
+		fallbackDataPath = undefined,
+		projectFilter = undefined
+	) {
 		if (!OUTPUT_FORMATS[format]) {
 			throw new Error(`Unknown format: "${format}"`);
 		}
 
 		const fallbackData = fallbackDataPath ? await loadFallbackData(fallbackDataPath) : null;
 
-		const data = await generate(fallbackData);
+		const data = await generate(fallbackData, projectFilter);
 
 		let result = JSON.stringify(data, null, '  ');
 		if (format === OUTPUT_FORMATS.jsonp) {
@@ -89,8 +98,13 @@ function createAwesomerGoGenerator(app) {
 		return result;
 	}
 
-	async function generateIntoAFile(targetPath, format, fallbackDataPath = undefined) {
-		const content = await generateFormatted(format, fallbackDataPath);
+	async function generateIntoAFile(
+		targetPath,
+		format,
+		fallbackDataPath = undefined,
+		projectFilter = undefined
+	) {
+		const content = await generateFormatted(format, fallbackDataPath, projectFilter);
 
 		log.info(`Writing data as ${format} into "${targetPath}"...`);
 		await promisify(fs.writeFile)(targetPath, content, 'utf8');
