@@ -6,16 +6,47 @@
 		<meta http-equiv="X-UA-Compatible" content="ie=edge" />
 		<title>Awesomer Go</title>
 
+		<!-- Basic meta-tags -->
+		<meta name="title" content="Awesomer Go" />
+		<meta
+			name="description"
+			content="Searchable, sortable UI for awesome-go. A curated list of Go projects and libraries, with GitHub metadata (number of watchers, stars, activity)."
+		/>
+		<meta name="keywords" content="awesomergo,awesomego,go,golang,github,awesome,libraries" />
+		<meta name="robots" content="index, follow" />
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="language" content="English" />
+
+		<!-- Open Graph / Facebook -->
+		<meta property="og:type" content="website" />
+		<meta property="og:url" content="https://awesomer-go.pantas.net/" />
+		<meta property="og:title" content="Awesomer Go" />
+		<meta
+			property="og:description"
+			content="Searchable, sortable UI for awesome-go. A curated list of Go projects and libraries, with GitHub metadata (number of watchers, stars, activity)."
+		/>
+		<meta
+			property="og:image"
+			content="https://awesomer-go.pantas.net/assets/images/meta-logo.png"
+		/>
+
+		<!-- Twitter -->
+		<meta property="twitter:card" content="summary_large_image" />
+		<meta property="twitter:url" content="https://awesomer-go.pantas.net/" />
+		<meta property="twitter:title" content="Awesomer Go" />
+		<meta
+			property="twitter:description"
+			content="Searchable, sortable UI for awesome-go. A curated list of Go projects and libraries, with GitHub metadata (number of watchers, stars, activity)."
+		/>
+		<meta
+			property="twitter:image"
+			content="https://awesomer-go.pantas.net/assets/images/meta-logo.png"
+		/>
+
 		<link rel="stylesheet" href="assets/css/bootstrap-superhero.min.css" />
 		<link rel="stylesheet" href="assets/css/dataTables.bootstrap4.min.css" />
 		<link rel="stylesheet" href="assets/css/bootstrap-select.min.css" />
 
-		<script src="assets/js/popper.min.js"></script>
-		<!-- This bundle includes jquery, bootstrap and datatables stuff, all in one -->
-		<script src="assets/js/datatables-bundle.min.js"></script>
-		<script src="assets/js/jquery.timeago.js"></script>
-		<script src="assets/js/jquery.mark.min.js"></script>
-		<script src="assets/js/bootstrap-select.min.js"></script>
 		<style rel="stylesheet">
 			html,
 			body {
@@ -89,6 +120,14 @@
 				height: 48px;
 			}
 		</style>
+
+		<script src="assets/js/popper.min.js"></script>
+		<!-- This bundle includes jquery, bootstrap and datatables stuff, all in one -->
+		<script src="assets/js/datatables-bundle.min.js"></script>
+		<script src="assets/js/jquery.timeago.js"></script>
+		<script src="assets/js/jquery.mark.min.js"></script>
+		<script src="assets/js/bootstrap-select.min.js"></script>
+
 		<script>
 			/**
 			 * Prepared variable for jsonp loaded data
@@ -96,6 +135,19 @@
 			 */
 			var DATA = null;
 		</script>
+
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-88827517-2"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag() {
+				dataLayer.push(arguments);
+			}
+			gtag('js', new Date());
+
+			gtag('config', 'UA-88827517-2');
+		</script>
+
 		<script src="data.js"></script>
 	</head>
 	<body>
