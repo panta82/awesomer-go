@@ -34,6 +34,7 @@ if you want to work on frontend.
 ### TODO
 
 - Better license info
+- Add info from https://www.grank.io/
 - Support gitlab and/or bitbucket
 - Load more project stats, eg. last commit or activity graph
 - Scrape some images and info from projects and include them in the page.
