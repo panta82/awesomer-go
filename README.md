@@ -5,6 +5,7 @@ Searchable, sortable UI for [awesome-go](https://github.com/avelino/awesome-go),
 ![](misc/screenshot.png)
 
 The extra data we currently load is:
+
 - creation date
 - last update date
 - license
@@ -12,7 +13,7 @@ The extra data we currently load is:
 
 We only support github. We also don't have handling for custom websites at the moment.
 
-All data and curration is courtesy of the [awesome-go](https://github.com/avelino/awesome-go) project. Go there and donate.
+All data and curation is courtesy of the [awesome-go](https://github.com/avelino/awesome-go) project. Go there and donate.
 
 ### Development
 
@@ -26,9 +27,11 @@ generator/bin/generate-data
 You might want to configure GitHub OAuth client ID and secret, to have better rate limits. Also, during development (`GITHUB_CACHE_DIRECTORY`). Full list of envs can be seen in `generator/settings.js`.
 
 Execute
+
 ```bash
 npm run serve
 ```
+
 if you want to work on frontend.
 
 ### TODO
