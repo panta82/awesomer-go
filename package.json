@@ -16,7 +16,7 @@
   "dependencies": {
     "@octokit/plugin-throttling": "^3.2.0",
     "@octokit/rest": "^16.43.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.3",
     "commander": "^4.1.1",
     "dotenv": "^8.2.0",
