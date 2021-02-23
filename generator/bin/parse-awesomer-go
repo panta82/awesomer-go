@@ -1,0 +1,51 @@
+#!/usr/bin/env node
+
+const fs = require('fs');
+
+const settings = require('../settings');
+const program = require('commander');
+const { App } = require('../app');
+const { parseAwesomeGoData } = require('../lib/awesome_go');
+
+async function main() {
+	program
+		.description(
+			'Parse awesome-go markdown data. Outputs a JSON in our internal format. Useful for debugging.'
+		)
+		.option('-s, --source <path>', 'Source file. Alternative from fetching it online.')
+		.option('-w, --write <path>', 'Write generated output to given file.')
+		.option('-q, --quiet', 'No logging, only output. Useful if you want to pipe stdout somewhere.');
+
+	program.parse(process.argv);
+
+	if (program.quiet) {
+		settings.logLevel = 'silent';
+	}
+
+	const app = new App(settings);
+	await app.initialize();
+
+	let parsed;
+	if (program.source) {
+		// Load data from file
+		const sourceStr = fs.readFileSync(program.source, 'utf8');
+		parsed = await parseAwesomeGoData(sourceStr);
+	} else {
+		parsed = await app.awesomeGoClient.getData();
+	}
+
+	const output = JSON.stringify(parsed, null, '  ');
+
+	if (program.write) {
+		fs.writeFileSync(program.write, output, 'utf8');
+	} else {
+		console.log(output);
+	}
+}
+
+Promise.resolve()
+	.then(() => main())
+	.catch(err => {
+		console.error(err);
+		process.exit(1);
+	});

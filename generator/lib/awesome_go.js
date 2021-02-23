@@ -149,6 +149,13 @@ function parseAwesomeGoData(sourceStr) {
 				}
 				if ((inTags('h2') || inTags('h3')) && currentSection && !currentSection.title) {
 					// First text in section, this is title
+					if (token.content.trim() === 'Sponsorships') {
+						// This is "sponsorships" section. Unfortunately, it uses the same tag as real sections, but we want to exclude it.
+						// Get rid of it
+						sections.pop();
+						currentSection = null;
+						continue;
+					}
 					currentSection.title = token.content;
 				} else if (
 					inTags('p', 'em') &&
