@@ -969,7 +969,7 @@ DATA = {
       "forks": 37,
       "subscribers": 12,
       "license": "unlicense",
-      "repository_data_timestamp": "2022-12-01T02:00:12.637Z"
+      "repository_data_timestamp": "2022-12-02T02:00:12.784Z"
     },
     {
       "index": 138,
@@ -988,7 +988,7 @@ DATA = {
       "forks": 20,
       "subscribers": 11,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:12.637Z"
+      "repository_data_timestamp": "2022-12-02T02:00:12.762Z"
     },
     {
       "index": 139,
@@ -1003,11 +1003,11 @@ DATA = {
       },
       "created_at": "2020-07-05T01:35:41.000Z",
       "last_commit_at": "2022-05-26T04:39:51.000Z",
-      "stars": 266,
+      "stars": 267,
       "forks": 29,
       "subscribers": 10,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:12.668Z"
+      "repository_data_timestamp": "2022-12-02T02:00:12.793Z"
     },
     {
       "index": 140,
@@ -1026,7 +1026,7 @@ DATA = {
       "forks": 11,
       "subscribers": 1,
       "license": "bsd-2-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:12.703Z"
+      "repository_data_timestamp": "2022-12-02T02:00:12.839Z"
     },
     {
       "index": 141,
@@ -1045,7 +1045,7 @@ DATA = {
       "forks": 43,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:12.738Z"
+      "repository_data_timestamp": "2022-12-02T02:00:12.893Z"
     },
     {
       "index": 142,
@@ -1062,9 +1062,9 @@ DATA = {
       "last_commit_at": "2022-11-22T17:21:56.000Z",
       "stars": 205,
       "forks": 41,
-      "subscribers": 8,
+      "subscribers": 7,
       "license": "unlicense",
-      "repository_data_timestamp": "2022-12-01T02:00:12.737Z"
+      "repository_data_timestamp": "2022-12-02T02:00:12.875Z"
     },
     {
       "index": 143,
@@ -1083,7 +1083,7 @@ DATA = {
       "forks": 17,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:12.784Z"
+      "repository_data_timestamp": "2022-12-02T02:00:12.915Z"
     },
     {
       "index": 144,
@@ -1098,11 +1098,11 @@ DATA = {
       },
       "created_at": "2017-05-04T12:16:30.000Z",
       "last_commit_at": "2022-11-20T17:59:13.000Z",
-      "stars": 1117,
+      "stars": 1118,
       "forks": 105,
       "subscribers": 13,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:12.793Z"
+      "repository_data_timestamp": "2022-12-02T02:00:12.892Z"
     },
     {
       "index": 145,
@@ -1121,7 +1121,7 @@ DATA = {
       "forks": 84,
       "subscribers": 12,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:12.797Z"
+      "repository_data_timestamp": "2022-12-02T02:00:12.939Z"
     },
     {
       "index": 146,
@@ -1136,11 +1136,11 @@ DATA = {
       },
       "created_at": "2015-01-03T05:12:02.000Z",
       "last_commit_at": "2022-10-10T16:58:56.000Z",
-      "stars": 3283,
+      "stars": 3286,
       "forks": 198,
       "subscribers": 61,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:12.826Z"
+      "repository_data_timestamp": "2022-12-02T02:00:12.986Z"
     },
     {
       "index": 147,
@@ -1159,7 +1159,7 @@ DATA = {
       "forks": 3,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:12.959Z"
+      "repository_data_timestamp": "2022-12-02T02:00:13.103Z"
     },
     {
       "index": 148,
@@ -1174,11 +1174,11 @@ DATA = {
       },
       "created_at": "2017-04-08T07:51:23.000Z",
       "last_commit_at": "2022-11-30T16:04:40.000Z",
-      "stars": 13303,
-      "forks": 1457,
+      "stars": 13311,
+      "forks": 1459,
       "subscribers": 229,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:13.253Z"
+      "repository_data_timestamp": "2022-12-02T02:00:13.378Z"
     },
     {
       "index": 149,
@@ -1197,7 +1197,7 @@ DATA = {
       "forks": 5,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:13.008Z"
+      "repository_data_timestamp": "2022-12-02T02:00:13.115Z"
     },
     {
       "index": 150,
@@ -1212,11 +1212,11 @@ DATA = {
       },
       "created_at": "2020-05-14T12:15:56.000Z",
       "last_commit_at": "2022-11-20T19:48:34.000Z",
-      "stars": 421,
+      "stars": 422,
       "forks": 46,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:13.050Z"
+      "repository_data_timestamp": "2022-12-02T02:00:13.154Z"
     },
     {
       "index": 151,
@@ -1235,7 +1235,7 @@ DATA = {
       "forks": 352,
       "subscribers": 60,
       "license": null,
-      "repository_data_timestamp": "2022-12-01T02:00:13.158Z"
+      "repository_data_timestamp": "2022-12-02T02:00:13.468Z"
     },
     {
       "index": 152,
@@ -1250,11 +1250,11 @@ DATA = {
       },
       "created_at": "2015-06-23T04:40:52.000Z",
       "last_commit_at": "2022-11-26T05:46:52.000Z",
-      "stars": 1577,
+      "stars": 1576,
       "forks": 127,
       "subscribers": 26,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:13.050Z"
+      "repository_data_timestamp": "2022-12-02T02:00:13.229Z"
     },
     {
       "index": 153,
@@ -1273,7 +1273,7 @@ DATA = {
       "forks": 166,
       "subscribers": 64,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:13.097Z"
+      "repository_data_timestamp": "2022-12-02T02:00:13.256Z"
     },
     {
       "index": 154,
@@ -1292,7 +1292,7 @@ DATA = {
       "forks": 1,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:13.124Z"
+      "repository_data_timestamp": "2022-12-02T02:00:13.281Z"
     },
     {
       "index": 155,
@@ -1307,11 +1307,11 @@ DATA = {
       },
       "created_at": "2014-10-14T20:38:12.000Z",
       "last_commit_at": "2022-11-24T00:42:23.000Z",
-      "stars": 3935,
+      "stars": 3936,
       "forks": 477,
       "subscribers": 59,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:13.145Z"
+      "repository_data_timestamp": "2022-12-02T02:00:13.290Z"
     },
     {
       "index": 156,
@@ -1330,7 +1330,7 @@ DATA = {
       "forks": 16,
       "subscribers": 4,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:13.145Z"
+      "repository_data_timestamp": "2022-12-02T02:00:13.294Z"
     },
     {
       "index": 157,
@@ -1349,7 +1349,7 @@ DATA = {
       "forks": 23,
       "subscribers": 12,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:13.277Z"
+      "repository_data_timestamp": "2022-12-02T02:00:13.418Z"
     },
     {
       "index": 158,
@@ -1368,7 +1368,7 @@ DATA = {
       "forks": 39,
       "subscribers": 14,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:13.320Z"
+      "repository_data_timestamp": "2022-12-02T02:00:13.406Z"
     },
     {
       "index": 159,
@@ -1383,11 +1383,11 @@ DATA = {
       },
       "created_at": "2016-07-05T23:31:43.000Z",
       "last_commit_at": "2021-08-01T23:03:58.000Z",
-      "stars": 224,
+      "stars": 223,
       "forks": 42,
       "subscribers": 12,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:13.344Z"
+      "repository_data_timestamp": "2022-12-02T02:00:13.514Z"
     },
     {
       "index": 160,
@@ -1402,11 +1402,11 @@ DATA = {
       },
       "created_at": "2018-03-17T10:40:15.000Z",
       "last_commit_at": "2022-11-30T08:30:23.000Z",
-      "stars": 3746,
-      "forks": 267,
+      "stars": 3752,
+      "forks": 268,
       "subscribers": 49,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:13.373Z"
+      "repository_data_timestamp": "2022-12-02T02:00:13.573Z"
     },
     {
       "index": 161,
@@ -1425,7 +1425,7 @@ DATA = {
       "forks": 158,
       "subscribers": 53,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:13.394Z"
+      "repository_data_timestamp": "2022-12-02T02:00:13.591Z"
     },
     {
       "index": 162,
@@ -1439,12 +1439,12 @@ DATA = {
         "name": "oauth2"
       },
       "created_at": "2014-04-14T15:07:35.000Z",
-      "last_commit_at": "2022-11-30T16:58:37.000Z",
-      "stars": 4439,
+      "last_commit_at": "2022-12-01T17:37:02.000Z",
+      "stars": 4438,
       "forks": 907,
       "subscribers": 102,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:13.498Z"
+      "repository_data_timestamp": "2022-12-02T02:00:13.627Z"
     },
     {
       "index": 163,
@@ -1463,7 +1463,7 @@ DATA = {
       "forks": 390,
       "subscribers": 71,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:13.487Z"
+      "repository_data_timestamp": "2022-12-02T02:00:13.584Z"
     },
     {
       "index": 164,
@@ -1482,7 +1482,7 @@ DATA = {
       "forks": 9,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:13.808Z"
+      "repository_data_timestamp": "2022-12-02T02:00:13.952Z"
     },
     {
       "index": 165,
@@ -1501,7 +1501,7 @@ DATA = {
       "forks": 8,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:13.499Z"
+      "repository_data_timestamp": "2022-12-02T02:00:13.685Z"
     },
     {
       "index": 166,
@@ -1516,11 +1516,11 @@ DATA = {
       },
       "created_at": "2018-01-23T05:27:39.000Z",
       "last_commit_at": "2022-09-05T10:18:34.000Z",
-      "stars": 648,
+      "stars": 649,
       "forks": 35,
       "subscribers": 23,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:13.596Z"
+      "repository_data_timestamp": "2022-12-02T02:00:13.740Z"
     },
     {
       "index": 167,
@@ -1539,7 +1539,7 @@ DATA = {
       "forks": 37,
       "subscribers": 14,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:13.601Z"
+      "repository_data_timestamp": "2022-12-02T02:00:13.735Z"
     },
     {
       "index": 168,
@@ -1558,7 +1558,7 @@ DATA = {
       "forks": 7,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:13.904Z"
+      "repository_data_timestamp": "2022-12-02T02:00:14.047Z"
     },
     {
       "index": 169,
@@ -1577,7 +1577,7 @@ DATA = {
       "forks": 110,
       "subscribers": 26,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:13.641Z"
+      "repository_data_timestamp": "2022-12-02T02:00:13.835Z"
     },
     {
       "index": 170,
@@ -1596,7 +1596,7 @@ DATA = {
       "forks": 9,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:13.692Z"
+      "repository_data_timestamp": "2022-12-02T02:00:13.891Z"
     },
     {
       "index": 171,
@@ -1615,7 +1615,7 @@ DATA = {
       "forks": 17,
       "subscribers": 7,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:13.715Z"
+      "repository_data_timestamp": "2022-12-02T02:00:13.869Z"
     },
     {
       "index": 172,
@@ -1634,7 +1634,7 @@ DATA = {
       "forks": 9,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:13.808Z"
+      "repository_data_timestamp": "2022-12-02T02:00:13.952Z"
     },
     {
       "index": 173,
@@ -1653,7 +1653,7 @@ DATA = {
       "forks": 7,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:13.848Z"
+      "repository_data_timestamp": "2022-12-02T02:00:13.995Z"
     },
     {
       "index": 174,
@@ -1672,7 +1672,7 @@ DATA = {
       "forks": 10,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:13.849Z"
+      "repository_data_timestamp": "2022-12-02T02:00:14.023Z"
     },
     {
       "index": 175,
@@ -1686,12 +1686,12 @@ DATA = {
         "name": "cosmos-sdk"
       },
       "created_at": "2016-02-06T07:15:53.000Z",
-      "last_commit_at": "2022-12-01T00:12:14.000Z",
-      "stars": 4733,
-      "forks": 2360,
-      "subscribers": 248,
+      "last_commit_at": "2022-12-02T00:49:01.000Z",
+      "stars": 4754,
+      "forks": 2361,
+      "subscribers": 249,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:13.891Z"
+      "repository_data_timestamp": "2022-12-02T02:00:14.047Z"
     },
     {
       "index": 176,
@@ -1705,12 +1705,12 @@ DATA = {
         "name": "go-ethereum"
       },
       "created_at": "2013-12-26T13:05:46.000Z",
-      "last_commit_at": "2022-11-30T21:03:47.000Z",
-      "stars": 40375,
-      "forks": 15476,
-      "subscribers": 2197,
+      "last_commit_at": "2022-12-02T01:01:31.000Z",
+      "stars": 40390,
+      "forks": 15477,
+      "subscribers": 2198,
       "license": "lgpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:00:13.911Z"
+      "repository_data_timestamp": "2022-12-02T02:00:14.108Z"
     },
     {
       "index": 177,
@@ -1724,12 +1724,12 @@ DATA = {
         "name": "gossamer"
       },
       "created_at": "2019-01-28T17:40:01.000Z",
-      "last_commit_at": "2022-11-30T17:54:11.000Z",
+      "last_commit_at": "2022-12-01T23:05:22.000Z",
       "stars": 363,
       "forks": 94,
       "subscribers": 19,
       "license": "lgpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:00:13.953Z"
+      "repository_data_timestamp": "2022-12-02T02:00:14.173Z"
     },
     {
       "index": 178,
@@ -1748,7 +1748,7 @@ DATA = {
       "forks": 109,
       "subscribers": 11,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:14.039Z"
+      "repository_data_timestamp": "2022-12-02T02:00:14.227Z"
     },
     {
       "index": 179,
@@ -1762,12 +1762,12 @@ DATA = {
         "name": "tendermint"
       },
       "created_at": "2014-05-14T23:21:35.000Z",
-      "last_commit_at": "2022-12-01T01:16:27.000Z",
-      "stars": 5295,
-      "forks": 1871,
+      "last_commit_at": "2022-12-02T01:51:43.000Z",
+      "stars": 5296,
+      "forks": 1872,
       "subscribers": 267,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:14.051Z"
+      "repository_data_timestamp": "2022-12-02T02:00:14.222Z"
     },
     {
       "index": 180,
@@ -1786,7 +1786,7 @@ DATA = {
       "forks": 12,
       "subscribers": 7,
       "license": "lgpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:00:14.098Z"
+      "repository_data_timestamp": "2022-12-02T02:00:14.293Z"
     },
     {
       "index": 181,
@@ -1801,11 +1801,11 @@ DATA = {
       },
       "created_at": "2017-12-19T15:20:30.000Z",
       "last_commit_at": "2022-11-14T14:03:19.000Z",
-      "stars": 70,
+      "stars": 71,
       "forks": 10,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:14.089Z"
+      "repository_data_timestamp": "2022-12-02T02:00:14.269Z"
     },
     {
       "index": 182,
@@ -1824,7 +1824,7 @@ DATA = {
       "forks": 184,
       "subscribers": 49,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:14.151Z"
+      "repository_data_timestamp": "2022-12-02T02:00:14.285Z"
     },
     {
       "index": 183,
@@ -1843,7 +1843,7 @@ DATA = {
       "forks": 26,
       "subscribers": 17,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:14.341Z"
+      "repository_data_timestamp": "2022-12-02T02:00:14.540Z"
     },
     {
       "index": 184,
@@ -1862,7 +1862,7 @@ DATA = {
       "forks": 16,
       "subscribers": 9,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:14.166Z"
+      "repository_data_timestamp": "2022-12-02T02:00:14.398Z"
     },
     {
       "index": 185,
@@ -1881,7 +1881,7 @@ DATA = {
       "forks": 5,
       "subscribers": 9,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:14.190Z"
+      "repository_data_timestamp": "2022-12-02T02:00:14.342Z"
     },
     {
       "index": 186,
@@ -1900,7 +1900,7 @@ DATA = {
       "forks": 55,
       "subscribers": 13,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:14.209Z"
+      "repository_data_timestamp": "2022-12-02T02:00:14.342Z"
     },
     {
       "index": 187,
@@ -1919,7 +1919,7 @@ DATA = {
       "forks": 214,
       "subscribers": 41,
       "license": "gpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:00:14.202Z"
+      "repository_data_timestamp": "2022-12-02T02:00:14.398Z"
     },
     {
       "index": 188,
@@ -1938,7 +1938,7 @@ DATA = {
       "forks": 4,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:14.260Z"
+      "repository_data_timestamp": "2022-12-02T02:00:14.463Z"
     },
     {
       "index": 189,
@@ -1957,7 +1957,7 @@ DATA = {
       "forks": 24,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:14.317Z"
+      "repository_data_timestamp": "2022-12-02T02:00:14.531Z"
     },
     {
       "index": 190,
@@ -1976,7 +1976,7 @@ DATA = {
       "forks": 223,
       "subscribers": 57,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:14.406Z"
+      "repository_data_timestamp": "2022-12-02T02:00:14.588Z"
     },
     {
       "index": 191,
@@ -1991,11 +1991,11 @@ DATA = {
       },
       "created_at": "2020-11-16T23:25:12.000Z",
       "last_commit_at": "2022-11-12T13:53:23.000Z",
-      "stars": 97,
+      "stars": 98,
       "forks": 22,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:14.442Z"
+      "repository_data_timestamp": "2022-12-02T02:00:14.562Z"
     },
     {
       "index": 192,
@@ -2014,7 +2014,7 @@ DATA = {
       "forks": 16,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:14.458Z"
+      "repository_data_timestamp": "2022-12-02T02:00:14.624Z"
     },
     {
       "index": 193,
@@ -2033,7 +2033,7 @@ DATA = {
       "forks": 5,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:14.448Z"
+      "repository_data_timestamp": "2022-12-02T02:00:14.624Z"
     },
     {
       "index": 194,
@@ -2052,7 +2052,7 @@ DATA = {
       "forks": 342,
       "subscribers": 82,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:14.536Z"
+      "repository_data_timestamp": "2022-12-02T02:00:14.646Z"
     },
     {
       "index": 195,
@@ -2066,12 +2066,12 @@ DATA = {
         "name": "slack-bot"
       },
       "created_at": "2019-07-19T07:49:06.000Z",
-      "last_commit_at": "2022-11-24T21:01:46.000Z",
-      "stars": 128,
+      "last_commit_at": "2022-12-01T21:01:45.000Z",
+      "stars": 129,
       "forks": 37,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:14.508Z"
+      "repository_data_timestamp": "2022-12-02T02:00:14.705Z"
     },
     {
       "index": 196,
@@ -2086,11 +2086,11 @@ DATA = {
       },
       "created_at": "2017-05-20T01:41:20.000Z",
       "last_commit_at": "2022-11-08T05:13:43.000Z",
-      "stars": 711,
+      "stars": 712,
       "forks": 103,
       "subscribers": 17,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:14.492Z"
+      "repository_data_timestamp": "2022-12-02T02:00:14.708Z"
     },
     {
       "index": 197,
@@ -2109,7 +2109,7 @@ DATA = {
       "forks": 11,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:14.577Z"
+      "repository_data_timestamp": "2022-12-02T02:00:14.798Z"
     },
     {
       "index": 198,
@@ -2128,7 +2128,7 @@ DATA = {
       "forks": 51,
       "subscribers": 12,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:14.589Z"
+      "repository_data_timestamp": "2022-12-02T02:00:14.831Z"
     },
     {
       "index": 199,
@@ -2143,11 +2143,11 @@ DATA = {
       },
       "created_at": "2015-06-25T19:27:50.000Z",
       "last_commit_at": "2022-11-25T16:49:19.000Z",
-      "stars": 2848,
+      "stars": 2850,
       "forks": 354,
       "subscribers": 55,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:14.627Z"
+      "repository_data_timestamp": "2022-12-02T02:00:14.853Z"
     },
     {
       "index": 200,
@@ -2162,11 +2162,11 @@ DATA = {
       },
       "created_at": "2021-06-27T17:26:14.000Z",
       "last_commit_at": "2022-11-30T12:18:29.000Z",
-      "stars": 125,
+      "stars": 126,
       "forks": 11,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:14.689Z"
+      "repository_data_timestamp": "2022-12-02T02:00:14.870Z"
     },
     {
       "index": 201,
@@ -2181,11 +2181,11 @@ DATA = {
       },
       "created_at": "2015-06-25T05:33:57.000Z",
       "last_commit_at": "2022-11-20T20:10:38.000Z",
-      "stars": 4163,
+      "stars": 4166,
       "forks": 647,
       "subscribers": 90,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:15.006Z"
+      "repository_data_timestamp": "2022-12-02T02:00:15.156Z"
     },
     {
       "index": 202,
@@ -2204,7 +2204,7 @@ DATA = {
       "forks": 6,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:14.738Z"
+      "repository_data_timestamp": "2022-12-02T02:00:14.956Z"
     },
     {
       "index": 203,
@@ -2223,7 +2223,7 @@ DATA = {
       "forks": 19,
       "subscribers": 14,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:14.775Z"
+      "repository_data_timestamp": "2022-12-02T02:00:14.905Z"
     },
     {
       "index": 204,
@@ -2237,12 +2237,12 @@ DATA = {
         "name": "wayback"
       },
       "created_at": "2020-06-13T10:08:05.000Z",
-      "last_commit_at": "2022-11-30T15:23:18.000Z",
+      "last_commit_at": "2022-12-01T22:10:27.000Z",
       "stars": 380,
       "forks": 28,
       "subscribers": 6,
       "license": "gpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:00:14.796Z"
+      "repository_data_timestamp": "2022-12-02T02:00:14.957Z"
     },
     {
       "index": 205,
@@ -2257,11 +2257,11 @@ DATA = {
       },
       "created_at": "2019-04-23T17:05:38.000Z",
       "last_commit_at": "2022-11-08T04:11:22.000Z",
-      "stars": 195,
+      "stars": 196,
       "forks": 30,
       "subscribers": 8,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:14.809Z"
+      "repository_data_timestamp": "2022-12-02T02:00:15.014Z"
     },
     {
       "index": 206,
@@ -2280,7 +2280,7 @@ DATA = {
       "forks": 3,
       "subscribers": 3,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:14.830Z"
+      "repository_data_timestamp": "2022-12-02T02:00:15.026Z"
     },
     {
       "index": 207,
@@ -2299,7 +2299,7 @@ DATA = {
       "forks": 5,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:14.897Z"
+      "repository_data_timestamp": "2022-12-02T02:00:15.065Z"
     },
     {
       "index": 208,
@@ -2318,7 +2318,7 @@ DATA = {
       "forks": 7,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:15.184Z"
+      "repository_data_timestamp": "2022-12-02T02:00:15.362Z"
     },
     {
       "index": 209,
@@ -2337,7 +2337,7 @@ DATA = {
       "forks": 24,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:14.929Z"
+      "repository_data_timestamp": "2022-12-02T02:00:15.190Z"
     },
     {
       "index": 210,
@@ -2352,11 +2352,11 @@ DATA = {
       },
       "created_at": "2017-09-20T19:52:55.000Z",
       "last_commit_at": "2022-11-29T04:35:45.000Z",
-      "stars": 3281,
+      "stars": 3282,
       "forks": 223,
       "subscribers": 41,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:14.921Z"
+      "repository_data_timestamp": "2022-12-02T02:00:15.161Z"
     },
     {
       "index": 211,
@@ -2375,7 +2375,7 @@ DATA = {
       "forks": 46,
       "subscribers": 29,
       "license": null,
-      "repository_data_timestamp": "2022-12-01T02:00:14.961Z"
+      "repository_data_timestamp": "2022-12-02T02:00:15.155Z"
     },
     {
       "index": 212,
@@ -2394,7 +2394,7 @@ DATA = {
       "forks": 228,
       "subscribers": 73,
       "license": "gpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:00:15.327Z"
+      "repository_data_timestamp": "2022-12-02T02:00:15.480Z"
     },
     {
       "index": 213,
@@ -2409,11 +2409,11 @@ DATA = {
       },
       "created_at": "2017-02-27T00:46:04.000Z",
       "last_commit_at": "2022-11-27T22:51:26.000Z",
-      "stars": 6172,
-      "forks": 381,
+      "stars": 6174,
+      "forks": 383,
       "subscribers": 71,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:15.106Z"
+      "repository_data_timestamp": "2022-12-02T02:00:15.260Z"
     },
     {
       "index": 214,
@@ -2432,7 +2432,7 @@ DATA = {
       "forks": 29,
       "subscribers": 10,
       "license": "gpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:00:15.129Z"
+      "repository_data_timestamp": "2022-12-02T02:00:15.267Z"
     },
     {
       "index": 215,
@@ -2448,11 +2448,11 @@ DATA = {
       },
       "created_at": "2018-06-17T10:37:16.000Z",
       "last_commit_at": "2022-11-24T15:55:34.000Z",
-      "stars": 2088,
+      "stars": 2090,
       "forks": 82,
       "subscribers": 29,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:15.096Z"
+      "repository_data_timestamp": "2022-12-02T02:00:15.296Z"
     },
     {
       "index": 216,
@@ -2472,7 +2472,7 @@ DATA = {
       "forks": 59,
       "subscribers": 9,
       "license": "unlicense",
-      "repository_data_timestamp": "2022-12-01T02:00:15.150Z"
+      "repository_data_timestamp": "2022-12-02T02:00:15.325Z"
     },
     {
       "index": 217,
@@ -2492,7 +2492,7 @@ DATA = {
       "forks": 13,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:15.226Z"
+      "repository_data_timestamp": "2022-12-02T02:00:15.449Z"
     },
     {
       "index": 218,
@@ -2507,12 +2507,12 @@ DATA = {
         "name": "bubbletea"
       },
       "created_at": "2020-01-10T21:04:03.000Z",
-      "last_commit_at": "2022-11-21T15:43:13.000Z",
-      "stars": 16072,
-      "forks": 479,
-      "subscribers": 99,
+      "last_commit_at": "2022-12-01T17:02:19.000Z",
+      "stars": 16087,
+      "forks": 481,
+      "subscribers": 98,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:15.244Z"
+      "repository_data_timestamp": "2022-12-02T02:00:15.424Z"
     },
     {
       "index": 219,
@@ -2532,7 +2532,7 @@ DATA = {
       "forks": 6,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:15.282Z"
+      "repository_data_timestamp": "2022-12-02T02:00:15.471Z"
     },
     {
       "index": 220,
@@ -2552,7 +2552,7 @@ DATA = {
       "forks": 3,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:15.294Z"
+      "repository_data_timestamp": "2022-12-02T02:00:15.507Z"
     },
     {
       "index": 221,
@@ -2572,7 +2572,7 @@ DATA = {
       "forks": 20,
       "subscribers": 10,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:15.404Z"
+      "repository_data_timestamp": "2022-12-02T02:00:15.569Z"
     },
     {
       "index": 222,
@@ -2592,7 +2592,7 @@ DATA = {
       "forks": 4,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:15.425Z"
+      "repository_data_timestamp": "2022-12-02T02:00:15.553Z"
     },
     {
       "index": 223,
@@ -2612,7 +2612,7 @@ DATA = {
       "forks": 0,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:15.422Z"
+      "repository_data_timestamp": "2022-12-02T02:00:15.587Z"
     },
     {
       "index": 224,
@@ -2632,7 +2632,7 @@ DATA = {
       "forks": 3,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:15.481Z"
+      "repository_data_timestamp": "2022-12-02T02:00:15.619Z"
     },
     {
       "index": 225,
@@ -2652,7 +2652,7 @@ DATA = {
       "forks": 3,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:15.477Z"
+      "repository_data_timestamp": "2022-12-02T02:00:15.643Z"
     },
     {
       "index": 226,
@@ -2667,12 +2667,12 @@ DATA = {
         "name": "go-colorable"
       },
       "created_at": "2014-07-30T02:38:06.000Z",
-      "last_commit_at": "2022-08-15T06:59:28.000Z",
+      "last_commit_at": "2022-12-01T21:22:09.000Z",
       "stars": 659,
-      "forks": 86,
+      "forks": 87,
       "subscribers": 21,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:15.524Z"
+      "repository_data_timestamp": "2022-12-02T02:00:15.695Z"
     },
     {
       "index": 227,
@@ -2692,7 +2692,7 @@ DATA = {
       "forks": 21,
       "subscribers": 9,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:15.560Z"
+      "repository_data_timestamp": "2022-12-02T02:00:15.751Z"
     },
     {
       "index": 228,
@@ -2712,7 +2712,7 @@ DATA = {
       "forks": 92,
       "subscribers": 13,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:15.578Z"
+      "repository_data_timestamp": "2022-12-02T02:00:15.758Z"
     },
     {
       "index": 229,
@@ -2732,7 +2732,7 @@ DATA = {
       "forks": 314,
       "subscribers": 56,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:15.569Z"
+      "repository_data_timestamp": "2022-12-02T02:00:15.770Z"
     },
     {
       "index": 230,
@@ -2748,11 +2748,11 @@ DATA = {
       },
       "created_at": "2014-01-04T02:50:20.000Z",
       "last_commit_at": "2022-07-29T06:37:58.000Z",
-      "stars": 8671,
+      "stars": 8673,
       "forks": 563,
       "subscribers": 127,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:15.623Z"
+      "repository_data_timestamp": "2022-12-02T02:00:15.791Z"
     },
     {
       "index": 231,
@@ -2772,7 +2772,7 @@ DATA = {
       "forks": 100,
       "subscribers": 22,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:15.680Z"
+      "repository_data_timestamp": "2022-12-02T02:00:15.874Z"
     },
     {
       "index": 232,
@@ -2788,11 +2788,11 @@ DATA = {
       },
       "created_at": "2018-07-01T07:28:17.000Z",
       "last_commit_at": "2022-11-18T15:00:42.000Z",
-      "stars": 1227,
+      "stars": 1228,
       "forks": 77,
       "subscribers": 16,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:15.733Z"
+      "repository_data_timestamp": "2022-12-02T02:00:15.861Z"
     },
     {
       "index": 233,
@@ -2808,11 +2808,11 @@ DATA = {
       },
       "created_at": "2021-03-01T19:31:36.000Z",
       "last_commit_at": "2022-11-18T21:07:05.000Z",
-      "stars": 5292,
-      "forks": 128,
+      "stars": 5298,
+      "forks": 129,
       "subscribers": 30,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:15.714Z"
+      "repository_data_timestamp": "2022-12-02T02:00:15.922Z"
     },
     {
       "index": 234,
@@ -2832,7 +2832,7 @@ DATA = {
       "forks": 13,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:15.764Z"
+      "repository_data_timestamp": "2022-12-02T02:00:15.909Z"
     },
     {
       "index": 235,
@@ -2852,7 +2852,7 @@ DATA = {
       "forks": 109,
       "subscribers": 23,
       "license": "unlicense",
-      "repository_data_timestamp": "2022-12-01T02:00:15.773Z"
+      "repository_data_timestamp": "2022-12-02T02:00:15.937Z"
     },
     {
       "index": 236,
@@ -2867,12 +2867,12 @@ DATA = {
         "name": "progressbar"
       },
       "created_at": "2017-10-26T18:28:10.000Z",
-      "last_commit_at": "2022-11-20T23:45:24.000Z",
-      "stars": 2935,
-      "forks": 175,
+      "last_commit_at": "2022-12-01T07:06:31.000Z",
+      "stars": 2937,
+      "forks": 176,
       "subscribers": 23,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:15.819Z"
+      "repository_data_timestamp": "2022-12-02T02:00:15.986Z"
     },
     {
       "index": 237,
@@ -2892,7 +2892,7 @@ DATA = {
       "forks": 109,
       "subscribers": 15,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:15.887Z"
+      "repository_data_timestamp": "2022-12-02T02:00:16.083Z"
     },
     {
       "index": 238,
@@ -2912,7 +2912,7 @@ DATA = {
       "forks": 26,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:15.902Z"
+      "repository_data_timestamp": "2022-12-02T02:00:16.049Z"
     },
     {
       "index": 239,
@@ -2932,7 +2932,7 @@ DATA = {
       "forks": 126,
       "subscribers": 20,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:15.894Z"
+      "repository_data_timestamp": "2022-12-02T02:00:16.075Z"
     },
     {
       "index": 240,
@@ -2952,7 +2952,7 @@ DATA = {
       "forks": 16,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:15.917Z"
+      "repository_data_timestamp": "2022-12-02T02:00:16.080Z"
     },
     {
       "index": 241,
@@ -2972,7 +2972,7 @@ DATA = {
       "forks": 3,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:15.953Z"
+      "repository_data_timestamp": "2022-12-02T02:00:16.147Z"
     },
     {
       "index": 242,
@@ -2992,7 +2992,7 @@ DATA = {
       "forks": 6,
       "subscribers": 102,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:16.016Z"
+      "repository_data_timestamp": "2022-12-02T02:00:16.201Z"
     },
     {
       "index": 243,
@@ -3012,7 +3012,7 @@ DATA = {
       "forks": 376,
       "subscribers": 96,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:16.057Z"
+      "repository_data_timestamp": "2022-12-02T02:00:16.186Z"
     },
     {
       "index": 244,
@@ -3032,7 +3032,7 @@ DATA = {
       "forks": 105,
       "subscribers": 28,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:16.061Z"
+      "repository_data_timestamp": "2022-12-02T02:00:16.197Z"
     },
     {
       "index": 245,
@@ -3052,7 +3052,7 @@ DATA = {
       "forks": 49,
       "subscribers": 14,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:16.069Z"
+      "repository_data_timestamp": "2022-12-02T02:00:16.214Z"
     },
     {
       "index": 246,
@@ -3068,11 +3068,11 @@ DATA = {
       },
       "created_at": "2015-02-03T14:09:27.000Z",
       "last_commit_at": "2022-11-09T14:24:56.000Z",
-      "stars": 12228,
+      "stars": 12230,
       "forks": 759,
       "subscribers": 286,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:16.152Z"
+      "repository_data_timestamp": "2022-12-02T02:00:16.264Z"
     },
     {
       "index": 247,
@@ -3092,7 +3092,7 @@ DATA = {
       "forks": 77,
       "subscribers": 18,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:16.183Z"
+      "repository_data_timestamp": "2022-12-02T02:00:16.342Z"
     },
     {
       "index": 248,
@@ -3112,7 +3112,7 @@ DATA = {
       "forks": 122,
       "subscribers": 34,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:16.223Z"
+      "repository_data_timestamp": "2022-12-02T02:00:16.392Z"
     },
     {
       "index": 249,
@@ -3132,7 +3132,7 @@ DATA = {
       "forks": 31,
       "subscribers": 14,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:16.197Z"
+      "repository_data_timestamp": "2022-12-02T02:00:16.372Z"
     },
     {
       "index": 250,
@@ -3148,11 +3148,11 @@ DATA = {
       },
       "created_at": "2019-12-29T07:41:23.000Z",
       "last_commit_at": "2022-01-03T06:35:23.000Z",
-      "stars": 385,
+      "stars": 384,
       "forks": 11,
       "subscribers": 4,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:16.219Z"
+      "repository_data_timestamp": "2022-12-02T02:00:16.386Z"
     },
     {
       "index": 251,
@@ -3172,7 +3172,7 @@ DATA = {
       "forks": 3,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:16.276Z"
+      "repository_data_timestamp": "2022-12-02T02:00:16.446Z"
     },
     {
       "index": 252,
@@ -3188,11 +3188,11 @@ DATA = {
       },
       "created_at": "2017-11-24T06:42:20.000Z",
       "last_commit_at": "2022-10-31T14:00:31.000Z",
-      "stars": 478,
+      "stars": 479,
       "forks": 53,
       "subscribers": 14,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:16.285Z"
+      "repository_data_timestamp": "2022-12-02T02:00:16.457Z"
     },
     {
       "index": 253,
@@ -3212,7 +3212,7 @@ DATA = {
       "forks": 7,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:16.340Z"
+      "repository_data_timestamp": "2022-12-02T02:00:16.486Z"
     },
     {
       "index": 254,
@@ -3227,12 +3227,12 @@ DATA = {
         "name": "carapace"
       },
       "created_at": "2020-03-17T15:25:23.000Z",
-      "last_commit_at": "2022-11-28T23:58:47.000Z",
+      "last_commit_at": "2022-12-02T00:42:03.000Z",
       "stars": 64,
       "forks": 4,
       "subscribers": 3,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:16.365Z"
+      "repository_data_timestamp": "2022-12-02T02:00:16.499Z"
     },
     {
       "index": 255,
@@ -3247,12 +3247,12 @@ DATA = {
         "name": "carapace-bin"
       },
       "created_at": "2020-04-20T20:49:41.000Z",
-      "last_commit_at": "2022-11-30T16:46:05.000Z",
+      "last_commit_at": "2022-12-01T21:26:56.000Z",
       "stars": 110,
       "forks": 12,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:16.376Z"
+      "repository_data_timestamp": "2022-12-02T02:00:16.505Z"
     },
     {
       "index": 256,
@@ -3272,7 +3272,7 @@ DATA = {
       "forks": 0,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:16.435Z"
+      "repository_data_timestamp": "2022-12-02T02:00:16.583Z"
     },
     {
       "index": 257,
@@ -3288,11 +3288,11 @@ DATA = {
       },
       "created_at": "2016-02-26T16:45:29.000Z",
       "last_commit_at": "2022-05-17T10:44:09.000Z",
-      "stars": 675,
+      "stars": 676,
       "forks": 45,
       "subscribers": 23,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:16.460Z"
+      "repository_data_timestamp": "2022-12-02T02:00:16.630Z"
     },
     {
       "index": 258,
@@ -3312,7 +3312,7 @@ DATA = {
       "forks": 8,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:16.487Z"
+      "repository_data_timestamp": "2022-12-02T02:00:16.679Z"
     },
     {
       "index": 259,
@@ -3328,11 +3328,11 @@ DATA = {
       },
       "created_at": "2015-11-03T21:04:57.000Z",
       "last_commit_at": "2020-09-05T07:02:16.000Z",
-      "stars": 203,
+      "stars": 204,
       "forks": 16,
       "subscribers": 12,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:16.529Z"
+      "repository_data_timestamp": "2022-12-02T02:00:16.658Z"
     },
     {
       "index": 260,
@@ -3352,7 +3352,7 @@ DATA = {
       "forks": 13,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:16.535Z"
+      "repository_data_timestamp": "2022-12-02T02:00:16.684Z"
     },
     {
       "index": 261,
@@ -3372,7 +3372,7 @@ DATA = {
       "forks": 2,
       "subscribers": 2,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:16.559Z"
+      "repository_data_timestamp": "2022-12-02T02:00:16.748Z"
     },
     {
       "index": 262,
@@ -3392,7 +3392,7 @@ DATA = {
       "forks": 8,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:16.592Z"
+      "repository_data_timestamp": "2022-12-02T02:00:16.762Z"
     },
     {
       "index": 263,
@@ -3408,11 +3408,11 @@ DATA = {
       },
       "created_at": "2013-09-03T20:40:26.000Z",
       "last_commit_at": "2022-11-28T21:44:32.000Z",
-      "stars": 29748,
+      "stars": 29768,
       "forks": 2557,
       "subscribers": 358,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:16.623Z"
+      "repository_data_timestamp": "2022-12-02T02:00:16.789Z"
     },
     {
       "index": 264,
@@ -3432,7 +3432,7 @@ DATA = {
       "forks": 2,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:16.642Z"
+      "repository_data_timestamp": "2022-12-02T02:00:16.761Z"
     },
     {
       "index": 265,
@@ -3448,11 +3448,11 @@ DATA = {
       },
       "created_at": "2017-10-12T02:51:05.000Z",
       "last_commit_at": "2022-09-20T17:55:00.000Z",
-      "stars": 161,
+      "stars": 162,
       "forks": 15,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:16.714Z"
+      "repository_data_timestamp": "2022-12-02T02:00:16.801Z"
     },
     {
       "index": 266,
@@ -3472,7 +3472,7 @@ DATA = {
       "forks": 69,
       "subscribers": 14,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:16.770Z"
+      "repository_data_timestamp": "2022-12-02T02:00:16.933Z"
     },
     {
       "index": 267,
@@ -3492,7 +3492,7 @@ DATA = {
       "forks": 103,
       "subscribers": 34,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:16.852Z"
+      "repository_data_timestamp": "2022-12-02T02:00:16.958Z"
     },
     {
       "index": 268,
@@ -3508,11 +3508,11 @@ DATA = {
       },
       "created_at": "2013-06-16T08:43:32.000Z",
       "last_commit_at": "2022-11-30T12:57:30.000Z",
-      "stars": 4898,
+      "stars": 4897,
       "forks": 277,
       "subscribers": 110,
       "license": "bsd-2-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:16.843Z"
+      "repository_data_timestamp": "2022-12-02T02:00:16.942Z"
     },
     {
       "index": 269,
@@ -3532,7 +3532,7 @@ DATA = {
       "forks": 10,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:16.820Z"
+      "repository_data_timestamp": "2022-12-02T02:00:16.958Z"
     },
     {
       "index": 270,
@@ -3552,7 +3552,7 @@ DATA = {
       "forks": 7,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:16.807Z"
+      "repository_data_timestamp": "2022-12-02T02:00:16.988Z"
     },
     {
       "index": 271,
@@ -3572,7 +3572,7 @@ DATA = {
       "forks": 31,
       "subscribers": 16,
       "license": "unlicense",
-      "repository_data_timestamp": "2022-12-01T02:00:16.866Z"
+      "repository_data_timestamp": "2022-12-02T02:00:17.038Z"
     },
     {
       "index": 272,
@@ -3592,7 +3592,7 @@ DATA = {
       "forks": 3,
       "subscribers": 3,
       "license": "unlicense",
-      "repository_data_timestamp": "2022-12-01T02:00:16.959Z"
+      "repository_data_timestamp": "2022-12-02T02:00:17.036Z"
     },
     {
       "index": 273,
@@ -3612,7 +3612,7 @@ DATA = {
       "forks": 1,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:17.192Z"
+      "repository_data_timestamp": "2022-12-02T02:00:17.393Z"
     },
     {
       "index": 274,
@@ -3628,11 +3628,11 @@ DATA = {
       },
       "created_at": "2015-11-01T01:30:06.000Z",
       "last_commit_at": "2022-10-29T19:29:13.000Z",
-      "stars": 1523,
+      "stars": 1525,
       "forks": 84,
       "subscribers": 14,
       "license": "bsd-2-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:16.925Z"
+      "repository_data_timestamp": "2022-12-02T02:00:17.150Z"
     },
     {
       "index": 275,
@@ -3652,7 +3652,7 @@ DATA = {
       "forks": 5,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:16.998Z"
+      "repository_data_timestamp": "2022-12-02T02:00:17.093Z"
     },
     {
       "index": 276,
@@ -3667,12 +3667,12 @@ DATA = {
         "name": "go-flags"
       },
       "created_at": "2012-08-31T13:57:58.000Z",
-      "last_commit_at": "2022-11-23T16:22:51.000Z",
+      "last_commit_at": "2022-12-01T09:31:37.000Z",
       "stars": 2330,
-      "forks": 278,
+      "forks": 279,
       "subscribers": 28,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:17.067Z"
+      "repository_data_timestamp": "2022-12-02T02:00:17.214Z"
     },
     {
       "index": 277,
@@ -3687,12 +3687,12 @@ DATA = {
         "name": "go-getoptions"
       },
       "created_at": "2015-12-18T02:21:14.000Z",
-      "last_commit_at": "2022-06-24T00:09:50.000Z",
+      "last_commit_at": "2022-12-01T06:40:45.000Z",
       "stars": 46,
       "forks": 10,
       "subscribers": 4,
       "license": "mpl-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:17.115Z"
+      "repository_data_timestamp": "2022-12-02T02:00:17.226Z"
     },
     {
       "index": 278,
@@ -3712,7 +3712,7 @@ DATA = {
       "forks": 5,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:17.150Z"
+      "repository_data_timestamp": "2022-12-02T02:00:17.251Z"
     },
     {
       "index": 279,
@@ -3732,7 +3732,7 @@ DATA = {
       "forks": 27,
       "subscribers": 14,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:17.143Z"
+      "repository_data_timestamp": "2022-12-02T02:00:17.282Z"
     },
     {
       "index": 280,
@@ -3752,7 +3752,7 @@ DATA = {
       "forks": 10,
       "subscribers": 1,
       "license": null,
-      "repository_data_timestamp": "2022-12-01T02:00:17.182Z"
+      "repository_data_timestamp": "2022-12-02T02:00:17.272Z"
     },
     {
       "index": 281,
@@ -3768,11 +3768,11 @@ DATA = {
       },
       "created_at": "2014-05-14T20:09:04.000Z",
       "last_commit_at": "2022-06-15T10:59:08.000Z",
-      "stars": 3271,
+      "stars": 3272,
       "forks": 256,
       "subscribers": 53,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:17.165Z"
+      "repository_data_timestamp": "2022-12-02T02:00:17.342Z"
     },
     {
       "index": 282,
@@ -3789,10 +3789,10 @@ DATA = {
       "created_at": "2012-08-15T16:34:55.000Z",
       "last_commit_at": "2022-09-05T08:25:02.000Z",
       "stars": 940,
-      "forks": 126,
+      "forks": 127,
       "subscribers": 22,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:17.223Z"
+      "repository_data_timestamp": "2022-12-02T02:00:17.325Z"
     },
     {
       "index": 283,
@@ -3812,7 +3812,7 @@ DATA = {
       "forks": 0,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:17.264Z"
+      "repository_data_timestamp": "2022-12-02T02:00:17.376Z"
     },
     {
       "index": 284,
@@ -3832,7 +3832,7 @@ DATA = {
       "forks": 120,
       "subscribers": 25,
       "license": "mpl-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:17.282Z"
+      "repository_data_timestamp": "2022-12-02T02:00:17.448Z"
     },
     {
       "index": 285,
@@ -3848,11 +3848,11 @@ DATA = {
       },
       "created_at": "2014-12-18T19:34:20.000Z",
       "last_commit_at": "2022-11-27T06:05:23.000Z",
-      "stars": 837,
+      "stars": 838,
       "forks": 53,
       "subscribers": 21,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:17.367Z"
+      "repository_data_timestamp": "2022-12-02T02:00:17.550Z"
     },
     {
       "index": 286,
@@ -3872,7 +3872,7 @@ DATA = {
       "forks": 104,
       "subscribers": 27,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:17.424Z"
+      "repository_data_timestamp": "2022-12-02T02:00:17.508Z"
     },
     {
       "index": 287,
@@ -3888,11 +3888,11 @@ DATA = {
       },
       "created_at": "2013-08-30T14:53:31.000Z",
       "last_commit_at": "2022-11-19T16:43:44.000Z",
-      "stars": 1961,
+      "stars": 1962,
       "forks": 313,
       "subscribers": 30,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:17.494Z"
+      "repository_data_timestamp": "2022-12-02T02:00:17.560Z"
     },
     {
       "index": 288,
@@ -3912,7 +3912,7 @@ DATA = {
       "forks": 2,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:17.458Z"
+      "repository_data_timestamp": "2022-12-02T02:00:17.546Z"
     },
     {
       "index": 289,
@@ -3932,7 +3932,7 @@ DATA = {
       "forks": 31,
       "subscribers": 8,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:17.505Z"
+      "repository_data_timestamp": "2022-12-02T02:00:17.592Z"
     },
     {
       "index": 290,
@@ -3952,7 +3952,7 @@ DATA = {
       "forks": 5,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:17.494Z"
+      "repository_data_timestamp": "2022-12-02T02:00:17.616Z"
     },
     {
       "index": 291,
@@ -3972,7 +3972,7 @@ DATA = {
       "forks": 0,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:17.505Z"
+      "repository_data_timestamp": "2022-12-02T02:00:17.654Z"
     },
     {
       "index": 292,
@@ -3992,7 +3992,7 @@ DATA = {
       "forks": 3,
       "subscribers": 0,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:17.523Z"
+      "repository_data_timestamp": "2022-12-02T02:00:17.679Z"
     },
     {
       "index": 293,
@@ -4012,7 +4012,7 @@ DATA = {
       "forks": 13,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:17.563Z"
+      "repository_data_timestamp": "2022-12-02T02:00:17.693Z"
     },
     {
       "index": 294,
@@ -4027,12 +4027,12 @@ DATA = {
         "name": "cli"
       },
       "created_at": "2013-07-13T19:32:06.000Z",
-      "last_commit_at": "2022-11-30T23:44:16.000Z",
-      "stars": 19377,
-      "forks": 1642,
+      "last_commit_at": "2022-12-01T15:20:08.000Z",
+      "stars": 19388,
+      "forks": 1643,
       "subscribers": 300,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:17.605Z"
+      "repository_data_timestamp": "2022-12-02T02:00:17.742Z"
     },
     {
       "index": 295,
@@ -4052,7 +4052,7 @@ DATA = {
       "forks": 2,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:17.644Z"
+      "repository_data_timestamp": "2022-12-02T02:00:17.824Z"
     },
     {
       "index": 296,
@@ -4072,7 +4072,7 @@ DATA = {
       "forks": 7,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:17.711Z"
+      "repository_data_timestamp": "2022-12-02T02:00:17.839Z"
     },
     {
       "index": 297,
@@ -4092,7 +4092,7 @@ DATA = {
       "forks": 22,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:17.766Z"
+      "repository_data_timestamp": "2022-12-02T02:00:17.849Z"
     },
     {
       "index": 298,
@@ -4111,7 +4111,7 @@ DATA = {
       "forks": 28,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:17.813Z"
+      "repository_data_timestamp": "2022-12-02T02:00:17.897Z"
     },
     {
       "index": 299,
@@ -4126,11 +4126,11 @@ DATA = {
       },
       "created_at": "2019-07-12T15:28:52.000Z",
       "last_commit_at": "2022-11-22T20:55:07.000Z",
-      "stars": 797,
+      "stars": 799,
       "forks": 74,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:17.809Z"
+      "repository_data_timestamp": "2022-12-02T02:00:17.896Z"
     },
     {
       "index": 300,
@@ -4149,7 +4149,7 @@ DATA = {
       "forks": 16,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:17.828Z"
+      "repository_data_timestamp": "2022-12-02T02:00:17.902Z"
     },
     {
       "index": 301,
@@ -4168,7 +4168,7 @@ DATA = {
       "forks": 2,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:17.826Z"
+      "repository_data_timestamp": "2022-12-02T02:00:17.947Z"
     },
     {
       "index": 302,
@@ -4187,7 +4187,7 @@ DATA = {
       "forks": 45,
       "subscribers": 9,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:17.833Z"
+      "repository_data_timestamp": "2022-12-02T02:00:17.982Z"
     },
     {
       "index": 303,
@@ -4206,7 +4206,7 @@ DATA = {
       "forks": 8,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:17.873Z"
+      "repository_data_timestamp": "2022-12-02T02:00:17.970Z"
     },
     {
       "index": 304,
@@ -4225,7 +4225,7 @@ DATA = {
       "forks": 10,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:17.900Z"
+      "repository_data_timestamp": "2022-12-02T02:00:18.021Z"
     },
     {
       "index": 305,
@@ -4244,7 +4244,7 @@ DATA = {
       "forks": 11,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:17.942Z"
+      "repository_data_timestamp": "2022-12-02T02:00:18.121Z"
     },
     {
       "index": 306,
@@ -4259,11 +4259,11 @@ DATA = {
       },
       "created_at": "2017-12-21T10:49:18.000Z",
       "last_commit_at": "2022-10-29T22:49:20.000Z",
-      "stars": 455,
+      "stars": 454,
       "forks": 51,
       "subscribers": 23,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:18.044Z"
+      "repository_data_timestamp": "2022-12-02T02:00:18.130Z"
     },
     {
       "index": 307,
@@ -4282,7 +4282,7 @@ DATA = {
       "forks": 4,
       "subscribers": 0,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:18.062Z"
+      "repository_data_timestamp": "2022-12-02T02:00:18.155Z"
     },
     {
       "index": 308,
@@ -4297,11 +4297,11 @@ DATA = {
       },
       "created_at": "2015-07-28T02:14:37.000Z",
       "last_commit_at": "2022-11-15T20:25:16.000Z",
-      "stars": 2933,
+      "stars": 2935,
       "forks": 193,
       "subscribers": 22,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:18.108Z"
+      "repository_data_timestamp": "2022-12-02T02:00:18.233Z"
     },
     {
       "index": 309,
@@ -4320,7 +4320,7 @@ DATA = {
       "forks": 2,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:18.402Z"
+      "repository_data_timestamp": "2022-12-02T02:00:18.490Z"
     },
     {
       "index": 310,
@@ -4339,7 +4339,7 @@ DATA = {
       "forks": 9,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:18.120Z"
+      "repository_data_timestamp": "2022-12-02T02:00:18.234Z"
     },
     {
       "index": 311,
@@ -4358,7 +4358,7 @@ DATA = {
       "forks": 5,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:18.131Z"
+      "repository_data_timestamp": "2022-12-02T02:00:18.245Z"
     },
     {
       "index": 312,
@@ -4377,7 +4377,7 @@ DATA = {
       "forks": 29,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:18.151Z"
+      "repository_data_timestamp": "2022-12-02T02:00:18.283Z"
     },
     {
       "index": 313,
@@ -4396,7 +4396,7 @@ DATA = {
       "forks": 2,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:18.185Z"
+      "repository_data_timestamp": "2022-12-02T02:00:18.286Z"
     },
     {
       "index": 314,
@@ -4415,7 +4415,7 @@ DATA = {
       "forks": 22,
       "subscribers": 5,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:18.224Z"
+      "repository_data_timestamp": "2022-12-02T02:00:18.334Z"
     },
     {
       "index": 315,
@@ -4434,7 +4434,7 @@ DATA = {
       "forks": 55,
       "subscribers": 7,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:18.253Z"
+      "repository_data_timestamp": "2022-12-02T02:00:18.447Z"
     },
     {
       "index": 316,
@@ -4453,7 +4453,7 @@ DATA = {
       "forks": 2,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:18.345Z"
+      "repository_data_timestamp": "2022-12-02T02:00:18.446Z"
     },
     {
       "index": 317,
@@ -4472,7 +4472,7 @@ DATA = {
       "forks": 13,
       "subscribers": 37,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:18.385Z"
+      "repository_data_timestamp": "2022-12-02T02:00:18.483Z"
     },
     {
       "index": 318,
@@ -4491,7 +4491,7 @@ DATA = {
       "forks": 2,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:18.432Z"
+      "repository_data_timestamp": "2022-12-02T02:00:18.553Z"
     },
     {
       "index": 319,
@@ -4510,7 +4510,7 @@ DATA = {
       "forks": 3,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:18.432Z"
+      "repository_data_timestamp": "2022-12-02T02:00:18.553Z"
     },
     {
       "index": 320,
@@ -4529,7 +4529,7 @@ DATA = {
       "forks": 13,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:18.448Z"
+      "repository_data_timestamp": "2022-12-02T02:00:18.539Z"
     },
     {
       "index": 321,
@@ -4548,7 +4548,7 @@ DATA = {
       "forks": 8,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:18.447Z"
+      "repository_data_timestamp": "2022-12-02T02:00:18.558Z"
     },
     {
       "index": 322,
@@ -4567,7 +4567,7 @@ DATA = {
       "forks": 0,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:18.479Z"
+      "repository_data_timestamp": "2022-12-02T02:00:18.581Z"
     },
     {
       "index": 323,
@@ -4582,11 +4582,11 @@ DATA = {
       },
       "created_at": "2013-07-30T07:45:19.000Z",
       "last_commit_at": "2022-10-30T01:38:35.000Z",
-      "stars": 5541,
-      "forks": 317,
+      "stars": 5543,
+      "forks": 318,
       "subscribers": 42,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:18.554Z"
+      "repository_data_timestamp": "2022-12-02T02:00:18.623Z"
     },
     {
       "index": 324,
@@ -4605,7 +4605,7 @@ DATA = {
       "forks": 9,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:18.563Z"
+      "repository_data_timestamp": "2022-12-02T02:00:18.737Z"
     },
     {
       "index": 325,
@@ -4624,7 +4624,7 @@ DATA = {
       "forks": 26,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:18.685Z"
+      "repository_data_timestamp": "2022-12-02T02:00:18.794Z"
     },
     {
       "index": 326,
@@ -4643,7 +4643,7 @@ DATA = {
       "forks": 8,
       "subscribers": 9,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:18.664Z"
+      "repository_data_timestamp": "2022-12-02T02:00:18.791Z"
     },
     {
       "index": 327,
@@ -4662,7 +4662,7 @@ DATA = {
       "forks": 1,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:18.955Z"
+      "repository_data_timestamp": "2022-12-02T02:00:19.037Z"
     },
     {
       "index": 328,
@@ -4677,11 +4677,11 @@ DATA = {
       },
       "created_at": "2018-07-07T08:11:39.000Z",
       "last_commit_at": "2022-11-29T21:12:36.000Z",
-      "stars": 414,
+      "stars": 415,
       "forks": 44,
       "subscribers": 12,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:18.745Z"
+      "repository_data_timestamp": "2022-12-02T02:00:18.847Z"
     },
     {
       "index": 329,
@@ -4700,7 +4700,7 @@ DATA = {
       "forks": 27,
       "subscribers": 14,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:18.723Z"
+      "repository_data_timestamp": "2022-12-02T02:00:18.852Z"
     },
     {
       "index": 330,
@@ -4714,12 +4714,12 @@ DATA = {
         "name": "hjson-go"
       },
       "created_at": "2016-08-05T22:59:18.000Z",
-      "last_commit_at": "2022-09-26T22:21:48.000Z",
+      "last_commit_at": "2022-12-01T13:56:14.000Z",
       "stars": 283,
       "forks": 39,
       "subscribers": 10,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:18.772Z"
+      "repository_data_timestamp": "2022-12-02T02:00:18.867Z"
     },
     {
       "index": 331,
@@ -4738,7 +4738,7 @@ DATA = {
       "forks": 12,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:18.731Z"
+      "repository_data_timestamp": "2022-12-02T02:00:18.881Z"
     },
     {
       "index": 332,
@@ -4757,7 +4757,7 @@ DATA = {
       "forks": 10,
       "subscribers": 2,
       "license": "isc",
-      "repository_data_timestamp": "2022-12-01T02:00:18.773Z"
+      "repository_data_timestamp": "2022-12-02T02:00:18.893Z"
     },
     {
       "index": 333,
@@ -4772,11 +4772,11 @@ DATA = {
       },
       "created_at": "2014-12-18T07:36:37.000Z",
       "last_commit_at": "2022-11-11T03:22:16.000Z",
-      "stars": 3124,
+      "stars": 3125,
       "forks": 354,
       "subscribers": 75,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:18.858Z"
+      "repository_data_timestamp": "2022-12-02T02:00:18.909Z"
     },
     {
       "index": 334,
@@ -4795,7 +4795,7 @@ DATA = {
       "forks": 2,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:18.845Z"
+      "repository_data_timestamp": "2022-12-02T02:00:19.019Z"
     },
     {
       "index": 335,
@@ -4814,7 +4814,7 @@ DATA = {
       "forks": 14,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:18.943Z"
+      "repository_data_timestamp": "2022-12-02T02:00:19.084Z"
     },
     {
       "index": 336,
@@ -4829,11 +4829,11 @@ DATA = {
       },
       "created_at": "2013-11-06T17:01:55.000Z",
       "last_commit_at": "2022-09-13T22:07:16.000Z",
-      "stars": 4336,
+      "stars": 4338,
       "forks": 353,
       "subscribers": 36,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:19.007Z"
+      "repository_data_timestamp": "2022-12-02T02:00:19.094Z"
     },
     {
       "index": 337,
@@ -4848,11 +4848,11 @@ DATA = {
       },
       "created_at": "2019-06-18T06:34:05.000Z",
       "last_commit_at": "2022-11-28T03:51:01.000Z",
-      "stars": 1301,
+      "stars": 1303,
       "forks": 96,
       "subscribers": 18,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:19.007Z"
+      "repository_data_timestamp": "2022-12-02T02:00:19.145Z"
     },
     {
       "index": 338,
@@ -4871,7 +4871,7 @@ DATA = {
       "forks": 52,
       "subscribers": 14,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:19.040Z"
+      "repository_data_timestamp": "2022-12-02T02:00:19.160Z"
     },
     {
       "index": 339,
@@ -4890,7 +4890,7 @@ DATA = {
       "forks": 105,
       "subscribers": 14,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:19.029Z"
+      "repository_data_timestamp": "2022-12-02T02:00:19.164Z"
     },
     {
       "index": 340,
@@ -4909,7 +4909,7 @@ DATA = {
       "forks": 7,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:19.128Z"
+      "repository_data_timestamp": "2022-12-02T02:00:19.206Z"
     },
     {
       "index": 341,
@@ -4928,7 +4928,7 @@ DATA = {
       "forks": 3,
       "subscribers": 0,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:19.073Z"
+      "repository_data_timestamp": "2022-12-02T02:00:19.180Z"
     },
     {
       "index": 342,
@@ -4947,7 +4947,7 @@ DATA = {
       "forks": 2,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:19.135Z"
+      "repository_data_timestamp": "2022-12-02T02:00:19.193Z"
     },
     {
       "index": 343,
@@ -4966,7 +4966,7 @@ DATA = {
       "forks": 12,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:19.162Z"
+      "repository_data_timestamp": "2022-12-02T02:00:19.353Z"
     },
     {
       "index": 344,
@@ -4985,7 +4985,7 @@ DATA = {
       "forks": 0,
       "subscribers": 2,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:19.222Z"
+      "repository_data_timestamp": "2022-12-02T02:00:19.320Z"
     },
     {
       "index": 345,
@@ -5004,7 +5004,7 @@ DATA = {
       "forks": 20,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:19.294Z"
+      "repository_data_timestamp": "2022-12-02T02:00:19.377Z"
     },
     {
       "index": 346,
@@ -5023,7 +5023,7 @@ DATA = {
       "forks": 3,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:19.314Z"
+      "repository_data_timestamp": "2022-12-02T02:00:19.400Z"
     },
     {
       "index": 347,
@@ -5042,7 +5042,7 @@ DATA = {
       "forks": 1,
       "subscribers": 1,
       "license": "unlicense",
-      "repository_data_timestamp": "2022-12-01T02:00:19.315Z"
+      "repository_data_timestamp": "2022-12-02T02:00:19.465Z"
     },
     {
       "index": 348,
@@ -5061,7 +5061,7 @@ DATA = {
       "forks": 7,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:19.326Z"
+      "repository_data_timestamp": "2022-12-02T02:00:19.415Z"
     },
     {
       "index": 349,
@@ -5076,11 +5076,11 @@ DATA = {
       },
       "created_at": "2014-04-02T14:33:33.000Z",
       "last_commit_at": "2022-11-19T14:01:32.000Z",
-      "stars": 21345,
-      "forks": 1794,
+      "stars": 21362,
+      "forks": 1796,
       "subscribers": 249,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:19.333Z"
+      "repository_data_timestamp": "2022-12-02T02:00:19.457Z"
     },
     {
       "index": 350,
@@ -5099,7 +5099,7 @@ DATA = {
       "forks": 21,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:19.348Z"
+      "repository_data_timestamp": "2022-12-02T02:00:19.465Z"
     },
     {
       "index": 351,
@@ -5118,7 +5118,7 @@ DATA = {
       "forks": 7,
       "subscribers": 4,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:19.436Z"
+      "repository_data_timestamp": "2022-12-02T02:00:19.513Z"
     },
     {
       "index": 352,
@@ -5132,12 +5132,12 @@ DATA = {
         "name": "cds"
       },
       "created_at": "2016-10-11T08:28:23.000Z",
-      "last_commit_at": "2022-11-30T10:49:58.000Z",
+      "last_commit_at": "2022-12-01T22:12:12.000Z",
       "stars": 4042,
       "forks": 385,
       "subscribers": 88,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:19.448Z"
+      "repository_data_timestamp": "2022-12-02T02:00:19.478Z"
     },
     {
       "index": 353,
@@ -5152,11 +5152,11 @@ DATA = {
       },
       "created_at": "2014-02-07T07:54:44.000Z",
       "last_commit_at": "2022-11-30T18:33:02.000Z",
-      "stars": 26114,
-      "forks": 2556,
+      "stars": 26122,
+      "forks": 2558,
       "subscribers": 555,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:19.751Z"
+      "repository_data_timestamp": "2022-12-02T02:00:19.887Z"
     },
     {
       "index": 354,
@@ -5175,7 +5175,7 @@ DATA = {
       "forks": 4,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:19.526Z"
+      "repository_data_timestamp": "2022-12-02T02:00:19.627Z"
     },
     {
       "index": 355,
@@ -5194,7 +5194,7 @@ DATA = {
       "forks": 1,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:19.593Z"
+      "repository_data_timestamp": "2022-12-02T02:00:19.675Z"
     },
     {
       "index": 356,
@@ -5213,7 +5213,7 @@ DATA = {
       "forks": 8,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:19.600Z"
+      "repository_data_timestamp": "2022-12-02T02:00:19.679Z"
     },
     {
       "index": 357,
@@ -5228,11 +5228,11 @@ DATA = {
       },
       "created_at": "2021-04-29T21:17:30.000Z",
       "last_commit_at": "2022-10-26T14:45:36.000Z",
-      "stars": 338,
+      "stars": 341,
       "forks": 6,
       "subscribers": 2,
       "license": "unlicense",
-      "repository_data_timestamp": "2022-12-01T02:00:19.615Z"
+      "repository_data_timestamp": "2022-12-02T02:00:19.709Z"
     },
     {
       "index": 358,
@@ -5247,11 +5247,11 @@ DATA = {
       },
       "created_at": "2013-04-17T10:58:40.000Z",
       "last_commit_at": "2022-10-21T03:18:11.000Z",
-      "stars": 747,
+      "stars": 748,
       "forks": 136,
       "subscribers": 13,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:19.630Z"
+      "repository_data_timestamp": "2022-12-02T02:00:19.754Z"
     },
     {
       "index": 359,
@@ -5270,7 +5270,7 @@ DATA = {
       "forks": 25,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:19.627Z"
+      "repository_data_timestamp": "2022-12-02T02:00:19.778Z"
     },
     {
       "index": 360,
@@ -5289,7 +5289,7 @@ DATA = {
       "forks": 5,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:19.648Z"
+      "repository_data_timestamp": "2022-12-02T02:00:19.778Z"
     },
     {
       "index": 361,
@@ -5303,12 +5303,12 @@ DATA = {
         "name": "woodpecker"
       },
       "created_at": "2019-04-03T18:06:38.000Z",
-      "last_commit_at": "2022-11-30T18:00:32.000Z",
-      "stars": 1804,
-      "forks": 182,
+      "last_commit_at": "2022-12-01T20:41:36.000Z",
+      "stars": 1810,
+      "forks": 181,
       "subscribers": 25,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:19.731Z"
+      "repository_data_timestamp": "2022-12-02T02:00:19.783Z"
     },
     {
       "index": 362,
@@ -5327,7 +5327,7 @@ DATA = {
       "forks": 37,
       "subscribers": 16,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:19.770Z"
+      "repository_data_timestamp": "2022-12-02T02:00:19.793Z"
     },
     {
       "index": 363,
@@ -5346,7 +5346,7 @@ DATA = {
       "forks": 24,
       "subscribers": 8,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:19.823Z"
+      "repository_data_timestamp": "2022-12-02T02:00:19.950Z"
     },
     {
       "index": 364,
@@ -5366,7 +5366,7 @@ DATA = {
       "forks": 2,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:19.873Z"
+      "repository_data_timestamp": "2022-12-02T02:00:19.995Z"
     },
     {
       "index": 365,
@@ -5382,11 +5382,11 @@ DATA = {
       },
       "created_at": "2016-02-02T10:06:11.000Z",
       "last_commit_at": "2021-10-08T04:16:12.000Z",
-      "stars": 199,
+      "stars": 200,
       "forks": 34,
       "subscribers": 13,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:19.909Z"
+      "repository_data_timestamp": "2022-12-02T02:00:19.950Z"
     },
     {
       "index": 366,
@@ -5406,7 +5406,7 @@ DATA = {
       "forks": 23,
       "subscribers": 10,
       "license": "bsd-2-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:19.924Z"
+      "repository_data_timestamp": "2022-12-02T02:00:20.020Z"
     },
     {
       "index": 367,
@@ -5426,7 +5426,7 @@ DATA = {
       "forks": 8,
       "subscribers": 6,
       "license": "mpl-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:19.914Z"
+      "repository_data_timestamp": "2022-12-02T02:00:20.027Z"
     },
     {
       "index": 368,
@@ -5446,7 +5446,7 @@ DATA = {
       "forks": 7,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:19.933Z"
+      "repository_data_timestamp": "2022-12-02T02:00:20.071Z"
     },
     {
       "index": 369,
@@ -5466,7 +5466,7 @@ DATA = {
       "forks": 187,
       "subscribers": 38,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:19.955Z"
+      "repository_data_timestamp": "2022-12-02T02:00:20.090Z"
     },
     {
       "index": 370,
@@ -5486,7 +5486,7 @@ DATA = {
       "forks": 14,
       "subscribers": 8,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:20.005Z"
+      "repository_data_timestamp": "2022-12-02T02:00:20.105Z"
     },
     {
       "index": 371,
@@ -5502,11 +5502,11 @@ DATA = {
       },
       "created_at": "2011-05-11T03:33:44.000Z",
       "last_commit_at": "2022-11-18T16:57:45.000Z",
-      "stars": 1014,
+      "stars": 1016,
       "forks": 157,
       "subscribers": 31,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:20.069Z"
+      "repository_data_timestamp": "2022-12-02T02:00:20.120Z"
     },
     {
       "index": 372,
@@ -5522,11 +5522,11 @@ DATA = {
       },
       "created_at": "2011-05-21T14:18:41.000Z",
       "last_commit_at": "2022-09-07T19:29:58.000Z",
-      "stars": 1733,
+      "stars": 1734,
       "forks": 208,
       "subscribers": 40,
       "license": "bsd-2-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:20.062Z"
+      "repository_data_timestamp": "2022-12-02T02:00:20.186Z"
     },
     {
       "index": 373,
@@ -5546,7 +5546,7 @@ DATA = {
       "forks": 19,
       "subscribers": 8,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:20.379Z"
+      "repository_data_timestamp": "2022-12-02T02:00:20.488Z"
     },
     {
       "index": 374,
@@ -5566,7 +5566,7 @@ DATA = {
       "forks": 10,
       "subscribers": 3,
       "license": "bsd-2-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:20.179Z"
+      "repository_data_timestamp": "2022-12-02T02:00:20.244Z"
     },
     {
       "index": 375,
@@ -5586,7 +5586,7 @@ DATA = {
       "forks": 3,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:20.201Z"
+      "repository_data_timestamp": "2022-12-02T02:00:20.286Z"
     },
     {
       "index": 376,
@@ -5602,11 +5602,11 @@ DATA = {
       },
       "created_at": "2015-02-06T02:01:26.000Z",
       "last_commit_at": "2021-03-15T20:15:27.000Z",
-      "stars": 1498,
+      "stars": 1499,
       "forks": 108,
       "subscribers": 40,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:20.208Z"
+      "repository_data_timestamp": "2022-12-02T02:00:20.324Z"
     },
     {
       "index": 377,
@@ -5626,7 +5626,7 @@ DATA = {
       "forks": 22,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:20.217Z"
+      "repository_data_timestamp": "2022-12-02T02:00:20.328Z"
     },
     {
       "index": 378,
@@ -5646,7 +5646,7 @@ DATA = {
       "forks": 88,
       "subscribers": 21,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:20.238Z"
+      "repository_data_timestamp": "2022-12-02T02:00:20.339Z"
     },
     {
       "index": 379,
@@ -5666,7 +5666,7 @@ DATA = {
       "forks": 17,
       "subscribers": 1,
       "license": "bsd-2-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:20.489Z"
+      "repository_data_timestamp": "2022-12-02T02:00:21.078Z"
     },
     {
       "index": 380,
@@ -5682,11 +5682,11 @@ DATA = {
       },
       "created_at": "2018-01-31T09:27:56.000Z",
       "last_commit_at": "2021-03-17T08:01:38.000Z",
-      "stars": 684,
+      "stars": 685,
       "forks": 112,
       "subscribers": 22,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:20.297Z"
+      "repository_data_timestamp": "2022-12-02T02:00:20.387Z"
     },
     {
       "index": 381,
@@ -5702,11 +5702,11 @@ DATA = {
       },
       "created_at": "2014-10-29T13:55:17.000Z",
       "last_commit_at": "2022-03-03T22:58:35.000Z",
-      "stars": 6706,
+      "stars": 6709,
       "forks": 798,
       "subscribers": 329,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:20.366Z"
+      "repository_data_timestamp": "2022-12-02T02:00:20.429Z"
     },
     {
       "index": 382,
@@ -5722,11 +5722,11 @@ DATA = {
       },
       "created_at": "2015-03-04T14:19:52.000Z",
       "last_commit_at": "2022-11-08T16:19:47.000Z",
-      "stars": 12890,
+      "stars": 12897,
       "forks": 1524,
       "subscribers": 337,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:20.351Z"
+      "repository_data_timestamp": "2022-12-02T02:00:20.467Z"
     },
     {
       "index": 383,
@@ -5742,11 +5742,11 @@ DATA = {
       },
       "created_at": "2019-10-12T01:10:24.000Z",
       "last_commit_at": "2022-09-25T14:29:26.000Z",
-      "stars": 747,
-      "forks": 101,
+      "stars": 750,
+      "forks": 100,
       "subscribers": 15,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:20.475Z"
+      "repository_data_timestamp": "2022-12-02T02:00:20.518Z"
     },
     {
       "index": 384,
@@ -5766,7 +5766,7 @@ DATA = {
       "forks": 3,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:20.483Z"
+      "repository_data_timestamp": "2022-12-02T02:00:20.695Z"
     },
     {
       "index": 385,
@@ -5786,7 +5786,7 @@ DATA = {
       "forks": 12,
       "subscribers": 4,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:20.513Z"
+      "repository_data_timestamp": "2022-12-02T02:00:20.588Z"
     },
     {
       "index": 386,
@@ -5806,7 +5806,7 @@ DATA = {
       "forks": 5,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:20.520Z"
+      "repository_data_timestamp": "2022-12-02T02:00:20.611Z"
     },
     {
       "index": 387,
@@ -5826,7 +5826,7 @@ DATA = {
       "forks": 5,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:20.541Z"
+      "repository_data_timestamp": "2022-12-02T02:00:20.643Z"
     },
     {
       "index": 388,
@@ -5846,7 +5846,7 @@ DATA = {
       "forks": 1,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:20.586Z"
+      "repository_data_timestamp": "2022-12-02T02:00:20.748Z"
     },
     {
       "index": 389,
@@ -5866,7 +5866,7 @@ DATA = {
       "forks": 8,
       "subscribers": 5,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:20.643Z"
+      "repository_data_timestamp": "2022-12-02T02:00:20.768Z"
     },
     {
       "index": 390,
@@ -5886,7 +5886,7 @@ DATA = {
       "forks": 14,
       "subscribers": 110,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:20.674Z"
+      "repository_data_timestamp": "2022-12-02T02:00:20.773Z"
     },
     {
       "index": 391,
@@ -5906,7 +5906,7 @@ DATA = {
       "forks": 5,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:20.648Z"
+      "repository_data_timestamp": "2022-12-02T02:00:20.776Z"
     },
     {
       "index": 392,
@@ -5926,7 +5926,7 @@ DATA = {
       "forks": 2,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:20.776Z"
+      "repository_data_timestamp": "2022-12-02T02:00:20.804Z"
     },
     {
       "index": 393,
@@ -5946,7 +5946,7 @@ DATA = {
       "forks": 5,
       "subscribers": 1,
       "license": "isc",
-      "repository_data_timestamp": "2022-12-01T02:00:20.779Z"
+      "repository_data_timestamp": "2022-12-02T02:00:20.867Z"
     },
     {
       "index": 394,
@@ -5966,7 +5966,7 @@ DATA = {
       "forks": 0,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:20.791Z"
+      "repository_data_timestamp": "2022-12-02T02:00:20.897Z"
     },
     {
       "index": 395,
@@ -5986,7 +5986,7 @@ DATA = {
       "forks": 45,
       "subscribers": 65,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:20.805Z"
+      "repository_data_timestamp": "2022-12-02T02:00:20.928Z"
     },
     {
       "index": 396,
@@ -6006,7 +6006,7 @@ DATA = {
       "forks": 3,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:20.791Z"
+      "repository_data_timestamp": "2022-12-02T02:00:20.972Z"
     },
     {
       "index": 397,
@@ -6026,7 +6026,7 @@ DATA = {
       "forks": 6,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:21.113Z"
+      "repository_data_timestamp": "2022-12-02T02:00:21.281Z"
     },
     {
       "index": 398,
@@ -6046,7 +6046,7 @@ DATA = {
       "forks": 2,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:20.869Z"
+      "repository_data_timestamp": "2022-12-02T02:00:21.063Z"
     },
     {
       "index": 399,
@@ -6066,7 +6066,7 @@ DATA = {
       "forks": 3,
       "subscribers": 1,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:20.937Z"
+      "repository_data_timestamp": "2022-12-02T02:00:21.074Z"
     },
     {
       "index": 400,
@@ -6086,7 +6086,7 @@ DATA = {
       "forks": 3,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:20.942Z"
+      "repository_data_timestamp": "2022-12-02T02:00:21.090Z"
     },
     {
       "index": 401,
@@ -6101,12 +6101,12 @@ DATA = {
         "name": "gota"
       },
       "created_at": "2016-02-06T17:23:25.000Z",
-      "last_commit_at": "2022-11-02T13:49:57.000Z",
+      "last_commit_at": "2022-12-01T05:10:23.000Z",
       "stars": 2480,
       "forks": 237,
       "subscribers": 82,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:21.234Z"
+      "repository_data_timestamp": "2022-12-02T02:00:21.425Z"
     },
     {
       "index": 402,
@@ -6126,7 +6126,7 @@ DATA = {
       "forks": 6,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:21.076Z"
+      "repository_data_timestamp": "2022-12-02T02:00:21.171Z"
     },
     {
       "index": 403,
@@ -6146,7 +6146,7 @@ DATA = {
       "forks": 39,
       "subscribers": 22,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:21.069Z"
+      "repository_data_timestamp": "2022-12-02T02:00:21.210Z"
     },
     {
       "index": 404,
@@ -6166,7 +6166,7 @@ DATA = {
       "forks": 61,
       "subscribers": 17,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:21.094Z"
+      "repository_data_timestamp": "2022-12-02T02:00:21.229Z"
     },
     {
       "index": 405,
@@ -6186,7 +6186,7 @@ DATA = {
       "forks": 0,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:21.086Z"
+      "repository_data_timestamp": "2022-12-02T02:00:21.273Z"
     },
     {
       "index": 406,
@@ -6206,7 +6206,7 @@ DATA = {
       "forks": 2,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:21.193Z"
+      "repository_data_timestamp": "2022-12-02T02:00:21.366Z"
     },
     {
       "index": 407,
@@ -6226,7 +6226,7 @@ DATA = {
       "forks": 1,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:21.174Z"
+      "repository_data_timestamp": "2022-12-02T02:00:21.362Z"
     },
     {
       "index": 408,
@@ -6246,7 +6246,7 @@ DATA = {
       "forks": 8,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:21.223Z"
+      "repository_data_timestamp": "2022-12-02T02:00:21.414Z"
     },
     {
       "index": 409,
@@ -6266,7 +6266,7 @@ DATA = {
       "forks": 4,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:21.258Z"
+      "repository_data_timestamp": "2022-12-02T02:00:21.460Z"
     },
     {
       "index": 410,
@@ -6286,7 +6286,7 @@ DATA = {
       "forks": 3,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:21.370Z"
+      "repository_data_timestamp": "2022-12-02T02:00:21.488Z"
     },
     {
       "index": 411,
@@ -6302,11 +6302,11 @@ DATA = {
       },
       "created_at": "2019-02-01T03:32:28.000Z",
       "last_commit_at": "2022-11-04T00:35:21.000Z",
-      "stars": 90,
+      "stars": 91,
       "forks": 2,
       "subscribers": 4,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:21.370Z"
+      "repository_data_timestamp": "2022-12-02T02:00:21.500Z"
     },
     {
       "index": 412,
@@ -6322,11 +6322,11 @@ DATA = {
       },
       "created_at": "2018-04-24T02:57:55.000Z",
       "last_commit_at": "2022-10-19T15:33:45.000Z",
-      "stars": 401,
+      "stars": 403,
       "forks": 46,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:21.396Z"
+      "repository_data_timestamp": "2022-12-02T02:00:21.516Z"
     },
     {
       "index": 413,
@@ -6346,7 +6346,7 @@ DATA = {
       "forks": 24,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:21.418Z"
+      "repository_data_timestamp": "2022-12-02T02:00:21.584Z"
     },
     {
       "index": 414,
@@ -6362,11 +6362,11 @@ DATA = {
       },
       "created_at": "2022-01-03T10:44:56.000Z",
       "last_commit_at": "2022-10-25T01:56:27.000Z",
-      "stars": 69,
+      "stars": 70,
       "forks": 3,
       "subscribers": 2,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:21.410Z"
+      "repository_data_timestamp": "2022-12-02T02:00:21.563Z"
     },
     {
       "index": 415,
@@ -6386,7 +6386,7 @@ DATA = {
       "forks": 1,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:21.476Z"
+      "repository_data_timestamp": "2022-12-02T02:00:21.667Z"
     },
     {
       "index": 416,
@@ -6402,11 +6402,11 @@ DATA = {
       },
       "created_at": "2013-07-03T21:52:01.000Z",
       "last_commit_at": "2022-11-08T21:21:34.000Z",
-      "stars": 2829,
+      "stars": 2831,
       "forks": 229,
       "subscribers": 48,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:21.499Z"
+      "repository_data_timestamp": "2022-12-02T02:00:21.671Z"
     },
     {
       "index": 417,
@@ -6426,7 +6426,7 @@ DATA = {
       "forks": 16,
       "subscribers": 2,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:21.557Z"
+      "repository_data_timestamp": "2022-12-02T02:00:21.694Z"
     },
     {
       "index": 418,
@@ -6446,7 +6446,7 @@ DATA = {
       "forks": 11,
       "subscribers": 20,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:21.548Z"
+      "repository_data_timestamp": "2022-12-02T02:00:21.716Z"
     },
     {
       "index": 419,
@@ -6461,12 +6461,12 @@ DATA = {
         "name": "bleve"
       },
       "created_at": "2014-04-17T21:02:18.000Z",
-      "last_commit_at": "2022-11-30T20:01:40.000Z",
-      "stars": 8737,
-      "forks": 642,
+      "last_commit_at": "2022-12-01T21:29:48.000Z",
+      "stars": 8741,
+      "forks": 643,
       "subscribers": 243,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:21.566Z"
+      "repository_data_timestamp": "2022-12-02T02:00:21.759Z"
     },
     {
       "index": 420,
@@ -6486,7 +6486,7 @@ DATA = {
       "forks": 42,
       "subscribers": 9,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:21.662Z"
+      "repository_data_timestamp": "2022-12-02T02:00:21.800Z"
     },
     {
       "index": 421,
@@ -6506,7 +6506,7 @@ DATA = {
       "forks": 20,
       "subscribers": 12,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:21.670Z"
+      "repository_data_timestamp": "2022-12-02T02:00:21.784Z"
     },
     {
       "index": 422,
@@ -6526,7 +6526,7 @@ DATA = {
       "forks": 7,
       "subscribers": 2,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:21.773Z"
+      "repository_data_timestamp": "2022-12-02T02:00:21.792Z"
     },
     {
       "index": 423,
@@ -6546,7 +6546,7 @@ DATA = {
       "forks": 22,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:21.704Z"
+      "repository_data_timestamp": "2022-12-02T02:00:21.847Z"
     },
     {
       "index": 424,
@@ -6566,7 +6566,7 @@ DATA = {
       "forks": 4,
       "subscribers": 3,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:21.740Z"
+      "repository_data_timestamp": "2022-12-02T02:00:21.914Z"
     },
     {
       "index": 425,
@@ -6586,7 +6586,7 @@ DATA = {
       "forks": 1,
       "subscribers": 2,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:21.796Z"
+      "repository_data_timestamp": "2022-12-02T02:00:21.981Z"
     },
     {
       "index": 426,
@@ -6606,7 +6606,7 @@ DATA = {
       "forks": 9,
       "subscribers": 8,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:21.812Z"
+      "repository_data_timestamp": "2022-12-02T02:00:21.977Z"
     },
     {
       "index": 427,
@@ -6626,7 +6626,7 @@ DATA = {
       "forks": 106,
       "subscribers": 22,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:21.842Z"
+      "repository_data_timestamp": "2022-12-02T02:00:21.988Z"
     },
     {
       "index": 428,
@@ -6646,7 +6646,7 @@ DATA = {
       "forks": 2,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:21.850Z"
+      "repository_data_timestamp": "2022-12-02T02:00:21.999Z"
     },
     {
       "index": 429,
@@ -6666,7 +6666,7 @@ DATA = {
       "forks": 1,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:21.888Z"
+      "repository_data_timestamp": "2022-12-02T02:00:22.099Z"
     },
     {
       "index": 430,
@@ -6686,7 +6686,7 @@ DATA = {
       "forks": 36,
       "subscribers": 8,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:21.968Z"
+      "repository_data_timestamp": "2022-12-02T02:00:22.080Z"
     },
     {
       "index": 431,
@@ -6706,7 +6706,7 @@ DATA = {
       "forks": 23,
       "subscribers": 7,
       "license": null,
-      "repository_data_timestamp": "2022-12-01T02:00:21.984Z"
+      "repository_data_timestamp": "2022-12-02T02:00:22.087Z"
     },
     {
       "index": 432,
@@ -6726,7 +6726,7 @@ DATA = {
       "forks": 6,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:22.008Z"
+      "repository_data_timestamp": "2022-12-02T02:00:22.152Z"
     },
     {
       "index": 433,
@@ -6746,7 +6746,7 @@ DATA = {
       "forks": 5,
       "subscribers": 1,
       "license": "unlicense",
-      "repository_data_timestamp": "2022-12-01T02:00:22.046Z"
+      "repository_data_timestamp": "2022-12-02T02:00:22.119Z"
     },
     {
       "index": 434,
@@ -6766,7 +6766,7 @@ DATA = {
       "forks": 3,
       "subscribers": 1,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:22.083Z"
+      "repository_data_timestamp": "2022-12-02T02:00:22.281Z"
     },
     {
       "index": 435,
@@ -6786,7 +6786,7 @@ DATA = {
       "forks": 1,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:22.111Z"
+      "repository_data_timestamp": "2022-12-02T02:00:22.287Z"
     },
     {
       "index": 436,
@@ -6806,7 +6806,7 @@ DATA = {
       "forks": 8,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:22.118Z"
+      "repository_data_timestamp": "2022-12-02T02:00:22.479Z"
     },
     {
       "index": 437,
@@ -6826,7 +6826,7 @@ DATA = {
       "forks": 3,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:22.135Z"
+      "repository_data_timestamp": "2022-12-02T02:00:22.296Z"
     },
     {
       "index": 438,
@@ -6846,7 +6846,7 @@ DATA = {
       "forks": 13,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:22.144Z"
+      "repository_data_timestamp": "2022-12-02T02:00:22.288Z"
     },
     {
       "index": 439,
@@ -6862,11 +6862,11 @@ DATA = {
       },
       "created_at": "2016-03-23T07:18:52.000Z",
       "last_commit_at": "2022-11-04T18:49:24.000Z",
-      "stars": 6152,
+      "stars": 6156,
       "forks": 527,
       "subscribers": 117,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:22.190Z"
+      "repository_data_timestamp": "2022-12-02T02:00:22.355Z"
     },
     {
       "index": 440,
@@ -6882,11 +6882,11 @@ DATA = {
       },
       "created_at": "2019-05-11T12:42:45.000Z",
       "last_commit_at": "2022-11-20T10:03:19.000Z",
-      "stars": 124,
+      "stars": 125,
       "forks": 12,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:22.320Z"
+      "repository_data_timestamp": "2022-12-02T02:00:22.377Z"
     },
     {
       "index": 441,
@@ -6902,11 +6902,11 @@ DATA = {
       },
       "created_at": "2013-11-11T03:45:02.000Z",
       "last_commit_at": "2022-11-28T09:01:11.000Z",
-      "stars": 1896,
+      "stars": 1897,
       "forks": 502,
       "subscribers": 67,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:22.288Z"
+      "repository_data_timestamp": "2022-12-02T02:00:22.396Z"
     },
     {
       "index": 442,
@@ -6922,11 +6922,11 @@ DATA = {
       },
       "created_at": "2016-10-05T18:10:03.000Z",
       "last_commit_at": "2022-06-10T16:30:19.000Z",
-      "stars": 198,
+      "stars": 199,
       "forks": 12,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:22.336Z"
+      "repository_data_timestamp": "2022-12-02T02:00:22.408Z"
     },
     {
       "index": 443,
@@ -6946,7 +6946,7 @@ DATA = {
       "forks": 5,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:22.379Z"
+      "repository_data_timestamp": "2022-12-02T02:00:22.435Z"
     },
     {
       "index": 444,
@@ -6966,7 +6966,7 @@ DATA = {
       "forks": 6,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:22.392Z"
+      "repository_data_timestamp": "2022-12-02T02:00:22.566Z"
     },
     {
       "index": 445,
@@ -6986,7 +6986,7 @@ DATA = {
       "forks": 138,
       "subscribers": 33,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:22.423Z"
+      "repository_data_timestamp": "2022-12-02T02:00:22.571Z"
     },
     {
       "index": 446,
@@ -7006,7 +7006,7 @@ DATA = {
       "forks": 249,
       "subscribers": 45,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:22.417Z"
+      "repository_data_timestamp": "2022-12-02T02:00:22.583Z"
     },
     {
       "index": 447,
@@ -7026,7 +7026,7 @@ DATA = {
       "forks": 2,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:22.433Z"
+      "repository_data_timestamp": "2022-12-02T02:00:22.597Z"
     },
     {
       "index": 448,
@@ -7046,7 +7046,7 @@ DATA = {
       "forks": 6,
       "subscribers": 2,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:22.451Z"
+      "repository_data_timestamp": "2022-12-02T02:00:22.622Z"
     },
     {
       "index": 449,
@@ -7066,7 +7066,7 @@ DATA = {
       "forks": 14,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:22.483Z"
+      "repository_data_timestamp": "2022-12-02T02:00:22.672Z"
     },
     {
       "index": 450,
@@ -7082,11 +7082,11 @@ DATA = {
       },
       "created_at": "2019-10-05T08:13:54.000Z",
       "last_commit_at": "2022-11-19T08:55:41.000Z",
-      "stars": 1562,
+      "stars": 1564,
       "forks": 142,
       "subscribers": 16,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:22.594Z"
+      "repository_data_timestamp": "2022-12-02T02:00:22.690Z"
     },
     {
       "index": 451,
@@ -7102,11 +7102,11 @@ DATA = {
       },
       "created_at": "2013-07-22T21:55:07.000Z",
       "last_commit_at": "2022-10-10T02:59:07.000Z",
-      "stars": 11827,
-      "forks": 1329,
+      "stars": 11831,
+      "forks": 1330,
       "subscribers": 490,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:22.624Z"
+      "repository_data_timestamp": "2022-12-02T02:00:22.738Z"
     },
     {
       "index": 452,
@@ -7126,7 +7126,7 @@ DATA = {
       "forks": 8,
       "subscribers": 5,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:22.633Z"
+      "repository_data_timestamp": "2022-12-02T02:00:22.758Z"
     },
     {
       "index": 453,
@@ -7146,7 +7146,7 @@ DATA = {
       "forks": 8,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:22.661Z"
+      "repository_data_timestamp": "2022-12-02T02:00:22.819Z"
     },
     {
       "index": 454,
@@ -7162,11 +7162,11 @@ DATA = {
       },
       "created_at": "2014-12-13T01:55:40.000Z",
       "last_commit_at": "2022-11-24T23:33:29.000Z",
-      "stars": 536,
+      "stars": 543,
       "forks": 85,
       "subscribers": 16,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:22.729Z"
+      "repository_data_timestamp": "2022-12-02T02:00:22.854Z"
     },
     {
       "index": 455,
@@ -7186,7 +7186,7 @@ DATA = {
       "forks": 6,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:22.728Z"
+      "repository_data_timestamp": "2022-12-02T02:00:22.854Z"
     },
     {
       "index": 456,
@@ -7202,11 +7202,11 @@ DATA = {
       },
       "created_at": "2017-01-26T05:09:49.000Z",
       "last_commit_at": "2022-11-28T06:25:28.000Z",
-      "stars": 11562,
+      "stars": 11566,
       "forks": 1025,
       "subscribers": 243,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:22.744Z"
+      "repository_data_timestamp": "2022-12-02T02:00:22.864Z"
     },
     {
       "index": 457,
@@ -7221,12 +7221,12 @@ DATA = {
         "name": "bbolt"
       },
       "created_at": "2017-06-17T01:42:09.000Z",
-      "last_commit_at": "2022-11-30T10:40:10.000Z",
-      "stars": 6010,
+      "last_commit_at": "2022-12-01T10:45:42.000Z",
+      "stars": 6012,
       "forks": 475,
       "subscribers": 121,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:22.791Z"
+      "repository_data_timestamp": "2022-12-02T02:00:23.230Z"
     },
     {
       "index": 458,
@@ -7255,7 +7255,7 @@ DATA = {
       "forks": 275,
       "subscribers": 105,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:22.740Z"
+      "repository_data_timestamp": "2022-12-02T02:00:22.907Z"
     },
     {
       "index": 460,
@@ -7275,7 +7275,7 @@ DATA = {
       "forks": 34,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:22.783Z"
+      "repository_data_timestamp": "2022-12-02T02:00:22.971Z"
     },
     {
       "index": 461,
@@ -7290,12 +7290,12 @@ DATA = {
         "name": "cockroach"
       },
       "created_at": "2014-02-06T00:18:47.000Z",
-      "last_commit_at": "2022-12-01T01:52:15.000Z",
-      "stars": 26155,
-      "forks": 3315,
+      "last_commit_at": "2022-12-02T01:41:29.000Z",
+      "stars": 26168,
+      "forks": 3317,
       "subscribers": 715,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:22.914Z"
+      "repository_data_timestamp": "2022-12-02T02:00:22.998Z"
     },
     {
       "index": 462,
@@ -7315,7 +7315,7 @@ DATA = {
       "forks": 4,
       "subscribers": 5,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:22.912Z"
+      "repository_data_timestamp": "2022-12-02T02:00:23.052Z"
     },
     {
       "index": 463,
@@ -7330,12 +7330,12 @@ DATA = {
         "name": "column"
       },
       "created_at": "2021-05-26T21:27:45.000Z",
-      "last_commit_at": "2022-11-27T17:51:53.000Z",
+      "last_commit_at": "2022-12-01T18:55:53.000Z",
       "stars": 1028,
       "forks": 40,
       "subscribers": 20,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:22.939Z"
+      "repository_data_timestamp": "2022-12-02T02:00:23.032Z"
     },
     {
       "index": 464,
@@ -7351,11 +7351,11 @@ DATA = {
       },
       "created_at": "2018-04-11T09:52:58.000Z",
       "last_commit_at": "2022-05-24T20:56:30.000Z",
-      "stars": 1378,
+      "stars": 1379,
       "forks": 160,
       "subscribers": 72,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:22.968Z"
+      "repository_data_timestamp": "2022-12-02T02:00:23.087Z"
     },
     {
       "index": 465,
@@ -7375,7 +7375,7 @@ DATA = {
       "forks": 53,
       "subscribers": 28,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:23.501Z"
+      "repository_data_timestamp": "2022-12-02T02:00:23.442Z"
     },
     {
       "index": 466,
@@ -7390,12 +7390,12 @@ DATA = {
         "name": "dgraph"
       },
       "created_at": "2015-08-25T07:15:56.000Z",
-      "last_commit_at": "2022-11-30T23:10:30.000Z",
-      "stars": 18681,
-      "forks": 1417,
+      "last_commit_at": "2022-12-02T01:04:38.000Z",
+      "stars": 18689,
+      "forks": 1418,
       "subscribers": 371,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:23.031Z"
+      "repository_data_timestamp": "2022-12-02T02:00:23.149Z"
     },
     {
       "index": 467,
@@ -7415,7 +7415,7 @@ DATA = {
       "forks": 103,
       "subscribers": 41,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:23.059Z"
+      "repository_data_timestamp": "2022-12-02T02:00:23.169Z"
     },
     {
       "index": 468,
@@ -7430,12 +7430,12 @@ DATA = {
         "name": "dolt"
       },
       "created_at": "2019-07-24T17:46:25.000Z",
-      "last_commit_at": "2022-12-01T01:51:26.000Z",
-      "stars": 13541,
-      "forks": 386,
+      "last_commit_at": "2022-12-02T01:31:14.000Z",
+      "stars": 13550,
+      "forks": 387,
       "subscribers": 108,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:23.068Z"
+      "repository_data_timestamp": "2022-12-02T02:00:23.199Z"
     },
     {
       "index": 469,
@@ -7455,7 +7455,7 @@ DATA = {
       "forks": 30,
       "subscribers": 3,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:23.528Z"
+      "repository_data_timestamp": "2022-12-02T02:00:23.524Z"
     },
     {
       "index": 470,
@@ -7475,7 +7475,7 @@ DATA = {
       "forks": 45,
       "subscribers": 28,
       "license": "mpl-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:23.090Z"
+      "repository_data_timestamp": "2022-12-02T02:00:23.292Z"
     },
     {
       "index": 471,
@@ -7491,11 +7491,11 @@ DATA = {
       },
       "created_at": "2019-06-01T07:49:11.000Z",
       "last_commit_at": "2022-11-30T13:23:14.000Z",
-      "stars": 2359,
+      "stars": 2362,
       "forks": 404,
       "subscribers": 29,
       "license": "gpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:00:23.201Z"
+      "repository_data_timestamp": "2022-12-02T02:00:23.333Z"
     },
     {
       "index": 472,
@@ -7512,10 +7512,10 @@ DATA = {
       "created_at": "2013-01-23T04:08:58.000Z",
       "last_commit_at": "2022-11-03T16:37:31.000Z",
       "stars": 5482,
-      "forks": 844,
+      "forks": 845,
       "subscribers": 186,
       "license": "bsd-2-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:23.232Z"
+      "repository_data_timestamp": "2022-12-02T02:00:23.345Z"
     },
     {
       "index": 473,
@@ -7535,7 +7535,7 @@ DATA = {
       "forks": 8,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:23.239Z"
+      "repository_data_timestamp": "2022-12-02T02:00:23.372Z"
     },
     {
       "index": 474,
@@ -7551,11 +7551,11 @@ DATA = {
       },
       "created_at": "2019-11-07T08:22:16.000Z",
       "last_commit_at": "2022-11-27T12:39:10.000Z",
-      "stars": 7982,
+      "stars": 7983,
       "forks": 293,
       "subscribers": 85,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:23.258Z"
+      "repository_data_timestamp": "2022-12-02T02:00:23.536Z"
     },
     {
       "index": 475,
@@ -7570,12 +7570,12 @@ DATA = {
         "name": "influxdb"
       },
       "created_at": "2013-09-26T14:31:10.000Z",
-      "last_commit_at": "2022-11-30T16:35:14.000Z",
-      "stars": 24532,
-      "forks": 3289,
+      "last_commit_at": "2022-12-01T23:36:33.000Z",
+      "stars": 24537,
+      "forks": 3292,
       "subscribers": 750,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:23.598Z"
+      "repository_data_timestamp": "2022-12-02T02:00:23.745Z"
     },
     {
       "index": 476,
@@ -7595,7 +7595,7 @@ DATA = {
       "forks": 439,
       "subscribers": 185,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:23.640Z"
+      "repository_data_timestamp": "2022-12-02T02:00:23.795Z"
     },
     {
       "index": 477,
@@ -7615,7 +7615,7 @@ DATA = {
       "forks": 86,
       "subscribers": 23,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:23.361Z"
+      "repository_data_timestamp": "2022-12-02T02:00:23.524Z"
     },
     {
       "index": 478,
@@ -7631,11 +7631,11 @@ DATA = {
       },
       "created_at": "2021-12-14T05:26:57.000Z",
       "last_commit_at": "2022-08-21T18:20:39.000Z",
-      "stars": 1018,
+      "stars": 1019,
       "forks": 101,
       "subscribers": 19,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:23.404Z"
+      "repository_data_timestamp": "2022-12-02T02:00:23.582Z"
     },
     {
       "index": 479,
@@ -7650,12 +7650,12 @@ DATA = {
         "name": "milvus"
       },
       "created_at": "2019-09-16T06:43:43.000Z",
-      "last_commit_at": "2022-11-30T15:25:09.000Z",
-      "stars": 14359,
-      "forks": 1899,
+      "last_commit_at": "2022-12-02T00:57:18.000Z",
+      "stars": 14369,
+      "forks": 1901,
       "subscribers": 308,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:23.519Z"
+      "repository_data_timestamp": "2022-12-02T02:00:23.644Z"
     },
     {
       "index": 480,
@@ -7675,7 +7675,7 @@ DATA = {
       "forks": 57,
       "subscribers": 74,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:23.559Z"
+      "repository_data_timestamp": "2022-12-02T02:00:23.656Z"
     },
     {
       "index": 481,
@@ -7691,11 +7691,11 @@ DATA = {
       },
       "created_at": "2018-12-07T07:03:38.000Z",
       "last_commit_at": "2022-11-21T15:30:11.000Z",
-      "stars": 2599,
-      "forks": 252,
+      "stars": 2603,
+      "forks": 253,
       "subscribers": 55,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:23.811Z"
+      "repository_data_timestamp": "2022-12-02T02:00:23.977Z"
     },
     {
       "index": 482,
@@ -7711,11 +7711,11 @@ DATA = {
       },
       "created_at": "2018-11-28T13:32:47.000Z",
       "last_commit_at": "2022-09-24T10:25:44.000Z",
-      "stars": 807,
+      "stars": 808,
       "forks": 36,
       "subscribers": 19,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:23.599Z"
+      "repository_data_timestamp": "2022-12-02T02:00:23.735Z"
     },
     {
       "index": 483,
@@ -7735,7 +7735,7 @@ DATA = {
       "forks": 20,
       "subscribers": 12,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:23.658Z"
+      "repository_data_timestamp": "2022-12-02T02:00:23.812Z"
     },
     {
       "index": 484,
@@ -7751,11 +7751,11 @@ DATA = {
       },
       "created_at": "2018-01-06T23:16:36.000Z",
       "last_commit_at": "2022-11-24T14:35:32.000Z",
-      "stars": 963,
+      "stars": 964,
       "forks": 78,
       "subscribers": 30,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:23.709Z"
+      "repository_data_timestamp": "2022-12-02T02:00:23.834Z"
     },
     {
       "index": 485,
@@ -7770,12 +7770,12 @@ DATA = {
         "name": "prometheus"
       },
       "created_at": "2012-11-24T11:14:12.000Z",
-      "last_commit_at": "2022-11-30T16:29:40.000Z",
-      "stars": 45680,
-      "forks": 7701,
-      "subscribers": 1138,
+      "last_commit_at": "2022-12-01T23:03:22.000Z",
+      "stars": 45704,
+      "forks": 7703,
+      "subscribers": 1137,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:23.798Z"
+      "repository_data_timestamp": "2022-12-02T02:00:23.864Z"
     },
     {
       "index": 486,
@@ -7795,7 +7795,7 @@ DATA = {
       "forks": 27,
       "subscribers": 12,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:23.822Z"
+      "repository_data_timestamp": "2022-12-02T02:00:23.873Z"
     },
     {
       "index": 487,
@@ -7811,11 +7811,11 @@ DATA = {
       },
       "created_at": "2020-12-06T07:02:48.000Z",
       "last_commit_at": "2022-11-18T09:35:58.000Z",
-      "stars": 3386,
-      "forks": 520,
-      "subscribers": 40,
+      "stars": 3388,
+      "forks": 521,
+      "subscribers": 39,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:24.151Z"
+      "repository_data_timestamp": "2022-12-02T02:00:24.266Z"
     },
     {
       "index": 488,
@@ -7831,11 +7831,11 @@ DATA = {
       },
       "created_at": "2014-08-23T04:31:18.000Z",
       "last_commit_at": "2022-11-30T01:05:17.000Z",
-      "stars": 12542,
-      "forks": 596,
+      "stars": 12550,
+      "forks": 597,
       "subscribers": 236,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:23.881Z"
+      "repository_data_timestamp": "2022-12-02T02:00:23.965Z"
     },
     {
       "index": 489,
@@ -7855,7 +7855,7 @@ DATA = {
       "forks": 3,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:23.917Z"
+      "repository_data_timestamp": "2022-12-02T02:00:24.127Z"
     },
     {
       "index": 490,
@@ -7870,12 +7870,12 @@ DATA = {
         "name": "tidb"
       },
       "created_at": "2015-09-06T04:01:52.000Z",
-      "last_commit_at": "2022-12-01T01:59:15.000Z",
-      "stars": 32910,
-      "forks": 5340,
-      "subscribers": 1317,
+      "last_commit_at": "2022-12-02T01:59:13.000Z",
+      "stars": 32919,
+      "forks": 5341,
+      "subscribers": 1318,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:23.903Z"
+      "repository_data_timestamp": "2022-12-02T02:00:24.040Z"
     },
     {
       "index": 491,
@@ -7891,11 +7891,11 @@ DATA = {
       },
       "created_at": "2013-05-26T10:03:49.000Z",
       "last_commit_at": "2021-09-05T17:47:27.000Z",
-      "stars": 2708,
+      "stars": 2709,
       "forks": 271,
       "subscribers": 157,
       "license": "bsd-2-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:23.948Z"
+      "repository_data_timestamp": "2022-12-02T02:00:24.076Z"
     },
     {
       "index": 492,
@@ -7915,7 +7915,7 @@ DATA = {
       "forks": 10,
       "subscribers": 9,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:23.972Z"
+      "repository_data_timestamp": "2022-12-02T02:00:24.115Z"
     },
     {
       "index": 493,
@@ -7932,10 +7932,10 @@ DATA = {
       "created_at": "2018-01-16T05:16:57.000Z",
       "last_commit_at": "2019-03-07T20:29:11.000Z",
       "stars": 242,
-      "forks": 30,
+      "forks": 29,
       "subscribers": 20,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:24.287Z"
+      "repository_data_timestamp": "2022-12-02T02:00:24.143Z"
     },
     {
       "index": 494,
@@ -7950,12 +7950,12 @@ DATA = {
         "name": "VictoriaMetrics"
       },
       "created_at": "2018-09-30T09:58:01.000Z",
-      "last_commit_at": "2022-11-30T18:42:15.000Z",
-      "stars": 7470,
-      "forks": 736,
+      "last_commit_at": "2022-12-01T20:50:32.000Z",
+      "stars": 7473,
+      "forks": 738,
       "subscribers": 127,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:24.100Z"
+      "repository_data_timestamp": "2022-12-02T02:00:24.165Z"
     },
     {
       "index": 495,
@@ -7970,12 +7970,12 @@ DATA = {
         "name": "atlas"
       },
       "created_at": "2021-04-30T18:56:42.000Z",
-      "last_commit_at": "2022-11-30T20:44:16.000Z",
-      "stars": 2114,
-      "forks": 92,
+      "last_commit_at": "2022-12-01T16:13:35.000Z",
+      "stars": 2118,
+      "forks": 93,
       "subscribers": 18,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:24.150Z"
+      "repository_data_timestamp": "2022-12-02T02:00:24.174Z"
     },
     {
       "index": 496,
@@ -7995,7 +7995,7 @@ DATA = {
       "forks": 7,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:24.150Z"
+      "repository_data_timestamp": "2022-12-02T02:00:24.263Z"
     },
     {
       "index": 497,
@@ -8010,12 +8010,12 @@ DATA = {
         "name": "bytebase"
       },
       "created_at": "2021-01-27T04:33:50.000Z",
-      "last_commit_at": "2022-12-01T01:27:49.000Z",
-      "stars": 4393,
+      "last_commit_at": "2022-12-02T01:06:07.000Z",
+      "stars": 4402,
       "forks": 292,
       "subscribers": 53,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:24.287Z"
+      "repository_data_timestamp": "2022-12-02T02:00:24.266Z"
     },
     {
       "index": 498,
@@ -8035,7 +8035,7 @@ DATA = {
       "forks": 32,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:24.287Z"
+      "repository_data_timestamp": "2022-12-02T02:00:24.499Z"
     },
     {
       "index": 499,
@@ -8055,7 +8055,7 @@ DATA = {
       "forks": 10,
       "subscribers": 1,
       "license": "mpl-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:24.287Z"
+      "repository_data_timestamp": "2022-12-02T02:00:24.480Z"
     },
     {
       "index": 500,
@@ -8075,7 +8075,7 @@ DATA = {
       "forks": 3,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:24.287Z"
+      "repository_data_timestamp": "2022-12-02T02:00:24.479Z"
     },
     {
       "index": 501,
@@ -8095,7 +8095,7 @@ DATA = {
       "forks": 20,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:24.300Z"
+      "repository_data_timestamp": "2022-12-02T02:00:24.479Z"
     },
     {
       "index": 502,
@@ -8115,7 +8115,7 @@ DATA = {
       "forks": 198,
       "subscribers": 22,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:24.498Z"
+      "repository_data_timestamp": "2022-12-02T02:00:24.521Z"
     },
     {
       "index": 503,
@@ -8135,7 +8135,7 @@ DATA = {
       "forks": 0,
       "subscribers": 1,
       "license": "isc",
-      "repository_data_timestamp": "2022-12-01T02:00:24.537Z"
+      "repository_data_timestamp": "2022-12-02T02:00:24.480Z"
     },
     {
       "index": 504,
@@ -8150,12 +8150,12 @@ DATA = {
         "name": "goose"
       },
       "created_at": "2016-02-25T20:39:37.000Z",
-      "last_commit_at": "2022-11-30T14:49:00.000Z",
-      "stars": 3159,
-      "forks": 371,
+      "last_commit_at": "2022-12-02T00:54:07.000Z",
+      "stars": 3165,
+      "forks": 372,
       "subscribers": 47,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:24.617Z"
+      "repository_data_timestamp": "2022-12-02T02:00:24.503Z"
     },
     {
       "index": 505,
@@ -8175,7 +8175,7 @@ DATA = {
       "forks": 0,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:24.560Z"
+      "repository_data_timestamp": "2022-12-02T02:00:24.552Z"
     },
     {
       "index": 506,
@@ -8195,7 +8195,7 @@ DATA = {
       "forks": 87,
       "subscribers": 9,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:24.616Z"
+      "repository_data_timestamp": "2022-12-02T02:00:24.581Z"
     },
     {
       "index": 507,
@@ -8215,7 +8215,7 @@ DATA = {
       "forks": 3,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:24.592Z"
+      "repository_data_timestamp": "2022-12-02T02:00:24.731Z"
     },
     {
       "index": 508,
@@ -8230,12 +8230,12 @@ DATA = {
         "name": "migrate"
       },
       "created_at": "2018-01-19T09:30:58.000Z",
-      "last_commit_at": "2022-11-30T13:38:29.000Z",
-      "stars": 10281,
-      "forks": 1079,
-      "subscribers": 78,
+      "last_commit_at": "2022-12-01T20:19:55.000Z",
+      "stars": 10292,
+      "forks": 1080,
+      "subscribers": 79,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:24.625Z"
+      "repository_data_timestamp": "2022-12-02T02:00:24.795Z"
     },
     {
       "index": 509,
@@ -8255,7 +8255,7 @@ DATA = {
       "forks": 17,
       "subscribers": 5,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:24.615Z"
+      "repository_data_timestamp": "2022-12-02T02:00:24.770Z"
     },
     {
       "index": 510,
@@ -8275,7 +8275,7 @@ DATA = {
       "forks": 4,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:24.645Z"
+      "repository_data_timestamp": "2022-12-02T02:00:24.859Z"
     },
     {
       "index": 511,
@@ -8295,7 +8295,7 @@ DATA = {
       "forks": 3,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:24.633Z"
+      "repository_data_timestamp": "2022-12-02T02:00:24.793Z"
     },
     {
       "index": 512,
@@ -8311,11 +8311,11 @@ DATA = {
       },
       "created_at": "2016-10-31T23:18:56.000Z",
       "last_commit_at": "2022-11-30T23:52:08.000Z",
-      "stars": 1075,
+      "stars": 1076,
       "forks": 96,
       "subscribers": 28,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:24.799Z"
+      "repository_data_timestamp": "2022-12-02T02:00:25.130Z"
     },
     {
       "index": 513,
@@ -8331,11 +8331,11 @@ DATA = {
       },
       "created_at": "2018-02-07T21:13:46.000Z",
       "last_commit_at": "2022-11-20T13:03:09.000Z",
-      "stars": 1262,
+      "stars": 1263,
       "forks": 231,
       "subscribers": 23,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:24.859Z"
+      "repository_data_timestamp": "2022-12-02T02:00:24.878Z"
     },
     {
       "index": 514,
@@ -8351,11 +8351,11 @@ DATA = {
       },
       "created_at": "2014-09-09T07:31:41.000Z",
       "last_commit_at": "2022-10-20T06:43:48.000Z",
-      "stars": 2643,
+      "stars": 2644,
       "forks": 238,
       "subscribers": 32,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:24.851Z"
+      "repository_data_timestamp": "2022-12-02T02:00:24.877Z"
     },
     {
       "index": 515,
@@ -8375,7 +8375,7 @@ DATA = {
       "forks": 4,
       "subscribers": 2,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:24.917Z"
+      "repository_data_timestamp": "2022-12-02T02:00:24.910Z"
     },
     {
       "index": 516,
@@ -8391,11 +8391,11 @@ DATA = {
       },
       "created_at": "2017-09-18T13:09:23.000Z",
       "last_commit_at": "2022-11-30T19:16:32.000Z",
-      "stars": 1027,
+      "stars": 1028,
       "forks": 220,
       "subscribers": 40,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:25.195Z"
+      "repository_data_timestamp": "2022-12-02T02:00:25.242Z"
     },
     {
       "index": 517,
@@ -8415,7 +8415,7 @@ DATA = {
       "forks": 80,
       "subscribers": 7,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:24.923Z"
+      "repository_data_timestamp": "2022-12-02T02:00:25.065Z"
     },
     {
       "index": 518,
@@ -8435,7 +8435,7 @@ DATA = {
       "forks": 8,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:24.963Z"
+      "repository_data_timestamp": "2022-12-02T02:00:25.215Z"
     },
     {
       "index": 519,
@@ -8455,7 +8455,7 @@ DATA = {
       "forks": 14,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:25.013Z"
+      "repository_data_timestamp": "2022-12-02T02:00:25.095Z"
     },
     {
       "index": 520,
@@ -8475,7 +8475,7 @@ DATA = {
       "forks": 0,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:25.088Z"
+      "repository_data_timestamp": "2022-12-02T02:00:25.095Z"
     },
     {
       "index": 521,
@@ -8490,12 +8490,12 @@ DATA = {
         "name": "go-mysql"
       },
       "created_at": "2014-02-21T01:56:45.000Z",
-      "last_commit_at": "2022-11-30T10:40:00.000Z",
-      "stars": 3879,
+      "last_commit_at": "2022-12-01T09:09:58.000Z",
+      "stars": 3880,
       "forks": 862,
       "subscribers": 159,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:25.327Z"
+      "repository_data_timestamp": "2022-12-02T02:00:25.436Z"
     },
     {
       "index": 522,
@@ -8511,11 +8511,11 @@ DATA = {
       },
       "created_at": "2015-01-15T09:54:18.000Z",
       "last_commit_at": "2022-05-20T06:46:34.000Z",
-      "stars": 3879,
+      "stars": 3880,
       "forks": 774,
       "subscribers": 181,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:25.357Z"
+      "repository_data_timestamp": "2022-12-02T02:00:25.470Z"
     },
     {
       "index": 523,
@@ -8535,7 +8535,7 @@ DATA = {
       "forks": 10,
       "subscribers": 7,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:26.288Z"
+      "repository_data_timestamp": "2022-12-02T02:00:26.293Z"
     },
     {
       "index": 524,
@@ -8551,11 +8551,11 @@ DATA = {
       },
       "created_at": "2015-07-04T02:22:32.000Z",
       "last_commit_at": "2021-06-17T09:30:32.000Z",
-      "stars": 6129,
+      "stars": 6131,
       "forks": 1190,
       "subscribers": 400,
       "license": null,
-      "repository_data_timestamp": "2022-12-01T02:00:25.161Z"
+      "repository_data_timestamp": "2022-12-02T02:00:25.180Z"
     },
     {
       "index": 525,
@@ -8575,7 +8575,7 @@ DATA = {
       "forks": 26,
       "subscribers": 18,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:25.430Z"
+      "repository_data_timestamp": "2022-12-02T02:00:25.504Z"
     },
     {
       "index": 526,
@@ -8591,11 +8591,11 @@ DATA = {
       },
       "created_at": "2016-11-30T13:44:24.000Z",
       "last_commit_at": "2022-05-06T02:34:28.000Z",
-      "stars": 4729,
+      "stars": 4731,
       "forks": 842,
       "subscribers": 261,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:25.495Z"
+      "repository_data_timestamp": "2022-12-02T02:00:25.826Z"
     },
     {
       "index": 527,
@@ -8610,12 +8610,12 @@ DATA = {
         "name": "pg_timetable"
       },
       "created_at": "2018-12-19T10:19:51.000Z",
-      "last_commit_at": "2022-11-23T14:44:30.000Z",
-      "stars": 809,
+      "last_commit_at": "2022-12-01T12:19:17.000Z",
+      "stars": 810,
       "forks": 43,
       "subscribers": 20,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:25.238Z"
+      "repository_data_timestamp": "2022-12-02T02:00:25.416Z"
     },
     {
       "index": 528,
@@ -8630,12 +8630,12 @@ DATA = {
         "name": "pgweb"
       },
       "created_at": "2014-10-09T01:41:32.000Z",
-      "last_commit_at": "2022-11-30T20:19:53.000Z",
-      "stars": 7572,
+      "last_commit_at": "2022-12-01T22:51:14.000Z",
+      "stars": 7574,
       "forks": 632,
       "subscribers": 149,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:25.265Z"
+      "repository_data_timestamp": "2022-12-02T02:00:25.416Z"
     },
     {
       "index": 529,
@@ -8655,7 +8655,7 @@ DATA = {
       "forks": 6,
       "subscribers": 3,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:25.348Z"
+      "repository_data_timestamp": "2022-12-02T02:00:25.447Z"
     },
     {
       "index": 530,
@@ -8671,11 +8671,11 @@ DATA = {
       },
       "created_at": "2016-11-22T05:17:05.000Z",
       "last_commit_at": "2022-11-30T19:48:21.000Z",
-      "stars": 3445,
+      "stars": 3446,
       "forks": 252,
       "subscribers": 84,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:25.392Z"
+      "repository_data_timestamp": "2022-12-02T02:00:25.483Z"
     },
     {
       "index": 531,
@@ -8695,7 +8695,7 @@ DATA = {
       "forks": 39,
       "subscribers": 13,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:25.450Z"
+      "repository_data_timestamp": "2022-12-02T02:00:25.520Z"
     },
     {
       "index": 532,
@@ -8715,7 +8715,7 @@ DATA = {
       "forks": 2,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:25.488Z"
+      "repository_data_timestamp": "2022-12-02T02:00:25.539Z"
     },
     {
       "index": 533,
@@ -8730,12 +8730,12 @@ DATA = {
         "name": "vitess"
       },
       "created_at": "2013-06-27T21:20:28.000Z",
-      "last_commit_at": "2022-12-01T00:38:15.000Z",
-      "stars": 15157,
+      "last_commit_at": "2022-12-01T23:18:43.000Z",
+      "stars": 15162,
       "forks": 1867,
       "subscribers": 511,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:25.807Z"
+      "repository_data_timestamp": "2022-12-02T02:00:25.997Z"
     },
     {
       "index": 534,
@@ -8755,7 +8755,7 @@ DATA = {
       "forks": 4,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:25.565Z"
+      "repository_data_timestamp": "2022-12-02T02:00:25.715Z"
     },
     {
       "index": 535,
@@ -8775,7 +8775,7 @@ DATA = {
       "forks": 9,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:25.610Z"
+      "repository_data_timestamp": "2022-12-02T02:00:25.739Z"
     },
     {
       "index": 536,
@@ -8795,7 +8795,7 @@ DATA = {
       "forks": 0,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:25.637Z"
+      "repository_data_timestamp": "2022-12-02T02:00:25.723Z"
     },
     {
       "index": 537,
@@ -8815,7 +8815,7 @@ DATA = {
       "forks": 21,
       "subscribers": 8,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:25.658Z"
+      "repository_data_timestamp": "2022-12-02T02:00:25.828Z"
     },
     {
       "index": 538,
@@ -8835,7 +8835,7 @@ DATA = {
       "forks": 47,
       "subscribers": 25,
       "license": "gpl-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:25.991Z"
+      "repository_data_timestamp": "2022-12-02T02:00:26.087Z"
     },
     {
       "index": 539,
@@ -8855,7 +8855,7 @@ DATA = {
       "forks": 183,
       "subscribers": 65,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:25.783Z"
+      "repository_data_timestamp": "2022-12-02T02:00:25.832Z"
     },
     {
       "index": 540,
@@ -8875,7 +8875,7 @@ DATA = {
       "forks": 29,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:25.784Z"
+      "repository_data_timestamp": "2022-12-02T02:00:25.854Z"
     },
     {
       "index": 541,
@@ -8891,11 +8891,11 @@ DATA = {
       },
       "created_at": "2015-02-21T01:06:00.000Z",
       "last_commit_at": "2022-11-10T22:46:01.000Z",
-      "stars": 1750,
-      "forks": 151,
+      "stars": 1751,
+      "forks": 152,
       "subscribers": 33,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:25.812Z"
+      "repository_data_timestamp": "2022-12-02T02:00:25.866Z"
     },
     {
       "index": 542,
@@ -8915,7 +8915,7 @@ DATA = {
       "forks": 2,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:25.786Z"
+      "repository_data_timestamp": "2022-12-02T02:00:26.001Z"
     },
     {
       "index": 543,
@@ -8935,7 +8935,7 @@ DATA = {
       "forks": 4,
       "subscribers": 8,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:25.859Z"
+      "repository_data_timestamp": "2022-12-02T02:00:26.011Z"
     },
     {
       "index": 544,
@@ -8950,12 +8950,12 @@ DATA = {
         "name": "jet"
       },
       "created_at": "2019-03-02T11:06:23.000Z",
-      "last_commit_at": "2022-10-26T21:44:08.000Z",
+      "last_commit_at": "2022-12-01T16:58:38.000Z",
       "stars": 910,
       "forks": 63,
       "subscribers": 12,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:25.887Z"
+      "repository_data_timestamp": "2022-12-02T02:00:26.046Z"
     },
     {
       "index": 545,
@@ -8975,7 +8975,7 @@ DATA = {
       "forks": 3,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:25.979Z"
+      "repository_data_timestamp": "2022-12-02T02:00:26.120Z"
     },
     {
       "index": 546,
@@ -8995,7 +8995,7 @@ DATA = {
       "forks": 67,
       "subscribers": 32,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:26.043Z"
+      "repository_data_timestamp": "2022-12-02T02:00:26.150Z"
     },
     {
       "index": 547,
@@ -9015,7 +9015,7 @@ DATA = {
       "forks": 4,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:26.084Z"
+      "repository_data_timestamp": "2022-12-02T02:00:26.167Z"
     },
     {
       "index": 548,
@@ -9055,7 +9055,7 @@ DATA = {
       "forks": 11,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:26.094Z"
+      "repository_data_timestamp": "2022-12-02T02:00:26.191Z"
     },
     {
       "index": 550,
@@ -9071,11 +9071,11 @@ DATA = {
       },
       "created_at": "2019-06-21T21:11:35.000Z",
       "last_commit_at": "2022-11-30T23:13:11.000Z",
-      "stars": 6847,
+      "stars": 6851,
       "forks": 464,
       "subscribers": 65,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:26.093Z"
+      "repository_data_timestamp": "2022-12-02T02:00:26.276Z"
     },
     {
       "index": 551,
@@ -9095,7 +9095,7 @@ DATA = {
       "forks": 12,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:26.346Z"
+      "repository_data_timestamp": "2022-12-02T02:00:26.305Z"
     },
     {
       "index": 552,
@@ -9115,7 +9115,7 @@ DATA = {
       "forks": 23,
       "subscribers": 11,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:26.158Z"
+      "repository_data_timestamp": "2022-12-02T02:00:26.322Z"
     },
     {
       "index": 553,
@@ -9135,7 +9135,7 @@ DATA = {
       "forks": 35,
       "subscribers": 10,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:26.209Z"
+      "repository_data_timestamp": "2022-12-02T02:00:26.459Z"
     },
     {
       "index": 554,
@@ -9160,11 +9160,11 @@ DATA = {
       },
       "created_at": "2014-01-18T05:29:58.000Z",
       "last_commit_at": "2022-11-28T13:40:22.000Z",
-      "stars": 5351,
-      "forks": 406,
+      "stars": 5362,
+      "forks": 407,
       "subscribers": 49,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:26.264Z"
+      "repository_data_timestamp": "2022-12-02T02:00:26.426Z"
     },
     {
       "index": 556,
@@ -9184,7 +9184,7 @@ DATA = {
       "forks": 297,
       "subscribers": 69,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:26.572Z"
+      "repository_data_timestamp": "2022-12-02T02:00:26.685Z"
     },
     {
       "index": 557,
@@ -9200,11 +9200,11 @@ DATA = {
       },
       "created_at": "2014-06-05T18:49:41.000Z",
       "last_commit_at": "2022-11-09T10:56:53.000Z",
-      "stars": 14397,
-      "forks": 1275,
+      "stars": 14398,
+      "forks": 1274,
       "subscribers": 592,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:26.669Z"
+      "repository_data_timestamp": "2022-12-02T02:00:26.728Z"
     },
     {
       "index": 558,
@@ -9224,7 +9224,7 @@ DATA = {
       "forks": 9,
       "subscribers": 16,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:26.389Z"
+      "repository_data_timestamp": "2022-12-02T02:00:26.459Z"
     },
     {
       "index": 559,
@@ -9244,7 +9244,7 @@ DATA = {
       "forks": 55,
       "subscribers": 10,
       "license": "mpl-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:26.399Z"
+      "repository_data_timestamp": "2022-12-02T02:00:26.469Z"
     },
     {
       "index": 560,
@@ -9264,7 +9264,7 @@ DATA = {
       "forks": 31,
       "subscribers": 25,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:26.412Z"
+      "repository_data_timestamp": "2022-12-02T02:00:26.625Z"
     },
     {
       "index": 561,
@@ -9284,7 +9284,7 @@ DATA = {
       "forks": 8,
       "subscribers": 11,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:26.459Z"
+      "repository_data_timestamp": "2022-12-02T02:00:26.625Z"
     },
     {
       "index": 562,
@@ -9304,7 +9304,7 @@ DATA = {
       "forks": 51,
       "subscribers": 16,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:26.486Z"
+      "repository_data_timestamp": "2022-12-02T02:00:26.626Z"
     },
     {
       "index": 563,
@@ -9324,7 +9324,7 @@ DATA = {
       "forks": 36,
       "subscribers": 11,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:26.554Z"
+      "repository_data_timestamp": "2022-12-02T02:00:26.626Z"
     },
     {
       "index": 564,
@@ -9344,7 +9344,7 @@ DATA = {
       "forks": 450,
       "subscribers": 64,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:26.582Z"
+      "repository_data_timestamp": "2022-12-02T02:00:26.727Z"
     },
     {
       "index": 565,
@@ -9364,7 +9364,7 @@ DATA = {
       "forks": 209,
       "subscribers": 40,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:26.656Z"
+      "repository_data_timestamp": "2022-12-02T02:00:26.810Z"
     },
     {
       "index": 566,
@@ -9380,11 +9380,11 @@ DATA = {
       },
       "created_at": "2012-12-09T20:33:55.000Z",
       "last_commit_at": "2022-11-29T19:35:48.000Z",
-      "stars": 12855,
+      "stars": 12856,
       "forks": 2174,
       "subscribers": 410,
       "license": "mpl-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:26.705Z"
+      "repository_data_timestamp": "2022-12-02T02:00:26.769Z"
     },
     {
       "index": 567,
@@ -9400,11 +9400,11 @@ DATA = {
       },
       "created_at": "2011-11-11T12:36:50.000Z",
       "last_commit_at": "2022-11-30T09:36:39.000Z",
-      "stars": 6217,
+      "stars": 6219,
       "forks": 1002,
       "subscribers": 149,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:26.709Z"
+      "repository_data_timestamp": "2022-12-02T02:00:26.814Z"
     },
     {
       "index": 568,
@@ -9419,12 +9419,12 @@ DATA = {
         "name": "godror"
       },
       "created_at": "2019-11-21T21:23:17.000Z",
-      "last_commit_at": "2022-11-30T16:56:26.000Z",
+      "last_commit_at": "2022-12-01T11:44:12.000Z",
       "stars": 403,
       "forks": 87,
       "subscribers": 24,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:26.762Z"
+      "repository_data_timestamp": "2022-12-02T02:00:26.926Z"
     },
     {
       "index": 569,
@@ -9444,7 +9444,7 @@ DATA = {
       "forks": 45,
       "subscribers": 22,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:26.764Z"
+      "repository_data_timestamp": "2022-12-02T02:00:26.921Z"
     },
     {
       "index": 570,
@@ -9464,7 +9464,7 @@ DATA = {
       "forks": 34,
       "subscribers": 6,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:26.801Z"
+      "repository_data_timestamp": "2022-12-02T02:00:26.968Z"
     },
     {
       "index": 571,
@@ -9484,7 +9484,7 @@ DATA = {
       "forks": 17,
       "subscribers": 11,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:26.837Z"
+      "repository_data_timestamp": "2022-12-02T02:00:26.951Z"
     },
     {
       "index": 572,
@@ -9499,12 +9499,12 @@ DATA = {
         "name": "pgx"
       },
       "created_at": "2013-03-30T19:06:26.000Z",
-      "last_commit_at": "2022-11-29T05:39:59.000Z",
-      "stars": 6338,
-      "forks": 598,
+      "last_commit_at": "2022-12-02T01:33:33.000Z",
+      "stars": 6345,
+      "forks": 600,
       "subscribers": 92,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:26.877Z"
+      "repository_data_timestamp": "2022-12-02T02:00:27.020Z"
     },
     {
       "index": 573,
@@ -9524,7 +9524,7 @@ DATA = {
       "forks": 2,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:26.877Z"
+      "repository_data_timestamp": "2022-12-02T02:00:27.026Z"
     },
     {
       "index": 574,
@@ -9540,11 +9540,11 @@ DATA = {
       },
       "created_at": "2012-03-12T18:50:22.000Z",
       "last_commit_at": "2022-11-30T15:45:32.000Z",
-      "stars": 7725,
-      "forks": 868,
+      "stars": 7727,
+      "forks": 867,
       "subscribers": 154,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:26.972Z"
+      "repository_data_timestamp": "2022-12-02T02:00:27.023Z"
     },
     {
       "index": 575,
@@ -9564,7 +9564,7 @@ DATA = {
       "forks": 10,
       "subscribers": 2,
       "license": "unlicense",
-      "repository_data_timestamp": "2022-12-01T02:00:26.972Z"
+      "repository_data_timestamp": "2022-12-02T02:00:27.051Z"
     },
     {
       "index": 576,
@@ -9584,7 +9584,7 @@ DATA = {
       "forks": 41,
       "subscribers": 9,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:26.996Z"
+      "repository_data_timestamp": "2022-12-02T02:00:27.084Z"
     },
     {
       "index": 577,
@@ -9599,12 +9599,12 @@ DATA = {
         "name": "ydb-go-sdk"
       },
       "created_at": "2021-08-03T09:40:19.000Z",
-      "last_commit_at": "2022-11-23T11:29:44.000Z",
+      "last_commit_at": "2022-12-01T10:38:52.000Z",
       "stars": 67,
-      "forks": 22,
+      "forks": 23,
       "subscribers": 11,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:27.043Z"
+      "repository_data_timestamp": "2022-12-02T02:00:27.140Z"
     },
     {
       "index": 578,
@@ -9624,7 +9624,7 @@ DATA = {
       "forks": 185,
       "subscribers": 46,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:27.088Z"
+      "repository_data_timestamp": "2022-12-02T02:00:27.212Z"
     },
     {
       "index": 579,
@@ -9644,7 +9644,7 @@ DATA = {
       "forks": 20,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:27.079Z"
+      "repository_data_timestamp": "2022-12-02T02:00:27.203Z"
     },
     {
       "index": 580,
@@ -9664,7 +9664,7 @@ DATA = {
       "forks": 3,
       "subscribers": 11,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:27.103Z"
+      "repository_data_timestamp": "2022-12-02T02:00:27.240Z"
     },
     {
       "index": 581,
@@ -9684,7 +9684,7 @@ DATA = {
       "forks": 6,
       "subscribers": 39,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:27.193Z"
+      "repository_data_timestamp": "2022-12-02T02:00:27.281Z"
     },
     {
       "index": 582,
@@ -9704,7 +9704,7 @@ DATA = {
       "forks": 92,
       "subscribers": 26,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:27.191Z"
+      "repository_data_timestamp": "2022-12-02T02:00:27.313Z"
     },
     {
       "index": 583,
@@ -9724,7 +9724,7 @@ DATA = {
       "forks": 23,
       "subscribers": 20,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:27.440Z"
+      "repository_data_timestamp": "2022-12-02T02:00:27.582Z"
     },
     {
       "index": 584,
@@ -9740,11 +9740,11 @@ DATA = {
       },
       "created_at": "2018-04-23T00:51:05.000Z",
       "last_commit_at": "2022-08-11T20:55:23.000Z",
-      "stars": 292,
+      "stars": 293,
       "forks": 45,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:27.291Z"
+      "repository_data_timestamp": "2022-12-02T02:00:27.326Z"
     },
     {
       "index": 585,
@@ -9764,7 +9764,7 @@ DATA = {
       "forks": 99,
       "subscribers": 66,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:27.297Z"
+      "repository_data_timestamp": "2022-12-02T02:00:27.331Z"
     },
     {
       "index": 586,
@@ -9784,7 +9784,7 @@ DATA = {
       "forks": 7,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:27.305Z"
+      "repository_data_timestamp": "2022-12-02T02:00:27.377Z"
     },
     {
       "index": 587,
@@ -9804,7 +9804,7 @@ DATA = {
       "forks": 561,
       "subscribers": 66,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:27.599Z"
+      "repository_data_timestamp": "2022-12-02T02:00:27.628Z"
     },
     {
       "index": 588,
@@ -9824,7 +9824,7 @@ DATA = {
       "forks": 18,
       "subscribers": 10,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:27.352Z"
+      "repository_data_timestamp": "2022-12-02T02:00:27.431Z"
     },
     {
       "index": 589,
@@ -9844,7 +9844,7 @@ DATA = {
       "forks": 2,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:27.369Z"
+      "repository_data_timestamp": "2022-12-02T02:00:27.490Z"
     },
     {
       "index": 590,
@@ -9860,11 +9860,11 @@ DATA = {
       },
       "created_at": "2011-06-28T19:29:12.000Z",
       "last_commit_at": "2022-11-07T10:25:15.000Z",
-      "stars": 1542,
+      "stars": 1543,
       "forks": 433,
       "subscribers": 55,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:27.391Z"
+      "repository_data_timestamp": "2022-12-02T02:00:27.482Z"
     },
     {
       "index": 591,
@@ -9884,7 +9884,7 @@ DATA = {
       "forks": 183,
       "subscribers": 49,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:27.686Z"
+      "repository_data_timestamp": "2022-12-02T02:00:27.818Z"
     },
     {
       "index": 592,
@@ -9904,7 +9904,7 @@ DATA = {
       "forks": 6,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:27.484Z"
+      "repository_data_timestamp": "2022-12-02T02:00:27.573Z"
     },
     {
       "index": 593,
@@ -9920,11 +9920,11 @@ DATA = {
       },
       "created_at": "2019-12-27T14:40:51.000Z",
       "last_commit_at": "2022-10-26T14:44:33.000Z",
-      "stars": 589,
+      "stars": 590,
       "forks": 61,
       "subscribers": 17,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:27.489Z"
+      "repository_data_timestamp": "2022-12-02T02:00:27.617Z"
     },
     {
       "index": 594,
@@ -9944,7 +9944,7 @@ DATA = {
       "forks": 237,
       "subscribers": 59,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:27.659Z"
+      "repository_data_timestamp": "2022-12-02T02:00:27.702Z"
     },
     {
       "index": 595,
@@ -9959,12 +9959,12 @@ DATA = {
         "name": "mongo-go-driver"
       },
       "created_at": "2017-02-08T17:18:02.000Z",
-      "last_commit_at": "2022-11-30T22:22:51.000Z",
-      "stars": 7077,
+      "last_commit_at": "2022-12-01T23:06:31.000Z",
+      "stars": 7079,
       "forks": 820,
       "subscribers": 129,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:27.628Z"
+      "repository_data_timestamp": "2022-12-02T02:00:27.682Z"
     },
     {
       "index": 596,
@@ -9984,7 +9984,7 @@ DATA = {
       "forks": 9,
       "subscribers": 3,
       "license": null,
-      "repository_data_timestamp": "2022-12-01T02:00:27.645Z"
+      "repository_data_timestamp": "2022-12-02T02:00:27.733Z"
     },
     {
       "index": 597,
@@ -10004,7 +10004,7 @@ DATA = {
       "forks": 19,
       "subscribers": 7,
       "license": null,
-      "repository_data_timestamp": "2022-12-01T02:00:27.650Z"
+      "repository_data_timestamp": "2022-12-02T02:00:27.776Z"
     },
     {
       "index": 598,
@@ -10024,7 +10024,7 @@ DATA = {
       "forks": 58,
       "subscribers": 26,
       "license": null,
-      "repository_data_timestamp": "2022-12-01T02:00:27.686Z"
+      "repository_data_timestamp": "2022-12-02T02:00:27.768Z"
     },
     {
       "index": 599,
@@ -10044,7 +10044,7 @@ DATA = {
       "forks": 126,
       "subscribers": 25,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:27.739Z"
+      "repository_data_timestamp": "2022-12-02T02:00:27.872Z"
     },
     {
       "index": 600,
@@ -10064,7 +10064,7 @@ DATA = {
       "forks": 37,
       "subscribers": 26,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:27.785Z"
+      "repository_data_timestamp": "2022-12-02T02:00:27.876Z"
     },
     {
       "index": 601,
@@ -10080,11 +10080,11 @@ DATA = {
       },
       "created_at": "2012-04-14T04:31:58.000Z",
       "last_commit_at": "2022-07-26T02:37:30.000Z",
-      "stars": 9357,
+      "stars": 9358,
       "forks": 1266,
       "subscribers": 287,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:27.795Z"
+      "repository_data_timestamp": "2022-12-02T02:00:27.928Z"
     },
     {
       "index": 602,
@@ -10100,11 +10100,11 @@ DATA = {
       },
       "created_at": "2012-07-25T13:01:39.000Z",
       "last_commit_at": "2022-11-27T08:51:26.000Z",
-      "stars": 15983,
+      "stars": 15993,
       "forks": 1935,
       "subscribers": 249,
       "license": "bsd-2-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:27.884Z"
+      "repository_data_timestamp": "2022-12-02T02:00:27.914Z"
     },
     {
       "index": 603,
@@ -10119,12 +10119,12 @@ DATA = {
         "name": "rueidis"
       },
       "created_at": "2021-09-18T10:38:58.000Z",
-      "last_commit_at": "2022-11-30T14:47:06.000Z",
+      "last_commit_at": "2022-12-01T14:09:36.000Z",
       "stars": 796,
       "forks": 55,
       "subscribers": 14,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:27.922Z"
+      "repository_data_timestamp": "2022-12-02T02:00:27.963Z"
     },
     {
       "index": 604,
@@ -10144,7 +10144,7 @@ DATA = {
       "forks": 6,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:27.954Z"
+      "repository_data_timestamp": "2022-12-02T02:00:27.987Z"
     },
     {
       "index": 605,
@@ -10160,11 +10160,11 @@ DATA = {
       },
       "created_at": "2012-12-06T17:15:33.000Z",
       "last_commit_at": "2022-09-28T06:16:38.000Z",
-      "stars": 7063,
+      "stars": 7064,
       "forks": 1136,
       "subscribers": 171,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:27.961Z"
+      "repository_data_timestamp": "2022-12-02T02:00:28.032Z"
     },
     {
       "index": 606,
@@ -10184,7 +10184,7 @@ DATA = {
       "forks": 182,
       "subscribers": 33,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:27.953Z"
+      "repository_data_timestamp": "2022-12-02T02:00:28.058Z"
     },
     {
       "index": 607,
@@ -10204,7 +10204,7 @@ DATA = {
       "forks": 257,
       "subscribers": 47,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:27.984Z"
+      "repository_data_timestamp": "2022-12-02T02:00:28.088Z"
     },
     {
       "index": 608,
@@ -10220,11 +10220,11 @@ DATA = {
       },
       "created_at": "2017-03-27T17:56:15.000Z",
       "last_commit_at": "2022-11-23T17:32:01.000Z",
-      "stars": 4579,
-      "forks": 508,
+      "stars": 4581,
+      "forks": 509,
       "subscribers": 345,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:27.998Z"
+      "repository_data_timestamp": "2022-12-02T02:00:28.121Z"
     },
     {
       "index": 609,
@@ -10244,7 +10244,7 @@ DATA = {
       "forks": 14,
       "subscribers": 33,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:28.073Z"
+      "repository_data_timestamp": "2022-12-02T02:00:28.208Z"
     },
     {
       "index": 610,
@@ -10264,7 +10264,7 @@ DATA = {
       "forks": 10,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:28.111Z"
+      "repository_data_timestamp": "2022-12-02T02:00:28.227Z"
     },
     {
       "index": 611,
@@ -10279,11 +10279,11 @@ DATA = {
       },
       "created_at": "2020-09-07T09:07:35.000Z",
       "last_commit_at": "2022-11-06T15:05:06.000Z",
-      "stars": 2672,
+      "stars": 2679,
       "forks": 156,
       "subscribers": 16,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:28.092Z"
+      "repository_data_timestamp": "2022-12-02T02:00:28.213Z"
     },
     {
       "index": 612,
@@ -10302,7 +10302,7 @@ DATA = {
       "forks": 55,
       "subscribers": 45,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:28.177Z"
+      "repository_data_timestamp": "2022-12-02T02:00:28.220Z"
     },
     {
       "index": 613,
@@ -10321,7 +10321,7 @@ DATA = {
       "forks": 7,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:28.248Z"
+      "repository_data_timestamp": "2022-12-02T02:00:28.280Z"
     },
     {
       "index": 614,
@@ -10340,7 +10340,7 @@ DATA = {
       "forks": 21,
       "subscribers": 4,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:28.294Z"
+      "repository_data_timestamp": "2022-12-02T02:00:28.333Z"
     },
     {
       "index": 615,
@@ -10359,7 +10359,7 @@ DATA = {
       "forks": 139,
       "subscribers": 25,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:28.234Z"
+      "repository_data_timestamp": "2022-12-02T02:00:28.333Z"
     },
     {
       "index": 616,
@@ -10378,7 +10378,7 @@ DATA = {
       "forks": 48,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:28.270Z"
+      "repository_data_timestamp": "2022-12-02T02:00:28.341Z"
     },
     {
       "index": 617,
@@ -10397,7 +10397,7 @@ DATA = {
       "forks": 7,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:28.263Z"
+      "repository_data_timestamp": "2022-12-02T02:00:28.365Z"
     },
     {
       "index": 618,
@@ -10416,7 +10416,7 @@ DATA = {
       "forks": 0,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:28.302Z"
+      "repository_data_timestamp": "2022-12-02T02:00:28.399Z"
     },
     {
       "index": 619,
@@ -10435,7 +10435,7 @@ DATA = {
       "forks": 19,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:28.357Z"
+      "repository_data_timestamp": "2022-12-02T02:00:28.494Z"
     },
     {
       "index": 620,
@@ -10454,7 +10454,7 @@ DATA = {
       "forks": 5,
       "subscribers": 3,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:28.380Z"
+      "repository_data_timestamp": "2022-12-02T02:00:28.494Z"
     },
     {
       "index": 621,
@@ -10470,10 +10470,10 @@ DATA = {
       "created_at": "2017-06-15T20:49:41.000Z",
       "last_commit_at": "2022-08-28T01:18:21.000Z",
       "stars": 63,
-      "forks": 12,
+      "forks": 11,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:28.387Z"
+      "repository_data_timestamp": "2022-12-02T02:00:28.529Z"
     },
     {
       "index": 622,
@@ -10492,7 +10492,7 @@ DATA = {
       "forks": 7,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:28.455Z"
+      "repository_data_timestamp": "2022-12-02T02:00:28.524Z"
     },
     {
       "index": 623,
@@ -10511,7 +10511,7 @@ DATA = {
       "forks": 4,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:28.528Z"
+      "repository_data_timestamp": "2022-12-02T02:00:28.567Z"
     },
     {
       "index": 624,
@@ -10530,7 +10530,7 @@ DATA = {
       "forks": 12,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:28.577Z"
+      "repository_data_timestamp": "2022-12-02T02:00:28.629Z"
     },
     {
       "index": 625,
@@ -10549,7 +10549,7 @@ DATA = {
       "forks": 7,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:28.536Z"
+      "repository_data_timestamp": "2022-12-02T02:00:28.623Z"
     },
     {
       "index": 626,
@@ -10564,11 +10564,11 @@ DATA = {
       },
       "created_at": "2013-11-18T10:55:30.000Z",
       "last_commit_at": "2022-11-20T05:59:06.000Z",
-      "stars": 3919,
+      "stars": 3918,
       "forks": 227,
       "subscribers": 66,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:28.570Z"
+      "repository_data_timestamp": "2022-12-02T02:00:28.663Z"
     },
     {
       "index": 627,
@@ -10587,7 +10587,7 @@ DATA = {
       "forks": 4,
       "subscribers": 2,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:28.575Z"
+      "repository_data_timestamp": "2022-12-02T02:00:28.650Z"
     },
     {
       "index": 628,
@@ -10606,7 +10606,7 @@ DATA = {
       "forks": 5,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:28.589Z"
+      "repository_data_timestamp": "2022-12-02T02:00:28.668Z"
     },
     {
       "index": 629,
@@ -10625,7 +10625,7 @@ DATA = {
       "forks": 12,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:28.647Z"
+      "repository_data_timestamp": "2022-12-02T02:00:28.782Z"
     },
     {
       "index": 630,
@@ -10644,7 +10644,7 @@ DATA = {
       "forks": 14,
       "subscribers": 8,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:28.668Z"
+      "repository_data_timestamp": "2022-12-02T02:00:28.816Z"
     },
     {
       "index": 631,
@@ -10663,7 +10663,7 @@ DATA = {
       "forks": 3,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:28.685Z"
+      "repository_data_timestamp": "2022-12-02T02:00:28.808Z"
     },
     {
       "index": 632,
@@ -10682,7 +10682,7 @@ DATA = {
       "forks": 64,
       "subscribers": 19,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:28.736Z"
+      "repository_data_timestamp": "2022-12-02T02:00:28.857Z"
     },
     {
       "index": 633,
@@ -10701,7 +10701,7 @@ DATA = {
       "forks": 11,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:28.878Z"
+      "repository_data_timestamp": "2022-12-02T02:00:28.879Z"
     },
     {
       "index": 634,
@@ -10716,11 +10716,11 @@ DATA = {
       },
       "created_at": "2018-03-25T15:38:27.000Z",
       "last_commit_at": "2022-11-09T21:16:51.000Z",
-      "stars": 535,
+      "stars": 537,
       "forks": 61,
       "subscribers": 13,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:28.847Z"
+      "repository_data_timestamp": "2022-12-02T02:00:28.955Z"
     },
     {
       "index": 635,
@@ -10739,7 +10739,7 @@ DATA = {
       "forks": 4,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:28.857Z"
+      "repository_data_timestamp": "2022-12-02T02:00:28.935Z"
     },
     {
       "index": 636,
@@ -10758,7 +10758,7 @@ DATA = {
       "forks": 59,
       "subscribers": 10,
       "license": "mpl-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:28.933Z"
+      "repository_data_timestamp": "2022-12-02T02:00:28.962Z"
     },
     {
       "index": 637,
@@ -10777,7 +10777,7 @@ DATA = {
       "forks": 74,
       "subscribers": 29,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:28.898Z"
+      "repository_data_timestamp": "2022-12-02T02:00:28.976Z"
     },
     {
       "index": 638,
@@ -10796,7 +10796,7 @@ DATA = {
       "forks": 8,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:28.904Z"
+      "repository_data_timestamp": "2022-12-02T02:00:29.009Z"
     },
     {
       "index": 639,
@@ -10811,11 +10811,11 @@ DATA = {
       },
       "created_at": "2018-06-26T16:04:50.000Z",
       "last_commit_at": "2022-10-19T16:34:25.000Z",
-      "stars": 82,
+      "stars": 83,
       "forks": 13,
       "subscribers": 5,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:28.952Z"
+      "repository_data_timestamp": "2022-12-02T02:00:29.065Z"
     },
     {
       "index": 640,
@@ -10830,11 +10830,11 @@ DATA = {
       },
       "created_at": "2018-12-23T07:02:04.000Z",
       "last_commit_at": "2022-11-30T05:01:09.000Z",
-      "stars": 4442,
+      "stars": 4444,
       "forks": 486,
       "subscribers": 143,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:28.959Z"
+      "repository_data_timestamp": "2022-12-02T02:00:29.141Z"
     },
     {
       "index": 641,
@@ -10853,7 +10853,7 @@ DATA = {
       "forks": 20,
       "subscribers": 4,
       "license": "bsd-2-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:28.971Z"
+      "repository_data_timestamp": "2022-12-02T02:00:29.098Z"
     },
     {
       "index": 642,
@@ -10872,7 +10872,7 @@ DATA = {
       "forks": 44,
       "subscribers": 2,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:31.278Z"
+      "repository_data_timestamp": "2022-12-02T02:00:31.204Z"
     },
     {
       "index": 643,
@@ -10891,7 +10891,7 @@ DATA = {
       "forks": 3,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:29.015Z"
+      "repository_data_timestamp": "2022-12-02T02:00:29.146Z"
     },
     {
       "index": 644,
@@ -10906,11 +10906,11 @@ DATA = {
       },
       "created_at": "2016-10-29T08:52:21.000Z",
       "last_commit_at": "2022-08-26T00:17:37.000Z",
-      "stars": 3407,
-      "forks": 330,
+      "stars": 3408,
+      "forks": 331,
       "subscribers": 108,
       "license": "agpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:00:29.139Z"
+      "repository_data_timestamp": "2022-12-02T02:00:29.197Z"
     },
     {
       "index": 645,
@@ -10929,7 +10929,7 @@ DATA = {
       "forks": 1,
       "subscribers": 2,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:29.150Z"
+      "repository_data_timestamp": "2022-12-02T02:00:29.232Z"
     },
     {
       "index": 646,
@@ -10948,7 +10948,7 @@ DATA = {
       "forks": 6,
       "subscribers": 1,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:29.170Z"
+      "repository_data_timestamp": "2022-12-02T02:00:29.242Z"
     },
     {
       "index": 647,
@@ -10967,7 +10967,7 @@ DATA = {
       "forks": 285,
       "subscribers": 151,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:29.191Z"
+      "repository_data_timestamp": "2022-12-02T02:00:29.257Z"
     },
     {
       "index": 648,
@@ -10982,11 +10982,11 @@ DATA = {
       },
       "created_at": "2015-06-14T00:33:48.000Z",
       "last_commit_at": "2018-11-02T06:09:14.000Z",
-      "stars": 3103,
+      "stars": 3105,
       "forks": 244,
       "subscribers": 143,
       "license": null,
-      "repository_data_timestamp": "2022-12-01T02:00:29.186Z"
+      "repository_data_timestamp": "2022-12-02T02:00:29.247Z"
     },
     {
       "index": 649,
@@ -11005,7 +11005,7 @@ DATA = {
       "forks": 7,
       "subscribers": 3,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:29.245Z"
+      "repository_data_timestamp": "2022-12-02T02:00:29.281Z"
     },
     {
       "index": 650,
@@ -11024,7 +11024,7 @@ DATA = {
       "forks": 156,
       "subscribers": 63,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:29.391Z"
+      "repository_data_timestamp": "2022-12-02T02:00:29.370Z"
     },
     {
       "index": 651,
@@ -11043,7 +11043,7 @@ DATA = {
       "forks": 50,
       "subscribers": 117,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:29.282Z"
+      "repository_data_timestamp": "2022-12-02T02:00:29.388Z"
     },
     {
       "index": 652,
@@ -11062,7 +11062,7 @@ DATA = {
       "forks": 30,
       "subscribers": 16,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:29.262Z"
+      "repository_data_timestamp": "2022-12-02T02:00:29.426Z"
     },
     {
       "index": 653,
@@ -11077,11 +11077,11 @@ DATA = {
       },
       "created_at": "2015-02-03T00:01:19.000Z",
       "last_commit_at": "2022-11-14T10:13:11.000Z",
-      "stars": 24244,
+      "stars": 24246,
       "forks": 2371,
       "subscribers": 688,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:29.306Z"
+      "repository_data_timestamp": "2022-12-02T02:00:29.457Z"
     },
     {
       "index": 654,
@@ -11096,11 +11096,11 @@ DATA = {
       },
       "created_at": "2015-01-13T23:30:18.000Z",
       "last_commit_at": "2022-11-24T23:23:02.000Z",
-      "stars": 19742,
-      "forks": 2212,
+      "stars": 19748,
+      "forks": 2211,
       "subscribers": 517,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:29.763Z"
+      "repository_data_timestamp": "2022-12-02T02:00:29.756Z"
     },
     {
       "index": 655,
@@ -11119,7 +11119,7 @@ DATA = {
       "forks": 13,
       "subscribers": 1,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:29.428Z"
+      "repository_data_timestamp": "2022-12-02T02:00:29.516Z"
     },
     {
       "index": 656,
@@ -11133,12 +11133,12 @@ DATA = {
         "name": "go-pdu"
       },
       "created_at": "2018-10-08T08:13:22.000Z",
-      "last_commit_at": "2022-11-03T02:45:05.000Z",
+      "last_commit_at": "2022-12-01T02:08:42.000Z",
       "stars": 44,
       "forks": 7,
       "subscribers": 4,
       "license": "gpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:00:29.446Z"
+      "repository_data_timestamp": "2022-12-02T02:00:29.530Z"
     },
     {
       "index": 657,
@@ -11153,11 +11153,11 @@ DATA = {
       },
       "created_at": "2019-04-08T12:54:01.000Z",
       "last_commit_at": "2022-03-26T17:42:22.000Z",
-      "stars": 499,
+      "stars": 500,
       "forks": 26,
       "subscribers": 9,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:29.474Z"
+      "repository_data_timestamp": "2022-12-02T02:00:29.565Z"
     },
     {
       "index": 658,
@@ -11171,12 +11171,12 @@ DATA = {
         "name": "go-zero"
       },
       "created_at": "2020-08-07T15:37:57.000Z",
-      "last_commit_at": "2022-11-30T16:55:44.000Z",
-      "stars": 21699,
+      "last_commit_at": "2022-12-01T16:17:13.000Z",
+      "stars": 21710,
       "forks": 3135,
       "subscribers": 289,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:29.805Z"
+      "repository_data_timestamp": "2022-12-02T02:00:29.848Z"
     },
     {
       "index": 659,
@@ -11195,7 +11195,7 @@ DATA = {
       "forks": 98,
       "subscribers": 24,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:29.548Z"
+      "repository_data_timestamp": "2022-12-02T02:00:29.569Z"
     },
     {
       "index": 660,
@@ -11209,12 +11209,12 @@ DATA = {
         "name": "grpc-go"
       },
       "created_at": "2014-12-08T18:59:34.000Z",
-      "last_commit_at": "2022-12-01T01:07:48.000Z",
-      "stars": 17184,
-      "forks": 3835,
+      "last_commit_at": "2022-12-02T01:47:27.000Z",
+      "stars": 17188,
+      "forks": 3836,
       "subscribers": 478,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:29.548Z"
+      "repository_data_timestamp": "2022-12-02T02:00:29.667Z"
     },
     {
       "index": 661,
@@ -11233,7 +11233,7 @@ DATA = {
       "forks": 207,
       "subscribers": 87,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:29.582Z"
+      "repository_data_timestamp": "2022-12-02T02:00:29.682Z"
     },
     {
       "index": 662,
@@ -11252,7 +11252,7 @@ DATA = {
       "forks": 21,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:29.609Z"
+      "repository_data_timestamp": "2022-12-02T02:00:29.713Z"
     },
     {
       "index": 663,
@@ -11271,7 +11271,7 @@ DATA = {
       "forks": 77,
       "subscribers": 8,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:29.746Z"
+      "repository_data_timestamp": "2022-12-02T02:00:29.779Z"
     },
     {
       "index": 664,
@@ -11285,12 +11285,12 @@ DATA = {
         "name": "kitex"
       },
       "created_at": "2021-07-09T13:49:18.000Z",
-      "last_commit_at": "2022-12-01T01:29:10.000Z",
-      "stars": 5333,
-      "forks": 584,
+      "last_commit_at": "2022-12-01T13:50:55.000Z",
+      "stars": 5336,
+      "forks": 586,
       "subscribers": 106,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:29.792Z"
+      "repository_data_timestamp": "2022-12-02T02:00:29.821Z"
     },
     {
       "index": 665,
@@ -11304,12 +11304,12 @@ DATA = {
         "name": "kratos"
       },
       "created_at": "2019-01-10T10:42:31.000Z",
-      "last_commit_at": "2022-11-30T16:08:21.000Z",
-      "stars": 19368,
+      "last_commit_at": "2022-12-01T18:07:34.000Z",
+      "stars": 19379,
       "forks": 3682,
       "subscribers": 438,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:29.798Z"
+      "repository_data_timestamp": "2022-12-02T02:00:29.813Z"
     },
     {
       "index": 666,
@@ -11324,11 +11324,11 @@ DATA = {
       },
       "created_at": "2017-10-13T19:50:26.000Z",
       "last_commit_at": "2022-09-09T23:27:36.000Z",
-      "stars": 2391,
+      "stars": 2393,
       "forks": 105,
       "subscribers": 64,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:29.806Z"
+      "repository_data_timestamp": "2022-12-02T02:00:29.894Z"
     },
     {
       "index": 667,
@@ -11343,11 +11343,11 @@ DATA = {
       },
       "created_at": "2016-11-04T18:37:13.000Z",
       "last_commit_at": "2022-11-24T18:02:37.000Z",
-      "stars": 5327,
+      "stars": 5328,
       "forks": 506,
       "subscribers": 118,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:29.848Z"
+      "repository_data_timestamp": "2022-12-02T02:00:29.862Z"
     },
     {
       "index": 668,
@@ -11366,7 +11366,7 @@ DATA = {
       "forks": 1006,
       "subscribers": 327,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:29.898Z"
+      "repository_data_timestamp": "2022-12-02T02:00:29.988Z"
     },
     {
       "index": 669,
@@ -11380,12 +11380,12 @@ DATA = {
         "name": "gnatsd"
       },
       "created_at": "2012-10-29T16:12:24.000Z",
-      "last_commit_at": "2022-12-01T00:11:05.000Z",
-      "stars": 11890,
+      "last_commit_at": "2022-12-02T00:57:48.000Z",
+      "stars": 11893,
       "forks": 1160,
       "subscribers": 382,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:30.231Z"
+      "repository_data_timestamp": "2022-12-02T02:00:30.293Z"
     },
     {
       "index": 670,
@@ -11401,10 +11401,10 @@ DATA = {
       "created_at": "2019-02-01T09:50:13.000Z",
       "last_commit_at": "2022-11-28T11:07:01.000Z",
       "stars": 97,
-      "forks": 18,
+      "forks": 19,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:29.909Z"
+      "repository_data_timestamp": "2022-12-02T02:00:30.046Z"
     },
     {
       "index": 671,
@@ -11423,7 +11423,7 @@ DATA = {
       "forks": 13,
       "subscribers": 2,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:31.922Z"
+      "repository_data_timestamp": "2022-12-02T02:00:31.878Z"
     },
     {
       "index": 672,
@@ -11446,11 +11446,11 @@ DATA = {
       },
       "created_at": "2013-11-05T00:41:20.000Z",
       "last_commit_at": "2022-11-14T18:59:39.000Z",
-      "stars": 6538,
-      "forks": 846,
+      "stars": 6539,
+      "forks": 847,
       "subscribers": 408,
       "license": "mpl-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:30.048Z"
+      "repository_data_timestamp": "2022-12-02T02:00:30.100Z"
     },
     {
       "index": 674,
@@ -11464,12 +11464,12 @@ DATA = {
         "name": "etcd"
       },
       "created_at": "2013-07-06T21:57:21.000Z",
-      "last_commit_at": "2022-12-01T01:57:39.000Z",
-      "stars": 41983,
-      "forks": 8950,
+      "last_commit_at": "2022-12-02T01:50:46.000Z",
+      "stars": 41993,
+      "forks": 8951,
       "subscribers": 1349,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:30.349Z"
+      "repository_data_timestamp": "2022-12-02T02:00:30.405Z"
     },
     {
       "index": 675,
@@ -11488,7 +11488,7 @@ DATA = {
       "forks": 58,
       "subscribers": 15,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:30.084Z"
+      "repository_data_timestamp": "2022-12-02T02:00:30.142Z"
     },
     {
       "index": 676,
@@ -11507,7 +11507,7 @@ DATA = {
       "forks": 116,
       "subscribers": 10,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:30.111Z"
+      "repository_data_timestamp": "2022-12-02T02:00:30.150Z"
     },
     {
       "index": 677,
@@ -11526,7 +11526,7 @@ DATA = {
       "forks": 53,
       "subscribers": 26,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:30.505Z"
+      "repository_data_timestamp": "2022-12-02T02:00:30.518Z"
     },
     {
       "index": 678,
@@ -11545,7 +11545,7 @@ DATA = {
       "forks": 73,
       "subscribers": 2556,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:30.188Z"
+      "repository_data_timestamp": "2022-12-02T02:00:30.174Z"
     },
     {
       "index": 679,
@@ -11560,11 +11560,11 @@ DATA = {
       },
       "created_at": "2016-05-18T09:34:05.000Z",
       "last_commit_at": "2022-10-23T13:21:34.000Z",
-      "stars": 7346,
+      "stars": 7351,
       "forks": 1115,
       "subscribers": 350,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:30.217Z"
+      "repository_data_timestamp": "2022-12-02T02:00:30.190Z"
     },
     {
       "index": 680,
@@ -11583,7 +11583,7 @@ DATA = {
       "forks": 16,
       "subscribers": 13,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:30.196Z"
+      "repository_data_timestamp": "2022-12-02T02:00:30.218Z"
     },
     {
       "index": 681,
@@ -11602,7 +11602,7 @@ DATA = {
       "forks": 25,
       "subscribers": 10,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:30.331Z"
+      "repository_data_timestamp": "2022-12-02T02:00:30.286Z"
     },
     {
       "index": 682,
@@ -11621,7 +11621,7 @@ DATA = {
       "forks": 564,
       "subscribers": 131,
       "license": "mpl-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:30.311Z"
+      "repository_data_timestamp": "2022-12-02T02:00:30.342Z"
     },
     {
       "index": 683,
@@ -11640,7 +11640,7 @@ DATA = {
       "forks": 23,
       "subscribers": 8,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:30.343Z"
+      "repository_data_timestamp": "2022-12-02T02:00:30.384Z"
     },
     {
       "index": 684,
@@ -11667,7 +11667,7 @@ DATA = {
       "forks": 192,
       "subscribers": 36,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:30.390Z"
+      "repository_data_timestamp": "2022-12-02T02:00:30.417Z"
     },
     {
       "index": 686,
@@ -11686,7 +11686,7 @@ DATA = {
       "forks": 47,
       "subscribers": 21,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:30.930Z"
+      "repository_data_timestamp": "2022-12-02T02:00:30.831Z"
     },
     {
       "index": 687,
@@ -11705,7 +11705,7 @@ DATA = {
       "forks": 41,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:30.514Z"
+      "repository_data_timestamp": "2022-12-02T02:00:30.453Z"
     },
     {
       "index": 688,
@@ -11720,11 +11720,11 @@ DATA = {
       },
       "created_at": "2013-12-12T20:11:59.000Z",
       "last_commit_at": "2022-09-30T10:18:29.000Z",
-      "stars": 2206,
+      "stars": 2207,
       "forks": 292,
       "subscribers": 55,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:30.618Z"
+      "repository_data_timestamp": "2022-12-02T02:00:30.518Z"
     },
     {
       "index": 689,
@@ -11739,11 +11739,11 @@ DATA = {
       },
       "created_at": "2020-12-18T08:47:28.000Z",
       "last_commit_at": "2022-11-28T03:27:06.000Z",
-      "stars": 577,
+      "stars": 579,
       "forks": 81,
       "subscribers": 30,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:30.616Z"
+      "repository_data_timestamp": "2022-12-02T02:00:30.524Z"
     },
     {
       "index": 690,
@@ -11762,7 +11762,7 @@ DATA = {
       "forks": 35,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:30.616Z"
+      "repository_data_timestamp": "2022-12-02T02:00:30.561Z"
     },
     {
       "index": 691,
@@ -11781,7 +11781,7 @@ DATA = {
       "forks": 5,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:30.622Z"
+      "repository_data_timestamp": "2022-12-02T02:00:30.568Z"
     },
     {
       "index": 692,
@@ -11795,12 +11795,12 @@ DATA = {
         "name": "go-email-validator"
       },
       "created_at": "2020-12-10T18:27:20.000Z",
-      "last_commit_at": "2022-11-28T18:02:57.000Z",
+      "last_commit_at": "2022-12-01T18:02:34.000Z",
       "stars": 43,
       "forks": 8,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:30.631Z"
+      "repository_data_timestamp": "2022-12-02T02:00:30.624Z"
     },
     {
       "index": 693,
@@ -11815,11 +11815,11 @@ DATA = {
       },
       "created_at": "2016-04-26T17:59:18.000Z",
       "last_commit_at": "2022-11-04T10:28:06.000Z",
-      "stars": 1666,
+      "stars": 1669,
       "forks": 237,
       "subscribers": 44,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:30.645Z"
+      "repository_data_timestamp": "2022-12-02T02:00:30.746Z"
     },
     {
       "index": 694,
@@ -11834,11 +11834,11 @@ DATA = {
       },
       "created_at": "2022-03-05T11:03:34.000Z",
       "last_commit_at": "2022-11-19T10:44:44.000Z",
-      "stars": 157,
+      "stars": 159,
       "forks": 5,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:30.660Z"
+      "repository_data_timestamp": "2022-12-02T02:00:30.746Z"
     },
     {
       "index": 695,
@@ -11857,7 +11857,7 @@ DATA = {
       "forks": 87,
       "subscribers": 14,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:30.810Z"
+      "repository_data_timestamp": "2022-12-02T02:00:30.769Z"
     },
     {
       "index": 696,
@@ -11876,7 +11876,7 @@ DATA = {
       "forks": 17,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:30.823Z"
+      "repository_data_timestamp": "2022-12-02T02:00:30.791Z"
     },
     {
       "index": 697,
@@ -11895,7 +11895,7 @@ DATA = {
       "forks": 63,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:30.823Z"
+      "repository_data_timestamp": "2022-12-02T02:00:30.813Z"
     },
     {
       "index": 698,
@@ -11914,7 +11914,7 @@ DATA = {
       "forks": 25,
       "subscribers": 14,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:30.930Z"
+      "repository_data_timestamp": "2022-12-02T02:00:30.835Z"
     },
     {
       "index": 699,
@@ -11929,11 +11929,11 @@ DATA = {
       },
       "created_at": "2017-03-25T18:25:36.000Z",
       "last_commit_at": "2021-12-05T01:25:36.000Z",
-      "stars": 2561,
+      "stars": 2562,
       "forks": 215,
       "subscribers": 28,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:30.908Z"
+      "repository_data_timestamp": "2022-12-02T02:00:30.871Z"
     },
     {
       "index": 700,
@@ -11952,7 +11952,7 @@ DATA = {
       "forks": 50,
       "subscribers": 8,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:30.941Z"
+      "repository_data_timestamp": "2022-12-02T02:00:30.863Z"
     },
     {
       "index": 701,
@@ -11971,7 +11971,7 @@ DATA = {
       "forks": 132,
       "subscribers": 78,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:30.953Z"
+      "repository_data_timestamp": "2022-12-02T02:00:30.977Z"
     },
     {
       "index": 702,
@@ -11986,11 +11986,11 @@ DATA = {
       },
       "created_at": "2014-04-16T22:28:49.000Z",
       "last_commit_at": "2022-09-07T22:12:35.000Z",
-      "stars": 11182,
-      "forks": 889,
-      "subscribers": 151,
+      "stars": 11184,
+      "forks": 890,
+      "subscribers": 150,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:30.954Z"
+      "repository_data_timestamp": "2022-12-02T02:00:31.052Z"
     },
     {
       "index": 703,
@@ -12005,11 +12005,11 @@ DATA = {
       },
       "created_at": "2022-07-29T11:22:27.000Z",
       "last_commit_at": "2022-11-25T06:06:48.000Z",
-      "stars": 80,
+      "stars": 82,
       "forks": 6,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:31.020Z"
+      "repository_data_timestamp": "2022-12-02T02:00:31.041Z"
     },
     {
       "index": 704,
@@ -12028,7 +12028,7 @@ DATA = {
       "forks": 4,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:31.124Z"
+      "repository_data_timestamp": "2022-12-02T02:00:31.070Z"
     },
     {
       "index": 705,
@@ -12047,7 +12047,7 @@ DATA = {
       "forks": 255,
       "subscribers": 204,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:31.133Z"
+      "repository_data_timestamp": "2022-12-02T02:00:31.098Z"
     },
     {
       "index": 706,
@@ -12066,7 +12066,7 @@ DATA = {
       "forks": 30,
       "subscribers": 9,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:31.154Z"
+      "repository_data_timestamp": "2022-12-02T02:00:31.121Z"
     },
     {
       "index": 707,
@@ -12085,7 +12085,7 @@ DATA = {
       "forks": 9,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:31.253Z"
+      "repository_data_timestamp": "2022-12-02T02:00:31.150Z"
     },
     {
       "index": 708,
@@ -12104,7 +12104,7 @@ DATA = {
       "forks": 4,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:31.254Z"
+      "repository_data_timestamp": "2022-12-02T02:00:31.150Z"
     },
     {
       "index": 709,
@@ -12123,7 +12123,7 @@ DATA = {
       "forks": 121,
       "subscribers": 45,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:31.348Z"
+      "repository_data_timestamp": "2022-12-02T02:00:31.171Z"
     },
     {
       "index": 710,
@@ -12142,7 +12142,7 @@ DATA = {
       "forks": 10,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:31.237Z"
+      "repository_data_timestamp": "2022-12-02T02:00:31.282Z"
     },
     {
       "index": 711,
@@ -12156,12 +12156,12 @@ DATA = {
         "name": "cel-go"
       },
       "created_at": "2018-03-09T22:57:58.000Z",
-      "last_commit_at": "2022-11-18T18:23:05.000Z",
+      "last_commit_at": "2022-12-01T21:12:17.000Z",
       "stars": 1402,
       "forks": 153,
       "subscribers": 33,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:31.334Z"
+      "repository_data_timestamp": "2022-12-02T02:00:31.351Z"
     },
     {
       "index": 712,
@@ -12180,7 +12180,7 @@ DATA = {
       "forks": 3,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:31.340Z"
+      "repository_data_timestamp": "2022-12-02T02:00:31.343Z"
     },
     {
       "index": 713,
@@ -12194,12 +12194,12 @@ DATA = {
         "name": "expr"
       },
       "created_at": "2018-07-14T15:57:34.000Z",
-      "last_commit_at": "2022-11-24T02:30:51.000Z",
-      "stars": 3199,
+      "last_commit_at": "2022-12-01T09:13:30.000Z",
+      "stars": 3202,
       "forks": 245,
       "subscribers": 54,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:31.422Z"
+      "repository_data_timestamp": "2022-12-02T02:00:31.379Z"
     },
     {
       "index": 714,
@@ -12218,7 +12218,7 @@ DATA = {
       "forks": 11,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:31.450Z"
+      "repository_data_timestamp": "2022-12-02T02:00:31.401Z"
     },
     {
       "index": 715,
@@ -12237,7 +12237,7 @@ DATA = {
       "forks": 35,
       "subscribers": 21,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:31.463Z"
+      "repository_data_timestamp": "2022-12-02T02:00:31.474Z"
     },
     {
       "index": 716,
@@ -12256,7 +12256,7 @@ DATA = {
       "forks": 96,
       "subscribers": 26,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:31.528Z"
+      "repository_data_timestamp": "2022-12-02T02:00:31.615Z"
     },
     {
       "index": 717,
@@ -12271,11 +12271,11 @@ DATA = {
       },
       "created_at": "2013-12-20T17:29:43.000Z",
       "last_commit_at": "2022-11-14T20:33:59.000Z",
-      "stars": 2585,
+      "stars": 2586,
       "forks": 180,
       "subscribers": 532,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:31.580Z"
+      "repository_data_timestamp": "2022-12-02T02:00:31.475Z"
     },
     {
       "index": 718,
@@ -12294,7 +12294,7 @@ DATA = {
       "forks": 101,
       "subscribers": 42,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:31.581Z"
+      "repository_data_timestamp": "2022-12-02T02:00:31.496Z"
     },
     {
       "index": 719,
@@ -12313,7 +12313,7 @@ DATA = {
       "forks": 136,
       "subscribers": 46,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:31.596Z"
+      "repository_data_timestamp": "2022-12-02T02:00:31.522Z"
     },
     {
       "index": 720,
@@ -12328,11 +12328,11 @@ DATA = {
       },
       "created_at": "2016-11-04T22:04:06.000Z",
       "last_commit_at": "2022-11-18T16:26:58.000Z",
-      "stars": 3391,
-      "forks": 272,
+      "stars": 3393,
+      "forks": 273,
       "subscribers": 71,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:31.638Z"
+      "repository_data_timestamp": "2022-12-02T02:00:31.582Z"
     },
     {
       "index": 721,
@@ -12351,7 +12351,7 @@ DATA = {
       "forks": 166,
       "subscribers": 36,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:31.669Z"
+      "repository_data_timestamp": "2022-12-02T02:00:31.679Z"
     },
     {
       "index": 722,
@@ -12366,11 +12366,11 @@ DATA = {
       },
       "created_at": "2015-02-15T13:23:37.000Z",
       "last_commit_at": "2022-08-30T03:49:34.000Z",
-      "stars": 5124,
-      "forks": 570,
+      "stars": 5128,
+      "forks": 571,
       "subscribers": 149,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:31.683Z"
+      "repository_data_timestamp": "2022-12-02T02:00:31.642Z"
     },
     {
       "index": 723,
@@ -12389,7 +12389,7 @@ DATA = {
       "forks": 72,
       "subscribers": 20,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:31.730Z"
+      "repository_data_timestamp": "2022-12-02T02:00:31.671Z"
     },
     {
       "index": 724,
@@ -12408,7 +12408,7 @@ DATA = {
       "forks": 111,
       "subscribers": 15,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:31.816Z"
+      "repository_data_timestamp": "2022-12-02T02:00:31.699Z"
     },
     {
       "index": 725,
@@ -12427,7 +12427,7 @@ DATA = {
       "forks": 3,
       "subscribers": 2,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:31.750Z"
+      "repository_data_timestamp": "2022-12-02T02:00:31.783Z"
     },
     {
       "index": 726,
@@ -12441,12 +12441,12 @@ DATA = {
         "name": "prolog"
       },
       "created_at": "2020-11-03T03:16:31.000Z",
-      "last_commit_at": "2022-11-30T11:36:29.000Z",
+      "last_commit_at": "2022-12-02T00:03:55.000Z",
       "stars": 444,
       "forks": 17,
       "subscribers": 13,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:31.828Z"
+      "repository_data_timestamp": "2022-12-02T02:00:31.775Z"
     },
     {
       "index": 727,
@@ -12465,7 +12465,7 @@ DATA = {
       "forks": 5,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:31.880Z"
+      "repository_data_timestamp": "2022-12-02T02:00:31.786Z"
     },
     {
       "index": 728,
@@ -12479,12 +12479,12 @@ DATA = {
         "name": "starlark-go"
       },
       "created_at": "2018-10-23T14:35:50.000Z",
-      "last_commit_at": "2022-11-29T15:34:42.000Z",
+      "last_commit_at": "2022-12-01T20:44:45.000Z",
       "stars": 1773,
       "forks": 163,
       "subscribers": 44,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:31.908Z"
+      "repository_data_timestamp": "2022-12-02T02:00:31.824Z"
     },
     {
       "index": 729,
@@ -12499,11 +12499,11 @@ DATA = {
       },
       "created_at": "2019-01-09T07:17:17.000Z",
       "last_commit_at": "2022-11-10T10:44:58.000Z",
-      "stars": 2973,
+      "stars": 2974,
       "forks": 206,
       "subscribers": 59,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:31.934Z"
+      "repository_data_timestamp": "2022-12-02T02:00:31.914Z"
     },
     {
       "index": 730,
@@ -12518,11 +12518,11 @@ DATA = {
       },
       "created_at": "2017-06-13T00:24:28.000Z",
       "last_commit_at": "2020-10-04T16:48:36.000Z",
-      "stars": 275,
+      "stars": 274,
       "forks": 19,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:31.987Z"
+      "repository_data_timestamp": "2022-12-02T02:00:31.937Z"
     },
     {
       "index": 731,
@@ -12537,11 +12537,11 @@ DATA = {
       },
       "created_at": "2019-09-07T16:50:33.000Z",
       "last_commit_at": "2022-04-27T22:04:43.000Z",
-      "stars": 1172,
+      "stars": 1174,
       "forks": 42,
       "subscribers": 14,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:32.005Z"
+      "repository_data_timestamp": "2022-12-02T02:00:31.985Z"
     },
     {
       "index": 732,
@@ -12560,7 +12560,7 @@ DATA = {
       "forks": 19,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:32.042Z"
+      "repository_data_timestamp": "2022-12-02T02:00:31.956Z"
     },
     {
       "index": 733,
@@ -12579,7 +12579,7 @@ DATA = {
       "forks": 11,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:32.042Z"
+      "repository_data_timestamp": "2022-12-02T02:00:31.974Z"
     },
     {
       "index": 734,
@@ -12598,7 +12598,7 @@ DATA = {
       "forks": 647,
       "subscribers": 109,
       "license": "bsd-2-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:32.124Z"
+      "repository_data_timestamp": "2022-12-02T02:00:32.087Z"
     },
     {
       "index": 735,
@@ -12617,7 +12617,7 @@ DATA = {
       "forks": 1,
       "subscribers": 2,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:32.152Z"
+      "repository_data_timestamp": "2022-12-02T02:00:32.086Z"
     },
     {
       "index": 736,
@@ -12636,7 +12636,7 @@ DATA = {
       "forks": 1,
       "subscribers": 1,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:32.194Z"
+      "repository_data_timestamp": "2022-12-02T02:00:32.076Z"
     },
     {
       "index": 737,
@@ -12655,7 +12655,7 @@ DATA = {
       "forks": 5,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:32.212Z"
+      "repository_data_timestamp": "2022-12-02T02:00:32.104Z"
     },
     {
       "index": 738,
@@ -12674,7 +12674,7 @@ DATA = {
       "forks": 43,
       "subscribers": 13,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:32.242Z"
+      "repository_data_timestamp": "2022-12-02T02:00:32.199Z"
     },
     {
       "index": 739,
@@ -12693,7 +12693,7 @@ DATA = {
       "forks": 26,
       "subscribers": 76,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:32.251Z"
+      "repository_data_timestamp": "2022-12-02T02:00:32.206Z"
     },
     {
       "index": 740,
@@ -12712,7 +12712,7 @@ DATA = {
       "forks": 1,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:32.302Z"
+      "repository_data_timestamp": "2022-12-02T02:00:32.236Z"
     },
     {
       "index": 741,
@@ -12731,7 +12731,7 @@ DATA = {
       "forks": 1,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:32.571Z"
+      "repository_data_timestamp": "2022-12-02T02:00:32.505Z"
     },
     {
       "index": 742,
@@ -12750,7 +12750,7 @@ DATA = {
       "forks": 111,
       "subscribers": 278,
       "license": "mpl-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:32.365Z"
+      "repository_data_timestamp": "2022-12-02T02:00:32.268Z"
     },
     {
       "index": 743,
@@ -12769,7 +12769,7 @@ DATA = {
       "forks": 31,
       "subscribers": 12,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:32.337Z"
+      "repository_data_timestamp": "2022-12-02T02:00:32.281Z"
     },
     {
       "index": 744,
@@ -12788,7 +12788,7 @@ DATA = {
       "forks": 458,
       "subscribers": 90,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:32.433Z"
+      "repository_data_timestamp": "2022-12-02T02:00:32.349Z"
     },
     {
       "index": 745,
@@ -12802,12 +12802,12 @@ DATA = {
         "name": "afs"
       },
       "created_at": "2019-08-19T18:43:38.000Z",
-      "last_commit_at": "2022-07-08T15:40:09.000Z",
+      "last_commit_at": "2022-12-01T18:33:58.000Z",
       "stars": 215,
       "forks": 30,
       "subscribers": 11,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:32.466Z"
+      "repository_data_timestamp": "2022-12-02T02:00:32.368Z"
     },
     {
       "index": 746,
@@ -12826,7 +12826,7 @@ DATA = {
       "forks": 7,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:32.494Z"
+      "repository_data_timestamp": "2022-12-02T02:00:32.400Z"
     },
     {
       "index": 747,
@@ -12845,7 +12845,7 @@ DATA = {
       "forks": 44,
       "subscribers": 15,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:32.502Z"
+      "repository_data_timestamp": "2022-12-02T02:00:32.403Z"
     },
     {
       "index": 748,
@@ -12864,7 +12864,7 @@ DATA = {
       "forks": 16,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:32.537Z"
+      "repository_data_timestamp": "2022-12-02T02:00:32.476Z"
     },
     {
       "index": 749,
@@ -12879,11 +12879,11 @@ DATA = {
       },
       "created_at": "2017-09-01T03:18:56.000Z",
       "last_commit_at": "2022-11-29T18:51:37.000Z",
-      "stars": 498,
+      "stars": 499,
       "forks": 91,
       "subscribers": 9,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:32.537Z"
+      "repository_data_timestamp": "2022-12-02T02:00:32.488Z"
     },
     {
       "index": 750,
@@ -12902,7 +12902,7 @@ DATA = {
       "forks": 10,
       "subscribers": 18,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:32.622Z"
+      "repository_data_timestamp": "2022-12-02T02:00:32.518Z"
     },
     {
       "index": 751,
@@ -12917,11 +12917,11 @@ DATA = {
       },
       "created_at": "2018-02-24T15:04:23.000Z",
       "last_commit_at": "2022-10-31T10:58:24.000Z",
-      "stars": 2095,
+      "stars": 2098,
       "forks": 89,
       "subscribers": 22,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:32.622Z"
+      "repository_data_timestamp": "2022-12-02T02:00:32.562Z"
     },
     {
       "index": 752,
@@ -12940,7 +12940,7 @@ DATA = {
       "forks": 27,
       "subscribers": 2,
       "license": "gpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:00:32.663Z"
+      "repository_data_timestamp": "2022-12-02T02:00:32.575Z"
     },
     {
       "index": 753,
@@ -12959,7 +12959,7 @@ DATA = {
       "forks": 8,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:32.735Z"
+      "repository_data_timestamp": "2022-12-02T02:00:32.651Z"
     },
     {
       "index": 754,
@@ -12978,7 +12978,7 @@ DATA = {
       "forks": 31,
       "subscribers": 7,
       "license": "gpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:00:32.807Z"
+      "repository_data_timestamp": "2022-12-02T02:00:32.656Z"
     },
     {
       "index": 755,
@@ -12997,7 +12997,7 @@ DATA = {
       "forks": 18,
       "subscribers": 3,
       "license": "gpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:00:32.806Z"
+      "repository_data_timestamp": "2022-12-02T02:00:32.678Z"
     },
     {
       "index": 756,
@@ -13011,12 +13011,12 @@ DATA = {
         "name": "gofs"
       },
       "created_at": "2021-09-13T07:28:53.000Z",
-      "last_commit_at": "2022-11-30T08:10:41.000Z",
+      "last_commit_at": "2022-12-01T16:05:49.000Z",
       "stars": 111,
       "forks": 9,
       "subscribers": 6,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:32.832Z"
+      "repository_data_timestamp": "2022-12-02T02:00:32.740Z"
     },
     {
       "index": 757,
@@ -13035,7 +13035,7 @@ DATA = {
       "forks": 9,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:32.862Z"
+      "repository_data_timestamp": "2022-12-02T02:00:32.772Z"
     },
     {
       "index": 758,
@@ -13054,7 +13054,7 @@ DATA = {
       "forks": 4,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:32.856Z"
+      "repository_data_timestamp": "2022-12-02T02:00:32.787Z"
     },
     {
       "index": 759,
@@ -13070,10 +13070,10 @@ DATA = {
       "created_at": "2014-09-08T16:09:34.000Z",
       "last_commit_at": "2021-08-09T11:31:54.000Z",
       "stars": 773,
-      "forks": 116,
+      "forks": 117,
       "subscribers": 30,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:32.913Z"
+      "repository_data_timestamp": "2022-12-02T02:00:32.791Z"
     },
     {
       "index": 760,
@@ -13092,7 +13092,7 @@ DATA = {
       "forks": 7,
       "subscribers": 3,
       "license": "bsd-2-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:32.927Z"
+      "repository_data_timestamp": "2022-12-02T02:00:32.797Z"
     },
     {
       "index": 761,
@@ -13111,7 +13111,7 @@ DATA = {
       "forks": 11,
       "subscribers": 8,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:32.961Z"
+      "repository_data_timestamp": "2022-12-02T02:00:32.852Z"
     },
     {
       "index": 762,
@@ -13130,7 +13130,7 @@ DATA = {
       "forks": 3,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:32.972Z"
+      "repository_data_timestamp": "2022-12-02T02:00:32.886Z"
     },
     {
       "index": 763,
@@ -13145,11 +13145,11 @@ DATA = {
       },
       "created_at": "2017-06-18T17:27:38.000Z",
       "last_commit_at": "2022-11-01T22:34:55.000Z",
-      "stars": 3481,
+      "stars": 3482,
       "forks": 295,
       "subscribers": 66,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:33.038Z"
+      "repository_data_timestamp": "2022-12-02T02:00:32.949Z"
     },
     {
       "index": 764,
@@ -13168,7 +13168,7 @@ DATA = {
       "forks": 5,
       "subscribers": 5,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:33.108Z"
+      "repository_data_timestamp": "2022-12-02T02:00:32.954Z"
     },
     {
       "index": 765,
@@ -13195,7 +13195,7 @@ DATA = {
       "forks": 9,
       "subscribers": 2,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:33.133Z"
+      "repository_data_timestamp": "2022-12-02T02:00:32.978Z"
     },
     {
       "index": 767,
@@ -13214,7 +13214,7 @@ DATA = {
       "forks": 6,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:33.161Z"
+      "repository_data_timestamp": "2022-12-02T02:00:33.054Z"
     },
     {
       "index": 768,
@@ -13233,7 +13233,7 @@ DATA = {
       "forks": 22,
       "subscribers": 22,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:33.191Z"
+      "repository_data_timestamp": "2022-12-02T02:00:33.091Z"
     },
     {
       "index": 769,
@@ -13252,7 +13252,7 @@ DATA = {
       "forks": 65,
       "subscribers": 15,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:33.191Z"
+      "repository_data_timestamp": "2022-12-02T02:00:33.059Z"
     },
     {
       "index": 770,
@@ -13267,11 +13267,11 @@ DATA = {
       },
       "created_at": "2016-12-14T21:12:49.000Z",
       "last_commit_at": "2022-11-30T16:09:47.000Z",
-      "stars": 346,
+      "stars": 347,
       "forks": 112,
       "subscribers": 21,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:33.225Z"
+      "repository_data_timestamp": "2022-12-02T02:00:33.107Z"
     },
     {
       "index": 771,
@@ -13285,12 +13285,12 @@ DATA = {
         "name": "bbgo"
       },
       "created_at": "2020-10-05T08:45:21.000Z",
-      "last_commit_at": "2022-11-30T04:58:07.000Z",
-      "stars": 745,
+      "last_commit_at": "2022-12-01T08:30:58.000Z",
+      "stars": 746,
       "forks": 197,
       "subscribers": 25,
       "license": "agpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:00:33.260Z"
+      "repository_data_timestamp": "2022-12-02T02:00:33.098Z"
     },
     {
       "index": 772,
@@ -13309,7 +13309,7 @@ DATA = {
       "forks": 22,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:33.254Z"
+      "repository_data_timestamp": "2022-12-02T02:00:33.151Z"
     },
     {
       "index": 773,
@@ -13328,7 +13328,7 @@ DATA = {
       "forks": 8,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:33.278Z"
+      "repository_data_timestamp": "2022-12-02T02:00:33.168Z"
     },
     {
       "index": 774,
@@ -13343,11 +13343,11 @@ DATA = {
       },
       "created_at": "2015-02-25T20:12:57.000Z",
       "last_commit_at": "2022-11-24T06:20:21.000Z",
-      "stars": 4550,
+      "stars": 4555,
       "forks": 507,
       "subscribers": 65,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:33.341Z"
+      "repository_data_timestamp": "2022-12-02T02:00:33.240Z"
     },
     {
       "index": 769,
@@ -13385,7 +13385,7 @@ DATA = {
       "forks": 0,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:33.439Z"
+      "repository_data_timestamp": "2022-12-02T02:00:33.273Z"
     },
     {
       "index": 777,
@@ -13404,7 +13404,7 @@ DATA = {
       "forks": 0,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:33.460Z"
+      "repository_data_timestamp": "2022-12-02T02:00:33.341Z"
     },
     {
       "index": 778,
@@ -13423,7 +13423,7 @@ DATA = {
       "forks": 53,
       "subscribers": 26,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:33.518Z"
+      "repository_data_timestamp": "2022-12-02T02:00:33.384Z"
     },
     {
       "index": 779,
@@ -13438,11 +13438,11 @@ DATA = {
       },
       "created_at": "2017-06-01T15:58:33.000Z",
       "last_commit_at": "2021-12-02T20:16:28.000Z",
-      "stars": 141,
+      "stars": 142,
       "forks": 20,
       "subscribers": 8,
       "license": "mpl-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:33.476Z"
+      "repository_data_timestamp": "2022-12-02T02:00:33.389Z"
     },
     {
       "index": 780,
@@ -13461,7 +13461,7 @@ DATA = {
       "forks": 5,
       "subscribers": 2,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:33.533Z"
+      "repository_data_timestamp": "2022-12-02T02:00:33.361Z"
     },
     {
       "index": 781,
@@ -13480,7 +13480,7 @@ DATA = {
       "forks": 15,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:33.540Z"
+      "repository_data_timestamp": "2022-12-02T02:00:33.401Z"
     },
     {
       "index": 782,
@@ -13499,7 +13499,7 @@ DATA = {
       "forks": 118,
       "subscribers": 19,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:33.571Z"
+      "repository_data_timestamp": "2022-12-02T02:00:33.437Z"
     },
     {
       "index": 783,
@@ -13518,7 +13518,7 @@ DATA = {
       "forks": 24,
       "subscribers": 10,
       "license": "gpl-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:33.580Z"
+      "repository_data_timestamp": "2022-12-02T02:00:33.453Z"
     },
     {
       "index": 784,
@@ -13533,11 +13533,11 @@ DATA = {
       },
       "created_at": "2018-04-24T18:05:26.000Z",
       "last_commit_at": "2021-05-16T21:28:00.000Z",
-      "stars": 305,
-      "forks": 109,
+      "stars": 306,
+      "forks": 110,
       "subscribers": 22,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:33.650Z"
+      "repository_data_timestamp": "2022-12-02T02:00:33.494Z"
     },
     {
       "index": 785,
@@ -13556,7 +13556,7 @@ DATA = {
       "forks": 1,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:33.720Z"
+      "repository_data_timestamp": "2022-12-02T02:00:33.524Z"
     },
     {
       "index": 786,
@@ -13575,7 +13575,7 @@ DATA = {
       "forks": 15,
       "subscribers": 55,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:33.751Z"
+      "repository_data_timestamp": "2022-12-02T02:00:33.691Z"
     },
     {
       "index": 787,
@@ -13594,7 +13594,7 @@ DATA = {
       "forks": 116,
       "subscribers": 51,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:33.756Z"
+      "repository_data_timestamp": "2022-12-02T02:00:33.625Z"
     },
     {
       "index": 788,
@@ -13609,11 +13609,11 @@ DATA = {
       },
       "created_at": "2021-01-24T03:50:46.000Z",
       "last_commit_at": "2022-08-27T12:38:13.000Z",
-      "stars": 4419,
+      "stars": 4420,
       "forks": 244,
       "subscribers": 64,
       "license": "gpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:00:33.773Z"
+      "repository_data_timestamp": "2022-12-02T02:00:33.658Z"
     },
     {
       "index": 789,
@@ -13632,7 +13632,7 @@ DATA = {
       "forks": 16,
       "subscribers": 10,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:33.803Z"
+      "repository_data_timestamp": "2022-12-02T02:00:33.744Z"
     },
     {
       "index": 790,
@@ -13651,7 +13651,7 @@ DATA = {
       "forks": 14,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:33.837Z"
+      "repository_data_timestamp": "2022-12-02T02:00:33.685Z"
     },
     {
       "index": 791,
@@ -13670,7 +13670,7 @@ DATA = {
       "forks": 6,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:33.853Z"
+      "repository_data_timestamp": "2022-12-02T02:00:33.699Z"
     },
     {
       "index": 792,
@@ -13689,7 +13689,7 @@ DATA = {
       "forks": 84,
       "subscribers": 31,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:33.875Z"
+      "repository_data_timestamp": "2022-12-02T02:00:33.722Z"
     },
     {
       "index": 793,
@@ -13704,11 +13704,11 @@ DATA = {
       },
       "created_at": "2016-01-05T18:00:06.000Z",
       "last_commit_at": "2022-11-29T10:14:20.000Z",
-      "stars": 272,
+      "stars": 275,
       "forks": 33,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:33.895Z"
+      "repository_data_timestamp": "2022-12-02T02:00:33.748Z"
     },
     {
       "index": 794,
@@ -13727,7 +13727,7 @@ DATA = {
       "forks": 35,
       "subscribers": 12,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:33.951Z"
+      "repository_data_timestamp": "2022-12-02T02:00:33.821Z"
     },
     {
       "index": 795,
@@ -13746,7 +13746,7 @@ DATA = {
       "forks": 16,
       "subscribers": 5,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:34.028Z"
+      "repository_data_timestamp": "2022-12-02T02:00:33.876Z"
     },
     {
       "index": 796,
@@ -13765,7 +13765,7 @@ DATA = {
       "forks": 22,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:34.058Z"
+      "repository_data_timestamp": "2022-12-02T02:00:33.902Z"
     },
     {
       "index": 797,
@@ -13784,7 +13784,7 @@ DATA = {
       "forks": 1,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:34.065Z"
+      "repository_data_timestamp": "2022-12-02T02:00:33.945Z"
     },
     {
       "index": 798,
@@ -13803,7 +13803,7 @@ DATA = {
       "forks": 119,
       "subscribers": 23,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:34.069Z"
+      "repository_data_timestamp": "2022-12-02T02:00:34.012Z"
     },
     {
       "index": 799,
@@ -13822,7 +13822,7 @@ DATA = {
       "forks": 12,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:34.108Z"
+      "repository_data_timestamp": "2022-12-02T02:00:33.989Z"
     },
     {
       "index": 800,
@@ -13837,11 +13837,11 @@ DATA = {
       },
       "created_at": "2013-08-22T17:47:34.000Z",
       "last_commit_at": "2022-11-11T14:31:19.000Z",
-      "stars": 1339,
+      "stars": 1340,
       "forks": 117,
       "subscribers": 36,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:34.147Z"
+      "repository_data_timestamp": "2022-12-02T02:00:34.144Z"
     },
     {
       "index": 801,
@@ -13860,7 +13860,7 @@ DATA = {
       "forks": 4,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:34.160Z"
+      "repository_data_timestamp": "2022-12-02T02:00:34.055Z"
     },
     {
       "index": 802,
@@ -13879,7 +13879,7 @@ DATA = {
       "forks": 5,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:34.183Z"
+      "repository_data_timestamp": "2022-12-02T02:00:34.036Z"
     },
     {
       "index": 803,
@@ -13893,12 +13893,12 @@ DATA = {
         "name": "fp-go"
       },
       "created_at": "2022-03-06T23:09:02.000Z",
-      "last_commit_at": "2022-11-30T14:31:27.000Z",
+      "last_commit_at": "2022-12-01T21:31:08.000Z",
       "stars": 140,
       "forks": 7,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:34.195Z"
+      "repository_data_timestamp": "2022-12-02T02:00:34.066Z"
     },
     {
       "index": 804,
@@ -13917,7 +13917,7 @@ DATA = {
       "forks": 19,
       "subscribers": 8,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:34.448Z"
+      "repository_data_timestamp": "2022-12-02T02:00:34.143Z"
     },
     {
       "index": 805,
@@ -13936,7 +13936,7 @@ DATA = {
       "forks": 10,
       "subscribers": 4,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:34.326Z"
+      "repository_data_timestamp": "2022-12-02T02:00:34.171Z"
     },
     {
       "index": 806,
@@ -13951,11 +13951,11 @@ DATA = {
       },
       "created_at": "2014-07-02T10:27:16.000Z",
       "last_commit_at": "2022-07-11T22:10:40.000Z",
-      "stars": 1259,
+      "stars": 1258,
       "forks": 68,
       "subscribers": 29,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:34.369Z"
+      "repository_data_timestamp": "2022-12-02T02:00:34.203Z"
     },
     {
       "index": 807,
@@ -13974,7 +13974,7 @@ DATA = {
       "forks": 7,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:34.359Z"
+      "repository_data_timestamp": "2022-12-02T02:00:34.240Z"
     },
     {
       "index": 808,
@@ -13989,11 +13989,11 @@ DATA = {
       },
       "created_at": "2022-05-17T23:07:48.000Z",
       "last_commit_at": "2022-11-28T11:54:00.000Z",
-      "stars": 1119,
+      "stars": 1127,
       "forks": 28,
       "subscribers": 10,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:34.378Z"
+      "repository_data_timestamp": "2022-12-02T02:00:34.262Z"
     },
     {
       "index": 809,
@@ -14012,7 +14012,7 @@ DATA = {
       "forks": 3,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:34.549Z"
+      "repository_data_timestamp": "2022-12-02T02:00:34.307Z"
     },
     {
       "index": 810,
@@ -14031,7 +14031,7 @@ DATA = {
       "forks": 0,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:34.447Z"
+      "repository_data_timestamp": "2022-12-02T02:00:34.346Z"
     },
     {
       "index": 811,
@@ -14050,7 +14050,7 @@ DATA = {
       "forks": 54,
       "subscribers": 25,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:34.478Z"
+      "repository_data_timestamp": "2022-12-02T02:00:34.336Z"
     },
     {
       "index": 812,
@@ -14065,11 +14065,11 @@ DATA = {
       },
       "created_at": "2013-06-16T15:13:01.000Z",
       "last_commit_at": "2022-11-27T05:39:15.000Z",
-      "stars": 7401,
-      "forks": 490,
+      "stars": 7421,
+      "forks": 491,
       "subscribers": 122,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:34.467Z"
+      "repository_data_timestamp": "2022-12-02T02:00:34.379Z"
     },
     {
       "index": 813,
@@ -14084,11 +14084,11 @@ DATA = {
       },
       "created_at": "2014-11-12T05:50:03.000Z",
       "last_commit_at": "2022-11-12T22:54:07.000Z",
-      "stars": 1557,
+      "stars": 1560,
       "forks": 126,
       "subscribers": 47,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:34.504Z"
+      "repository_data_timestamp": "2022-12-02T02:00:34.443Z"
     },
     {
       "index": 814,
@@ -14107,7 +14107,7 @@ DATA = {
       "forks": 0,
       "subscribers": 1,
       "license": "unlicense",
-      "repository_data_timestamp": "2022-12-01T02:00:34.632Z"
+      "repository_data_timestamp": "2022-12-02T02:00:34.451Z"
     },
     {
       "index": 815,
@@ -14122,11 +14122,11 @@ DATA = {
       },
       "created_at": "2017-03-07T18:25:09.000Z",
       "last_commit_at": "2022-10-14T20:49:55.000Z",
-      "stars": 2198,
+      "stars": 2199,
       "forks": 203,
       "subscribers": 83,
       "license": "bsd-2-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:34.670Z"
+      "repository_data_timestamp": "2022-12-02T02:00:34.468Z"
     },
     {
       "index": 816,
@@ -14145,7 +14145,7 @@ DATA = {
       "forks": 72,
       "subscribers": 11,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:34.665Z"
+      "repository_data_timestamp": "2022-12-02T02:00:34.486Z"
     },
     {
       "index": 817,
@@ -14160,11 +14160,11 @@ DATA = {
       },
       "created_at": "2013-06-05T18:30:03.000Z",
       "last_commit_at": "2022-11-13T13:55:12.000Z",
-      "stars": 1869,
+      "stars": 1870,
       "forks": 217,
       "subscribers": 47,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:34.712Z"
+      "repository_data_timestamp": "2022-12-02T02:00:34.532Z"
     },
     {
       "index": 818,
@@ -14183,7 +14183,7 @@ DATA = {
       "forks": 45,
       "subscribers": 10,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:34.741Z"
+      "repository_data_timestamp": "2022-12-02T02:00:34.619Z"
     },
     {
       "index": 819,
@@ -14202,7 +14202,7 @@ DATA = {
       "forks": 301,
       "subscribers": 135,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:34.734Z"
+      "repository_data_timestamp": "2022-12-02T02:00:34.585Z"
     },
     {
       "index": 820,
@@ -14217,11 +14217,11 @@ DATA = {
       },
       "created_at": "2017-06-03T15:02:46.000Z",
       "last_commit_at": "2022-08-13T16:51:10.000Z",
-      "stars": 2238,
-      "forks": 419,
+      "stars": 2241,
+      "forks": 421,
       "subscribers": 133,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:34.775Z"
+      "repository_data_timestamp": "2022-12-02T02:00:34.624Z"
     },
     {
       "index": 821,
@@ -14240,7 +14240,7 @@ DATA = {
       "forks": 24,
       "subscribers": 9,
       "license": "lgpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:00:34.811Z"
+      "repository_data_timestamp": "2022-12-02T02:00:34.645Z"
     },
     {
       "index": 822,
@@ -14259,7 +14259,7 @@ DATA = {
       "forks": 1217,
       "subscribers": 323,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:34.811Z"
+      "repository_data_timestamp": "2022-12-02T02:00:34.730Z"
     },
     {
       "index": 823,
@@ -14278,7 +14278,7 @@ DATA = {
       "forks": 362,
       "subscribers": 71,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:34.850Z"
+      "repository_data_timestamp": "2022-12-02T02:00:34.724Z"
     },
     {
       "index": 824,
@@ -14297,7 +14297,7 @@ DATA = {
       "forks": 73,
       "subscribers": 42,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:34.953Z"
+      "repository_data_timestamp": "2022-12-02T02:00:34.771Z"
     },
     {
       "index": 825,
@@ -14316,7 +14316,7 @@ DATA = {
       "forks": 352,
       "subscribers": 83,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:34.990Z"
+      "repository_data_timestamp": "2022-12-02T02:00:34.828Z"
     },
     {
       "index": 826,
@@ -14335,7 +14335,7 @@ DATA = {
       "forks": 232,
       "subscribers": 98,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:34.997Z"
+      "repository_data_timestamp": "2022-12-02T02:00:34.779Z"
     },
     {
       "index": 827,
@@ -14354,7 +14354,7 @@ DATA = {
       "forks": 7,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:35.008Z"
+      "repository_data_timestamp": "2022-12-02T02:00:34.827Z"
     },
     {
       "index": 828,
@@ -14369,11 +14369,11 @@ DATA = {
       },
       "created_at": "2017-01-27T08:31:45.000Z",
       "last_commit_at": "2022-11-27T19:32:18.000Z",
-      "stars": 902,
+      "stars": 901,
       "forks": 99,
       "subscribers": 17,
       "license": "zlib",
-      "repository_data_timestamp": "2022-12-01T02:00:35.038Z"
+      "repository_data_timestamp": "2022-12-02T02:00:34.881Z"
     },
     {
       "index": 829,
@@ -14392,7 +14392,7 @@ DATA = {
       "forks": 76,
       "subscribers": 31,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:35.037Z"
+      "repository_data_timestamp": "2022-12-02T02:00:34.895Z"
     },
     {
       "index": 830,
@@ -14411,7 +14411,7 @@ DATA = {
       "forks": 6,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:35.079Z"
+      "repository_data_timestamp": "2022-12-02T02:00:34.902Z"
     },
     {
       "index": 831,
@@ -14430,7 +14430,7 @@ DATA = {
       "forks": 9,
       "subscribers": 5,
       "license": "gpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:00:35.116Z"
+      "repository_data_timestamp": "2022-12-02T02:00:34.936Z"
     },
     {
       "index": 832,
@@ -14449,7 +14449,7 @@ DATA = {
       "forks": 1,
       "subscribers": 1,
       "license": "gpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:00:35.130Z"
+      "repository_data_timestamp": "2022-12-02T02:00:35.010Z"
     },
     {
       "index": 833,
@@ -14468,7 +14468,7 @@ DATA = {
       "forks": 44,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:35.151Z"
+      "repository_data_timestamp": "2022-12-02T02:00:35.004Z"
     },
     {
       "index": 834,
@@ -14483,11 +14483,11 @@ DATA = {
       },
       "created_at": "2013-12-19T03:05:00.000Z",
       "last_commit_at": "2022-08-08T02:53:39.000Z",
-      "stars": 3169,
-      "forks": 224,
+      "stars": 3171,
+      "forks": 225,
       "subscribers": 77,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:35.530Z"
+      "repository_data_timestamp": "2022-12-02T02:00:35.343Z"
     },
     {
       "index": 835,
@@ -14502,11 +14502,11 @@ DATA = {
       },
       "created_at": "2017-02-10T21:46:49.000Z",
       "last_commit_at": "2022-08-08T04:13:09.000Z",
-      "stars": 1043,
+      "stars": 1042,
       "forks": 40,
       "subscribers": 17,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:35.293Z"
+      "repository_data_timestamp": "2022-12-02T02:00:35.066Z"
     },
     {
       "index": 836,
@@ -14522,10 +14522,10 @@ DATA = {
       "created_at": "2017-12-05T04:09:47.000Z",
       "last_commit_at": "2022-06-21T05:55:05.000Z",
       "stars": 51,
-      "forks": 7,
+      "forks": 8,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:35.301Z"
+      "repository_data_timestamp": "2022-12-02T02:00:35.109Z"
     },
     {
       "index": 837,
@@ -14544,7 +14544,7 @@ DATA = {
       "forks": 18,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:35.315Z"
+      "repository_data_timestamp": "2022-12-02T02:00:35.115Z"
     },
     {
       "index": 838,
@@ -14559,11 +14559,11 @@ DATA = {
       },
       "created_at": "2018-09-15T09:20:42.000Z",
       "last_commit_at": "2022-10-25T13:08:29.000Z",
-      "stars": 693,
+      "stars": 694,
       "forks": 65,
       "subscribers": 15,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:35.344Z"
+      "repository_data_timestamp": "2022-12-02T02:00:35.165Z"
     },
     {
       "index": 839,
@@ -14582,7 +14582,7 @@ DATA = {
       "forks": 27,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:35.336Z"
+      "repository_data_timestamp": "2022-12-02T02:00:35.182Z"
     },
     {
       "index": 840,
@@ -14601,7 +14601,7 @@ DATA = {
       "forks": 136,
       "subscribers": 32,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:35.366Z"
+      "repository_data_timestamp": "2022-12-02T02:00:35.185Z"
     },
     {
       "index": 841,
@@ -14616,11 +14616,11 @@ DATA = {
       },
       "created_at": "2020-01-14T15:50:38.000Z",
       "last_commit_at": "2020-02-20T13:00:03.000Z",
-      "stars": 16,
+      "stars": 17,
       "forks": 1,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:35.431Z"
+      "repository_data_timestamp": "2022-12-02T02:00:35.226Z"
     },
     {
       "index": 842,
@@ -14639,7 +14639,7 @@ DATA = {
       "forks": 21,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:35.417Z"
+      "repository_data_timestamp": "2022-12-02T02:00:35.284Z"
     },
     {
       "index": 843,
@@ -14658,7 +14658,7 @@ DATA = {
       "forks": 9,
       "subscribers": 0,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:35.468Z"
+      "repository_data_timestamp": "2022-12-02T02:00:35.299Z"
     },
     {
       "index": 844,
@@ -14677,7 +14677,7 @@ DATA = {
       "forks": 17,
       "subscribers": 5,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:35.588Z"
+      "repository_data_timestamp": "2022-12-02T02:00:35.357Z"
     },
     {
       "index": 845,
@@ -14696,7 +14696,7 @@ DATA = {
       "forks": 0,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:35.604Z"
+      "repository_data_timestamp": "2022-12-02T02:00:35.395Z"
     },
     {
       "index": 846,
@@ -14715,7 +14715,7 @@ DATA = {
       "forks": 1,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:35.632Z"
+      "repository_data_timestamp": "2022-12-02T02:00:35.399Z"
     },
     {
       "index": 847,
@@ -14734,7 +14734,7 @@ DATA = {
       "forks": 68,
       "subscribers": 17,
       "license": "isc",
-      "repository_data_timestamp": "2022-12-01T02:00:35.639Z"
+      "repository_data_timestamp": "2022-12-02T02:00:35.458Z"
     },
     {
       "index": 848,
@@ -14753,7 +14753,7 @@ DATA = {
       "forks": 34,
       "subscribers": 12,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:35.633Z"
+      "repository_data_timestamp": "2022-12-02T02:00:35.476Z"
     },
     {
       "index": 849,
@@ -14772,7 +14772,7 @@ DATA = {
       "forks": 7,
       "subscribers": 5,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:35.645Z"
+      "repository_data_timestamp": "2022-12-02T02:00:35.477Z"
     },
     {
       "index": 850,
@@ -14791,7 +14791,7 @@ DATA = {
       "forks": 7,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:35.730Z"
+      "repository_data_timestamp": "2022-12-02T02:00:35.516Z"
     },
     {
       "index": 851,
@@ -14806,11 +14806,11 @@ DATA = {
       },
       "created_at": "2014-12-03T23:02:15.000Z",
       "last_commit_at": "2022-10-21T22:59:59.000Z",
-      "stars": 1453,
+      "stars": 1451,
       "forks": 166,
       "subscribers": 79,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:35.755Z"
+      "repository_data_timestamp": "2022-12-02T02:00:35.577Z"
     },
     {
       "index": 852,
@@ -14829,7 +14829,7 @@ DATA = {
       "forks": 10,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:35.762Z"
+      "repository_data_timestamp": "2022-12-02T02:00:35.594Z"
     },
     {
       "index": 853,
@@ -14844,11 +14844,11 @@ DATA = {
       },
       "created_at": "2016-03-04T23:07:44.000Z",
       "last_commit_at": "2022-11-22T15:03:57.000Z",
-      "stars": 8373,
+      "stars": 8374,
       "forks": 519,
       "subscribers": 212,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:35.832Z"
+      "repository_data_timestamp": "2022-12-02T02:00:35.624Z"
     },
     {
       "index": 854,
@@ -14866,7 +14866,7 @@ DATA = {
       "forks": 1,
       "subscribers": 1,
       "license": "gpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:00:35.905Z"
+      "repository_data_timestamp": "2022-12-02T02:00:35.641Z"
     },
     {
       "index": 855,
@@ -14885,7 +14885,7 @@ DATA = {
       "forks": 9,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:35.884Z"
+      "repository_data_timestamp": "2022-12-02T02:00:35.693Z"
     },
     {
       "index": 856,
@@ -14904,7 +14904,7 @@ DATA = {
       "forks": 16,
       "subscribers": 6,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:35.934Z"
+      "repository_data_timestamp": "2022-12-02T02:00:35.712Z"
     },
     {
       "index": 857,
@@ -14923,7 +14923,7 @@ DATA = {
       "forks": 37,
       "subscribers": 18,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:35.934Z"
+      "repository_data_timestamp": "2022-12-02T02:00:35.733Z"
     },
     {
       "index": 858,
@@ -14938,11 +14938,11 @@ DATA = {
       },
       "created_at": "2018-03-14T14:22:55.000Z",
       "last_commit_at": "2022-08-30T08:24:16.000Z",
-      "stars": 55,
+      "stars": 56,
       "forks": 4,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:35.951Z"
+      "repository_data_timestamp": "2022-12-02T02:00:35.775Z"
     },
     {
       "index": 859,
@@ -14961,7 +14961,7 @@ DATA = {
       "forks": 9,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:35.957Z"
+      "repository_data_timestamp": "2022-12-02T02:00:35.770Z"
     },
     {
       "index": 860,
@@ -14976,11 +14976,11 @@ DATA = {
       },
       "created_at": "2013-08-27T22:23:58.000Z",
       "last_commit_at": "2022-11-27T18:32:19.000Z",
-      "stars": 11631,
+      "stars": 11636,
       "forks": 540,
       "subscribers": 241,
       "license": "bsd-2-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:36.018Z"
+      "repository_data_timestamp": "2022-12-02T02:00:35.807Z"
     },
     {
       "index": 861,
@@ -14999,7 +14999,7 @@ DATA = {
       "forks": 31,
       "subscribers": 28,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:36.067Z"
+      "repository_data_timestamp": "2022-12-02T02:00:35.881Z"
     },
     {
       "index": 862,
@@ -15013,12 +15013,12 @@ DATA = {
         "name": "ants"
       },
       "created_at": "2018-05-19T01:13:38.000Z",
-      "last_commit_at": "2022-11-27T10:15:56.000Z",
-      "stars": 9513,
-      "forks": 1145,
+      "last_commit_at": "2022-12-01T09:20:52.000Z",
+      "stars": 9520,
+      "forks": 1146,
       "subscribers": 170,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:36.047Z"
+      "repository_data_timestamp": "2022-12-02T02:00:35.887Z"
     },
     {
       "index": 863,
@@ -15033,11 +15033,11 @@ DATA = {
       },
       "created_at": "2018-10-31T19:34:31.000Z",
       "last_commit_at": "2022-11-19T19:49:29.000Z",
-      "stars": 147,
+      "stars": 148,
       "forks": 11,
       "subscribers": 9,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:36.409Z"
+      "repository_data_timestamp": "2022-12-02T02:00:36.175Z"
     },
     {
       "index": 864,
@@ -15056,7 +15056,7 @@ DATA = {
       "forks": 6,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:36.191Z"
+      "repository_data_timestamp": "2022-12-02T02:00:35.964Z"
     },
     {
       "index": 865,
@@ -15075,7 +15075,7 @@ DATA = {
       "forks": 17,
       "subscribers": 10,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:36.208Z"
+      "repository_data_timestamp": "2022-12-02T02:00:35.976Z"
     },
     {
       "index": 866,
@@ -15090,11 +15090,11 @@ DATA = {
       },
       "created_at": "2022-02-12T12:49:26.000Z",
       "last_commit_at": "2022-05-30T18:51:58.000Z",
-      "stars": 4,
+      "stars": 5,
       "forks": 0,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:36.241Z"
+      "repository_data_timestamp": "2022-12-02T02:00:36.007Z"
     },
     {
       "index": 867,
@@ -15113,7 +15113,7 @@ DATA = {
       "forks": 1,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:36.295Z"
+      "repository_data_timestamp": "2022-12-02T02:00:36.039Z"
     },
     {
       "index": 868,
@@ -15132,7 +15132,7 @@ DATA = {
       "forks": 3,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:36.264Z"
+      "repository_data_timestamp": "2022-12-02T02:00:36.060Z"
     },
     {
       "index": 869,
@@ -15151,7 +15151,7 @@ DATA = {
       "forks": 3,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:36.237Z"
+      "repository_data_timestamp": "2022-12-02T02:00:36.046Z"
     },
     {
       "index": 870,
@@ -15170,7 +15170,7 @@ DATA = {
       "forks": 2,
       "subscribers": 3,
       "license": "bsd-2-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:36.334Z"
+      "repository_data_timestamp": "2022-12-02T02:00:36.088Z"
     },
     {
       "index": 871,
@@ -15189,7 +15189,7 @@ DATA = {
       "forks": 14,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:36.351Z"
+      "repository_data_timestamp": "2022-12-02T02:00:36.176Z"
     },
     {
       "index": 872,
@@ -15208,7 +15208,7 @@ DATA = {
       "forks": 2,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:36.358Z"
+      "repository_data_timestamp": "2022-12-02T02:00:36.189Z"
     },
     {
       "index": 873,
@@ -15227,7 +15227,7 @@ DATA = {
       "forks": 1,
       "subscribers": 1,
       "license": "gpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:00:36.461Z"
+      "repository_data_timestamp": "2022-12-02T02:00:36.254Z"
     },
     {
       "index": 874,
@@ -15246,7 +15246,7 @@ DATA = {
       "forks": 17,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:36.502Z"
+      "repository_data_timestamp": "2022-12-02T02:00:36.280Z"
     },
     {
       "index": 875,
@@ -15265,7 +15265,7 @@ DATA = {
       "forks": 23,
       "subscribers": 11,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:36.517Z"
+      "repository_data_timestamp": "2022-12-02T02:00:36.301Z"
     },
     {
       "index": 876,
@@ -15284,7 +15284,7 @@ DATA = {
       "forks": 3,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:36.527Z"
+      "repository_data_timestamp": "2022-12-02T02:00:36.334Z"
     },
     {
       "index": 877,
@@ -15303,7 +15303,7 @@ DATA = {
       "forks": 9,
       "subscribers": 2,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:36.533Z"
+      "repository_data_timestamp": "2022-12-02T02:00:36.357Z"
     },
     {
       "index": 878,
@@ -15322,7 +15322,7 @@ DATA = {
       "forks": 3,
       "subscribers": 2,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:36.584Z"
+      "repository_data_timestamp": "2022-12-02T02:00:36.345Z"
     },
     {
       "index": 879,
@@ -15341,7 +15341,7 @@ DATA = {
       "forks": 0,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:36.655Z"
+      "repository_data_timestamp": "2022-12-02T02:00:36.380Z"
     },
     {
       "index": 880,
@@ -15356,11 +15356,11 @@ DATA = {
       },
       "created_at": "2020-10-06T15:39:43.000Z",
       "last_commit_at": "2022-01-13T07:41:18.000Z",
-      "stars": 147,
+      "stars": 148,
       "forks": 12,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:36.628Z"
+      "repository_data_timestamp": "2022-12-02T02:00:36.457Z"
     },
     {
       "index": 881,
@@ -15379,7 +15379,7 @@ DATA = {
       "forks": 11,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:36.650Z"
+      "repository_data_timestamp": "2022-12-02T02:00:36.455Z"
     },
     {
       "index": 882,
@@ -15398,7 +15398,7 @@ DATA = {
       "forks": 6,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:36.708Z"
+      "repository_data_timestamp": "2022-12-02T02:00:36.478Z"
     },
     {
       "index": 883,
@@ -15417,7 +15417,7 @@ DATA = {
       "forks": 12,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:36.754Z"
+      "repository_data_timestamp": "2022-12-02T02:00:36.554Z"
     },
     {
       "index": 884,
@@ -15436,7 +15436,7 @@ DATA = {
       "forks": 4,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:37.083Z"
+      "repository_data_timestamp": "2022-12-02T02:00:36.846Z"
     },
     {
       "index": 885,
@@ -15451,11 +15451,11 @@ DATA = {
       },
       "created_at": "2013-07-22T17:04:27.000Z",
       "last_commit_at": "2022-07-28T19:38:31.000Z",
-      "stars": 2694,
-      "forks": 242,
-      "subscribers": 72,
+      "stars": 2696,
+      "forks": 243,
+      "subscribers": 71,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:36.802Z"
+      "repository_data_timestamp": "2022-12-02T02:00:36.610Z"
     },
     {
       "index": 886,
@@ -15474,7 +15474,7 @@ DATA = {
       "forks": 63,
       "subscribers": 19,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:36.840Z"
+      "repository_data_timestamp": "2022-12-02T02:00:36.628Z"
     },
     {
       "index": 887,
@@ -15493,7 +15493,7 @@ DATA = {
       "forks": 4,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:36.848Z"
+      "repository_data_timestamp": "2022-12-02T02:00:36.647Z"
     },
     {
       "index": 888,
@@ -15512,7 +15512,7 @@ DATA = {
       "forks": 102,
       "subscribers": 30,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:36.870Z"
+      "repository_data_timestamp": "2022-12-02T02:00:36.654Z"
     },
     {
       "index": 889,
@@ -15531,7 +15531,7 @@ DATA = {
       "forks": 3,
       "subscribers": 2,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:36.918Z"
+      "repository_data_timestamp": "2022-12-02T02:00:36.705Z"
     },
     {
       "index": 890,
@@ -15550,7 +15550,7 @@ DATA = {
       "forks": 9,
       "subscribers": 2,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:36.928Z"
+      "repository_data_timestamp": "2022-12-02T02:00:36.738Z"
     },
     {
       "index": 891,
@@ -15569,7 +15569,7 @@ DATA = {
       "forks": 3,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:36.948Z"
+      "repository_data_timestamp": "2022-12-02T02:00:36.770Z"
     },
     {
       "index": 892,
@@ -15588,7 +15588,7 @@ DATA = {
       "forks": 11,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:36.999Z"
+      "repository_data_timestamp": "2022-12-02T02:00:36.789Z"
     },
     {
       "index": 893,
@@ -15607,7 +15607,7 @@ DATA = {
       "forks": 5,
       "subscribers": 4,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:37.051Z"
+      "repository_data_timestamp": "2022-12-02T02:00:36.877Z"
     },
     {
       "index": 894,
@@ -15626,7 +15626,7 @@ DATA = {
       "forks": 5,
       "subscribers": 2,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:38.688Z"
+      "repository_data_timestamp": "2022-12-02T02:00:38.632Z"
     },
     {
       "index": 895,
@@ -15645,7 +15645,7 @@ DATA = {
       "forks": 2,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:37.087Z"
+      "repository_data_timestamp": "2022-12-02T02:00:36.906Z"
     },
     {
       "index": 896,
@@ -15660,11 +15660,11 @@ DATA = {
       },
       "created_at": "2020-03-21T14:56:33.000Z",
       "last_commit_at": "2022-10-14T11:13:38.000Z",
-      "stars": 676,
+      "stars": 678,
       "forks": 42,
       "subscribers": 16,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:37.152Z"
+      "repository_data_timestamp": "2022-12-02T02:00:36.931Z"
     },
     {
       "index": 897,
@@ -15683,7 +15683,7 @@ DATA = {
       "forks": 63,
       "subscribers": 16,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:37.152Z"
+      "repository_data_timestamp": "2022-12-02T02:00:36.945Z"
     },
     {
       "index": 898,
@@ -15702,7 +15702,7 @@ DATA = {
       "forks": 2,
       "subscribers": 0,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:37.171Z"
+      "repository_data_timestamp": "2022-12-02T02:00:36.946Z"
     },
     {
       "index": 899,
@@ -15721,7 +15721,7 @@ DATA = {
       "forks": 8,
       "subscribers": 3,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:37.207Z"
+      "repository_data_timestamp": "2022-12-02T02:00:37.008Z"
     },
     {
       "index": 900,
@@ -15740,7 +15740,7 @@ DATA = {
       "forks": 7,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:37.247Z"
+      "repository_data_timestamp": "2022-12-02T02:00:37.056Z"
     },
     {
       "index": 901,
@@ -15759,7 +15759,7 @@ DATA = {
       "forks": 11,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:37.259Z"
+      "repository_data_timestamp": "2022-12-02T02:00:37.070Z"
     },
     {
       "index": 902,
@@ -15778,7 +15778,7 @@ DATA = {
       "forks": 10,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:37.306Z"
+      "repository_data_timestamp": "2022-12-02T02:00:37.102Z"
     },
     {
       "index": 903,
@@ -15797,7 +15797,7 @@ DATA = {
       "forks": 4,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:37.403Z"
+      "repository_data_timestamp": "2022-12-02T02:00:37.210Z"
     },
     {
       "index": 904,
@@ -15816,7 +15816,7 @@ DATA = {
       "forks": 15,
       "subscribers": 4,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:37.422Z"
+      "repository_data_timestamp": "2022-12-02T02:00:37.268Z"
     },
     {
       "index": 905,
@@ -15831,11 +15831,11 @@ DATA = {
       },
       "created_at": "2014-04-02T16:14:58.000Z",
       "last_commit_at": "2022-10-16T02:27:53.000Z",
-      "stars": 3426,
+      "stars": 3429,
       "forks": 279,
       "subscribers": 73,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:37.446Z"
+      "repository_data_timestamp": "2022-12-02T02:00:37.319Z"
     },
     {
       "index": 906,
@@ -15854,7 +15854,7 @@ DATA = {
       "forks": 13,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:37.481Z"
+      "repository_data_timestamp": "2022-12-02T02:00:37.326Z"
     },
     {
       "index": 907,
@@ -15869,11 +15869,11 @@ DATA = {
       },
       "created_at": "2016-05-17T14:32:06.000Z",
       "last_commit_at": "2022-10-17T10:05:38.000Z",
-      "stars": 963,
+      "stars": 967,
       "forks": 116,
       "subscribers": 19,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:37.482Z"
+      "repository_data_timestamp": "2022-12-02T02:00:37.355Z"
     },
     {
       "index": 908,
@@ -15887,12 +15887,12 @@ DATA = {
         "name": "app"
       },
       "created_at": "2016-10-12T00:31:33.000Z",
-      "last_commit_at": "2022-11-29T21:19:01.000Z",
-      "stars": 6682,
+      "last_commit_at": "2022-12-01T16:53:13.000Z",
+      "stars": 6686,
       "forks": 328,
       "subscribers": 156,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:37.772Z"
+      "repository_data_timestamp": "2022-12-02T02:00:37.653Z"
     },
     {
       "index": 909,
@@ -15906,12 +15906,12 @@ DATA = {
         "name": "fyne"
       },
       "created_at": "2018-02-04T22:07:16.000Z",
-      "last_commit_at": "2022-11-29T23:06:58.000Z",
-      "stars": 18848,
-      "forks": 1046,
+      "last_commit_at": "2022-12-01T23:27:50.000Z",
+      "stars": 18858,
+      "forks": 1045,
       "subscribers": 241,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:37.501Z"
+      "repository_data_timestamp": "2022-12-02T02:00:37.406Z"
     },
     {
       "index": 910,
@@ -15934,11 +15934,11 @@ DATA = {
       },
       "created_at": "2017-04-22T07:59:15.000Z",
       "last_commit_at": "2022-09-10T18:14:42.000Z",
-      "stars": 4599,
-      "forks": 324,
+      "stars": 4600,
+      "forks": 325,
       "subscribers": 131,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:37.534Z"
+      "repository_data_timestamp": "2022-12-02T02:00:37.419Z"
     },
     {
       "index": 912,
@@ -15957,7 +15957,7 @@ DATA = {
       "forks": 247,
       "subscribers": 85,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:37.831Z"
+      "repository_data_timestamp": "2022-12-02T02:00:37.727Z"
     },
     {
       "index": 913,
@@ -15976,7 +15976,7 @@ DATA = {
       "forks": 262,
       "subscribers": 129,
       "license": null,
-      "repository_data_timestamp": "2022-12-01T02:00:37.589Z"
+      "repository_data_timestamp": "2022-12-02T02:00:37.433Z"
     },
     {
       "index": 914,
@@ -15995,7 +15995,7 @@ DATA = {
       "forks": 1,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:37.647Z"
+      "repository_data_timestamp": "2022-12-02T02:00:37.468Z"
     },
     {
       "index": 915,
@@ -16014,7 +16014,7 @@ DATA = {
       "forks": 220,
       "subscribers": 64,
       "license": "isc",
-      "repository_data_timestamp": "2022-12-01T02:00:37.719Z"
+      "repository_data_timestamp": "2022-12-02T02:00:37.533Z"
     },
     {
       "index": 916,
@@ -16029,11 +16029,11 @@ DATA = {
       },
       "created_at": "2017-03-29T14:50:53.000Z",
       "last_commit_at": "2022-08-07T06:25:33.000Z",
-      "stars": 387,
+      "stars": 386,
       "forks": 42,
       "subscribers": 25,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:37.709Z"
+      "repository_data_timestamp": "2022-12-02T02:00:37.573Z"
     },
     {
       "index": 917,
@@ -16049,10 +16049,10 @@ DATA = {
       "created_at": "2014-11-19T00:03:08.000Z",
       "last_commit_at": "2021-01-07T08:45:27.000Z",
       "stars": 9542,
-      "forks": 722,
+      "forks": 723,
       "subscribers": 314,
       "license": "lgpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:00:37.739Z"
+      "repository_data_timestamp": "2022-12-02T02:00:37.609Z"
     },
     {
       "index": 918,
@@ -16067,11 +16067,11 @@ DATA = {
       },
       "created_at": "2014-02-17T23:44:00.000Z",
       "last_commit_at": "2022-05-19T14:46:09.000Z",
-      "stars": 8192,
+      "stars": 8191,
       "forks": 729,
       "subscribers": 360,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:37.787Z"
+      "repository_data_timestamp": "2022-12-02T02:00:37.626Z"
     },
     {
       "index": 919,
@@ -16085,12 +16085,12 @@ DATA = {
         "name": "wails"
       },
       "created_at": "2018-12-15T23:14:06.000Z",
-      "last_commit_at": "2022-12-01T01:27:12.000Z",
-      "stars": 13049,
-      "forks": 605,
+      "last_commit_at": "2022-12-01T21:09:24.000Z",
+      "stars": 13062,
+      "forks": 606,
       "subscribers": 101,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:38.119Z"
+      "repository_data_timestamp": "2022-12-02T02:00:38.210Z"
     },
     {
       "index": 920,
@@ -16105,11 +16105,11 @@ DATA = {
       },
       "created_at": "2010-09-16T08:11:49.000Z",
       "last_commit_at": "2022-09-08T09:35:44.000Z",
-      "stars": 6262,
+      "stars": 6265,
       "forks": 857,
       "subscribers": 261,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:37.810Z"
+      "repository_data_timestamp": "2022-12-02T02:00:37.644Z"
     },
     {
       "index": 921,
@@ -16123,12 +16123,12 @@ DATA = {
         "name": "webview"
       },
       "created_at": "2017-08-19T08:26:00.000Z",
-      "last_commit_at": "2022-11-30T22:10:42.000Z",
-      "stars": 10685,
+      "last_commit_at": "2022-12-01T23:13:23.000Z",
+      "stars": 10687,
       "forks": 830,
-      "subscribers": 215,
+      "subscribers": 214,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:38.119Z"
+      "repository_data_timestamp": "2022-12-02T02:00:37.987Z"
     },
     {
       "index": 922,
@@ -16147,7 +16147,7 @@ DATA = {
       "forks": 0,
       "subscribers": 0,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:37.904Z"
+      "repository_data_timestamp": "2022-12-02T02:00:37.749Z"
     },
     {
       "index": 923,
@@ -16166,7 +16166,7 @@ DATA = {
       "forks": 49,
       "subscribers": 16,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:37.936Z"
+      "repository_data_timestamp": "2022-12-02T02:00:37.766Z"
     },
     {
       "index": 924,
@@ -16185,7 +16185,7 @@ DATA = {
       "forks": 4,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:37.995Z"
+      "repository_data_timestamp": "2022-12-02T02:00:37.818Z"
     },
     {
       "index": 925,
@@ -16204,7 +16204,7 @@ DATA = {
       "forks": 5,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:38.025Z"
+      "repository_data_timestamp": "2022-12-02T02:00:37.871Z"
     },
     {
       "index": 926,
@@ -16219,11 +16219,11 @@ DATA = {
       },
       "created_at": "2016-09-26T16:26:56.000Z",
       "last_commit_at": "2022-11-28T22:26:43.000Z",
-      "stars": 8021,
+      "stars": 8024,
       "forks": 761,
       "subscribers": 238,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:38.042Z"
+      "repository_data_timestamp": "2022-12-02T02:00:37.906Z"
     },
     {
       "index": 927,
@@ -16238,11 +16238,11 @@ DATA = {
       },
       "created_at": "2014-11-12T03:41:57.000Z",
       "last_commit_at": "2022-11-02T13:42:34.000Z",
-      "stars": 2589,
+      "stars": 2591,
       "forks": 338,
       "subscribers": 70,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:38.072Z"
+      "repository_data_timestamp": "2022-12-02T02:00:37.906Z"
     },
     {
       "index": 928,
@@ -16261,7 +16261,7 @@ DATA = {
       "forks": 19,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:38.185Z"
+      "repository_data_timestamp": "2022-12-02T02:00:38.037Z"
     },
     {
       "index": 929,
@@ -16280,7 +16280,7 @@ DATA = {
       "forks": 18,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:38.126Z"
+      "repository_data_timestamp": "2022-12-02T02:00:37.953Z"
     },
     {
       "index": 930,
@@ -16294,12 +16294,12 @@ DATA = {
         "name": "arduino-cli"
       },
       "created_at": "2018-08-08T15:57:32.000Z",
-      "last_commit_at": "2022-11-30T08:24:47.000Z",
-      "stars": 3660,
+      "last_commit_at": "2022-12-01T13:45:00.000Z",
+      "stars": 3661,
       "forks": 323,
       "subscribers": 102,
       "license": "gpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:00:38.221Z"
+      "repository_data_timestamp": "2022-12-02T02:00:38.040Z"
     },
     {
       "index": 931,
@@ -16315,10 +16315,10 @@ DATA = {
       "created_at": "2014-07-09T10:55:20.000Z",
       "last_commit_at": "2021-12-05T21:00:21.000Z",
       "stars": 993,
-      "forks": 69,
+      "forks": 68,
       "subscribers": 37,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:38.230Z"
+      "repository_data_timestamp": "2022-12-02T02:00:38.094Z"
     },
     {
       "index": 932,
@@ -16337,7 +16337,7 @@ DATA = {
       "forks": 149,
       "subscribers": 26,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:38.289Z"
+      "repository_data_timestamp": "2022-12-02T02:00:38.095Z"
     },
     {
       "index": 933,
@@ -16356,7 +16356,7 @@ DATA = {
       "forks": 43,
       "subscribers": 11,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:38.318Z"
+      "repository_data_timestamp": "2022-12-02T02:00:38.131Z"
     },
     {
       "index": 934,
@@ -16375,7 +16375,7 @@ DATA = {
       "forks": 218,
       "subscribers": 58,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:38.336Z"
+      "repository_data_timestamp": "2022-12-02T02:00:38.168Z"
     },
     {
       "index": 935,
@@ -16394,7 +16394,7 @@ DATA = {
       "forks": 45,
       "subscribers": 14,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:38.383Z"
+      "repository_data_timestamp": "2022-12-02T02:00:38.210Z"
     },
     {
       "index": 936,
@@ -16413,7 +16413,7 @@ DATA = {
       "forks": 13,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:38.414Z"
+      "repository_data_timestamp": "2022-12-02T02:00:38.258Z"
     },
     {
       "index": 937,
@@ -16432,7 +16432,7 @@ DATA = {
       "forks": 82,
       "subscribers": 14,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:38.429Z"
+      "repository_data_timestamp": "2022-12-02T02:00:38.333Z"
     },
     {
       "index": 938,
@@ -16447,11 +16447,11 @@ DATA = {
       },
       "created_at": "2016-08-01T15:54:29.000Z",
       "last_commit_at": "2022-06-14T15:56:21.000Z",
-      "stars": 3670,
+      "stars": 3671,
       "forks": 203,
       "subscribers": 73,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:38.428Z"
+      "repository_data_timestamp": "2022-12-02T02:00:38.334Z"
     },
     {
       "index": 939,
@@ -16465,12 +16465,12 @@ DATA = {
         "name": "bimg"
       },
       "created_at": "2015-03-17T14:14:02.000Z",
-      "last_commit_at": "2022-10-27T10:09:57.000Z",
-      "stars": 2113,
-      "forks": 320,
+      "last_commit_at": "2022-12-01T17:18:46.000Z",
+      "stars": 2115,
+      "forks": 321,
       "subscribers": 36,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:38.482Z"
+      "repository_data_timestamp": "2022-12-02T02:00:38.342Z"
     },
     {
       "index": 940,
@@ -16489,7 +16489,7 @@ DATA = {
       "forks": 10,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:38.523Z"
+      "repository_data_timestamp": "2022-12-02T02:00:38.386Z"
     },
     {
       "index": 941,
@@ -16503,12 +16503,12 @@ DATA = {
         "name": "canvas"
       },
       "created_at": "2017-05-20T18:10:51.000Z",
-      "last_commit_at": "2022-11-18T17:25:43.000Z",
-      "stars": 1138,
-      "forks": 75,
+      "last_commit_at": "2022-12-01T19:00:58.000Z",
+      "stars": 1139,
+      "forks": 76,
       "subscribers": 22,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:38.518Z"
+      "repository_data_timestamp": "2022-12-02T02:00:38.405Z"
     },
     {
       "index": 942,
@@ -16527,7 +16527,7 @@ DATA = {
       "forks": 39,
       "subscribers": 8,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:38.629Z"
+      "repository_data_timestamp": "2022-12-02T02:00:38.416Z"
     },
     {
       "index": 943,
@@ -16546,7 +16546,7 @@ DATA = {
       "forks": 25,
       "subscribers": 13,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:38.616Z"
+      "repository_data_timestamp": "2022-12-02T02:00:38.464Z"
     },
     {
       "index": 944,
@@ -16565,7 +16565,7 @@ DATA = {
       "forks": 67,
       "subscribers": 22,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:38.629Z"
+      "repository_data_timestamp": "2022-12-02T02:00:38.493Z"
     },
     {
       "index": 945,
@@ -16584,7 +16584,7 @@ DATA = {
       "forks": 294,
       "subscribers": 92,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:38.705Z"
+      "repository_data_timestamp": "2022-12-02T02:00:38.487Z"
     },
     {
       "index": 946,
@@ -16603,7 +16603,7 @@ DATA = {
       "forks": 115,
       "subscribers": 50,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:38.748Z"
+      "repository_data_timestamp": "2022-12-02T02:00:38.564Z"
     },
     {
       "index": 947,
@@ -16622,7 +16622,7 @@ DATA = {
       "forks": 29,
       "subscribers": 5,
       "license": "bsd-2-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:38.745Z"
+      "repository_data_timestamp": "2022-12-02T02:00:38.622Z"
     },
     {
       "index": 948,
@@ -16641,7 +16641,7 @@ DATA = {
       "forks": 31,
       "subscribers": 6,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:38.770Z"
+      "repository_data_timestamp": "2022-12-02T02:00:38.662Z"
     },
     {
       "index": 949,
@@ -16660,7 +16660,7 @@ DATA = {
       "forks": 17,
       "subscribers": 5,
       "license": null,
-      "repository_data_timestamp": "2022-12-01T02:00:38.824Z"
+      "repository_data_timestamp": "2022-12-02T02:00:38.683Z"
     },
     {
       "index": 950,
@@ -16679,7 +16679,7 @@ DATA = {
       "forks": 43,
       "subscribers": 16,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:38.853Z"
+      "repository_data_timestamp": "2022-12-02T02:00:38.698Z"
     },
     {
       "index": 951,
@@ -16698,7 +16698,7 @@ DATA = {
       "forks": 6,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:38.925Z"
+      "repository_data_timestamp": "2022-12-02T02:00:38.727Z"
     },
     {
       "index": 952,
@@ -16717,7 +16717,7 @@ DATA = {
       "forks": 17,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:38.919Z"
+      "repository_data_timestamp": "2022-12-02T02:00:38.781Z"
     },
     {
       "index": 953,
@@ -16731,12 +16731,12 @@ DATA = {
         "name": "gocv"
       },
       "created_at": "2017-09-18T21:54:17.000Z",
-      "last_commit_at": "2022-11-29T16:53:50.000Z",
-      "stars": 5128,
-      "forks": 750,
+      "last_commit_at": "2022-12-01T09:14:30.000Z",
+      "stars": 5130,
+      "forks": 751,
       "subscribers": 146,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:38.957Z"
+      "repository_data_timestamp": "2022-12-02T02:00:38.783Z"
     },
     {
       "index": 954,
@@ -16751,11 +16751,11 @@ DATA = {
       },
       "created_at": "2017-07-28T17:15:58.000Z",
       "last_commit_at": "2022-10-18T16:41:41.000Z",
-      "stars": 553,
+      "stars": 554,
       "forks": 57,
       "subscribers": 14,
       "license": "bsd-2-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:38.987Z"
+      "repository_data_timestamp": "2022-12-02T02:00:38.807Z"
     },
     {
       "index": 955,
@@ -16774,7 +16774,7 @@ DATA = {
       "forks": 4,
       "subscribers": 2,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:39.026Z"
+      "repository_data_timestamp": "2022-12-02T02:00:38.880Z"
     },
     {
       "index": 956,
@@ -16793,7 +16793,7 @@ DATA = {
       "forks": 39,
       "subscribers": 10,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:39.049Z"
+      "repository_data_timestamp": "2022-12-02T02:00:38.912Z"
     },
     {
       "index": 957,
@@ -16807,12 +16807,12 @@ DATA = {
         "name": "govips"
       },
       "created_at": "2016-12-25T04:32:56.000Z",
-      "last_commit_at": "2022-11-29T07:27:14.000Z",
+      "last_commit_at": "2022-12-01T15:30:26.000Z",
       "stars": 796,
       "forks": 164,
       "subscribers": 15,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:39.043Z"
+      "repository_data_timestamp": "2022-12-02T02:00:38.965Z"
     },
     {
       "index": 958,
@@ -16827,11 +16827,11 @@ DATA = {
       },
       "created_at": "2017-10-31T08:36:35.000Z",
       "last_commit_at": "2022-11-14T09:01:16.000Z",
-      "stars": 1890,
+      "stars": 1891,
       "forks": 236,
       "subscribers": 38,
       "license": "gpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:00:39.072Z"
+      "repository_data_timestamp": "2022-12-02T02:00:38.995Z"
     },
     {
       "index": 959,
@@ -16846,11 +16846,11 @@ DATA = {
       },
       "created_at": "2020-04-10T00:13:10.000Z",
       "last_commit_at": "2021-09-30T17:31:42.000Z",
-      "stars": 58,
+      "stars": 59,
       "forks": 12,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:39.096Z"
+      "repository_data_timestamp": "2022-12-02T02:00:38.987Z"
     },
     {
       "index": 960,
@@ -16869,7 +16869,7 @@ DATA = {
       "forks": 64,
       "subscribers": 10,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:39.130Z"
+      "repository_data_timestamp": "2022-12-02T02:00:38.992Z"
     },
     {
       "index": 961,
@@ -16888,7 +16888,7 @@ DATA = {
       "forks": 174,
       "subscribers": 54,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:39.216Z"
+      "repository_data_timestamp": "2022-12-02T02:00:39.020Z"
     },
     {
       "index": 962,
@@ -16903,11 +16903,11 @@ DATA = {
       },
       "created_at": "2015-03-04T18:51:40.000Z",
       "last_commit_at": "2022-11-28T14:54:14.000Z",
-      "stars": 4670,
+      "stars": 4671,
       "forks": 416,
       "subscribers": 73,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:39.208Z"
+      "repository_data_timestamp": "2022-12-02T02:00:39.073Z"
     },
     {
       "index": 963,
@@ -16926,7 +16926,7 @@ DATA = {
       "forks": 366,
       "subscribers": 78,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:39.376Z"
+      "repository_data_timestamp": "2022-12-02T02:00:39.073Z"
     },
     {
       "index": 964,
@@ -16945,7 +16945,7 @@ DATA = {
       "forks": 12,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:39.264Z"
+      "repository_data_timestamp": "2022-12-02T02:00:39.095Z"
     },
     {
       "index": 965,
@@ -16960,11 +16960,11 @@ DATA = {
       },
       "created_at": "2016-01-10T04:28:10.000Z",
       "last_commit_at": "2019-07-19T09:00:40.000Z",
-      "stars": 3121,
+      "stars": 3122,
       "forks": 122,
       "subscribers": 92,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:39.326Z"
+      "repository_data_timestamp": "2022-12-02T02:00:39.182Z"
     },
     {
       "index": 966,
@@ -16983,7 +16983,7 @@ DATA = {
       "forks": 27,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:39.353Z"
+      "repository_data_timestamp": "2022-12-02T02:00:39.204Z"
     },
     {
       "index": 967,
@@ -17002,7 +17002,7 @@ DATA = {
       "forks": 22,
       "subscribers": 18,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:39.394Z"
+      "repository_data_timestamp": "2022-12-02T02:00:39.243Z"
     },
     {
       "index": 968,
@@ -17021,7 +17021,7 @@ DATA = {
       "forks": 4,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:39.394Z"
+      "repository_data_timestamp": "2022-12-02T02:00:39.284Z"
     },
     {
       "index": 969,
@@ -17040,7 +17040,7 @@ DATA = {
       "forks": 151,
       "subscribers": 52,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:39.386Z"
+      "repository_data_timestamp": "2022-12-02T02:00:39.280Z"
     },
     {
       "index": 970,
@@ -17055,11 +17055,11 @@ DATA = {
       },
       "created_at": "2015-01-23T19:39:29.000Z",
       "last_commit_at": "2019-03-21T10:07:26.000Z",
-      "stars": 2036,
+      "stars": 2035,
       "forks": 115,
       "subscribers": 60,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:39.485Z"
+      "repository_data_timestamp": "2022-12-02T02:00:39.283Z"
     },
     {
       "index": 971,
@@ -17074,11 +17074,11 @@ DATA = {
       },
       "created_at": "2012-08-02T19:48:26.000Z",
       "last_commit_at": "2022-04-02T06:46:33.000Z",
-      "stars": 2907,
+      "stars": 2906,
       "forks": 301,
       "subscribers": 79,
       "license": "isc",
-      "repository_data_timestamp": "2022-12-01T02:00:39.547Z"
+      "repository_data_timestamp": "2022-12-02T02:00:39.309Z"
     },
     {
       "index": 972,
@@ -17097,7 +17097,7 @@ DATA = {
       "forks": 19,
       "subscribers": 10,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:39.514Z"
+      "repository_data_timestamp": "2022-12-02T02:00:39.354Z"
     },
     {
       "index": 973,
@@ -17116,7 +17116,7 @@ DATA = {
       "forks": 3,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:39.550Z"
+      "repository_data_timestamp": "2022-12-02T02:00:39.366Z"
     },
     {
       "index": 974,
@@ -17133,9 +17133,9 @@ DATA = {
       "last_commit_at": "2022-04-11T14:16:31.000Z",
       "stars": 1677,
       "forks": 107,
-      "subscribers": 33,
+      "subscribers": 34,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:39.641Z"
+      "repository_data_timestamp": "2022-12-02T02:00:39.378Z"
     },
     {
       "index": 975,
@@ -17154,7 +17154,7 @@ DATA = {
       "forks": 29,
       "subscribers": 8,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:39.647Z"
+      "repository_data_timestamp": "2022-12-02T02:00:39.498Z"
     },
     {
       "index": 976,
@@ -17169,11 +17169,11 @@ DATA = {
       },
       "created_at": "2018-11-29T16:45:58.000Z",
       "last_commit_at": "2020-07-08T13:43:58.000Z",
-      "stars": 1062,
-      "forks": 113,
+      "stars": 1063,
+      "forks": 114,
       "subscribers": 23,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:39.698Z"
+      "repository_data_timestamp": "2022-12-02T02:00:39.487Z"
     },
     {
       "index": 977,
@@ -17188,11 +17188,11 @@ DATA = {
       },
       "created_at": "2010-03-05T23:24:10.000Z",
       "last_commit_at": "2022-11-16T13:23:11.000Z",
-      "stars": 1934,
+      "stars": 1936,
       "forks": 163,
       "subscribers": 53,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:39.688Z"
+      "repository_data_timestamp": "2022-12-02T02:00:39.516Z"
     },
     {
       "index": 978,
@@ -17211,7 +17211,7 @@ DATA = {
       "forks": 12,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:39.731Z"
+      "repository_data_timestamp": "2022-12-02T02:00:39.569Z"
     },
     {
       "index": 979,
@@ -17230,7 +17230,7 @@ DATA = {
       "forks": 13,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:39.742Z"
+      "repository_data_timestamp": "2022-12-02T02:00:39.603Z"
     },
     {
       "index": 980,
@@ -17245,11 +17245,11 @@ DATA = {
       },
       "created_at": "2015-01-16T19:44:21.000Z",
       "last_commit_at": "2022-06-27T02:04:19.000Z",
-      "stars": 354,
+      "stars": 355,
       "forks": 32,
       "subscribers": 26,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:40.022Z"
+      "repository_data_timestamp": "2022-12-02T02:00:39.927Z"
     },
     {
       "index": 981,
@@ -17268,7 +17268,7 @@ DATA = {
       "forks": 29,
       "subscribers": 15,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:39.821Z"
+      "repository_data_timestamp": "2022-12-02T02:00:39.650Z"
     },
     {
       "index": 982,
@@ -17287,7 +17287,7 @@ DATA = {
       "forks": 16,
       "subscribers": 8,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:39.853Z"
+      "repository_data_timestamp": "2022-12-02T02:00:39.675Z"
     },
     {
       "index": 983,
@@ -17302,11 +17302,11 @@ DATA = {
       },
       "created_at": "2016-07-10T02:57:43.000Z",
       "last_commit_at": "2022-08-09T14:34:13.000Z",
-      "stars": 2153,
+      "stars": 2154,
       "forks": 282,
       "subscribers": 155,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:39.859Z"
+      "repository_data_timestamp": "2022-12-02T02:00:39.671Z"
     },
     {
       "index": 984,
@@ -17325,7 +17325,7 @@ DATA = {
       "forks": 286,
       "subscribers": 54,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:39.957Z"
+      "repository_data_timestamp": "2022-12-02T02:00:39.688Z"
     },
     {
       "index": 985,
@@ -17339,12 +17339,12 @@ DATA = {
         "name": "gobot"
       },
       "created_at": "2013-09-21T14:09:19.000Z",
-      "last_commit_at": "2022-11-30T18:28:46.000Z",
-      "stars": 8010,
+      "last_commit_at": "2022-12-01T16:33:33.000Z",
+      "stars": 8011,
       "forks": 987,
       "subscribers": 327,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:39.964Z"
+      "repository_data_timestamp": "2022-12-02T02:00:39.783Z"
     },
     {
       "index": 986,
@@ -17363,7 +17363,7 @@ DATA = {
       "forks": 36,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:39.966Z"
+      "repository_data_timestamp": "2022-12-02T02:00:39.783Z"
     },
     {
       "index": 987,
@@ -17382,7 +17382,7 @@ DATA = {
       "forks": 12,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:39.976Z"
+      "repository_data_timestamp": "2022-12-02T02:00:39.810Z"
     },
     {
       "index": 988,
@@ -17397,11 +17397,11 @@ DATA = {
       },
       "created_at": "2015-07-06T20:31:50.000Z",
       "last_commit_at": "2022-11-30T12:54:19.000Z",
-      "stars": 1940,
+      "stars": 1943,
       "forks": 571,
       "subscribers": 107,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:40.031Z"
+      "repository_data_timestamp": "2022-12-02T02:00:39.881Z"
     },
     {
       "index": 989,
@@ -17420,7 +17420,7 @@ DATA = {
       "forks": 6,
       "subscribers": 3,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:40.744Z"
+      "repository_data_timestamp": "2022-12-02T02:00:40.657Z"
     },
     {
       "index": 990,
@@ -17439,7 +17439,7 @@ DATA = {
       "forks": 41,
       "subscribers": 20,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:40.063Z"
+      "repository_data_timestamp": "2022-12-02T02:00:39.882Z"
     },
     {
       "index": 991,
@@ -17458,7 +17458,7 @@ DATA = {
       "forks": 4,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:40.102Z"
+      "repository_data_timestamp": "2022-12-02T02:00:40.103Z"
     },
     {
       "index": 992,
@@ -17477,7 +17477,7 @@ DATA = {
       "forks": 3,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:40.168Z"
+      "repository_data_timestamp": "2022-12-02T02:00:39.967Z"
     },
     {
       "index": 993,
@@ -17496,7 +17496,7 @@ DATA = {
       "forks": 14,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:40.168Z"
+      "repository_data_timestamp": "2022-12-02T02:00:39.989Z"
     },
     {
       "index": 994,
@@ -17515,7 +17515,7 @@ DATA = {
       "forks": 4,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:40.245Z"
+      "repository_data_timestamp": "2022-12-02T02:00:39.963Z"
     },
     {
       "index": 995,
@@ -17530,11 +17530,11 @@ DATA = {
       },
       "created_at": "2022-04-22T13:00:42.000Z",
       "last_commit_at": "2022-11-26T02:43:49.000Z",
-      "stars": 511,
+      "stars": 512,
       "forks": 34,
       "subscribers": 7,
       "license": "gpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:00:40.484Z"
+      "repository_data_timestamp": "2022-12-02T02:00:40.356Z"
     },
     {
       "index": 996,
@@ -17553,7 +17553,7 @@ DATA = {
       "forks": 18,
       "subscribers": 9,
       "license": null,
-      "repository_data_timestamp": "2022-12-01T02:00:40.255Z"
+      "repository_data_timestamp": "2022-12-02T02:00:40.101Z"
     },
     {
       "index": 997,
@@ -17568,11 +17568,11 @@ DATA = {
       },
       "created_at": "2019-04-14T18:57:51.000Z",
       "last_commit_at": "2022-11-19T11:01:01.000Z",
-      "stars": 1074,
+      "stars": 1077,
       "forks": 57,
       "subscribers": 18,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:40.275Z"
+      "repository_data_timestamp": "2022-12-02T02:00:40.103Z"
     },
     {
       "index": 998,
@@ -17587,11 +17587,11 @@ DATA = {
       },
       "created_at": "2020-03-20T15:33:05.000Z",
       "last_commit_at": "2022-11-14T18:01:13.000Z",
-      "stars": 2580,
+      "stars": 2585,
       "forks": 184,
       "subscribers": 25,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:40.324Z"
+      "repository_data_timestamp": "2022-12-02T02:00:40.202Z"
     },
     {
       "index": 999,
@@ -17610,7 +17610,7 @@ DATA = {
       "forks": 5,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:40.337Z"
+      "repository_data_timestamp": "2022-12-02T02:00:40.198Z"
     },
     {
       "index": 1000,
@@ -17629,7 +17629,7 @@ DATA = {
       "forks": 62,
       "subscribers": 15,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:40.370Z"
+      "repository_data_timestamp": "2022-12-02T02:00:40.226Z"
     },
     {
       "index": 1001,
@@ -17644,11 +17644,11 @@ DATA = {
       },
       "created_at": "2021-04-21T06:14:03.000Z",
       "last_commit_at": "2022-11-19T07:15:53.000Z",
-      "stars": 234,
+      "stars": 237,
       "forks": 12,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:40.391Z"
+      "repository_data_timestamp": "2022-12-02T02:00:40.291Z"
     },
     {
       "index": 1002,
@@ -17667,7 +17667,7 @@ DATA = {
       "forks": 87,
       "subscribers": 27,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:40.453Z"
+      "repository_data_timestamp": "2022-12-02T02:00:40.281Z"
     },
     {
       "index": 1003,
@@ -17686,7 +17686,7 @@ DATA = {
       "forks": 44,
       "subscribers": 19,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:40.459Z"
+      "repository_data_timestamp": "2022-12-02T02:00:40.319Z"
     },
     {
       "index": 1004,
@@ -17705,7 +17705,7 @@ DATA = {
       "forks": 12,
       "subscribers": 8,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:40.534Z"
+      "repository_data_timestamp": "2022-12-02T02:00:40.401Z"
     },
     {
       "index": 1005,
@@ -17724,7 +17724,7 @@ DATA = {
       "forks": 1,
       "subscribers": 2,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:40.525Z"
+      "repository_data_timestamp": "2022-12-02T02:00:40.410Z"
     },
     {
       "index": 1006,
@@ -17743,7 +17743,7 @@ DATA = {
       "forks": 53,
       "subscribers": 14,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:40.595Z"
+      "repository_data_timestamp": "2022-12-02T02:00:40.394Z"
     },
     {
       "index": 1007,
@@ -17758,11 +17758,11 @@ DATA = {
       },
       "created_at": "2019-12-24T18:26:18.000Z",
       "last_commit_at": "2022-05-31T14:24:30.000Z",
-      "stars": 123,
+      "stars": 124,
       "forks": 13,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:40.601Z"
+      "repository_data_timestamp": "2022-12-02T02:00:40.491Z"
     },
     {
       "index": 1008,
@@ -17777,11 +17777,11 @@ DATA = {
       },
       "created_at": "2019-03-07T20:47:38.000Z",
       "last_commit_at": "2022-11-29T16:06:51.000Z",
-      "stars": 139,
+      "stars": 140,
       "forks": 19,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:40.622Z"
+      "repository_data_timestamp": "2022-12-02T02:00:40.487Z"
     },
     {
       "index": 1009,
@@ -17800,7 +17800,7 @@ DATA = {
       "forks": 1,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:40.651Z"
+      "repository_data_timestamp": "2022-12-02T02:00:40.513Z"
     },
     {
       "index": 1010,
@@ -17819,7 +17819,7 @@ DATA = {
       "forks": 5,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:40.706Z"
+      "repository_data_timestamp": "2022-12-02T02:00:40.563Z"
     },
     {
       "index": 1011,
@@ -17838,7 +17838,7 @@ DATA = {
       "forks": 2,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:40.743Z"
+      "repository_data_timestamp": "2022-12-02T02:00:40.586Z"
     },
     {
       "index": 1012,
@@ -17857,7 +17857,7 @@ DATA = {
       "forks": 3,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:40.777Z"
+      "repository_data_timestamp": "2022-12-02T02:00:40.610Z"
     },
     {
       "index": 1013,
@@ -17872,11 +17872,11 @@ DATA = {
       },
       "created_at": "2018-05-28T21:41:47.000Z",
       "last_commit_at": "2022-08-17T06:58:26.000Z",
-      "stars": 1715,
+      "stars": 1716,
       "forks": 104,
       "subscribers": 25,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:40.799Z"
+      "repository_data_timestamp": "2022-12-02T02:00:40.678Z"
     },
     {
       "index": 1014,
@@ -17895,7 +17895,7 @@ DATA = {
       "forks": 14,
       "subscribers": 8,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:40.870Z"
+      "repository_data_timestamp": "2022-12-02T02:00:40.750Z"
     },
     {
       "index": 1015,
@@ -17914,7 +17914,7 @@ DATA = {
       "forks": 751,
       "subscribers": 157,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:40.884Z"
+      "repository_data_timestamp": "2022-12-02T02:00:40.757Z"
     },
     {
       "index": 1016,
@@ -17933,7 +17933,7 @@ DATA = {
       "forks": 2,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:40.910Z"
+      "repository_data_timestamp": "2022-12-02T02:00:40.780Z"
     },
     {
       "index": 1017,
@@ -17952,7 +17952,7 @@ DATA = {
       "forks": 9,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:40.941Z"
+      "repository_data_timestamp": "2022-12-02T02:00:40.758Z"
     },
     {
       "index": 1018,
@@ -17971,7 +17971,7 @@ DATA = {
       "forks": 23,
       "subscribers": 5,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:40.925Z"
+      "repository_data_timestamp": "2022-12-02T02:00:40.800Z"
     },
     {
       "index": 1019,
@@ -17986,11 +17986,11 @@ DATA = {
       },
       "created_at": "2012-12-27T19:10:50.000Z",
       "last_commit_at": "2021-07-30T03:02:50.000Z",
-      "stars": 2560,
+      "stars": 2563,
       "forks": 205,
       "subscribers": 47,
       "license": "gpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:00:41.016Z"
+      "repository_data_timestamp": "2022-12-02T02:00:40.865Z"
     },
     {
       "index": 1020,
@@ -18009,7 +18009,7 @@ DATA = {
       "forks": 7,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:41.022Z"
+      "repository_data_timestamp": "2022-12-02T02:00:40.879Z"
     },
     {
       "index": 1021,
@@ -18028,7 +18028,7 @@ DATA = {
       "forks": 10,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:41.045Z"
+      "repository_data_timestamp": "2022-12-02T02:00:40.888Z"
     },
     {
       "index": 1022,
@@ -18047,7 +18047,7 @@ DATA = {
       "forks": 2,
       "subscribers": 2,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:41.050Z"
+      "repository_data_timestamp": "2022-12-02T02:00:40.945Z"
     },
     {
       "index": 1023,
@@ -18062,11 +18062,11 @@ DATA = {
       },
       "created_at": "2014-01-21T18:11:13.000Z",
       "last_commit_at": "2022-10-27T17:30:26.000Z",
-      "stars": 3872,
+      "stars": 3880,
       "forks": 462,
       "subscribers": 57,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:41.298Z"
+      "repository_data_timestamp": "2022-12-02T02:00:41.187Z"
     },
     {
       "index": 1024,
@@ -18082,10 +18082,10 @@ DATA = {
       "created_at": "2020-04-18T20:42:45.000Z",
       "last_commit_at": "2022-09-18T21:10:28.000Z",
       "stars": 143,
-      "forks": 28,
+      "forks": 29,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:41.340Z"
+      "repository_data_timestamp": "2022-12-02T02:00:41.281Z"
     },
     {
       "index": 1025,
@@ -18104,7 +18104,7 @@ DATA = {
       "forks": 16,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:41.094Z"
+      "repository_data_timestamp": "2022-12-02T02:00:40.967Z"
     },
     {
       "index": 1026,
@@ -18123,7 +18123,7 @@ DATA = {
       "forks": 3,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:41.169Z"
+      "repository_data_timestamp": "2022-12-02T02:00:41.040Z"
     },
     {
       "index": 1027,
@@ -18142,7 +18142,7 @@ DATA = {
       "forks": 5,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:41.169Z"
+      "repository_data_timestamp": "2022-12-02T02:00:41.054Z"
     },
     {
       "index": 1028,
@@ -18157,11 +18157,11 @@ DATA = {
       },
       "created_at": "2020-11-28T19:05:16.000Z",
       "last_commit_at": "2022-10-20T22:38:10.000Z",
-      "stars": 214,
+      "stars": 215,
       "forks": 24,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:41.198Z"
+      "repository_data_timestamp": "2022-12-02T02:00:41.059Z"
     },
     {
       "index": 1029,
@@ -18180,7 +18180,7 @@ DATA = {
       "forks": 11,
       "subscribers": 4,
       "license": "zlib",
-      "repository_data_timestamp": "2022-12-01T02:00:41.208Z"
+      "repository_data_timestamp": "2022-12-02T02:00:41.092Z"
     },
     {
       "index": 1030,
@@ -18199,7 +18199,7 @@ DATA = {
       "forks": 17,
       "subscribers": 1,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:41.226Z"
+      "repository_data_timestamp": "2022-12-02T02:00:41.078Z"
     },
     {
       "index": 1031,
@@ -18218,7 +18218,7 @@ DATA = {
       "forks": 6,
       "subscribers": 2,
       "license": "mpl-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:41.382Z"
+      "repository_data_timestamp": "2022-12-02T02:00:41.212Z"
     },
     {
       "index": 1032,
@@ -18237,7 +18237,7 @@ DATA = {
       "forks": 2,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:41.323Z"
+      "repository_data_timestamp": "2022-12-02T02:00:41.203Z"
     },
     {
       "index": 1033,
@@ -18256,7 +18256,7 @@ DATA = {
       "forks": 3,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:41.380Z"
+      "repository_data_timestamp": "2022-12-02T02:00:41.250Z"
     },
     {
       "index": 1034,
@@ -18271,11 +18271,11 @@ DATA = {
       },
       "created_at": "2016-07-19T14:19:03.000Z",
       "last_commit_at": "2022-06-06T06:01:18.000Z",
-      "stars": 241,
+      "stars": 242,
       "forks": 50,
       "subscribers": 21,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:41.472Z"
+      "repository_data_timestamp": "2022-12-02T02:00:41.319Z"
     },
     {
       "index": 1035,
@@ -18294,7 +18294,7 @@ DATA = {
       "forks": 6,
       "subscribers": 1,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:41.726Z"
+      "repository_data_timestamp": "2022-12-02T02:00:41.582Z"
     },
     {
       "index": 1036,
@@ -18313,7 +18313,7 @@ DATA = {
       "forks": 7,
       "subscribers": 11,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:41.498Z"
+      "repository_data_timestamp": "2022-12-02T02:00:41.375Z"
     },
     {
       "index": 1037,
@@ -18332,7 +18332,7 @@ DATA = {
       "forks": 8,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:41.480Z"
+      "repository_data_timestamp": "2022-12-02T02:00:41.356Z"
     },
     {
       "index": 1038,
@@ -18351,7 +18351,7 @@ DATA = {
       "forks": 40,
       "subscribers": 9,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:41.505Z"
+      "repository_data_timestamp": "2022-12-02T02:00:41.375Z"
     },
     {
       "index": 1039,
@@ -18370,7 +18370,7 @@ DATA = {
       "forks": 2,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:41.572Z"
+      "repository_data_timestamp": "2022-12-02T02:00:41.463Z"
     },
     {
       "index": 1040,
@@ -18389,7 +18389,7 @@ DATA = {
       "forks": 7,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:41.829Z"
+      "repository_data_timestamp": "2022-12-02T02:00:41.744Z"
     },
     {
       "index": 1041,
@@ -18408,7 +18408,7 @@ DATA = {
       "forks": 2,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:41.634Z"
+      "repository_data_timestamp": "2022-12-02T02:00:41.490Z"
     },
     {
       "index": 1042,
@@ -18427,7 +18427,7 @@ DATA = {
       "forks": 8,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:41.660Z"
+      "repository_data_timestamp": "2022-12-02T02:00:41.528Z"
     },
     {
       "index": 1043,
@@ -18446,7 +18446,7 @@ DATA = {
       "forks": 15,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:41.659Z"
+      "repository_data_timestamp": "2022-12-02T02:00:41.574Z"
     },
     {
       "index": 1044,
@@ -18465,7 +18465,7 @@ DATA = {
       "forks": 1,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:41.756Z"
+      "repository_data_timestamp": "2022-12-02T02:00:41.596Z"
     },
     {
       "index": 1045,
@@ -18484,7 +18484,7 @@ DATA = {
       "forks": 885,
       "subscribers": 90,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:41.759Z"
+      "repository_data_timestamp": "2022-12-02T02:00:41.648Z"
     },
     {
       "index": 1046,
@@ -18503,7 +18503,7 @@ DATA = {
       "forks": 8,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:41.793Z"
+      "repository_data_timestamp": "2022-12-02T02:00:41.665Z"
     },
     {
       "index": 1047,
@@ -18522,7 +18522,7 @@ DATA = {
       "forks": 5,
       "subscribers": 3,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:41.796Z"
+      "repository_data_timestamp": "2022-12-02T02:00:41.680Z"
     },
     {
       "index": 1048,
@@ -18541,7 +18541,7 @@ DATA = {
       "forks": 7,
       "subscribers": 3,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:41.913Z"
+      "repository_data_timestamp": "2022-12-02T02:00:41.730Z"
     },
     {
       "index": 1049,
@@ -18560,7 +18560,7 @@ DATA = {
       "forks": 17,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:41.923Z"
+      "repository_data_timestamp": "2022-12-02T02:00:41.789Z"
     },
     {
       "index": 1050,
@@ -18579,7 +18579,7 @@ DATA = {
       "forks": 18,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:41.941Z"
+      "repository_data_timestamp": "2022-12-02T02:00:41.811Z"
     },
     {
       "index": 1051,
@@ -18598,7 +18598,7 @@ DATA = {
       "forks": 52,
       "subscribers": 8,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:41.946Z"
+      "repository_data_timestamp": "2022-12-02T02:00:41.857Z"
     },
     {
       "index": 1052,
@@ -18617,7 +18617,7 @@ DATA = {
       "forks": 10,
       "subscribers": 6,
       "license": null,
-      "repository_data_timestamp": "2022-12-01T02:00:42.008Z"
+      "repository_data_timestamp": "2022-12-02T02:00:41.863Z"
     },
     {
       "index": 1053,
@@ -18636,7 +18636,7 @@ DATA = {
       "forks": 1,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:42.036Z"
+      "repository_data_timestamp": "2022-12-02T02:00:41.899Z"
     },
     {
       "index": 1054,
@@ -18655,7 +18655,7 @@ DATA = {
       "forks": 8,
       "subscribers": 9,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:42.041Z"
+      "repository_data_timestamp": "2022-12-02T02:00:41.949Z"
     },
     {
       "index": 1055,
@@ -18674,7 +18674,7 @@ DATA = {
       "forks": 10,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:42.089Z"
+      "repository_data_timestamp": "2022-12-02T02:00:41.949Z"
     },
     {
       "index": 1056,
@@ -18693,7 +18693,7 @@ DATA = {
       "forks": 2,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:42.073Z"
+      "repository_data_timestamp": "2022-12-02T02:00:41.965Z"
     },
     {
       "index": 1057,
@@ -18712,7 +18712,7 @@ DATA = {
       "forks": 2,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:42.113Z"
+      "repository_data_timestamp": "2022-12-02T02:00:42.005Z"
     },
     {
       "index": 1058,
@@ -18731,7 +18731,7 @@ DATA = {
       "forks": 1,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:42.195Z"
+      "repository_data_timestamp": "2022-12-02T02:00:42.047Z"
     },
     {
       "index": 1059,
@@ -18750,7 +18750,7 @@ DATA = {
       "forks": 107,
       "subscribers": 35,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:42.221Z"
+      "repository_data_timestamp": "2022-12-02T02:00:42.089Z"
     },
     {
       "index": 1060,
@@ -18769,7 +18769,7 @@ DATA = {
       "forks": 22,
       "subscribers": 12,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:42.243Z"
+      "repository_data_timestamp": "2022-12-02T02:00:42.090Z"
     },
     {
       "index": 1061,
@@ -18788,7 +18788,7 @@ DATA = {
       "forks": 3,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:42.241Z"
+      "repository_data_timestamp": "2022-12-02T02:00:42.135Z"
     },
     {
       "index": 1062,
@@ -18807,7 +18807,7 @@ DATA = {
       "forks": 0,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:42.297Z"
+      "repository_data_timestamp": "2022-12-02T02:00:42.142Z"
     },
     {
       "index": 1063,
@@ -18826,7 +18826,7 @@ DATA = {
       "forks": 12,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:42.325Z"
+      "repository_data_timestamp": "2022-12-02T02:00:42.183Z"
     },
     {
       "index": 1064,
@@ -18845,7 +18845,7 @@ DATA = {
       "forks": 151,
       "subscribers": 26,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:42.331Z"
+      "repository_data_timestamp": "2022-12-02T02:00:42.238Z"
     },
     {
       "index": 1065,
@@ -18864,7 +18864,7 @@ DATA = {
       "forks": 3,
       "subscribers": 2,
       "license": null,
-      "repository_data_timestamp": "2022-12-01T02:00:42.356Z"
+      "repository_data_timestamp": "2022-12-02T02:00:42.232Z"
     },
     {
       "index": 1066,
@@ -18883,7 +18883,7 @@ DATA = {
       "forks": 12,
       "subscribers": 9,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:42.368Z"
+      "repository_data_timestamp": "2022-12-02T02:00:42.275Z"
     },
     {
       "index": 1067,
@@ -18902,7 +18902,7 @@ DATA = {
       "forks": 16,
       "subscribers": 6,
       "license": "wtfpl",
-      "repository_data_timestamp": "2022-12-01T02:00:42.393Z"
+      "repository_data_timestamp": "2022-12-02T02:00:42.290Z"
     },
     {
       "index": 1068,
@@ -18921,7 +18921,7 @@ DATA = {
       "forks": 4,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:42.725Z"
+      "repository_data_timestamp": "2022-12-02T02:00:42.568Z"
     },
     {
       "index": 1069,
@@ -18940,7 +18940,7 @@ DATA = {
       "forks": 2,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:42.502Z"
+      "repository_data_timestamp": "2022-12-02T02:00:42.376Z"
     },
     {
       "index": 1070,
@@ -18955,11 +18955,11 @@ DATA = {
       },
       "created_at": "2013-10-16T19:08:55.000Z",
       "last_commit_at": "2022-11-09T06:51:49.000Z",
-      "stars": 21733,
-      "forks": 2190,
+      "stars": 21741,
+      "forks": 2193,
       "subscribers": 317,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:42.523Z"
+      "repository_data_timestamp": "2022-12-02T02:00:42.377Z"
     },
     {
       "index": 1071,
@@ -18978,7 +18978,7 @@ DATA = {
       "forks": 1,
       "subscribers": 95,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:42.577Z"
+      "repository_data_timestamp": "2022-12-02T02:00:42.426Z"
     },
     {
       "index": 1072,
@@ -18997,7 +18997,7 @@ DATA = {
       "forks": 18,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:42.591Z"
+      "repository_data_timestamp": "2022-12-02T02:00:42.426Z"
     },
     {
       "index": 1073,
@@ -19012,11 +19012,11 @@ DATA = {
       },
       "created_at": "2018-12-09T16:43:11.000Z",
       "last_commit_at": "2020-10-04T16:49:57.000Z",
-      "stars": 179,
+      "stars": 180,
       "forks": 12,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:42.614Z"
+      "repository_data_timestamp": "2022-12-02T02:00:42.471Z"
     },
     {
       "index": 1074,
@@ -19035,7 +19035,7 @@ DATA = {
       "forks": 33,
       "subscribers": 286,
       "license": "mpl-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:42.614Z"
+      "repository_data_timestamp": "2022-12-02T02:00:42.512Z"
     },
     {
       "index": 1075,
@@ -19054,7 +19054,7 @@ DATA = {
       "forks": 42,
       "subscribers": 10,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:42.637Z"
+      "repository_data_timestamp": "2022-12-02T02:00:42.523Z"
     },
     {
       "index": 1076,
@@ -19069,11 +19069,11 @@ DATA = {
       },
       "created_at": "2014-06-14T11:55:47.000Z",
       "last_commit_at": "2022-11-04T10:23:27.000Z",
-      "stars": 3683,
-      "forks": 475,
+      "stars": 3686,
+      "forks": 476,
       "subscribers": 67,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:42.646Z"
+      "repository_data_timestamp": "2022-12-02T02:00:42.568Z"
     },
     {
       "index": 1077,
@@ -19092,7 +19092,7 @@ DATA = {
       "forks": 20,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:42.676Z"
+      "repository_data_timestamp": "2022-12-02T02:00:42.607Z"
     },
     {
       "index": 1078,
@@ -19111,7 +19111,7 @@ DATA = {
       "forks": 9,
       "subscribers": 6,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:42.803Z"
+      "repository_data_timestamp": "2022-12-02T02:00:42.799Z"
     },
     {
       "index": 1079,
@@ -19130,7 +19130,7 @@ DATA = {
       "forks": 15,
       "subscribers": 8,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:42.821Z"
+      "repository_data_timestamp": "2022-12-02T02:00:42.651Z"
     },
     {
       "index": 1080,
@@ -19149,7 +19149,7 @@ DATA = {
       "forks": 33,
       "subscribers": 12,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:42.894Z"
+      "repository_data_timestamp": "2022-12-02T02:00:42.715Z"
     },
     {
       "index": 1081,
@@ -19168,7 +19168,7 @@ DATA = {
       "forks": 37,
       "subscribers": 18,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:42.892Z"
+      "repository_data_timestamp": "2022-12-02T02:00:42.708Z"
     },
     {
       "index": 1082,
@@ -19183,11 +19183,11 @@ DATA = {
       },
       "created_at": "2014-12-01T14:15:31.000Z",
       "last_commit_at": "2022-11-02T04:20:33.000Z",
-      "stars": 1516,
+      "stars": 1518,
       "forks": 89,
       "subscribers": 18,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:42.916Z"
+      "repository_data_timestamp": "2022-12-02T02:00:42.760Z"
     },
     {
       "index": 1083,
@@ -19206,7 +19206,7 @@ DATA = {
       "forks": 37,
       "subscribers": 9,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:42.897Z"
+      "repository_data_timestamp": "2022-12-02T02:00:42.793Z"
     },
     {
       "index": 1084,
@@ -19225,7 +19225,7 @@ DATA = {
       "forks": 250,
       "subscribers": 93,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:42.910Z"
+      "repository_data_timestamp": "2022-12-02T02:00:42.810Z"
     },
     {
       "index": 1085,
@@ -19244,7 +19244,7 @@ DATA = {
       "forks": 1,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:42.925Z"
+      "repository_data_timestamp": "2022-12-02T02:00:42.849Z"
     },
     {
       "index": 1086,
@@ -19259,11 +19259,11 @@ DATA = {
       },
       "created_at": "2020-07-06T02:26:45.000Z",
       "last_commit_at": "2022-11-29T16:00:47.000Z",
-      "stars": 158,
+      "stars": 159,
       "forks": 11,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:42.969Z"
+      "repository_data_timestamp": "2022-12-02T02:00:42.875Z"
     },
     {
       "index": 1087,
@@ -19278,11 +19278,11 @@ DATA = {
       },
       "created_at": "2013-01-09T05:18:22.000Z",
       "last_commit_at": "2022-03-10T06:36:16.000Z",
-      "stars": 5389,
+      "stars": 5390,
       "forks": 352,
       "subscribers": 70,
       "license": "isc",
-      "repository_data_timestamp": "2022-12-01T02:00:42.986Z"
+      "repository_data_timestamp": "2022-12-02T02:00:42.905Z"
     },
     {
       "index": 1088,
@@ -19301,7 +19301,7 @@ DATA = {
       "forks": 11,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:43.060Z"
+      "repository_data_timestamp": "2022-12-02T02:00:42.930Z"
     },
     {
       "index": 1089,
@@ -19320,7 +19320,7 @@ DATA = {
       "forks": 4,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:43.067Z"
+      "repository_data_timestamp": "2022-12-02T02:00:42.981Z"
     },
     {
       "index": 1090,
@@ -19339,7 +19339,7 @@ DATA = {
       "forks": 1,
       "subscribers": 0,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:43.164Z"
+      "repository_data_timestamp": "2022-12-02T02:00:43.006Z"
     },
     {
       "index": 1091,
@@ -19358,7 +19358,7 @@ DATA = {
       "forks": 490,
       "subscribers": 101,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:43.154Z"
+      "repository_data_timestamp": "2022-12-02T02:00:43.046Z"
     },
     {
       "index": 1092,
@@ -19377,7 +19377,7 @@ DATA = {
       "forks": 4,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:43.176Z"
+      "repository_data_timestamp": "2022-12-02T02:00:43.093Z"
     },
     {
       "index": 1093,
@@ -19396,7 +19396,7 @@ DATA = {
       "forks": 13,
       "subscribers": 8,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:43.168Z"
+      "repository_data_timestamp": "2022-12-02T02:00:43.089Z"
     },
     {
       "index": 1094,
@@ -19415,7 +19415,7 @@ DATA = {
       "forks": 2,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:43.181Z"
+      "repository_data_timestamp": "2022-12-02T02:00:43.112Z"
     },
     {
       "index": 1095,
@@ -19434,7 +19434,7 @@ DATA = {
       "forks": 0,
       "subscribers": 2,
       "license": "mpl-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:43.197Z"
+      "repository_data_timestamp": "2022-12-02T02:00:43.143Z"
     },
     {
       "index": 1096,
@@ -19449,11 +19449,11 @@ DATA = {
       },
       "created_at": "2016-02-18T19:52:56.000Z",
       "last_commit_at": "2022-11-30T18:30:44.000Z",
-      "stars": 17529,
-      "forks": 1250,
+      "stars": 17538,
+      "forks": 1252,
       "subscribers": 250,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:43.258Z"
+      "repository_data_timestamp": "2022-12-02T02:00:43.181Z"
     },
     {
       "index": 1097,
@@ -19468,11 +19468,11 @@ DATA = {
       },
       "created_at": "2017-05-12T05:24:39.000Z",
       "last_commit_at": "2022-11-11T13:15:40.000Z",
-      "stars": 7280,
+      "stars": 7287,
       "forks": 430,
       "subscribers": 60,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:43.270Z"
+      "repository_data_timestamp": "2022-12-02T02:00:43.213Z"
     },
     {
       "index": 1098,
@@ -19491,7 +19491,7 @@ DATA = {
       "forks": 2,
       "subscribers": 1,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:43.333Z"
+      "repository_data_timestamp": "2022-12-02T02:00:43.241Z"
     },
     {
       "index": 1099,
@@ -19510,7 +19510,7 @@ DATA = {
       "forks": 123,
       "subscribers": 35,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:43.332Z"
+      "repository_data_timestamp": "2022-12-02T02:00:43.294Z"
     },
     {
       "index": 1100,
@@ -19525,11 +19525,11 @@ DATA = {
       },
       "created_at": "2012-10-22T17:38:16.000Z",
       "last_commit_at": "2022-02-05T06:54:29.000Z",
-      "stars": 723,
+      "stars": 722,
       "forks": 91,
       "subscribers": 42,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:43.476Z"
+      "repository_data_timestamp": "2022-12-02T02:00:43.291Z"
     },
     {
       "index": 1101,
@@ -19548,7 +19548,7 @@ DATA = {
       "forks": 4,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:43.482Z"
+      "repository_data_timestamp": "2022-12-02T02:00:43.347Z"
     },
     {
       "index": 1102,
@@ -19567,7 +19567,7 @@ DATA = {
       "forks": 92,
       "subscribers": 32,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:43.540Z"
+      "repository_data_timestamp": "2022-12-02T02:00:43.366Z"
     },
     {
       "index": 1103,
@@ -19586,7 +19586,7 @@ DATA = {
       "forks": 10,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:43.495Z"
+      "repository_data_timestamp": "2022-12-02T02:00:43.382Z"
     },
     {
       "index": 1104,
@@ -19605,7 +19605,7 @@ DATA = {
       "forks": 16,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:43.513Z"
+      "repository_data_timestamp": "2022-12-02T02:00:43.402Z"
     },
     {
       "index": 1105,
@@ -19624,7 +19624,7 @@ DATA = {
       "forks": 8,
       "subscribers": 8,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:43.520Z"
+      "repository_data_timestamp": "2022-12-02T02:00:43.436Z"
     },
     {
       "index": 1106,
@@ -19643,7 +19643,7 @@ DATA = {
       "forks": 46,
       "subscribers": 17,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:43.546Z"
+      "repository_data_timestamp": "2022-12-02T02:00:43.460Z"
     },
     {
       "index": 1107,
@@ -19662,7 +19662,7 @@ DATA = {
       "forks": 20,
       "subscribers": 9,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:43.837Z"
+      "repository_data_timestamp": "2022-12-02T02:00:43.771Z"
     },
     {
       "index": 1108,
@@ -19681,7 +19681,7 @@ DATA = {
       "forks": 8,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:43.636Z"
+      "repository_data_timestamp": "2022-12-02T02:00:43.530Z"
     },
     {
       "index": 1109,
@@ -19700,7 +19700,7 @@ DATA = {
       "forks": 41,
       "subscribers": 15,
       "license": null,
-      "repository_data_timestamp": "2022-12-01T02:00:43.636Z"
+      "repository_data_timestamp": "2022-12-02T02:00:43.565Z"
     },
     {
       "index": 1110,
@@ -19719,7 +19719,7 @@ DATA = {
       "forks": 14,
       "subscribers": 7,
       "license": null,
-      "repository_data_timestamp": "2022-12-01T02:00:43.789Z"
+      "repository_data_timestamp": "2022-12-02T02:00:43.589Z"
     },
     {
       "index": 1111,
@@ -19738,7 +19738,7 @@ DATA = {
       "forks": 58,
       "subscribers": 26,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:43.800Z"
+      "repository_data_timestamp": "2022-12-02T02:00:43.627Z"
     },
     {
       "index": 1112,
@@ -19757,7 +19757,7 @@ DATA = {
       "forks": 7,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:43.800Z"
+      "repository_data_timestamp": "2022-12-02T02:00:43.650Z"
     },
     {
       "index": 1113,
@@ -19776,7 +19776,7 @@ DATA = {
       "forks": 14,
       "subscribers": 14,
       "license": "gpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:00:43.794Z"
+      "repository_data_timestamp": "2022-12-02T02:00:43.667Z"
     },
     {
       "index": 1114,
@@ -19791,11 +19791,11 @@ DATA = {
       },
       "created_at": "2013-12-26T13:06:14.000Z",
       "last_commit_at": "2022-08-04T21:27:27.000Z",
-      "stars": 8617,
+      "stars": 8618,
       "forks": 1194,
-      "subscribers": 440,
+      "subscribers": 439,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:43.833Z"
+      "repository_data_timestamp": "2022-12-02T02:00:43.679Z"
     },
     {
       "index": 1115,
@@ -19814,7 +19814,7 @@ DATA = {
       "forks": 12,
       "subscribers": 6,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:43.895Z"
+      "repository_data_timestamp": "2022-12-02T02:00:43.717Z"
     },
     {
       "index": 1116,
@@ -19833,7 +19833,7 @@ DATA = {
       "forks": 7,
       "subscribers": 6,
       "license": "gpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:00:43.862Z"
+      "repository_data_timestamp": "2022-12-02T02:00:43.749Z"
     },
     {
       "index": 1117,
@@ -19852,7 +19852,7 @@ DATA = {
       "forks": 128,
       "subscribers": 76,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:43.950Z"
+      "repository_data_timestamp": "2022-12-02T02:00:43.886Z"
     },
     {
       "index": 1118,
@@ -19871,7 +19871,7 @@ DATA = {
       "forks": 8,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:43.961Z"
+      "repository_data_timestamp": "2022-12-02T02:00:43.844Z"
     },
     {
       "index": 1119,
@@ -19890,7 +19890,7 @@ DATA = {
       "forks": 15,
       "subscribers": 9,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:44.093Z"
+      "repository_data_timestamp": "2022-12-02T02:00:43.868Z"
     },
     {
       "index": 1120,
@@ -19909,7 +19909,7 @@ DATA = {
       "forks": 22,
       "subscribers": 11,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:44.093Z"
+      "repository_data_timestamp": "2022-12-02T02:00:43.916Z"
     },
     {
       "index": 1121,
@@ -19926,9 +19926,9 @@ DATA = {
       "last_commit_at": "2022-11-13T21:45:36.000Z",
       "stars": 4735,
       "forks": 397,
-      "subscribers": 194,
+      "subscribers": 193,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:44.135Z"
+      "repository_data_timestamp": "2022-12-02T02:00:43.953Z"
     },
     {
       "index": 1122,
@@ -19944,10 +19944,10 @@ DATA = {
       "created_at": "2018-08-14T11:01:09.000Z",
       "last_commit_at": "2022-11-30T15:20:41.000Z",
       "stars": 6390,
-      "forks": 559,
+      "forks": 560,
       "subscribers": 55,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:44.371Z"
+      "repository_data_timestamp": "2022-12-02T02:00:44.235Z"
     },
     {
       "index": 1123,
@@ -19966,7 +19966,7 @@ DATA = {
       "forks": 24,
       "subscribers": 8,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:44.158Z"
+      "repository_data_timestamp": "2022-12-02T02:00:43.980Z"
     },
     {
       "index": 1124,
@@ -19981,11 +19981,11 @@ DATA = {
       },
       "created_at": "2013-10-11T07:27:53.000Z",
       "last_commit_at": "2022-11-27T02:22:35.000Z",
-      "stars": 1921,
+      "stars": 1922,
       "forks": 241,
       "subscribers": 52,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:44.158Z"
+      "repository_data_timestamp": "2022-12-02T02:00:44.005Z"
     },
     {
       "index": 1125,
@@ -20004,7 +20004,7 @@ DATA = {
       "forks": 13,
       "subscribers": 11,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:44.175Z"
+      "repository_data_timestamp": "2022-12-02T02:00:44.049Z"
     },
     {
       "index": 1126,
@@ -20019,11 +20019,11 @@ DATA = {
       },
       "created_at": "2019-01-13T02:32:55.000Z",
       "last_commit_at": "2022-11-24T02:01:18.000Z",
-      "stars": 2274,
+      "stars": 2275,
       "forks": 208,
       "subscribers": 45,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:44.181Z"
+      "repository_data_timestamp": "2022-12-02T02:00:44.058Z"
     },
     {
       "index": 1127,
@@ -20042,7 +20042,7 @@ DATA = {
       "forks": 13,
       "subscribers": 14,
       "license": "gpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:00:44.253Z"
+      "repository_data_timestamp": "2022-12-02T02:00:44.120Z"
     },
     {
       "index": 1128,
@@ -20061,7 +20061,7 @@ DATA = {
       "forks": 16,
       "subscribers": 4,
       "license": null,
-      "repository_data_timestamp": "2022-12-01T02:00:44.306Z"
+      "repository_data_timestamp": "2022-12-02T02:00:44.156Z"
     },
     {
       "index": 1129,
@@ -20080,7 +20080,7 @@ DATA = {
       "forks": 116,
       "subscribers": 15,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:44.402Z"
+      "repository_data_timestamp": "2022-12-02T02:00:44.183Z"
     },
     {
       "index": 1130,
@@ -20095,11 +20095,11 @@ DATA = {
       },
       "created_at": "2018-08-28T07:39:20.000Z",
       "last_commit_at": "2022-10-04T12:02:24.000Z",
-      "stars": 450,
+      "stars": 451,
       "forks": 52,
       "subscribers": 14,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:44.395Z"
+      "repository_data_timestamp": "2022-12-02T02:00:44.221Z"
     },
     {
       "index": 1131,
@@ -20118,7 +20118,7 @@ DATA = {
       "forks": 7,
       "subscribers": 2,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:44.456Z"
+      "repository_data_timestamp": "2022-12-02T02:00:44.237Z"
     },
     {
       "index": 1132,
@@ -20137,7 +20137,7 @@ DATA = {
       "forks": 7,
       "subscribers": 4,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:44.436Z"
+      "repository_data_timestamp": "2022-12-02T02:00:44.296Z"
     },
     {
       "index": 1133,
@@ -20156,7 +20156,7 @@ DATA = {
       "forks": 28,
       "subscribers": 15,
       "license": "agpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:00:44.447Z"
+      "repository_data_timestamp": "2022-12-02T02:00:44.430Z"
     },
     {
       "index": 1134,
@@ -20175,7 +20175,7 @@ DATA = {
       "forks": 33,
       "subscribers": 11,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:44.500Z"
+      "repository_data_timestamp": "2022-12-02T02:00:44.334Z"
     },
     {
       "index": 1135,
@@ -20190,11 +20190,11 @@ DATA = {
       },
       "created_at": "2017-05-23T13:27:39.000Z",
       "last_commit_at": "2022-10-23T09:09:03.000Z",
-      "stars": 2107,
+      "stars": 2108,
       "forks": 150,
-      "subscribers": 62,
+      "subscribers": 61,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:44.509Z"
+      "repository_data_timestamp": "2022-12-02T02:00:44.364Z"
     },
     {
       "index": 1136,
@@ -20213,7 +20213,7 @@ DATA = {
       "forks": 8,
       "subscribers": 8,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:44.569Z"
+      "repository_data_timestamp": "2022-12-02T02:00:44.402Z"
     },
     {
       "index": 1137,
@@ -20232,7 +20232,7 @@ DATA = {
       "forks": 8,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:44.599Z"
+      "repository_data_timestamp": "2022-12-02T02:00:44.442Z"
     },
     {
       "index": 1138,
@@ -20246,12 +20246,12 @@ DATA = {
         "name": "amqp091-go"
       },
       "created_at": "2021-06-09T11:03:48.000Z",
-      "last_commit_at": "2022-11-30T16:34:20.000Z",
-      "stars": 628,
-      "forks": 70,
+      "last_commit_at": "2022-12-01T14:46:47.000Z",
+      "stars": 630,
+      "forks": 71,
       "subscribers": 30,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:44.665Z"
+      "repository_data_timestamp": "2022-12-02T02:00:44.476Z"
     },
     {
       "index": 1139,
@@ -20266,11 +20266,11 @@ DATA = {
       },
       "created_at": "2016-01-05T00:56:53.000Z",
       "last_commit_at": "2022-10-20T17:24:19.000Z",
-      "stars": 2736,
+      "stars": 2737,
       "forks": 322,
       "subscribers": 75,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:44.698Z"
+      "repository_data_timestamp": "2022-12-02T02:00:44.496Z"
     },
     {
       "index": 1140,
@@ -20285,11 +20285,11 @@ DATA = {
       },
       "created_at": "2019-11-15T05:17:55.000Z",
       "last_commit_at": "2022-11-23T10:56:44.000Z",
-      "stars": 4765,
-      "forks": 340,
+      "stars": 4770,
+      "forks": 341,
       "subscribers": 72,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:44.689Z"
+      "repository_data_timestamp": "2022-12-02T02:00:44.554Z"
     },
     {
       "index": 1141,
@@ -20308,7 +20308,7 @@ DATA = {
       "forks": 76,
       "subscribers": 31,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:44.726Z"
+      "repository_data_timestamp": "2022-12-02T02:00:44.522Z"
     },
     {
       "index": 1142,
@@ -20322,12 +20322,12 @@ DATA = {
         "name": "benthos"
       },
       "created_at": "2016-03-22T01:18:48.000Z",
-      "last_commit_at": "2022-11-30T20:14:31.000Z",
-      "stars": 5127,
-      "forks": 505,
-      "subscribers": 95,
+      "last_commit_at": "2022-12-01T21:10:00.000Z",
+      "stars": 5255,
+      "forks": 513,
+      "subscribers": 97,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:45.000Z"
+      "repository_data_timestamp": "2022-12-02T02:00:44.848Z"
     },
     {
       "index": 1143,
@@ -20346,7 +20346,7 @@ DATA = {
       "forks": 19,
       "subscribers": 4,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:44.770Z"
+      "repository_data_timestamp": "2022-12-02T02:00:44.633Z"
     },
     {
       "index": 1144,
@@ -20360,12 +20360,12 @@ DATA = {
         "name": "centrifugo"
       },
       "created_at": "2015-03-31T20:26:49.000Z",
-      "last_commit_at": "2022-11-20T10:44:09.000Z",
-      "stars": 6582,
+      "last_commit_at": "2022-12-01T09:50:39.000Z",
+      "stars": 6584,
       "forks": 513,
       "subscribers": 197,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:44.803Z"
+      "repository_data_timestamp": "2022-12-02T02:00:44.659Z"
     },
     {
       "index": 1145,
@@ -20380,11 +20380,11 @@ DATA = {
       },
       "created_at": "2021-02-25T17:20:04.000Z",
       "last_commit_at": "2022-11-12T03:01:17.000Z",
-      "stars": 964,
+      "stars": 966,
       "forks": 86,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:44.809Z"
+      "repository_data_timestamp": "2022-12-02T02:00:44.696Z"
     },
     {
       "index": 1146,
@@ -20403,7 +20403,7 @@ DATA = {
       "forks": 5,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:44.839Z"
+      "repository_data_timestamp": "2022-12-02T02:00:44.706Z"
     },
     {
       "index": 1147,
@@ -20417,12 +20417,12 @@ DATA = {
         "name": "confluent-kafka-go"
       },
       "created_at": "2016-07-12T22:23:34.000Z",
-      "last_commit_at": "2022-11-30T18:15:03.000Z",
-      "stars": 3696,
+      "last_commit_at": "2022-12-01T11:54:24.000Z",
+      "stars": 3701,
       "forks": 575,
-      "subscribers": 289,
+      "subscribers": 290,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:44.905Z"
+      "repository_data_timestamp": "2022-12-02T02:00:44.755Z"
     },
     {
       "index": 1148,
@@ -20437,11 +20437,11 @@ DATA = {
       },
       "created_at": "2014-03-27T19:07:41.000Z",
       "last_commit_at": "2022-11-17T12:59:10.000Z",
-      "stars": 792,
+      "stars": 793,
       "forks": 205,
       "subscribers": 21,
       "license": "bsd-2-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:44.940Z"
+      "repository_data_timestamp": "2022-12-02T02:00:44.774Z"
     },
     {
       "index": 1149,
@@ -20460,7 +20460,7 @@ DATA = {
       "forks": 17,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:44.995Z"
+      "repository_data_timestamp": "2022-12-02T02:00:44.798Z"
     },
     {
       "index": 1150,
@@ -20479,7 +20479,7 @@ DATA = {
       "forks": 32,
       "subscribers": 10,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:44.996Z"
+      "repository_data_timestamp": "2022-12-02T02:00:44.815Z"
     },
     {
       "index": 1151,
@@ -20498,7 +20498,7 @@ DATA = {
       "forks": 12,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:45.006Z"
+      "repository_data_timestamp": "2022-12-02T02:00:44.845Z"
     },
     {
       "index": 1152,
@@ -20513,11 +20513,11 @@ DATA = {
       },
       "created_at": "2014-12-19T16:38:39.000Z",
       "last_commit_at": "2022-09-09T09:37:04.000Z",
-      "stars": 1313,
-      "forks": 168,
+      "stars": 1315,
+      "forks": 169,
       "subscribers": 30,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:45.069Z"
+      "repository_data_timestamp": "2022-12-02T02:00:44.904Z"
     },
     {
       "index": 1153,
@@ -20536,7 +20536,7 @@ DATA = {
       "forks": 4,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:45.113Z"
+      "repository_data_timestamp": "2022-12-02T02:00:44.927Z"
     },
     {
       "index": 1154,
@@ -20555,7 +20555,7 @@ DATA = {
       "forks": 31,
       "subscribers": 18,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:45.104Z"
+      "repository_data_timestamp": "2022-12-02T02:00:44.992Z"
     },
     {
       "index": 1155,
@@ -20574,7 +20574,7 @@ DATA = {
       "forks": 16,
       "subscribers": 8,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:45.144Z"
+      "repository_data_timestamp": "2022-12-02T02:00:44.980Z"
     },
     {
       "index": 1156,
@@ -20593,7 +20593,7 @@ DATA = {
       "forks": 11,
       "subscribers": 2,
       "license": "bsd-2-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:45.209Z"
+      "repository_data_timestamp": "2022-12-02T02:00:45.040Z"
     },
     {
       "index": 1157,
@@ -20608,11 +20608,11 @@ DATA = {
       },
       "created_at": "2013-08-29T01:18:32.000Z",
       "last_commit_at": "2022-11-10T23:10:53.000Z",
-      "stars": 2350,
+      "stars": 2351,
       "forks": 423,
       "subscribers": 64,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:45.272Z"
+      "repository_data_timestamp": "2022-12-02T02:00:45.068Z"
     },
     {
       "index": 1158,
@@ -20631,7 +20631,7 @@ DATA = {
       "forks": 8,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:45.291Z"
+      "repository_data_timestamp": "2022-12-02T02:00:45.094Z"
     },
     {
       "index": 1159,
@@ -20646,11 +20646,11 @@ DATA = {
       },
       "created_at": "2013-07-13T13:04:38.000Z",
       "last_commit_at": "2022-11-25T17:49:02.000Z",
-      "stars": 4918,
+      "stars": 4920,
       "forks": 778,
       "subscribers": 136,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:45.268Z"
+      "repository_data_timestamp": "2022-12-02T02:00:45.152Z"
     },
     {
       "index": 1160,
@@ -20669,7 +20669,7 @@ DATA = {
       "forks": 8,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:45.316Z"
+      "repository_data_timestamp": "2022-12-02T02:00:45.152Z"
     },
     {
       "index": 1161,
@@ -20688,7 +20688,7 @@ DATA = {
       "forks": 79,
       "subscribers": 36,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:45.338Z"
+      "repository_data_timestamp": "2022-12-02T02:00:45.144Z"
     },
     {
       "index": 1162,
@@ -20707,7 +20707,7 @@ DATA = {
       "forks": 53,
       "subscribers": 23,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:45.348Z"
+      "repository_data_timestamp": "2022-12-02T02:00:45.189Z"
     },
     {
       "index": 1163,
@@ -20726,7 +20726,7 @@ DATA = {
       "forks": 570,
       "subscribers": 229,
       "license": "gpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:00:45.399Z"
+      "repository_data_timestamp": "2022-12-02T02:00:45.218Z"
     },
     {
       "index": 1164,
@@ -20740,12 +20740,12 @@ DATA = {
         "name": "gorush"
       },
       "created_at": "2016-03-22T07:15:20.000Z",
-      "last_commit_at": "2022-11-09T06:19:07.000Z",
-      "stars": 6689,
+      "last_commit_at": "2022-12-01T14:59:59.000Z",
+      "stars": 6696,
       "forks": 758,
       "subscribers": 187,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:45.415Z"
+      "repository_data_timestamp": "2022-12-02T02:00:45.262Z"
     },
     {
       "index": 1165,
@@ -20764,7 +20764,7 @@ DATA = {
       "forks": 4,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:45.425Z"
+      "repository_data_timestamp": "2022-12-02T02:00:45.326Z"
     },
     {
       "index": 1166,
@@ -20783,7 +20783,7 @@ DATA = {
       "forks": 22,
       "subscribers": 14,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:45.482Z"
+      "repository_data_timestamp": "2022-12-02T02:00:45.332Z"
     },
     {
       "index": 1167,
@@ -20802,7 +20802,7 @@ DATA = {
       "forks": 10,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:45.546Z"
+      "repository_data_timestamp": "2022-12-02T02:00:45.365Z"
     },
     {
       "index": 1168,
@@ -20821,7 +20821,7 @@ DATA = {
       "forks": 15,
       "subscribers": 2,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:45.564Z"
+      "repository_data_timestamp": "2022-12-02T02:00:45.384Z"
     },
     {
       "index": 1169,
@@ -20840,7 +20840,7 @@ DATA = {
       "forks": 4,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:45.580Z"
+      "repository_data_timestamp": "2022-12-02T02:00:45.436Z"
     },
     {
       "index": 1170,
@@ -20856,10 +20856,10 @@ DATA = {
       "created_at": "2015-04-05T19:46:34.000Z",
       "last_commit_at": "2022-08-13T10:55:34.000Z",
       "stars": 6623,
-      "forks": 838,
+      "forks": 839,
       "subscribers": 160,
       "license": "mpl-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:45.600Z"
+      "repository_data_timestamp": "2022-12-02T02:00:45.431Z"
     },
     {
       "index": 1171,
@@ -20878,7 +20878,7 @@ DATA = {
       "forks": 69,
       "subscribers": 24,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:45.626Z"
+      "repository_data_timestamp": "2022-12-02T02:00:45.454Z"
     },
     {
       "index": 1172,
@@ -20893,11 +20893,11 @@ DATA = {
       },
       "created_at": "2015-05-13T20:38:32.000Z",
       "last_commit_at": "2022-11-27T20:47:35.000Z",
-      "stars": 2641,
+      "stars": 2642,
       "forks": 311,
       "subscribers": 56,
       "license": "bsd-2-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:45.636Z"
+      "repository_data_timestamp": "2022-12-02T02:00:45.463Z"
     },
     {
       "index": 1173,
@@ -20912,11 +20912,11 @@ DATA = {
       },
       "created_at": "2018-07-14T13:47:14.000Z",
       "last_commit_at": "2022-11-23T21:28:58.000Z",
-      "stars": 3167,
+      "stars": 3168,
       "forks": 244,
       "subscribers": 60,
       "license": "agpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:00:45.694Z"
+      "repository_data_timestamp": "2022-12-02T02:00:45.511Z"
     },
     {
       "index": 1174,
@@ -20931,11 +20931,11 @@ DATA = {
       },
       "created_at": "2017-10-04T09:18:34.000Z",
       "last_commit_at": "2021-01-14T22:04:03.000Z",
-      "stars": 235,
+      "stars": 237,
       "forks": 38,
       "subscribers": 8,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:45.705Z"
+      "repository_data_timestamp": "2022-12-02T02:00:45.552Z"
     },
     {
       "index": 1175,
@@ -20950,11 +20950,11 @@ DATA = {
       },
       "created_at": "2022-07-28T10:50:24.000Z",
       "last_commit_at": "2022-10-23T22:24:58.000Z",
-      "stars": 10,
+      "stars": 11,
       "forks": 0,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:45.716Z"
+      "repository_data_timestamp": "2022-12-02T02:00:45.596Z"
     },
     {
       "index": 1176,
@@ -20968,12 +20968,12 @@ DATA = {
         "name": "nats"
       },
       "created_at": "2012-08-15T12:54:59.000Z",
-      "last_commit_at": "2022-11-30T00:02:14.000Z",
-      "stars": 4253,
-      "forks": 566,
-      "subscribers": 165,
+      "last_commit_at": "2022-12-01T22:04:57.000Z",
+      "stars": 4256,
+      "forks": 567,
+      "subscribers": 166,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:46.043Z"
+      "repository_data_timestamp": "2022-12-02T02:00:45.882Z"
     },
     {
       "index": 1177,
@@ -20992,7 +20992,7 @@ DATA = {
       "forks": 16,
       "subscribers": 8,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:45.819Z"
+      "repository_data_timestamp": "2022-12-02T02:00:45.655Z"
     },
     {
       "index": 1178,
@@ -21011,7 +21011,7 @@ DATA = {
       "forks": 13,
       "subscribers": 94,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:45.875Z"
+      "repository_data_timestamp": "2022-12-02T02:00:45.682Z"
     },
     {
       "index": 1179,
@@ -21030,7 +21030,7 @@ DATA = {
       "forks": 65,
       "subscribers": 9,
       "license": "bsd-2-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:46.124Z"
+      "repository_data_timestamp": "2022-12-02T02:00:45.980Z"
     },
     {
       "index": 1180,
@@ -21044,12 +21044,12 @@ DATA = {
         "name": "quamina"
       },
       "created_at": "2022-01-25T03:23:41.000Z",
-      "last_commit_at": "2022-11-28T21:10:29.000Z",
+      "last_commit_at": "2022-12-01T23:42:40.000Z",
       "stars": 290,
       "forks": 15,
       "subscribers": 14,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:45.894Z"
+      "repository_data_timestamp": "2022-12-02T02:00:45.708Z"
     },
     {
       "index": 1181,
@@ -21068,7 +21068,7 @@ DATA = {
       "forks": 24,
       "subscribers": 8,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:45.933Z"
+      "repository_data_timestamp": "2022-12-02T02:00:45.751Z"
     },
     {
       "index": 1182,
@@ -21087,7 +21087,7 @@ DATA = {
       "forks": 16,
       "subscribers": 10,
       "license": "gpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:00:45.906Z"
+      "repository_data_timestamp": "2022-12-02T02:00:45.751Z"
     },
     {
       "index": 1183,
@@ -21106,7 +21106,7 @@ DATA = {
       "forks": 11,
       "subscribers": 6,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:45.963Z"
+      "repository_data_timestamp": "2022-12-02T02:00:45.831Z"
     },
     {
       "index": 1184,
@@ -21125,7 +21125,7 @@ DATA = {
       "forks": 3,
       "subscribers": 2,
       "license": "mpl-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:45.997Z"
+      "repository_data_timestamp": "2022-12-02T02:00:45.901Z"
     },
     {
       "index": 1185,
@@ -21144,7 +21144,7 @@ DATA = {
       "forks": 37,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:45.998Z"
+      "repository_data_timestamp": "2022-12-02T02:00:45.894Z"
     },
     {
       "index": 1186,
@@ -21163,7 +21163,7 @@ DATA = {
       "forks": 2,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:46.106Z"
+      "repository_data_timestamp": "2022-12-02T02:00:45.936Z"
     },
     {
       "index": 1187,
@@ -21178,11 +21178,11 @@ DATA = {
       },
       "created_at": "2013-07-05T18:52:38.000Z",
       "last_commit_at": "2022-11-30T22:06:06.000Z",
-      "stars": 9410,
+      "stars": 9413,
       "forks": 1582,
       "subscribers": 666,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:46.159Z"
+      "repository_data_timestamp": "2022-12-02T02:00:45.993Z"
     },
     {
       "index": 1188,
@@ -21197,11 +21197,11 @@ DATA = {
       },
       "created_at": "2011-08-29T08:42:37.000Z",
       "last_commit_at": "2020-04-09T17:28:55.000Z",
-      "stars": 1459,
+      "stars": 1460,
       "forks": 206,
       "subscribers": 81,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:46.199Z"
+      "repository_data_timestamp": "2022-12-02T02:00:45.993Z"
     },
     {
       "index": 1189,
@@ -21220,7 +21220,7 @@ DATA = {
       "forks": 157,
       "subscribers": 45,
       "license": "bsd-2-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:46.193Z"
+      "repository_data_timestamp": "2022-12-02T02:00:46.015Z"
     },
     {
       "index": 1190,
@@ -21239,7 +21239,7 @@ DATA = {
       "forks": 397,
       "subscribers": 81,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:46.243Z"
+      "repository_data_timestamp": "2022-12-02T02:00:46.042Z"
     },
     {
       "index": 1191,
@@ -21254,12 +21254,12 @@ DATA = {
         "name": "excelize"
       },
       "created_at": "2016-08-29T12:32:12.000Z",
-      "last_commit_at": "2022-11-30T03:43:30.000Z",
-      "stars": 13573,
-      "forks": 1366,
+      "last_commit_at": "2022-12-01T02:44:28.000Z",
+      "stars": 13578,
+      "forks": 1368,
       "subscribers": 212,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:46.513Z"
+      "repository_data_timestamp": "2022-12-02T02:00:46.397Z"
     },
     {
       "index": 1192,
@@ -21279,7 +21279,7 @@ DATA = {
       "forks": 1,
       "subscribers": 0,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:46.262Z"
+      "repository_data_timestamp": "2022-12-02T02:00:46.579Z"
     },
     {
       "index": 1193,
@@ -21299,7 +21299,7 @@ DATA = {
       "forks": 32,
       "subscribers": 4,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:46.294Z"
+      "repository_data_timestamp": "2022-12-02T02:00:46.174Z"
     },
     {
       "index": 1194,
@@ -21319,7 +21319,7 @@ DATA = {
       "forks": 6,
       "subscribers": 2,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:46.331Z"
+      "repository_data_timestamp": "2022-12-02T02:00:46.212Z"
     },
     {
       "index": 1195,
@@ -21335,11 +21335,11 @@ DATA = {
       },
       "created_at": "2011-06-28T15:20:28.000Z",
       "last_commit_at": "2022-11-29T17:55:15.000Z",
-      "stars": 5422,
+      "stars": 5423,
       "forks": 807,
       "subscribers": 169,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:46.387Z"
+      "repository_data_timestamp": "2022-12-02T02:00:46.219Z"
     },
     {
       "index": 1196,
@@ -21359,7 +21359,7 @@ DATA = {
       "forks": 23,
       "subscribers": 13,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:46.427Z"
+      "repository_data_timestamp": "2022-12-02T02:00:46.265Z"
     },
     {
       "index": 1197,
@@ -21379,7 +21379,7 @@ DATA = {
       "forks": 4,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:46.449Z"
+      "repository_data_timestamp": "2022-12-02T02:00:46.261Z"
     },
     {
       "index": 1198,
@@ -21399,7 +21399,7 @@ DATA = {
       "forks": 8,
       "subscribers": 9,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:46.486Z"
+      "repository_data_timestamp": "2022-12-02T02:00:46.304Z"
     },
     {
       "index": 1199,
@@ -21419,7 +21419,7 @@ DATA = {
       "forks": 188,
       "subscribers": 51,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:46.495Z"
+      "repository_data_timestamp": "2022-12-02T02:00:46.308Z"
     },
     {
       "index": 1200,
@@ -21439,7 +21439,7 @@ DATA = {
       "forks": 9,
       "subscribers": 25,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:46.533Z"
+      "repository_data_timestamp": "2022-12-02T02:00:46.349Z"
     },
     {
       "index": 1201,
@@ -21459,7 +21459,7 @@ DATA = {
       "forks": 20,
       "subscribers": 16,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:46.539Z"
+      "repository_data_timestamp": "2022-12-02T02:00:46.463Z"
     },
     {
       "index": 1202,
@@ -21474,12 +21474,12 @@ DATA = {
         "name": "fx"
       },
       "created_at": "2016-10-27T00:25:00.000Z",
-      "last_commit_at": "2022-11-30T07:03:36.000Z",
-      "stars": 3282,
-      "forks": 225,
+      "last_commit_at": "2022-12-01T22:47:50.000Z",
+      "stars": 3286,
+      "forks": 226,
       "subscribers": 68,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:46.601Z"
+      "repository_data_timestamp": "2022-12-02T02:00:46.519Z"
     },
     {
       "index": 1203,
@@ -21499,7 +21499,7 @@ DATA = {
       "forks": 2,
       "subscribers": 0,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:46.624Z"
+      "repository_data_timestamp": "2022-12-02T02:00:46.503Z"
     },
     {
       "index": 1204,
@@ -21519,7 +21519,7 @@ DATA = {
       "forks": 11,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:46.660Z"
+      "repository_data_timestamp": "2022-12-02T02:00:46.529Z"
     },
     {
       "index": 1205,
@@ -21539,7 +21539,7 @@ DATA = {
       "forks": 28,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:46.715Z"
+      "repository_data_timestamp": "2022-12-02T02:00:46.541Z"
     },
     {
       "index": 1206,
@@ -21555,11 +21555,11 @@ DATA = {
       },
       "created_at": "2018-11-28T17:34:51.000Z",
       "last_commit_at": "2022-09-25T14:37:26.000Z",
-      "stars": 9568,
-      "forks": 526,
+      "stars": 9578,
+      "forks": 527,
       "subscribers": 100,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:46.744Z"
+      "repository_data_timestamp": "2022-12-02T02:00:46.600Z"
     },
     {
       "index": 1207,
@@ -21579,7 +21579,7 @@ DATA = {
       "forks": 4,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:46.807Z"
+      "repository_data_timestamp": "2022-12-02T02:00:46.600Z"
     },
     {
       "index": 1208,
@@ -21599,7 +21599,7 @@ DATA = {
       "forks": 1,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:46.787Z"
+      "repository_data_timestamp": "2022-12-02T02:00:46.644Z"
     },
     {
       "index": 1209,
@@ -21619,7 +21619,7 @@ DATA = {
       "forks": 6,
       "subscribers": 4,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:46.794Z"
+      "repository_data_timestamp": "2022-12-02T02:00:46.702Z"
     },
     {
       "index": 1210,
@@ -21639,7 +21639,7 @@ DATA = {
       "forks": 1,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:46.831Z"
+      "repository_data_timestamp": "2022-12-02T02:00:46.760Z"
     },
     {
       "index": 1211,
@@ -21659,7 +21659,7 @@ DATA = {
       "forks": 8,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:46.831Z"
+      "repository_data_timestamp": "2022-12-02T02:00:46.781Z"
     },
     {
       "index": 1212,
@@ -21674,12 +21674,12 @@ DATA = {
         "name": "service"
       },
       "created_at": "2017-11-20T14:51:17.000Z",
-      "last_commit_at": "2022-11-30T20:29:14.000Z",
-      "stars": 2524,
-      "forks": 486,
+      "last_commit_at": "2022-12-02T00:59:22.000Z",
+      "stars": 2526,
+      "forks": 487,
       "subscribers": 104,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:46.911Z"
+      "repository_data_timestamp": "2022-12-02T02:00:46.787Z"
     },
     {
       "index": 1213,
@@ -21699,7 +21699,7 @@ DATA = {
       "forks": 148,
       "subscribers": 10,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:46.910Z"
+      "repository_data_timestamp": "2022-12-02T02:00:46.814Z"
     },
     {
       "index": 1214,
@@ -21719,7 +21719,7 @@ DATA = {
       "forks": 25,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:46.953Z"
+      "repository_data_timestamp": "2022-12-02T02:00:46.843Z"
     },
     {
       "index": 1215,
@@ -21735,11 +21735,11 @@ DATA = {
       },
       "created_at": "2020-05-08T14:22:49.000Z",
       "last_commit_at": "2022-11-29T04:01:44.000Z",
-      "stars": 276,
+      "stars": 277,
       "forks": 35,
       "subscribers": 11,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:47.011Z"
+      "repository_data_timestamp": "2022-12-02T02:00:46.865Z"
     },
     {
       "index": 1216,
@@ -21754,12 +21754,12 @@ DATA = {
         "name": "go-todo-backend"
       },
       "created_at": "2020-06-25T14:28:50.000Z",
-      "last_commit_at": "2022-10-27T10:05:07.000Z",
+      "last_commit_at": "2022-12-01T04:10:52.000Z",
       "stars": 181,
       "forks": 20,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:47.028Z"
+      "repository_data_timestamp": "2022-12-02T02:00:46.906Z"
     },
     {
       "index": 1217,
@@ -21779,7 +21779,7 @@ DATA = {
       "forks": 4,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:47.103Z"
+      "repository_data_timestamp": "2022-12-02T02:00:46.947Z"
     },
     {
       "index": 1218,
@@ -21795,11 +21795,11 @@ DATA = {
       },
       "created_at": "2017-09-09T16:33:26.000Z",
       "last_commit_at": "2022-11-05T07:33:29.000Z",
-      "stars": 36197,
-      "forks": 4072,
-      "subscribers": 573,
+      "stars": 36216,
+      "forks": 4075,
+      "subscribers": 572,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:47.131Z"
+      "repository_data_timestamp": "2022-12-02T02:00:46.938Z"
     },
     {
       "index": 1219,
@@ -21819,7 +21819,7 @@ DATA = {
       "forks": 38,
       "subscribers": 6,
       "license": "unlicense",
-      "repository_data_timestamp": "2022-12-01T02:00:47.152Z"
+      "repository_data_timestamp": "2022-12-02T02:00:46.983Z"
     },
     {
       "index": 1220,
@@ -21839,7 +21839,7 @@ DATA = {
       "forks": 1,
       "subscribers": 1,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:47.173Z"
+      "repository_data_timestamp": "2022-12-02T02:00:47.182Z"
     },
     {
       "index": 1221,
@@ -21855,11 +21855,11 @@ DATA = {
       },
       "created_at": "2018-09-14T12:19:02.000Z",
       "last_commit_at": "2021-12-24T02:49:26.000Z",
-      "stars": 1359,
-      "forks": 131,
+      "stars": 1360,
+      "forks": 132,
       "subscribers": 27,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:47.165Z"
+      "repository_data_timestamp": "2022-12-02T02:00:47.079Z"
     },
     {
       "index": 1222,
@@ -21875,11 +21875,11 @@ DATA = {
       },
       "created_at": "2021-12-03T11:04:30.000Z",
       "last_commit_at": "2022-11-04T22:49:27.000Z",
-      "stars": 591,
+      "stars": 592,
       "forks": 34,
       "subscribers": 9,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:47.212Z"
+      "repository_data_timestamp": "2022-12-02T02:00:47.079Z"
     },
     {
       "index": 1223,
@@ -21899,7 +21899,7 @@ DATA = {
       "forks": 27,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:47.209Z"
+      "repository_data_timestamp": "2022-12-02T02:00:47.116Z"
     },
     {
       "index": 1224,
@@ -21919,7 +21919,7 @@ DATA = {
       "forks": 2,
       "subscribers": 2,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:47.239Z"
+      "repository_data_timestamp": "2022-12-02T02:00:47.113Z"
     },
     {
       "index": 1225,
@@ -21939,7 +21939,7 @@ DATA = {
       "forks": 0,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:47.322Z"
+      "repository_data_timestamp": "2022-12-02T02:00:47.154Z"
     },
     {
       "index": 1226,
@@ -21959,7 +21959,7 @@ DATA = {
       "forks": 0,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:47.332Z"
+      "repository_data_timestamp": "2022-12-02T02:00:47.195Z"
     },
     {
       "index": 1227,
@@ -21988,7 +21988,7 @@ DATA = {
       "forks": 14,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:47.428Z"
+      "repository_data_timestamp": "2022-12-02T02:00:47.246Z"
     },
     {
       "index": 1229,
@@ -22008,7 +22008,7 @@ DATA = {
       "forks": 24,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:47.439Z"
+      "repository_data_timestamp": "2022-12-02T02:00:47.260Z"
     },
     {
       "index": 1230,
@@ -22024,11 +22024,11 @@ DATA = {
       },
       "created_at": "2021-09-18T14:00:40.000Z",
       "last_commit_at": "2022-11-09T01:53:28.000Z",
-      "stars": 617,
+      "stars": 618,
       "forks": 27,
       "subscribers": 8,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:47.458Z"
+      "repository_data_timestamp": "2022-12-02T02:00:47.267Z"
     },
     {
       "index": 1231,
@@ -22043,12 +22043,12 @@ DATA = {
         "name": "xstrings"
       },
       "created_at": "2015-01-06T07:25:26.000Z",
-      "last_commit_at": "2022-10-30T04:22:04.000Z",
-      "stars": 1118,
+      "last_commit_at": "2022-12-01T16:04:55.000Z",
+      "stars": 1120,
       "forks": 68,
       "subscribers": 28,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:47.446Z"
+      "repository_data_timestamp": "2022-12-02T02:00:47.363Z"
     },
     {
       "index": 1232,
@@ -22068,7 +22068,7 @@ DATA = {
       "forks": 4,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:47.476Z"
+      "repository_data_timestamp": "2022-12-02T02:00:47.360Z"
     },
     {
       "index": 1233,
@@ -22088,7 +22088,7 @@ DATA = {
       "forks": 41,
       "subscribers": 16,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:47.518Z"
+      "repository_data_timestamp": "2022-12-02T02:00:47.424Z"
     },
     {
       "index": 1234,
@@ -22104,11 +22104,11 @@ DATA = {
       },
       "created_at": "2016-04-08T22:46:55.000Z",
       "last_commit_at": "2022-11-24T06:54:04.000Z",
-      "stars": 3769,
+      "stars": 3770,
       "forks": 344,
-      "subscribers": 51,
+      "subscribers": 50,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:47.504Z"
+      "repository_data_timestamp": "2022-12-02T02:00:47.399Z"
     },
     {
       "index": 1235,
@@ -22128,7 +22128,7 @@ DATA = {
       "forks": 4,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:47.561Z"
+      "repository_data_timestamp": "2022-12-02T02:00:47.451Z"
     },
     {
       "index": 1236,
@@ -22148,7 +22148,7 @@ DATA = {
       "forks": 3,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:47.621Z"
+      "repository_data_timestamp": "2022-12-02T02:00:47.479Z"
     },
     {
       "index": 1237,
@@ -22168,7 +22168,7 @@ DATA = {
       "forks": 23,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:47.627Z"
+      "repository_data_timestamp": "2022-12-02T02:00:47.484Z"
     },
     {
       "index": 1238,
@@ -22188,7 +22188,7 @@ DATA = {
       "forks": 244,
       "subscribers": 49,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:47.699Z"
+      "repository_data_timestamp": "2022-12-02T02:00:47.539Z"
     },
     {
       "index": 1239,
@@ -22208,7 +22208,7 @@ DATA = {
       "forks": 0,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:47.799Z"
+      "repository_data_timestamp": "2022-12-02T02:00:47.548Z"
     },
     {
       "index": 1240,
@@ -22228,7 +22228,7 @@ DATA = {
       "forks": 30,
       "subscribers": 5,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:47.748Z"
+      "repository_data_timestamp": "2022-12-02T02:00:47.563Z"
     },
     {
       "index": 1241,
@@ -22244,11 +22244,11 @@ DATA = {
       },
       "created_at": "2016-05-31T10:02:30.000Z",
       "last_commit_at": "2022-10-14T06:09:23.000Z",
-      "stars": 204,
+      "stars": 205,
       "forks": 26,
       "subscribers": 8,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:47.771Z"
+      "repository_data_timestamp": "2022-12-02T02:00:47.658Z"
     },
     {
       "index": 1242,
@@ -22268,7 +22268,7 @@ DATA = {
       "forks": 28,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:47.775Z"
+      "repository_data_timestamp": "2022-12-02T02:00:47.646Z"
     },
     {
       "index": 1243,
@@ -22288,7 +22288,7 @@ DATA = {
       "forks": 20,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:47.814Z"
+      "repository_data_timestamp": "2022-12-02T02:00:47.696Z"
     },
     {
       "index": 1244,
@@ -22308,7 +22308,7 @@ DATA = {
       "forks": 19,
       "subscribers": 9,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:47.821Z"
+      "repository_data_timestamp": "2022-12-02T02:00:47.749Z"
     },
     {
       "index": 1245,
@@ -22328,7 +22328,7 @@ DATA = {
       "forks": 8,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:47.850Z"
+      "repository_data_timestamp": "2022-12-02T02:00:47.737Z"
     },
     {
       "index": 1246,
@@ -22348,7 +22348,7 @@ DATA = {
       "forks": 1,
       "subscribers": 0,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:47.924Z"
+      "repository_data_timestamp": "2022-12-02T02:00:47.767Z"
     },
     {
       "index": 1247,
@@ -22368,7 +22368,7 @@ DATA = {
       "forks": 6,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:47.933Z"
+      "repository_data_timestamp": "2022-12-02T02:00:47.773Z"
     },
     {
       "index": 1248,
@@ -22384,11 +22384,11 @@ DATA = {
       },
       "created_at": "2015-02-14T15:19:45.000Z",
       "last_commit_at": "2021-11-19T15:22:56.000Z",
-      "stars": 282,
+      "stars": 283,
       "forks": 20,
       "subscribers": 8,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:48.025Z"
+      "repository_data_timestamp": "2022-12-02T02:00:47.860Z"
     },
     {
       "index": 1249,
@@ -22403,12 +22403,12 @@ DATA = {
         "name": "gatus"
       },
       "created_at": "2019-09-04T02:35:40.000Z",
-      "last_commit_at": "2022-11-30T17:25:46.000Z",
-      "stars": 3214,
+      "last_commit_at": "2022-12-02T01:26:19.000Z",
+      "stars": 3216,
       "forks": 227,
       "subscribers": 34,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:48.333Z"
+      "repository_data_timestamp": "2022-12-02T02:00:48.140Z"
     },
     {
       "index": 1250,
@@ -22428,7 +22428,7 @@ DATA = {
       "forks": 4,
       "subscribers": 23,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:48.065Z"
+      "repository_data_timestamp": "2022-12-02T02:00:47.841Z"
     },
     {
       "index": 1251,
@@ -22444,11 +22444,11 @@ DATA = {
       },
       "created_at": "2015-12-28T14:26:23.000Z",
       "last_commit_at": "2022-10-24T21:14:19.000Z",
-      "stars": 1093,
+      "stars": 1092,
       "forks": 144,
       "subscribers": 49,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:48.071Z"
+      "repository_data_timestamp": "2022-12-02T02:00:47.934Z"
     },
     {
       "index": 1252,
@@ -22473,11 +22473,11 @@ DATA = {
       },
       "created_at": "2014-11-29T04:11:32.000Z",
       "last_commit_at": "2022-06-28T01:14:03.000Z",
-      "stars": 1628,
+      "stars": 1630,
       "forks": 123,
       "subscribers": 26,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:48.099Z"
+      "repository_data_timestamp": "2022-12-02T02:00:47.944Z"
     },
     {
       "index": 1254,
@@ -22497,7 +22497,7 @@ DATA = {
       "forks": 33,
       "subscribers": 9,
       "license": "zlib",
-      "repository_data_timestamp": "2022-12-01T02:00:48.131Z"
+      "repository_data_timestamp": "2022-12-02T02:00:47.971Z"
     },
     {
       "index": 1255,
@@ -22512,12 +22512,12 @@ DATA = {
         "name": "gofakeit"
       },
       "created_at": "2015-04-24T04:45:59.000Z",
-      "last_commit_at": "2022-11-30T21:26:25.000Z",
+      "last_commit_at": "2022-12-01T04:06:17.000Z",
       "stars": 2761,
       "forks": 168,
       "subscribers": 21,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:48.132Z"
+      "repository_data_timestamp": "2022-12-02T02:00:48.020Z"
     },
     {
       "index": 1256,
@@ -22537,7 +22537,7 @@ DATA = {
       "forks": 3,
       "subscribers": 4,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:48.333Z"
+      "repository_data_timestamp": "2022-12-02T02:00:48.032Z"
     },
     {
       "index": 1257,
@@ -22552,12 +22552,12 @@ DATA = {
         "name": "gopsutil"
       },
       "created_at": "2014-04-18T07:35:28.000Z",
-      "last_commit_at": "2022-12-01T01:34:00.000Z",
-      "stars": 8451,
+      "last_commit_at": "2022-12-01T19:57:27.000Z",
+      "stars": 8453,
       "forks": 1383,
       "subscribers": 208,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:48.225Z"
+      "repository_data_timestamp": "2022-12-02T02:00:48.053Z"
     },
     {
       "index": 1258,
@@ -22577,7 +22577,7 @@ DATA = {
       "forks": 2,
       "subscribers": 0,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:48.218Z"
+      "repository_data_timestamp": "2022-12-02T02:00:48.050Z"
     },
     {
       "index": 1259,
@@ -22597,7 +22597,7 @@ DATA = {
       "forks": 150,
       "subscribers": 55,
       "license": "gpl-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:48.327Z"
+      "repository_data_timestamp": "2022-12-02T02:00:48.140Z"
     },
     {
       "index": 1260,
@@ -22617,7 +22617,7 @@ DATA = {
       "forks": 2,
       "subscribers": 99,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:48.370Z"
+      "repository_data_timestamp": "2022-12-02T02:00:48.153Z"
     },
     {
       "index": 1261,
@@ -22637,7 +22637,7 @@ DATA = {
       "forks": 65,
       "subscribers": 13,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:48.369Z"
+      "repository_data_timestamp": "2022-12-02T02:00:48.199Z"
     },
     {
       "index": 1262,
@@ -22653,11 +22653,11 @@ DATA = {
       },
       "created_at": "2021-05-30T01:51:22.000Z",
       "last_commit_at": "2022-11-27T10:05:44.000Z",
-      "stars": 85,
+      "stars": 86,
       "forks": 4,
       "subscribers": 3,
       "license": "bsd-2-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:48.432Z"
+      "repository_data_timestamp": "2022-12-02T02:00:48.246Z"
     },
     {
       "index": 1263,
@@ -22677,7 +22677,7 @@ DATA = {
       "forks": 28,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:48.442Z"
+      "repository_data_timestamp": "2022-12-02T02:00:48.268Z"
     },
     {
       "index": 1264,
@@ -22697,7 +22697,7 @@ DATA = {
       "forks": 45,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:48.507Z"
+      "repository_data_timestamp": "2022-12-02T02:00:48.327Z"
     },
     {
       "index": 1265,
@@ -22717,7 +22717,7 @@ DATA = {
       "forks": 30,
       "subscribers": 9,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:48.540Z"
+      "repository_data_timestamp": "2022-12-02T02:00:48.399Z"
     },
     {
       "index": 1266,
@@ -22737,7 +22737,7 @@ DATA = {
       "forks": 5,
       "subscribers": 2,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:48.525Z"
+      "repository_data_timestamp": "2022-12-02T02:00:48.418Z"
     },
     {
       "index": 1267,
@@ -22757,7 +22757,7 @@ DATA = {
       "forks": 12,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:48.637Z"
+      "repository_data_timestamp": "2022-12-02T02:00:48.427Z"
     },
     {
       "index": 1268,
@@ -22777,7 +22777,7 @@ DATA = {
       "forks": 43,
       "subscribers": 8,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:48.637Z"
+      "repository_data_timestamp": "2022-12-02T02:00:48.462Z"
     },
     {
       "index": 1269,
@@ -22793,11 +22793,11 @@ DATA = {
       },
       "created_at": "2014-09-19T11:18:44.000Z",
       "last_commit_at": "2022-08-03T13:38:05.000Z",
-      "stars": 987,
+      "stars": 988,
       "forks": 64,
       "subscribers": 29,
       "license": "0bsd",
-      "repository_data_timestamp": "2022-12-01T02:00:48.668Z"
+      "repository_data_timestamp": "2022-12-02T02:00:48.480Z"
     },
     {
       "index": 1270,
@@ -22817,7 +22817,7 @@ DATA = {
       "forks": 4,
       "subscribers": 1,
       "license": "cc0-1.0",
-      "repository_data_timestamp": "2022-12-01T02:00:48.706Z"
+      "repository_data_timestamp": "2022-12-02T02:00:48.462Z"
     },
     {
       "index": 1271,
@@ -22837,7 +22837,7 @@ DATA = {
       "forks": 12,
       "subscribers": 3,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:48.668Z"
+      "repository_data_timestamp": "2022-12-02T02:00:48.483Z"
     },
     {
       "index": 1272,
@@ -22857,7 +22857,7 @@ DATA = {
       "forks": 4,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:48.734Z"
+      "repository_data_timestamp": "2022-12-02T02:00:48.530Z"
     },
     {
       "index": 1273,
@@ -22877,7 +22877,7 @@ DATA = {
       "forks": 4,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:48.782Z"
+      "repository_data_timestamp": "2022-12-02T02:00:48.563Z"
     },
     {
       "index": 1274,
@@ -22897,7 +22897,7 @@ DATA = {
       "forks": 8,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:48.824Z"
+      "repository_data_timestamp": "2022-12-02T02:00:48.628Z"
     },
     {
       "index": 1275,
@@ -22917,7 +22917,7 @@ DATA = {
       "forks": 9,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:48.952Z"
+      "repository_data_timestamp": "2022-12-02T02:00:48.681Z"
     },
     {
       "index": 1276,
@@ -22937,7 +22937,7 @@ DATA = {
       "forks": 6,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:48.832Z"
+      "repository_data_timestamp": "2022-12-02T02:00:48.713Z"
     },
     {
       "index": 1277,
@@ -22957,7 +22957,7 @@ DATA = {
       "forks": 3,
       "subscribers": 2,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:48.917Z"
+      "repository_data_timestamp": "2022-12-02T02:00:48.700Z"
     },
     {
       "index": 1278,
@@ -22977,7 +22977,7 @@ DATA = {
       "forks": 65,
       "subscribers": 11,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:48.950Z"
+      "repository_data_timestamp": "2022-12-02T02:00:48.765Z"
     },
     {
       "index": 1279,
@@ -22992,12 +22992,12 @@ DATA = {
         "name": "shoutrrr"
       },
       "created_at": "2019-04-11T06:49:34.000Z",
-      "last_commit_at": "2022-11-05T12:21:33.000Z",
-      "stars": 500,
+      "last_commit_at": "2022-12-01T20:02:23.000Z",
+      "stars": 501,
       "forks": 46,
       "subscribers": 8,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:48.967Z"
+      "repository_data_timestamp": "2022-12-02T02:00:48.752Z"
     },
     {
       "index": 1280,
@@ -23017,7 +23017,7 @@ DATA = {
       "forks": 0,
       "subscribers": 1,
       "license": "gpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:00:48.947Z"
+      "repository_data_timestamp": "2022-12-02T02:00:48.774Z"
     },
     {
       "index": 1281,
@@ -23037,7 +23037,7 @@ DATA = {
       "forks": 30,
       "subscribers": 9,
       "license": "bsd-2-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:48.994Z"
+      "repository_data_timestamp": "2022-12-02T02:00:48.799Z"
     },
     {
       "index": 1282,
@@ -23057,7 +23057,7 @@ DATA = {
       "forks": 19,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:49.040Z"
+      "repository_data_timestamp": "2022-12-02T02:00:48.822Z"
     },
     {
       "index": 1283,
@@ -23077,7 +23077,7 @@ DATA = {
       "forks": 11,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:49.050Z"
+      "repository_data_timestamp": "2022-12-02T02:00:48.860Z"
     },
     {
       "index": 1284,
@@ -23097,7 +23097,7 @@ DATA = {
       "forks": 7,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:49.109Z"
+      "repository_data_timestamp": "2022-12-02T02:00:48.908Z"
     },
     {
       "index": 1285,
@@ -23117,7 +23117,7 @@ DATA = {
       "forks": 2,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:49.108Z"
+      "repository_data_timestamp": "2022-12-02T02:00:48.958Z"
     },
     {
       "index": 1286,
@@ -23137,7 +23137,7 @@ DATA = {
       "forks": 1,
       "subscribers": 1,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:49.215Z"
+      "repository_data_timestamp": "2022-12-02T02:00:48.980Z"
     },
     {
       "index": 1287,
@@ -23157,7 +23157,7 @@ DATA = {
       "forks": 8,
       "subscribers": 2,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:49.234Z"
+      "repository_data_timestamp": "2022-12-02T02:00:48.981Z"
     },
     {
       "index": 1288,
@@ -23177,7 +23177,7 @@ DATA = {
       "forks": 6,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:49.291Z"
+      "repository_data_timestamp": "2022-12-02T02:00:49.042Z"
     },
     {
       "index": 1289,
@@ -23197,7 +23197,7 @@ DATA = {
       "forks": 34,
       "subscribers": 16,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:49.258Z"
+      "repository_data_timestamp": "2022-12-02T02:00:49.067Z"
     },
     {
       "index": 1290,
@@ -23217,7 +23217,7 @@ DATA = {
       "forks": 2,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:49.280Z"
+      "repository_data_timestamp": "2022-12-02T02:00:49.067Z"
     },
     {
       "index": 1291,
@@ -23237,7 +23237,7 @@ DATA = {
       "forks": 20,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:49.279Z"
+      "repository_data_timestamp": "2022-12-02T02:00:49.080Z"
     },
     {
       "index": 1292,
@@ -23257,7 +23257,7 @@ DATA = {
       "forks": 5,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:49.324Z"
+      "repository_data_timestamp": "2022-12-02T02:00:49.117Z"
     },
     {
       "index": 1293,
@@ -23277,7 +23277,7 @@ DATA = {
       "forks": 55,
       "subscribers": 15,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:49.345Z"
+      "repository_data_timestamp": "2022-12-02T02:00:49.143Z"
     },
     {
       "index": 1294,
@@ -23297,7 +23297,7 @@ DATA = {
       "forks": 16,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:49.417Z"
+      "repository_data_timestamp": "2022-12-02T02:00:49.191Z"
     },
     {
       "index": 1295,
@@ -23317,7 +23317,7 @@ DATA = {
       "forks": 6,
       "subscribers": 7,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:49.400Z"
+      "repository_data_timestamp": "2022-12-02T02:00:49.252Z"
     },
     {
       "index": 1296,
@@ -23337,7 +23337,7 @@ DATA = {
       "forks": 6,
       "subscribers": 2,
       "license": null,
-      "repository_data_timestamp": "2022-12-01T02:00:49.489Z"
+      "repository_data_timestamp": "2022-12-02T02:00:49.246Z"
     },
     {
       "index": 1297,
@@ -23357,7 +23357,7 @@ DATA = {
       "forks": 2,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:49.537Z"
+      "repository_data_timestamp": "2022-12-02T02:00:49.297Z"
     },
     {
       "index": 1298,
@@ -23377,7 +23377,7 @@ DATA = {
       "forks": 6,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:49.547Z"
+      "repository_data_timestamp": "2022-12-02T02:00:49.327Z"
     },
     {
       "index": 1299,
@@ -23397,7 +23397,7 @@ DATA = {
       "forks": 0,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:49.598Z"
+      "repository_data_timestamp": "2022-12-02T02:00:49.358Z"
     },
     {
       "index": 1300,
@@ -23417,7 +23417,7 @@ DATA = {
       "forks": 45,
       "subscribers": 24,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:49.563Z"
+      "repository_data_timestamp": "2022-12-02T02:00:49.351Z"
     },
     {
       "index": 1301,
@@ -23437,7 +23437,7 @@ DATA = {
       "forks": 8,
       "subscribers": 2,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:49.586Z"
+      "repository_data_timestamp": "2022-12-02T02:00:49.393Z"
     },
     {
       "index": 1302,
@@ -23457,7 +23457,7 @@ DATA = {
       "forks": 35,
       "subscribers": 22,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:49.612Z"
+      "repository_data_timestamp": "2022-12-02T02:00:49.413Z"
     },
     {
       "index": 1303,
@@ -23477,7 +23477,7 @@ DATA = {
       "forks": 43,
       "subscribers": 23,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:49.626Z"
+      "repository_data_timestamp": "2022-12-02T02:00:49.421Z"
     },
     {
       "index": 1304,
@@ -23497,7 +23497,7 @@ DATA = {
       "forks": 7,
       "subscribers": 3,
       "license": "bsd-2-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:49.683Z"
+      "repository_data_timestamp": "2022-12-02T02:00:49.496Z"
     },
     {
       "index": 1305,
@@ -23517,7 +23517,7 @@ DATA = {
       "forks": 2,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:49.710Z"
+      "repository_data_timestamp": "2022-12-02T02:00:49.573Z"
     },
     {
       "index": 1306,
@@ -23537,7 +23537,7 @@ DATA = {
       "forks": 7,
       "subscribers": 3,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:50.034Z"
+      "repository_data_timestamp": "2022-12-02T02:00:49.811Z"
     },
     {
       "index": 1307,
@@ -23557,7 +23557,7 @@ DATA = {
       "forks": 17,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:49.820Z"
+      "repository_data_timestamp": "2022-12-02T02:00:49.592Z"
     },
     {
       "index": 1308,
@@ -23577,7 +23577,7 @@ DATA = {
       "forks": 5,
       "subscribers": 2,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:49.843Z"
+      "repository_data_timestamp": "2022-12-02T02:00:49.639Z"
     },
     {
       "index": 1309,
@@ -23593,11 +23593,11 @@ DATA = {
       },
       "created_at": "2020-01-05T20:39:29.000Z",
       "last_commit_at": "2022-09-18T14:11:51.000Z",
-      "stars": 1264,
+      "stars": 1265,
       "forks": 69,
       "subscribers": 34,
       "license": "bsd-2-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:49.850Z"
+      "repository_data_timestamp": "2022-12-02T02:00:49.654Z"
     },
     {
       "index": 1310,
@@ -23617,7 +23617,7 @@ DATA = {
       "forks": 0,
       "subscribers": 1,
       "license": "gpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:00:49.880Z"
+      "repository_data_timestamp": "2022-12-02T02:00:49.654Z"
     },
     {
       "index": 1311,
@@ -23637,7 +23637,7 @@ DATA = {
       "forks": 6,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:49.873Z"
+      "repository_data_timestamp": "2022-12-02T02:00:49.681Z"
     },
     {
       "index": 1312,
@@ -23657,7 +23657,7 @@ DATA = {
       "forks": 86,
       "subscribers": 16,
       "license": "mpl-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:49.891Z"
+      "repository_data_timestamp": "2022-12-02T02:00:49.742Z"
     },
     {
       "index": 1313,
@@ -23677,7 +23677,7 @@ DATA = {
       "forks": 4,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:49.914Z"
+      "repository_data_timestamp": "2022-12-02T02:00:49.721Z"
     },
     {
       "index": 1314,
@@ -23693,11 +23693,11 @@ DATA = {
       },
       "created_at": "2015-09-12T01:30:44.000Z",
       "last_commit_at": "2022-10-16T05:29:03.000Z",
-      "stars": 2006,
+      "stars": 2007,
       "forks": 279,
       "subscribers": 69,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:49.959Z"
+      "repository_data_timestamp": "2022-12-02T02:00:49.800Z"
     },
     {
       "index": 1315,
@@ -23717,7 +23717,7 @@ DATA = {
       "forks": 7,
       "subscribers": 2,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:49.993Z"
+      "repository_data_timestamp": "2022-12-02T02:00:49.869Z"
     },
     {
       "index": 1316,
@@ -23733,11 +23733,11 @@ DATA = {
       },
       "created_at": "2017-06-23T15:42:35.000Z",
       "last_commit_at": "2022-11-07T17:19:42.000Z",
-      "stars": 2084,
+      "stars": 2085,
       "forks": 187,
       "subscribers": 61,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:50.127Z"
+      "repository_data_timestamp": "2022-12-02T02:00:49.894Z"
     },
     {
       "index": 1317,
@@ -23757,7 +23757,7 @@ DATA = {
       "forks": 15,
       "subscribers": 5,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:50.122Z"
+      "repository_data_timestamp": "2022-12-02T02:00:49.925Z"
     },
     {
       "index": 1318,
@@ -23777,7 +23777,7 @@ DATA = {
       "forks": 149,
       "subscribers": 58,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:50.130Z"
+      "repository_data_timestamp": "2022-12-02T02:00:49.941Z"
     },
     {
       "index": 1319,
@@ -23797,7 +23797,7 @@ DATA = {
       "forks": 16,
       "subscribers": 10,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:50.145Z"
+      "repository_data_timestamp": "2022-12-02T02:00:49.966Z"
     },
     {
       "index": 1320,
@@ -23813,11 +23813,11 @@ DATA = {
       },
       "created_at": "2015-08-07T01:08:20.000Z",
       "last_commit_at": "2022-11-30T15:51:30.000Z",
-      "stars": 336,
+      "stars": 337,
       "forks": 33,
       "subscribers": 15,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:50.177Z"
+      "repository_data_timestamp": "2022-12-02T02:00:49.973Z"
     },
     {
       "index": 1321,
@@ -23832,12 +23832,12 @@ DATA = {
         "name": "shamoji"
       },
       "created_at": "2017-07-23T06:38:42.000Z",
-      "last_commit_at": "2022-05-04T07:58:17.000Z",
+      "last_commit_at": "2022-12-01T19:56:27.000Z",
       "stars": 13,
       "forks": 2,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:50.181Z"
+      "repository_data_timestamp": "2022-12-02T02:00:50.052Z"
     },
     {
       "index": 1322,
@@ -23857,7 +23857,7 @@ DATA = {
       "forks": 6,
       "subscribers": 4,
       "license": "bsd-2-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:50.197Z"
+      "repository_data_timestamp": "2022-12-02T02:00:50.037Z"
     },
     {
       "index": 1323,
@@ -23877,7 +23877,7 @@ DATA = {
       "forks": 10,
       "subscribers": 7,
       "license": null,
-      "repository_data_timestamp": "2022-12-01T02:00:50.240Z"
+      "repository_data_timestamp": "2022-12-02T02:00:50.093Z"
     },
     {
       "index": 1324,
@@ -23893,11 +23893,11 @@ DATA = {
       },
       "created_at": "2012-01-14T21:44:37.000Z",
       "last_commit_at": "2022-11-10T16:25:41.000Z",
-      "stars": 2233,
+      "stars": 2235,
       "forks": 221,
       "subscribers": 30,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:50.284Z"
+      "repository_data_timestamp": "2022-12-02T02:00:50.109Z"
     },
     {
       "index": 1325,
@@ -23917,7 +23917,7 @@ DATA = {
       "forks": 11,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:50.321Z"
+      "repository_data_timestamp": "2022-12-02T02:00:50.171Z"
     },
     {
       "index": 1326,
@@ -23937,7 +23937,7 @@ DATA = {
       "forks": 8,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:50.412Z"
+      "repository_data_timestamp": "2022-12-02T02:00:50.193Z"
     },
     {
       "index": 1327,
@@ -23957,7 +23957,7 @@ DATA = {
       "forks": 178,
       "subscribers": 40,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:50.419Z"
+      "repository_data_timestamp": "2022-12-02T02:00:50.215Z"
     },
     {
       "index": 1328,
@@ -23977,7 +23977,7 @@ DATA = {
       "forks": 43,
       "subscribers": 8,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:50.415Z"
+      "repository_data_timestamp": "2022-12-02T02:00:50.210Z"
     },
     {
       "index": 1329,
@@ -23997,7 +23997,7 @@ DATA = {
       "forks": 6,
       "subscribers": 1,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:50.414Z"
+      "repository_data_timestamp": "2022-12-02T02:00:50.261Z"
     },
     {
       "index": 1330,
@@ -24017,7 +24017,7 @@ DATA = {
       "forks": 5,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:50.458Z"
+      "repository_data_timestamp": "2022-12-02T02:00:50.272Z"
     },
     {
       "index": 1331,
@@ -24037,7 +24037,7 @@ DATA = {
       "forks": 1,
       "subscribers": 1,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:50.464Z"
+      "repository_data_timestamp": "2022-12-02T02:00:50.349Z"
     },
     {
       "index": 1332,
@@ -24057,7 +24057,7 @@ DATA = {
       "forks": 3,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:50.502Z"
+      "repository_data_timestamp": "2022-12-02T02:00:50.349Z"
     },
     {
       "index": 1333,
@@ -24077,7 +24077,7 @@ DATA = {
       "forks": 5,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:50.515Z"
+      "repository_data_timestamp": "2022-12-02T02:00:50.393Z"
     },
     {
       "index": 1334,
@@ -24097,7 +24097,7 @@ DATA = {
       "forks": 17,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:50.568Z"
+      "repository_data_timestamp": "2022-12-02T02:00:50.427Z"
     },
     {
       "index": 1335,
@@ -24117,7 +24117,7 @@ DATA = {
       "forks": 21,
       "subscribers": 5,
       "license": null,
-      "repository_data_timestamp": "2022-12-01T02:00:50.609Z"
+      "repository_data_timestamp": "2022-12-02T02:00:50.468Z"
     },
     {
       "index": 1336,
@@ -24137,7 +24137,7 @@ DATA = {
       "forks": 9,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:50.718Z"
+      "repository_data_timestamp": "2022-12-02T02:00:50.507Z"
     },
     {
       "index": 1337,
@@ -24156,7 +24156,7 @@ DATA = {
       "forks": 53,
       "subscribers": 8,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:50.699Z"
+      "repository_data_timestamp": "2022-12-02T02:00:50.490Z"
     },
     {
       "index": 1338,
@@ -24175,7 +24175,7 @@ DATA = {
       "forks": 34,
       "subscribers": 14,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:50.731Z"
+      "repository_data_timestamp": "2022-12-02T02:00:50.508Z"
     },
     {
       "index": 1339,
@@ -24194,7 +24194,7 @@ DATA = {
       "forks": 40,
       "subscribers": 14,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:50.736Z"
+      "repository_data_timestamp": "2022-12-02T02:00:50.577Z"
     },
     {
       "index": 1340,
@@ -24213,7 +24213,7 @@ DATA = {
       "forks": 93,
       "subscribers": 19,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:50.749Z"
+      "repository_data_timestamp": "2022-12-02T02:00:50.572Z"
     },
     {
       "index": 1341,
@@ -24232,7 +24232,7 @@ DATA = {
       "forks": 18,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:50.750Z"
+      "repository_data_timestamp": "2022-12-02T02:00:50.656Z"
     },
     {
       "index": 1342,
@@ -24247,11 +24247,11 @@ DATA = {
       },
       "created_at": "2010-08-03T21:56:23.000Z",
       "last_commit_at": "2022-11-20T10:29:53.000Z",
-      "stars": 6629,
+      "stars": 6630,
       "forks": 1027,
       "subscribers": 177,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:50.778Z"
+      "repository_data_timestamp": "2022-12-02T02:00:50.667Z"
     },
     {
       "index": 1343,
@@ -24266,11 +24266,11 @@ DATA = {
       },
       "created_at": "2020-02-09T01:10:39.000Z",
       "last_commit_at": "2022-11-07T19:39:27.000Z",
-      "stars": 223,
+      "stars": 228,
       "forks": 32,
       "subscribers": 10,
       "license": "gpl-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:50.799Z"
+      "repository_data_timestamp": "2022-12-02T02:00:50.687Z"
     },
     {
       "index": 1344,
@@ -24285,11 +24285,11 @@ DATA = {
       },
       "created_at": "2021-04-26T10:11:59.000Z",
       "last_commit_at": "2022-11-15T03:41:20.000Z",
-      "stars": 535,
+      "stars": 536,
       "forks": 46,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:50.857Z"
+      "repository_data_timestamp": "2022-12-02T02:00:50.723Z"
     },
     {
       "index": 1345,
@@ -24308,7 +24308,7 @@ DATA = {
       "forks": 7,
       "subscribers": 4,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:50.905Z"
+      "repository_data_timestamp": "2022-12-02T02:00:50.770Z"
     },
     {
       "index": 1346,
@@ -24327,7 +24327,7 @@ DATA = {
       "forks": 38,
       "subscribers": 11,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:51.007Z"
+      "repository_data_timestamp": "2022-12-02T02:00:50.770Z"
     },
     {
       "index": 1347,
@@ -24342,11 +24342,11 @@ DATA = {
       },
       "created_at": "2015-10-18T22:19:57.000Z",
       "last_commit_at": "2022-11-30T17:58:25.000Z",
-      "stars": 18750,
+      "stars": 18760,
       "forks": 1567,
       "subscribers": 396,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:51.001Z"
+      "repository_data_timestamp": "2022-12-02T02:00:50.789Z"
     },
     {
       "index": 1348,
@@ -24361,11 +24361,11 @@ DATA = {
       },
       "created_at": "2017-10-10T01:01:39.000Z",
       "last_commit_at": "2022-11-28T02:47:03.000Z",
-      "stars": 2759,
+      "stars": 2761,
       "forks": 213,
       "subscribers": 51,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:51.029Z"
+      "repository_data_timestamp": "2022-12-02T02:00:50.822Z"
     },
     {
       "index": 1349,
@@ -24379,12 +24379,12 @@ DATA = {
         "name": "ftp"
       },
       "created_at": "2011-05-06T18:31:51.000Z",
-      "last_commit_at": "2022-11-11T15:20:24.000Z",
+      "last_commit_at": "2022-12-01T15:10:17.000Z",
       "stars": 1029,
       "forks": 326,
       "subscribers": 25,
       "license": "isc",
-      "repository_data_timestamp": "2022-12-01T02:00:51.041Z"
+      "repository_data_timestamp": "2022-12-02T02:00:50.867Z"
     },
     {
       "index": 1350,
@@ -24403,7 +24403,7 @@ DATA = {
       "forks": 77,
       "subscribers": 12,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:51.053Z"
+      "repository_data_timestamp": "2022-12-02T02:00:50.887Z"
     },
     {
       "index": 1351,
@@ -24422,7 +24422,7 @@ DATA = {
       "forks": 4,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:51.048Z"
+      "repository_data_timestamp": "2022-12-02T02:00:50.932Z"
     },
     {
       "index": 1352,
@@ -24441,7 +24441,7 @@ DATA = {
       "forks": 63,
       "subscribers": 17,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:51.058Z"
+      "repository_data_timestamp": "2022-12-02T02:00:50.971Z"
     },
     {
       "index": 1353,
@@ -24455,12 +24455,12 @@ DATA = {
         "name": "gev"
       },
       "created_at": "2019-09-01T12:16:18.000Z",
-      "last_commit_at": "2022-11-11T11:28:48.000Z",
-      "stars": 1522,
-      "forks": 185,
+      "last_commit_at": "2022-12-01T17:01:41.000Z",
+      "stars": 1524,
+      "forks": 186,
       "subscribers": 41,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:51.080Z"
+      "repository_data_timestamp": "2022-12-02T02:00:50.987Z"
     },
     {
       "index": 1354,
@@ -24479,7 +24479,7 @@ DATA = {
       "forks": 2,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:51.147Z"
+      "repository_data_timestamp": "2022-12-02T02:00:51.039Z"
     },
     {
       "index": 1355,
@@ -24498,7 +24498,7 @@ DATA = {
       "forks": 162,
       "subscribers": 35,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:51.191Z"
+      "repository_data_timestamp": "2022-12-02T02:00:51.078Z"
     },
     {
       "index": 1356,
@@ -24513,11 +24513,11 @@ DATA = {
       },
       "created_at": "2019-02-24T03:48:45.000Z",
       "last_commit_at": "2022-11-27T18:21:45.000Z",
-      "stars": 7120,
-      "forks": 834,
+      "stars": 7123,
+      "forks": 835,
       "subscribers": 160,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:51.268Z"
+      "repository_data_timestamp": "2022-12-02T02:00:51.079Z"
     },
     {
       "index": 1357,
@@ -24536,7 +24536,7 @@ DATA = {
       "forks": 107,
       "subscribers": 31,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:51.332Z"
+      "repository_data_timestamp": "2022-12-02T02:00:51.090Z"
     },
     {
       "index": 1358,
@@ -24552,10 +24552,10 @@ DATA = {
       "created_at": "2015-10-12T23:17:07.000Z",
       "last_commit_at": "2022-11-30T20:11:03.000Z",
       "stars": 1427,
-      "forks": 187,
-      "subscribers": 281,
+      "forks": 188,
+      "subscribers": 280,
       "license": "mpl-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:51.313Z"
+      "repository_data_timestamp": "2022-12-02T02:00:51.125Z"
     },
     {
       "index": 1359,
@@ -24574,7 +24574,7 @@ DATA = {
       "forks": 19,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:51.326Z"
+      "repository_data_timestamp": "2022-12-02T02:00:51.154Z"
     },
     {
       "index": 1360,
@@ -24590,10 +24590,10 @@ DATA = {
       "created_at": "2013-08-17T22:16:33.000Z",
       "last_commit_at": "2022-04-19T04:23:30.000Z",
       "stars": 537,
-      "forks": 98,
+      "forks": 99,
       "subscribers": 16,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:51.344Z"
+      "repository_data_timestamp": "2022-12-02T02:00:51.186Z"
     },
     {
       "index": 1361,
@@ -24609,10 +24609,10 @@ DATA = {
       "created_at": "2014-09-14T01:51:58.000Z",
       "last_commit_at": "2022-11-28T10:31:56.000Z",
       "stars": 3061,
-      "forks": 604,
+      "forks": 605,
       "subscribers": 122,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:51.348Z"
+      "repository_data_timestamp": "2022-12-02T02:00:51.232Z"
     },
     {
       "index": 1362,
@@ -24631,7 +24631,7 @@ DATA = {
       "forks": 4,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:51.363Z"
+      "repository_data_timestamp": "2022-12-02T02:00:51.265Z"
     },
     {
       "index": 1363,
@@ -24650,7 +24650,7 @@ DATA = {
       "forks": 8,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:51.347Z"
+      "repository_data_timestamp": "2022-12-02T02:00:51.271Z"
     },
     {
       "index": 1364,
@@ -24665,11 +24665,11 @@ DATA = {
       },
       "created_at": "2015-03-16T20:46:00.000Z",
       "last_commit_at": "2022-11-22T15:41:39.000Z",
-      "stars": 5257,
-      "forks": 976,
+      "stars": 5260,
+      "forks": 977,
       "subscribers": 142,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:51.440Z"
+      "repository_data_timestamp": "2022-12-02T02:00:51.332Z"
     },
     {
       "index": 1365,
@@ -24688,7 +24688,7 @@ DATA = {
       "forks": 146,
       "subscribers": 23,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:51.482Z"
+      "repository_data_timestamp": "2022-12-02T02:00:51.362Z"
     },
     {
       "index": 1366,
@@ -24707,7 +24707,7 @@ DATA = {
       "forks": 4,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:51.561Z"
+      "repository_data_timestamp": "2022-12-02T02:00:51.370Z"
     },
     {
       "index": 1367,
@@ -24726,7 +24726,7 @@ DATA = {
       "forks": 292,
       "subscribers": 50,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:51.854Z"
+      "repository_data_timestamp": "2022-12-02T02:00:51.660Z"
     },
     {
       "index": 1368,
@@ -24741,11 +24741,11 @@ DATA = {
       },
       "created_at": "2014-04-13T14:54:01.000Z",
       "last_commit_at": "2017-04-18T07:26:13.000Z",
-      "stars": 502,
+      "stars": 503,
       "forks": 159,
       "subscribers": 38,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:51.619Z"
+      "repository_data_timestamp": "2022-12-02T02:00:51.412Z"
     },
     {
       "index": 1369,
@@ -24764,7 +24764,7 @@ DATA = {
       "forks": 130,
       "subscribers": 15,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:51.903Z"
+      "repository_data_timestamp": "2022-12-02T02:00:51.706Z"
     },
     {
       "index": 1370,
@@ -24783,7 +24783,7 @@ DATA = {
       "forks": 8,
       "subscribers": 8,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:51.677Z"
+      "repository_data_timestamp": "2022-12-02T02:00:51.523Z"
     },
     {
       "index": 1371,
@@ -24802,7 +24802,7 @@ DATA = {
       "forks": 128,
       "subscribers": 62,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:51.926Z"
+      "repository_data_timestamp": "2022-12-02T02:00:51.781Z"
     },
     {
       "index": 1372,
@@ -24821,7 +24821,7 @@ DATA = {
       "forks": 5,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:51.705Z"
+      "repository_data_timestamp": "2022-12-02T02:00:51.550Z"
     },
     {
       "index": 1373,
@@ -24840,7 +24840,7 @@ DATA = {
       "forks": 19,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:51.716Z"
+      "repository_data_timestamp": "2022-12-02T02:00:51.568Z"
     },
     {
       "index": 1374,
@@ -24859,7 +24859,7 @@ DATA = {
       "forks": 21,
       "subscribers": 14,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:51.712Z"
+      "repository_data_timestamp": "2022-12-02T02:00:51.624Z"
     },
     {
       "index": 1375,
@@ -24878,7 +24878,7 @@ DATA = {
       "forks": 656,
       "subscribers": 147,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:51.782Z"
+      "repository_data_timestamp": "2022-12-02T02:00:51.630Z"
     },
     {
       "index": 1376,
@@ -24893,11 +24893,11 @@ DATA = {
       },
       "created_at": "2016-02-26T09:54:46.000Z",
       "last_commit_at": "2022-11-28T02:06:08.000Z",
-      "stars": 13103,
+      "stars": 13106,
       "forks": 2509,
       "subscribers": 590,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:51.888Z"
+      "repository_data_timestamp": "2022-12-02T02:00:51.659Z"
     },
     {
       "index": 1377,
@@ -24916,7 +24916,7 @@ DATA = {
       "forks": 144,
       "subscribers": 58,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:51.904Z"
+      "repository_data_timestamp": "2022-12-02T02:00:51.692Z"
     },
     {
       "index": 1378,
@@ -24935,7 +24935,7 @@ DATA = {
       "forks": 7,
       "subscribers": 3,
       "license": null,
-      "repository_data_timestamp": "2022-12-01T02:00:51.965Z"
+      "repository_data_timestamp": "2022-12-02T02:00:51.813Z"
     },
     {
       "index": 1379,
@@ -24954,7 +24954,7 @@ DATA = {
       "forks": 3,
       "subscribers": 1,
       "license": "wtfpl",
-      "repository_data_timestamp": "2022-12-01T02:00:51.977Z"
+      "repository_data_timestamp": "2022-12-02T02:00:51.833Z"
     },
     {
       "index": 1380,
@@ -24973,7 +24973,7 @@ DATA = {
       "forks": 197,
       "subscribers": 284,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:52.024Z"
+      "repository_data_timestamp": "2022-12-02T02:00:51.870Z"
     },
     {
       "index": 1381,
@@ -24996,11 +24996,11 @@ DATA = {
       },
       "created_at": "2020-01-25T11:46:54.000Z",
       "last_commit_at": "2022-11-20T18:24:25.000Z",
-      "stars": 1049,
+      "stars": 1050,
       "forks": 88,
       "subscribers": 20,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:52.040Z"
+      "repository_data_timestamp": "2022-12-02T02:00:51.906Z"
     },
     {
       "index": 1383,
@@ -25014,12 +25014,12 @@ DATA = {
         "name": "netpoll"
       },
       "created_at": "2021-02-25T07:24:02.000Z",
-      "last_commit_at": "2022-11-30T13:07:50.000Z",
-      "stars": 3220,
+      "last_commit_at": "2022-12-01T07:19:41.000Z",
+      "stars": 3223,
       "forks": 347,
-      "subscribers": 67,
+      "subscribers": 68,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:52.066Z"
+      "repository_data_timestamp": "2022-12-02T02:00:51.931Z"
     },
     {
       "index": 1384,
@@ -25038,7 +25038,7 @@ DATA = {
       "forks": 148,
       "subscribers": 83,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:52.389Z"
+      "repository_data_timestamp": "2022-12-02T02:00:52.216Z"
     },
     {
       "index": 1385,
@@ -25057,7 +25057,7 @@ DATA = {
       "forks": 15,
       "subscribers": 5,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:52.181Z"
+      "repository_data_timestamp": "2022-12-02T02:00:51.958Z"
     },
     {
       "index": 1386,
@@ -25076,7 +25076,7 @@ DATA = {
       "forks": 7,
       "subscribers": 8,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:52.193Z"
+      "repository_data_timestamp": "2022-12-02T02:00:52.018Z"
     },
     {
       "index": 1387,
@@ -25091,11 +25091,11 @@ DATA = {
       },
       "created_at": "2018-04-22T23:59:37.000Z",
       "last_commit_at": "2022-11-19T04:44:48.000Z",
-      "stars": 568,
+      "stars": 569,
       "forks": 47,
       "subscribers": 20,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:52.195Z"
+      "repository_data_timestamp": "2022-12-02T02:00:52.018Z"
     },
     {
       "index": 1388,
@@ -25114,7 +25114,7 @@ DATA = {
       "forks": 14,
       "subscribers": 1,
       "license": null,
-      "repository_data_timestamp": "2022-12-01T02:00:52.217Z"
+      "repository_data_timestamp": "2022-12-02T02:00:52.067Z"
     },
     {
       "index": 1389,
@@ -25133,7 +25133,7 @@ DATA = {
       "forks": 8,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:52.251Z"
+      "repository_data_timestamp": "2022-12-02T02:00:52.077Z"
     },
     {
       "index": 1390,
@@ -25148,11 +25148,11 @@ DATA = {
       },
       "created_at": "2016-04-06T20:16:27.000Z",
       "last_commit_at": "2022-11-25T08:05:25.000Z",
-      "stars": 7546,
+      "stars": 7550,
       "forks": 1018,
       "subscribers": 209,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:52.272Z"
+      "repository_data_timestamp": "2022-12-02T02:00:52.123Z"
     },
     {
       "index": 1391,
@@ -25171,7 +25171,7 @@ DATA = {
       "forks": 76,
       "subscribers": 13,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:52.314Z"
+      "repository_data_timestamp": "2022-12-02T02:00:52.132Z"
     },
     {
       "index": 1392,
@@ -25190,7 +25190,7 @@ DATA = {
       "forks": 349,
       "subscribers": 54,
       "license": "bsd-2-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:52.337Z"
+      "repository_data_timestamp": "2022-12-02T02:00:52.193Z"
     },
     {
       "index": 1393,
@@ -25205,11 +25205,11 @@ DATA = {
       },
       "created_at": "2016-10-03T21:53:44.000Z",
       "last_commit_at": "2022-11-17T23:36:47.000Z",
-      "stars": 2821,
+      "stars": 2822,
       "forks": 352,
       "subscribers": 62,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:52.369Z"
+      "repository_data_timestamp": "2022-12-02T02:00:52.217Z"
     },
     {
       "index": 1394,
@@ -25228,7 +25228,7 @@ DATA = {
       "forks": 28,
       "subscribers": 9,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:52.463Z"
+      "repository_data_timestamp": "2022-12-02T02:00:52.363Z"
     },
     {
       "index": 1395,
@@ -25244,10 +25244,10 @@ DATA = {
       "created_at": "2016-04-24T17:46:38.000Z",
       "last_commit_at": "2021-05-17T05:47:09.000Z",
       "stars": 487,
-      "forks": 55,
+      "forks": 56,
       "subscribers": 21,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:52.744Z"
+      "repository_data_timestamp": "2022-12-02T02:00:52.597Z"
     },
     {
       "index": 1396,
@@ -25266,7 +25266,7 @@ DATA = {
       "forks": 144,
       "subscribers": 21,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:52.494Z"
+      "repository_data_timestamp": "2022-12-02T02:00:52.319Z"
     },
     {
       "index": 1397,
@@ -25285,7 +25285,7 @@ DATA = {
       "forks": 3,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:52.501Z"
+      "repository_data_timestamp": "2022-12-02T02:00:52.341Z"
     },
     {
       "index": 1398,
@@ -25304,7 +25304,7 @@ DATA = {
       "forks": 35,
       "subscribers": 18,
       "license": "mpl-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:52.520Z"
+      "repository_data_timestamp": "2022-12-02T02:00:52.357Z"
     },
     {
       "index": 1399,
@@ -25323,7 +25323,7 @@ DATA = {
       "forks": 72,
       "subscribers": 23,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:52.555Z"
+      "repository_data_timestamp": "2022-12-02T02:00:52.410Z"
     },
     {
       "index": 1400,
@@ -25338,11 +25338,11 @@ DATA = {
       },
       "created_at": "2013-03-25T20:06:52.000Z",
       "last_commit_at": "2022-09-07T09:14:12.000Z",
-      "stars": 1565,
+      "stars": 1564,
       "forks": 240,
       "subscribers": 50,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:52.585Z"
+      "repository_data_timestamp": "2022-12-02T02:00:52.427Z"
     },
     {
       "index": 1401,
@@ -25357,11 +25357,11 @@ DATA = {
       },
       "created_at": "2018-05-18T23:10:05.000Z",
       "last_commit_at": "2022-12-01T01:21:11.000Z",
-      "stars": 10350,
-      "forks": 1322,
+      "stars": 10363,
+      "forks": 1323,
       "subscribers": 256,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:52.995Z"
+      "repository_data_timestamp": "2022-12-02T02:00:52.767Z"
     },
     {
       "index": 1402,
@@ -25380,7 +25380,7 @@ DATA = {
       "forks": 104,
       "subscribers": 18,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:52.664Z"
+      "repository_data_timestamp": "2022-12-02T02:00:52.503Z"
     },
     {
       "index": 1403,
@@ -25399,7 +25399,7 @@ DATA = {
       "forks": 30,
       "subscribers": 14,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:52.675Z"
+      "repository_data_timestamp": "2022-12-02T02:00:52.518Z"
     },
     {
       "index": 1404,
@@ -25419,7 +25419,7 @@ DATA = {
       "forks": 54,
       "subscribers": 20,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:52.749Z"
+      "repository_data_timestamp": "2022-12-02T02:00:52.626Z"
     },
     {
       "index": 1405,
@@ -25439,7 +25439,7 @@ DATA = {
       "forks": 33,
       "subscribers": 15,
       "license": "mpl-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:52.776Z"
+      "repository_data_timestamp": "2022-12-02T02:00:52.649Z"
     },
     {
       "index": 1406,
@@ -25459,7 +25459,7 @@ DATA = {
       "forks": 11,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:52.789Z"
+      "repository_data_timestamp": "2022-12-02T02:00:52.643Z"
     },
     {
       "index": 1407,
@@ -25479,7 +25479,7 @@ DATA = {
       "forks": 2,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:52.839Z"
+      "repository_data_timestamp": "2022-12-02T02:00:52.685Z"
     },
     {
       "index": 1408,
@@ -25499,7 +25499,7 @@ DATA = {
       "forks": 2,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:52.833Z"
+      "repository_data_timestamp": "2022-12-02T02:00:52.700Z"
     },
     {
       "index": 1409,
@@ -25519,7 +25519,7 @@ DATA = {
       "forks": 196,
       "subscribers": 267,
       "license": "mpl-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:52.902Z"
+      "repository_data_timestamp": "2022-12-02T02:00:52.728Z"
     },
     {
       "index": 1410,
@@ -25539,7 +25539,7 @@ DATA = {
       "forks": 3,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:52.951Z"
+      "repository_data_timestamp": "2022-12-02T02:00:52.795Z"
     },
     {
       "index": 1411,
@@ -25555,11 +25555,11 @@ DATA = {
       },
       "created_at": "2015-06-11T16:41:48.000Z",
       "last_commit_at": "2020-12-03T02:31:16.000Z",
-      "stars": 1923,
+      "stars": 1924,
       "forks": 127,
       "subscribers": 36,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:52.951Z"
+      "repository_data_timestamp": "2022-12-02T02:00:52.795Z"
     },
     {
       "index": 1412,
@@ -25579,7 +25579,7 @@ DATA = {
       "forks": 198,
       "subscribers": 53,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:53.438Z"
+      "repository_data_timestamp": "2022-12-02T02:00:53.163Z"
     },
     {
       "index": 1413,
@@ -25599,7 +25599,7 @@ DATA = {
       "forks": 4,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:53.044Z"
+      "repository_data_timestamp": "2022-12-02T02:00:52.910Z"
     },
     {
       "index": 1414,
@@ -25619,7 +25619,7 @@ DATA = {
       "forks": 68,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:53.055Z"
+      "repository_data_timestamp": "2022-12-02T02:00:52.929Z"
     },
     {
       "index": 1415,
@@ -25634,12 +25634,12 @@ DATA = {
         "name": "req"
       },
       "created_at": "2017-02-25T16:32:26.000Z",
-      "last_commit_at": "2022-11-29T06:33:53.000Z",
+      "last_commit_at": "2022-12-01T11:49:37.000Z",
       "stars": 2848,
       "forks": 255,
       "subscribers": 49,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:53.150Z"
+      "repository_data_timestamp": "2022-12-02T02:00:52.948Z"
     },
     {
       "index": 1416,
@@ -25659,7 +25659,7 @@ DATA = {
       "forks": 26,
       "subscribers": 12,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:53.112Z"
+      "repository_data_timestamp": "2022-12-02T02:00:52.981Z"
     },
     {
       "index": 1417,
@@ -25675,11 +25675,11 @@ DATA = {
       },
       "created_at": "2021-05-20T19:20:29.000Z",
       "last_commit_at": "2022-11-07T20:00:38.000Z",
-      "stars": 450,
+      "stars": 452,
       "forks": 20,
       "subscribers": 11,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:53.143Z"
+      "repository_data_timestamp": "2022-12-02T02:00:52.989Z"
     },
     {
       "index": 1418,
@@ -25695,11 +25695,11 @@ DATA = {
       },
       "created_at": "2015-08-28T17:48:47.000Z",
       "last_commit_at": "2022-11-29T17:56:42.000Z",
-      "stars": 7014,
+      "stars": 7024,
       "forks": 545,
-      "subscribers": 94,
+      "subscribers": 93,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:53.195Z"
+      "repository_data_timestamp": "2022-12-02T02:00:53.021Z"
     },
     {
       "index": 1419,
@@ -25719,7 +25719,7 @@ DATA = {
       "forks": 5,
       "subscribers": 3,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:53.236Z"
+      "repository_data_timestamp": "2022-12-02T02:00:53.052Z"
     },
     {
       "index": 1420,
@@ -25735,11 +25735,11 @@ DATA = {
       },
       "created_at": "2015-04-02T08:42:52.000Z",
       "last_commit_at": "2022-08-29T15:28:27.000Z",
-      "stars": 1500,
+      "stars": 1501,
       "forks": 109,
       "subscribers": 29,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:53.249Z"
+      "repository_data_timestamp": "2022-12-02T02:00:53.081Z"
     },
     {
       "index": 1421,
@@ -25758,7 +25758,7 @@ DATA = {
       "forks": 67,
       "subscribers": 39,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:53.279Z"
+      "repository_data_timestamp": "2022-12-02T02:00:53.094Z"
     },
     {
       "index": 1422,
@@ -25777,7 +25777,7 @@ DATA = {
       "forks": 163,
       "subscribers": 38,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:53.321Z"
+      "repository_data_timestamp": "2022-12-02T02:00:53.214Z"
     },
     {
       "index": 1423,
@@ -25796,7 +25796,7 @@ DATA = {
       "forks": 3,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:53.345Z"
+      "repository_data_timestamp": "2022-12-02T02:00:53.211Z"
     },
     {
       "index": 1424,
@@ -25815,7 +25815,7 @@ DATA = {
       "forks": 21,
       "subscribers": 15,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:53.394Z"
+      "repository_data_timestamp": "2022-12-02T02:00:53.233Z"
     },
     {
       "index": 1425,
@@ -25834,7 +25834,7 @@ DATA = {
       "forks": 21,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:53.445Z"
+      "repository_data_timestamp": "2022-12-02T02:00:53.269Z"
     },
     {
       "index": 1426,
@@ -25853,7 +25853,7 @@ DATA = {
       "forks": 59,
       "subscribers": 28,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:53.435Z"
+      "repository_data_timestamp": "2022-12-02T02:00:53.276Z"
     },
     {
       "index": 1427,
@@ -25867,12 +25867,12 @@ DATA = {
         "name": "bun"
       },
       "created_at": "2021-05-03T11:40:52.000Z",
-      "last_commit_at": "2022-11-29T10:27:49.000Z",
-      "stars": 1673,
-      "forks": 114,
+      "last_commit_at": "2022-12-01T14:14:10.000Z",
+      "stars": 1674,
+      "forks": 115,
       "subscribers": 24,
       "license": "bsd-2-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:53.483Z"
+      "repository_data_timestamp": "2022-12-02T02:00:53.316Z"
     },
     {
       "index": 1428,
@@ -25891,7 +25891,7 @@ DATA = {
       "forks": 2,
       "subscribers": 3,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:53.529Z"
+      "repository_data_timestamp": "2022-12-02T02:00:53.346Z"
     },
     {
       "index": 1429,
@@ -25905,12 +25905,12 @@ DATA = {
         "name": "ent"
       },
       "created_at": "2019-06-12T22:53:55.000Z",
-      "last_commit_at": "2022-11-30T20:16:53.000Z",
-      "stars": 12471,
-      "forks": 726,
+      "last_commit_at": "2022-12-01T15:39:53.000Z",
+      "stars": 12478,
+      "forks": 727,
       "subscribers": 154,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:53.819Z"
+      "repository_data_timestamp": "2022-12-02T02:00:53.619Z"
     },
     {
       "index": 1430,
@@ -25925,11 +25925,11 @@ DATA = {
       },
       "created_at": "2018-12-04T14:53:53.000Z",
       "last_commit_at": "2021-12-13T23:52:18.000Z",
-      "stars": 38,
+      "stars": 39,
       "forks": 7,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:53.586Z"
+      "repository_data_timestamp": "2022-12-02T02:00:53.378Z"
     },
     {
       "index": 1431,
@@ -25948,7 +25948,7 @@ DATA = {
       "forks": 19,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:53.622Z"
+      "repository_data_timestamp": "2022-12-02T02:00:53.475Z"
     },
     {
       "index": 1432,
@@ -25963,11 +25963,11 @@ DATA = {
       },
       "created_at": "2017-12-27T16:37:48.000Z",
       "last_commit_at": "2022-11-30T15:57:39.000Z",
-      "stars": 881,
+      "stars": 885,
       "forks": 86,
       "subscribers": 13,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:53.637Z"
+      "repository_data_timestamp": "2022-12-02T02:00:53.516Z"
     },
     {
       "index": 1433,
@@ -25986,7 +25986,7 @@ DATA = {
       "forks": 9,
       "subscribers": 9,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:53.683Z"
+      "repository_data_timestamp": "2022-12-02T02:00:53.527Z"
     },
     {
       "index": 1434,
@@ -26005,7 +26005,7 @@ DATA = {
       "forks": 5,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:53.734Z"
+      "repository_data_timestamp": "2022-12-02T02:00:53.548Z"
     },
     {
       "index": 1435,
@@ -26019,12 +26019,12 @@ DATA = {
         "name": "gorm"
       },
       "created_at": "2013-10-25T08:31:38.000Z",
-      "last_commit_at": "2022-11-28T07:28:04.000Z",
-      "stars": 30622,
-      "forks": 3411,
+      "last_commit_at": "2022-12-01T12:26:59.000Z",
+      "stars": 30637,
+      "forks": 3413,
       "subscribers": 496,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:53.799Z"
+      "repository_data_timestamp": "2022-12-02T02:00:53.572Z"
     },
     {
       "index": 1436,
@@ -26039,11 +26039,11 @@ DATA = {
       },
       "created_at": "2019-05-05T13:10:26.000Z",
       "last_commit_at": "2022-07-06T10:42:23.000Z",
-      "stars": 2064,
+      "stars": 2065,
       "forks": 330,
       "subscribers": 21,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:53.759Z"
+      "repository_data_timestamp": "2022-12-02T02:00:53.566Z"
     },
     {
       "index": 1437,
@@ -26062,7 +26062,7 @@ DATA = {
       "forks": 380,
       "subscribers": 109,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:53.790Z"
+      "repository_data_timestamp": "2022-12-02T02:00:53.610Z"
     },
     {
       "index": 1438,
@@ -26081,7 +26081,7 @@ DATA = {
       "forks": 17,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:53.838Z"
+      "repository_data_timestamp": "2022-12-02T02:00:53.662Z"
     },
     {
       "index": 1439,
@@ -26100,7 +26100,7 @@ DATA = {
       "forks": 3,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:53.888Z"
+      "repository_data_timestamp": "2022-12-02T02:00:53.708Z"
     },
     {
       "index": 1440,
@@ -26119,7 +26119,7 @@ DATA = {
       "forks": 3,
       "subscribers": 3,
       "license": null,
-      "repository_data_timestamp": "2022-12-01T02:00:53.919Z"
+      "repository_data_timestamp": "2022-12-02T02:00:53.797Z"
     },
     {
       "index": 1441,
@@ -26134,11 +26134,11 @@ DATA = {
       },
       "created_at": "2018-02-07T21:13:46.000Z",
       "last_commit_at": "2022-11-20T13:03:09.000Z",
-      "stars": 1262,
+      "stars": 1263,
       "forks": 231,
       "subscribers": 23,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:53.963Z"
+      "repository_data_timestamp": "2022-12-02T02:00:53.824Z"
     },
     {
       "index": 1442,
@@ -26152,12 +26152,12 @@ DATA = {
         "name": "prisma-client-go"
       },
       "created_at": "2019-09-24T12:17:03.000Z",
-      "last_commit_at": "2022-11-18T12:30:13.000Z",
+      "last_commit_at": "2022-12-01T10:20:00.000Z",
       "stars": 1343,
       "forks": 73,
       "subscribers": 30,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:53.987Z"
+      "repository_data_timestamp": "2022-12-02T02:00:53.844Z"
     },
     {
       "index": 1443,
@@ -26172,11 +26172,11 @@ DATA = {
       },
       "created_at": "2016-02-25T09:41:09.000Z",
       "last_commit_at": "2022-10-31T13:01:32.000Z",
-      "stars": 1353,
+      "stars": 1352,
       "forks": 69,
       "subscribers": 24,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:54.059Z"
+      "repository_data_timestamp": "2022-12-02T02:00:53.855Z"
     },
     {
       "index": 1444,
@@ -26195,7 +26195,7 @@ DATA = {
       "forks": 52,
       "subscribers": 11,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:54.043Z"
+      "repository_data_timestamp": "2022-12-02T02:00:53.873Z"
     },
     {
       "index": 1445,
@@ -26210,11 +26210,11 @@ DATA = {
       },
       "created_at": "2016-02-21T06:18:25.000Z",
       "last_commit_at": "2022-11-26T01:22:54.000Z",
-      "stars": 5364,
+      "stars": 5369,
       "forks": 464,
       "subscribers": 76,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:54.067Z"
+      "repository_data_timestamp": "2022-12-02T02:00:53.874Z"
     },
     {
       "index": 1446,
@@ -26233,7 +26233,7 @@ DATA = {
       "forks": 224,
       "subscribers": 63,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:54.118Z"
+      "repository_data_timestamp": "2022-12-02T02:00:53.913Z"
     },
     {
       "index": 1447,
@@ -26252,7 +26252,7 @@ DATA = {
       "forks": 50,
       "subscribers": 7,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:55.900Z"
+      "repository_data_timestamp": "2022-12-02T02:00:55.779Z"
     },
     {
       "index": 1448,
@@ -26271,7 +26271,7 @@ DATA = {
       "forks": 25,
       "subscribers": 20,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:54.100Z"
+      "repository_data_timestamp": "2022-12-02T02:00:53.895Z"
     },
     {
       "index": 1449,
@@ -26294,11 +26294,11 @@ DATA = {
       },
       "created_at": "2016-10-07T00:04:51.000Z",
       "last_commit_at": "2020-09-05T13:47:25.000Z",
-      "stars": 12991,
+      "stars": 12990,
       "forks": 1098,
       "subscribers": 259,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:54.133Z"
+      "repository_data_timestamp": "2022-12-02T02:00:53.977Z"
     },
     {
       "index": 1451,
@@ -26325,7 +26325,7 @@ DATA = {
       "forks": 549,
       "subscribers": 189,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:54.189Z"
+      "repository_data_timestamp": "2022-12-02T02:00:54.014Z"
     },
     {
       "index": 1453,
@@ -26340,11 +26340,11 @@ DATA = {
       },
       "created_at": "2013-05-01T07:55:35.000Z",
       "last_commit_at": "2018-04-12T22:30:56.000Z",
-      "stars": 5586,
+      "stars": 5588,
       "forks": 479,
       "subscribers": 147,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:54.193Z"
+      "repository_data_timestamp": "2022-12-02T02:00:54.076Z"
     },
     {
       "index": 1454,
@@ -26363,7 +26363,7 @@ DATA = {
       "forks": 104,
       "subscribers": 35,
       "license": null,
-      "repository_data_timestamp": "2022-12-01T02:00:54.253Z"
+      "repository_data_timestamp": "2022-12-02T02:00:54.125Z"
     },
     {
       "index": 1455,
@@ -26382,7 +26382,7 @@ DATA = {
       "forks": 44,
       "subscribers": 36,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:54.526Z"
+      "repository_data_timestamp": "2022-12-02T02:00:54.416Z"
     },
     {
       "index": 1456,
@@ -26401,7 +26401,7 @@ DATA = {
       "forks": 6,
       "subscribers": 8,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:54.344Z"
+      "repository_data_timestamp": "2022-12-02T02:00:54.182Z"
     },
     {
       "index": 1457,
@@ -26416,11 +26416,11 @@ DATA = {
       },
       "created_at": "2013-05-15T14:53:29.000Z",
       "last_commit_at": "2019-07-29T00:57:26.000Z",
-      "stars": 2486,
+      "stars": 2485,
       "forks": 222,
       "subscribers": 85,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:54.364Z"
+      "repository_data_timestamp": "2022-12-02T02:00:54.180Z"
     },
     {
       "index": 1458,
@@ -26439,7 +26439,7 @@ DATA = {
       "forks": 410,
       "subscribers": 97,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:54.364Z"
+      "repository_data_timestamp": "2022-12-02T02:00:54.179Z"
     },
     {
       "index": 1459,
@@ -26458,7 +26458,7 @@ DATA = {
       "forks": 51,
       "subscribers": 30,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:54.373Z"
+      "repository_data_timestamp": "2022-12-02T02:00:54.211Z"
     },
     {
       "index": 1460,
@@ -26473,11 +26473,11 @@ DATA = {
       },
       "created_at": "2022-02-19T06:31:07.000Z",
       "last_commit_at": "2022-11-01T15:49:30.000Z",
-      "stars": 159,
+      "stars": 160,
       "forks": 10,
       "subscribers": 2,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:54.396Z"
+      "repository_data_timestamp": "2022-12-02T02:00:54.194Z"
     },
     {
       "index": 1461,
@@ -26496,7 +26496,7 @@ DATA = {
       "forks": 7,
       "subscribers": 21,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:54.440Z"
+      "repository_data_timestamp": "2022-12-02T02:00:54.287Z"
     },
     {
       "index": 1462,
@@ -26515,7 +26515,7 @@ DATA = {
       "forks": 18,
       "subscribers": 7,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:54.466Z"
+      "repository_data_timestamp": "2022-12-02T02:00:54.293Z"
     },
     {
       "index": 1463,
@@ -26534,7 +26534,7 @@ DATA = {
       "forks": 28,
       "subscribers": 11,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:54.507Z"
+      "repository_data_timestamp": "2022-12-02T02:00:54.447Z"
     },
     {
       "index": 1464,
@@ -26553,7 +26553,7 @@ DATA = {
       "forks": 11,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:54.807Z"
+      "repository_data_timestamp": "2022-12-02T02:00:54.667Z"
     },
     {
       "index": 1465,
@@ -26572,7 +26572,7 @@ DATA = {
       "forks": 11,
       "subscribers": 10,
       "license": "gpl-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:54.717Z"
+      "repository_data_timestamp": "2022-12-02T02:00:54.491Z"
     },
     {
       "index": 1466,
@@ -26587,11 +26587,11 @@ DATA = {
       },
       "created_at": "2022-11-05T13:57:47.000Z",
       "last_commit_at": "2022-11-25T14:07:00.000Z",
-      "stars": 56,
+      "stars": 57,
       "forks": 0,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:54.717Z"
+      "repository_data_timestamp": "2022-12-02T02:00:54.476Z"
     },
     {
       "index": 1467,
@@ -26605,12 +26605,12 @@ DATA = {
         "name": "jaeger"
       },
       "created_at": "2016-04-15T18:49:02.000Z",
-      "last_commit_at": "2022-11-29T10:59:02.000Z",
-      "stars": 16772,
+      "last_commit_at": "2022-12-01T04:04:25.000Z",
+      "stars": 16776,
       "forks": 2025,
       "subscribers": 340,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:54.717Z"
+      "repository_data_timestamp": "2022-12-02T02:00:54.520Z"
     },
     {
       "index": 1468,
@@ -26624,12 +26624,12 @@ DATA = {
         "name": "pixie"
       },
       "created_at": "2020-02-27T00:22:45.000Z",
-      "last_commit_at": "2022-11-29T22:33:08.000Z",
-      "stars": 4043,
+      "last_commit_at": "2022-12-01T23:19:25.000Z",
+      "stars": 4045,
       "forks": 297,
       "subscribers": 71,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:55.004Z"
+      "repository_data_timestamp": "2022-12-02T02:00:54.847Z"
     },
     {
       "index": 1469,
@@ -26645,10 +26645,10 @@ DATA = {
       "created_at": "2014-10-22T01:35:18.000Z",
       "last_commit_at": "2022-10-20T20:16:29.000Z",
       "stars": 1821,
-      "forks": 126,
+      "forks": 125,
       "subscribers": 38,
       "license": "bsd-2-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:54.719Z"
+      "repository_data_timestamp": "2022-12-02T02:00:54.524Z"
     },
     {
       "index": 1470,
@@ -26663,11 +26663,11 @@ DATA = {
       },
       "created_at": "2020-08-14T00:00:41.000Z",
       "last_commit_at": "2022-11-27T10:58:27.000Z",
-      "stars": 2604,
+      "stars": 2605,
       "forks": 87,
       "subscribers": 30,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:54.727Z"
+      "repository_data_timestamp": "2022-12-02T02:00:54.652Z"
     },
     {
       "index": 1471,
@@ -26686,7 +26686,7 @@ DATA = {
       "forks": 3,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:54.778Z"
+      "repository_data_timestamp": "2022-12-02T02:00:54.607Z"
     },
     {
       "index": 1472,
@@ -26705,7 +26705,7 @@ DATA = {
       "forks": 3,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:54.810Z"
+      "repository_data_timestamp": "2022-12-02T02:00:54.708Z"
     },
     {
       "index": 1473,
@@ -26720,11 +26720,11 @@ DATA = {
       },
       "created_at": "2020-09-22T10:33:56.000Z",
       "last_commit_at": "2022-11-23T15:38:04.000Z",
-      "stars": 3853,
+      "stars": 3857,
       "forks": 87,
       "subscribers": 25,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:54.847Z"
+      "repository_data_timestamp": "2022-12-02T02:00:54.730Z"
     },
     {
       "index": 1474,
@@ -26739,11 +26739,11 @@ DATA = {
       },
       "created_at": "2018-05-19T16:15:18.000Z",
       "last_commit_at": "2022-11-28T11:29:44.000Z",
-      "stars": 1966,
+      "stars": 1967,
       "forks": 130,
       "subscribers": 31,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:55.002Z"
+      "repository_data_timestamp": "2022-12-02T02:00:54.803Z"
     },
     {
       "index": 1475,
@@ -26762,7 +26762,7 @@ DATA = {
       "forks": 5,
       "subscribers": 6,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:55.046Z"
+      "repository_data_timestamp": "2022-12-02T02:00:54.838Z"
     },
     {
       "index": 1476,
@@ -26776,12 +26776,12 @@ DATA = {
         "name": "gqlgen"
       },
       "created_at": "2018-02-11T04:54:11.000Z",
-      "last_commit_at": "2022-11-28T19:08:19.000Z",
-      "stars": 8362,
+      "last_commit_at": "2022-12-01T20:49:21.000Z",
+      "stars": 8365,
       "forks": 972,
       "subscribers": 141,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:55.029Z"
+      "repository_data_timestamp": "2022-12-02T02:00:54.873Z"
     },
     {
       "index": 1477,
@@ -26800,7 +26800,7 @@ DATA = {
       "forks": 7,
       "subscribers": 11,
       "license": "isc",
-      "repository_data_timestamp": "2022-12-01T02:00:55.046Z"
+      "repository_data_timestamp": "2022-12-02T02:00:54.885Z"
     },
     {
       "index": 1478,
@@ -26819,7 +26819,7 @@ DATA = {
       "forks": 479,
       "subscribers": 85,
       "license": "bsd-2-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:55.351Z"
+      "repository_data_timestamp": "2022-12-02T02:00:55.187Z"
     },
     {
       "index": 1479,
@@ -26834,11 +26834,11 @@ DATA = {
       },
       "created_at": "2015-07-19T12:25:43.000Z",
       "last_commit_at": "2022-11-29T12:43:36.000Z",
-      "stars": 8902,
+      "stars": 8907,
       "forks": 793,
-      "subscribers": 151,
+      "subscribers": 150,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:55.090Z"
+      "repository_data_timestamp": "2022-12-02T02:00:54.943Z"
     },
     {
       "index": 1480,
@@ -26857,7 +26857,7 @@ DATA = {
       "forks": 2,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:55.120Z"
+      "repository_data_timestamp": "2022-12-02T02:00:55.032Z"
     },
     {
       "index": 1481,
@@ -26876,7 +26876,7 @@ DATA = {
       "forks": 2,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:55.105Z"
+      "repository_data_timestamp": "2022-12-02T02:00:55.005Z"
     },
     {
       "index": 1482,
@@ -26895,7 +26895,7 @@ DATA = {
       "forks": 37,
       "subscribers": 11,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:55.141Z"
+      "repository_data_timestamp": "2022-12-02T02:00:55.022Z"
     },
     {
       "index": 1483,
@@ -26914,7 +26914,7 @@ DATA = {
       "forks": 7,
       "subscribers": 0,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:55.285Z"
+      "repository_data_timestamp": "2022-12-02T02:00:55.166Z"
     },
     {
       "index": 1484,
@@ -26933,7 +26933,7 @@ DATA = {
       "forks": 35,
       "subscribers": 13,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:55.281Z"
+      "repository_data_timestamp": "2022-12-02T02:00:55.168Z"
     },
     {
       "index": 1485,
@@ -26948,11 +26948,11 @@ DATA = {
       },
       "created_at": "2020-02-10T17:58:42.000Z",
       "last_commit_at": "2022-11-16T14:38:21.000Z",
-      "stars": 47,
+      "stars": 48,
       "forks": 14,
       "subscribers": 3,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:55.350Z"
+      "repository_data_timestamp": "2022-12-02T02:00:55.168Z"
     },
     {
       "index": 1486,
@@ -26971,7 +26971,7 @@ DATA = {
       "forks": 5,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:55.622Z"
+      "repository_data_timestamp": "2022-12-02T02:00:55.436Z"
     },
     {
       "index": 1487,
@@ -26990,7 +26990,7 @@ DATA = {
       "forks": 5,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:55.365Z"
+      "repository_data_timestamp": "2022-12-02T02:00:55.188Z"
     },
     {
       "index": 1488,
@@ -27005,11 +27005,11 @@ DATA = {
       },
       "created_at": "2014-01-26T05:08:04.000Z",
       "last_commit_at": "2019-11-14T16:22:26.000Z",
-      "stars": 629,
+      "stars": 630,
       "forks": 72,
       "subscribers": 16,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:55.373Z"
+      "repository_data_timestamp": "2022-12-02T02:00:55.231Z"
     },
     {
       "index": 1489,
@@ -27028,7 +27028,7 @@ DATA = {
       "forks": 52,
       "subscribers": 18,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:55.592Z"
+      "repository_data_timestamp": "2022-12-02T02:00:55.295Z"
     },
     {
       "index": 1490,
@@ -27047,7 +27047,7 @@ DATA = {
       "forks": 17,
       "subscribers": 8,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:55.412Z"
+      "repository_data_timestamp": "2022-12-02T02:00:55.360Z"
     },
     {
       "index": 1491,
@@ -27066,7 +27066,7 @@ DATA = {
       "forks": 182,
       "subscribers": 58,
       "license": "bsd-2-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:55.434Z"
+      "repository_data_timestamp": "2022-12-02T02:00:55.357Z"
     },
     {
       "index": 1492,
@@ -27085,7 +27085,7 @@ DATA = {
       "forks": 3,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:55.604Z"
+      "repository_data_timestamp": "2022-12-02T02:00:55.471Z"
     },
     {
       "index": 1493,
@@ -27100,11 +27100,11 @@ DATA = {
       },
       "created_at": "2017-03-15T22:24:53.000Z",
       "last_commit_at": "2021-12-04T19:53:01.000Z",
-      "stars": 3408,
+      "stars": 3409,
       "forks": 196,
       "subscribers": 46,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:55.609Z"
+      "repository_data_timestamp": "2022-12-02T02:00:55.497Z"
     },
     {
       "index": 1494,
@@ -27123,7 +27123,7 @@ DATA = {
       "forks": 3,
       "subscribers": 2,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:55.637Z"
+      "repository_data_timestamp": "2022-12-02T02:00:55.500Z"
     },
     {
       "index": 1495,
@@ -27142,7 +27142,7 @@ DATA = {
       "forks": 6,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:55.660Z"
+      "repository_data_timestamp": "2022-12-02T02:00:55.501Z"
     },
     {
       "index": 1496,
@@ -27157,11 +27157,11 @@ DATA = {
       },
       "created_at": "2014-02-04T14:54:51.000Z",
       "last_commit_at": "2022-05-02T17:41:28.000Z",
-      "stars": 3498,
+      "stars": 3500,
       "forks": 222,
       "subscribers": 51,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:55.786Z"
+      "repository_data_timestamp": "2022-12-02T02:00:55.508Z"
     },
     {
       "index": 1497,
@@ -27180,7 +27180,7 @@ DATA = {
       "forks": 6,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:55.685Z"
+      "repository_data_timestamp": "2022-12-02T02:00:55.529Z"
     },
     {
       "index": 1498,
@@ -27195,11 +27195,11 @@ DATA = {
       },
       "created_at": "2015-05-18T13:03:02.000Z",
       "last_commit_at": "2022-01-05T14:21:22.000Z",
-      "stars": 949,
+      "stars": 948,
       "forks": 83,
       "subscribers": 20,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:55.686Z"
+      "repository_data_timestamp": "2022-12-02T02:00:55.578Z"
     },
     {
       "index": 1499,
@@ -27218,7 +27218,7 @@ DATA = {
       "forks": 3,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:55.720Z"
+      "repository_data_timestamp": "2022-12-02T02:00:55.656Z"
     },
     {
       "index": 1500,
@@ -27237,7 +27237,7 @@ DATA = {
       "forks": 2,
       "subscribers": 3,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:55.874Z"
+      "repository_data_timestamp": "2022-12-02T02:00:55.673Z"
     },
     {
       "index": 1501,
@@ -27256,7 +27256,7 @@ DATA = {
       "forks": 16,
       "subscribers": 9,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:55.908Z"
+      "repository_data_timestamp": "2022-12-02T02:00:55.780Z"
     },
     {
       "index": 1502,
@@ -27275,7 +27275,7 @@ DATA = {
       "forks": 103,
       "subscribers": 43,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:55.893Z"
+      "repository_data_timestamp": "2022-12-02T02:00:55.788Z"
     },
     {
       "index": 1503,
@@ -27294,7 +27294,7 @@ DATA = {
       "forks": 80,
       "subscribers": 40,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:55.947Z"
+      "repository_data_timestamp": "2022-12-02T02:00:55.779Z"
     },
     {
       "index": 1504,
@@ -27313,7 +27313,7 @@ DATA = {
       "forks": 3,
       "subscribers": 4,
       "license": "bsd-2-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:55.928Z"
+      "repository_data_timestamp": "2022-12-02T02:00:55.816Z"
     },
     {
       "index": 1505,
@@ -27332,7 +27332,7 @@ DATA = {
       "forks": 15,
       "subscribers": 5,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:55.988Z"
+      "repository_data_timestamp": "2022-12-02T02:00:55.844Z"
     },
     {
       "index": 1506,
@@ -27351,7 +27351,7 @@ DATA = {
       "forks": 34,
       "subscribers": 24,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:55.980Z"
+      "repository_data_timestamp": "2022-12-02T02:00:55.836Z"
     },
     {
       "index": 1507,
@@ -27370,7 +27370,7 @@ DATA = {
       "forks": 18,
       "subscribers": 5,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:56.004Z"
+      "repository_data_timestamp": "2022-12-02T02:00:55.877Z"
     },
     {
       "index": 1508,
@@ -27389,7 +27389,7 @@ DATA = {
       "forks": 83,
       "subscribers": 30,
       "license": "isc",
-      "repository_data_timestamp": "2022-12-01T02:00:56.073Z"
+      "repository_data_timestamp": "2022-12-02T02:00:55.949Z"
     },
     {
       "index": 1509,
@@ -27408,7 +27408,7 @@ DATA = {
       "forks": 8,
       "subscribers": 6,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:56.141Z"
+      "repository_data_timestamp": "2022-12-02T02:00:55.978Z"
     },
     {
       "index": 1510,
@@ -27427,7 +27427,7 @@ DATA = {
       "forks": 2,
       "subscribers": 0,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:56.172Z"
+      "repository_data_timestamp": "2022-12-02T02:00:56.081Z"
     },
     {
       "index": 1511,
@@ -27446,7 +27446,7 @@ DATA = {
       "forks": 1,
       "subscribers": 2,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:56.167Z"
+      "repository_data_timestamp": "2022-12-02T02:00:56.074Z"
     },
     {
       "index": 1512,
@@ -27465,7 +27465,7 @@ DATA = {
       "forks": 4,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:56.207Z"
+      "repository_data_timestamp": "2022-12-02T02:00:56.103Z"
     },
     {
       "index": 1513,
@@ -27484,7 +27484,7 @@ DATA = {
       "forks": 31,
       "subscribers": 18,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:56.223Z"
+      "repository_data_timestamp": "2022-12-02T02:00:56.124Z"
     },
     {
       "index": 1514,
@@ -27499,11 +27499,11 @@ DATA = {
       },
       "created_at": "2017-03-25T14:54:38.000Z",
       "last_commit_at": "2022-11-30T07:51:58.000Z",
-      "stars": 6198,
+      "stars": 6200,
       "forks": 486,
       "subscribers": 123,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:56.276Z"
+      "repository_data_timestamp": "2022-12-02T02:00:56.118Z"
     },
     {
       "index": 1515,
@@ -27522,7 +27522,7 @@ DATA = {
       "forks": 192,
       "subscribers": 55,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:56.279Z"
+      "repository_data_timestamp": "2022-12-02T02:00:56.160Z"
     },
     {
       "index": 1516,
@@ -27541,7 +27541,7 @@ DATA = {
       "forks": 79,
       "subscribers": 39,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:56.306Z"
+      "repository_data_timestamp": "2022-12-02T02:00:56.137Z"
     },
     {
       "index": 1517,
@@ -27560,7 +27560,7 @@ DATA = {
       "forks": 148,
       "subscribers": 75,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:56.300Z"
+      "repository_data_timestamp": "2022-12-02T02:00:56.171Z"
     },
     {
       "index": 1518,
@@ -27579,7 +27579,7 @@ DATA = {
       "forks": 2,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:56.355Z"
+      "repository_data_timestamp": "2022-12-02T02:00:56.238Z"
     },
     {
       "index": 1519,
@@ -27598,7 +27598,7 @@ DATA = {
       "forks": 58,
       "subscribers": 22,
       "license": "bsd-2-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:56.433Z"
+      "repository_data_timestamp": "2022-12-02T02:00:56.279Z"
     },
     {
       "index": 1520,
@@ -27617,7 +27617,7 @@ DATA = {
       "forks": 5,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:56.475Z"
+      "repository_data_timestamp": "2022-12-02T02:00:56.354Z"
     },
     {
       "index": 1521,
@@ -27636,7 +27636,7 @@ DATA = {
       "forks": 3,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:56.471Z"
+      "repository_data_timestamp": "2022-12-02T02:00:56.366Z"
     },
     {
       "index": 1522,
@@ -27655,7 +27655,7 @@ DATA = {
       "forks": 78,
       "subscribers": 22,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:56.498Z"
+      "repository_data_timestamp": "2022-12-02T02:00:56.464Z"
     },
     {
       "index": 1523,
@@ -27674,7 +27674,7 @@ DATA = {
       "forks": 21,
       "subscribers": 8,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:56.524Z"
+      "repository_data_timestamp": "2022-12-02T02:00:56.422Z"
     },
     {
       "index": 1524,
@@ -27693,7 +27693,7 @@ DATA = {
       "forks": 3,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:56.577Z"
+      "repository_data_timestamp": "2022-12-02T02:00:56.421Z"
     },
     {
       "index": 1525,
@@ -27712,7 +27712,7 @@ DATA = {
       "forks": 4,
       "subscribers": 4,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:56.589Z"
+      "repository_data_timestamp": "2022-12-02T02:00:56.458Z"
     },
     {
       "index": 1526,
@@ -27731,7 +27731,7 @@ DATA = {
       "forks": 2,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:56.613Z"
+      "repository_data_timestamp": "2022-12-02T02:00:56.462Z"
     },
     {
       "index": 1527,
@@ -27750,7 +27750,7 @@ DATA = {
       "forks": 21,
       "subscribers": 8,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:56.643Z"
+      "repository_data_timestamp": "2022-12-02T02:00:56.472Z"
     },
     {
       "index": 1528,
@@ -27765,11 +27765,11 @@ DATA = {
       },
       "created_at": "2014-12-16T03:25:19.000Z",
       "last_commit_at": "2022-04-18T14:26:56.000Z",
-      "stars": 2571,
+      "stars": 2573,
       "forks": 163,
       "subscribers": 56,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:56.661Z"
+      "repository_data_timestamp": "2022-12-02T02:00:56.522Z"
     },
     {
       "index": 1529,
@@ -27788,7 +27788,7 @@ DATA = {
       "forks": 111,
       "subscribers": 70,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:56.731Z"
+      "repository_data_timestamp": "2022-12-02T02:00:56.568Z"
     },
     {
       "index": 1530,
@@ -27807,7 +27807,7 @@ DATA = {
       "forks": 19,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:56.783Z"
+      "repository_data_timestamp": "2022-12-02T02:00:56.651Z"
     },
     {
       "index": 1531,
@@ -27826,7 +27826,7 @@ DATA = {
       "forks": 3,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:56.769Z"
+      "repository_data_timestamp": "2022-12-02T02:00:56.650Z"
     },
     {
       "index": 1532,
@@ -27845,7 +27845,7 @@ DATA = {
       "forks": 130,
       "subscribers": 62,
       "license": null,
-      "repository_data_timestamp": "2022-12-01T02:00:57.129Z"
+      "repository_data_timestamp": "2022-12-02T02:00:57.006Z"
     },
     {
       "index": 1533,
@@ -27859,12 +27859,12 @@ DATA = {
         "name": "acra"
       },
       "created_at": "2016-11-14T16:23:25.000Z",
-      "last_commit_at": "2022-12-01T00:09:17.000Z",
-      "stars": 1090,
-      "forks": 112,
+      "last_commit_at": "2022-12-02T00:46:17.000Z",
+      "stars": 1091,
+      "forks": 113,
       "subscribers": 43,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:56.845Z"
+      "repository_data_timestamp": "2022-12-02T02:00:56.721Z"
     },
     {
       "index": 1534,
@@ -27879,11 +27879,11 @@ DATA = {
       },
       "created_at": "2019-05-18T20:44:54.000Z",
       "last_commit_at": "2022-10-28T18:12:28.000Z",
-      "stars": 12144,
-      "forks": 382,
+      "stars": 12157,
+      "forks": 383,
       "subscribers": 137,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:56.875Z"
+      "repository_data_timestamp": "2022-12-02T02:00:56.746Z"
     },
     {
       "index": 1535,
@@ -27902,7 +27902,7 @@ DATA = {
       "forks": 5,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:56.882Z"
+      "repository_data_timestamp": "2022-12-02T02:00:56.729Z"
     },
     {
       "index": 1536,
@@ -27921,7 +27921,7 @@ DATA = {
       "forks": 10,
       "subscribers": 4,
       "license": "gpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:00:56.907Z"
+      "repository_data_timestamp": "2022-12-02T02:00:56.769Z"
     },
     {
       "index": 1537,
@@ -27948,7 +27948,7 @@ DATA = {
       "forks": 16,
       "subscribers": 8,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:56.931Z"
+      "repository_data_timestamp": "2022-12-02T02:00:56.777Z"
     },
     {
       "index": 1539,
@@ -27967,7 +27967,7 @@ DATA = {
       "forks": 448,
       "subscribers": 134,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:56.988Z"
+      "repository_data_timestamp": "2022-12-02T02:00:56.815Z"
     },
     {
       "index": 1540,
@@ -27986,7 +27986,7 @@ DATA = {
       "forks": 8,
       "subscribers": 0,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:57.027Z"
+      "repository_data_timestamp": "2022-12-02T02:00:56.842Z"
     },
     {
       "index": 1541,
@@ -28001,11 +28001,11 @@ DATA = {
       },
       "created_at": "2018-12-10T03:12:30.000Z",
       "last_commit_at": "2022-10-29T09:21:16.000Z",
-      "stars": 4282,
+      "stars": 4281,
       "forks": 235,
       "subscribers": 57,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:57.113Z"
+      "repository_data_timestamp": "2022-12-02T02:00:56.956Z"
     },
     {
       "index": 1542,
@@ -28020,11 +28020,11 @@ DATA = {
       },
       "created_at": "2020-05-27T17:06:51.000Z",
       "last_commit_at": "2022-11-30T11:49:00.000Z",
-      "stars": 793,
+      "stars": 796,
       "forks": 105,
       "subscribers": 25,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:57.113Z"
+      "repository_data_timestamp": "2022-12-02T02:00:56.982Z"
     },
     {
       "index": 1543,
@@ -28039,11 +28039,11 @@ DATA = {
       },
       "created_at": "2021-08-11T07:11:54.000Z",
       "last_commit_at": "2022-11-30T09:58:37.000Z",
-      "stars": 408,
-      "forks": 26,
+      "stars": 420,
+      "forks": 27,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:57.149Z"
+      "repository_data_timestamp": "2022-12-02T02:00:57.023Z"
     },
     {
       "index": 1544,
@@ -28062,7 +28062,7 @@ DATA = {
       "forks": 18,
       "subscribers": 10,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:57.169Z"
+      "repository_data_timestamp": "2022-12-02T02:00:57.038Z"
     },
     {
       "index": 1545,
@@ -28081,7 +28081,7 @@ DATA = {
       "forks": 7,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:57.157Z"
+      "repository_data_timestamp": "2022-12-02T02:00:57.029Z"
     },
     {
       "index": 1546,
@@ -28100,7 +28100,7 @@ DATA = {
       "forks": 10,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:57.215Z"
+      "repository_data_timestamp": "2022-12-02T02:00:57.084Z"
     },
     {
       "index": 1547,
@@ -28115,11 +28115,11 @@ DATA = {
       },
       "created_at": "2020-10-14T15:52:14.000Z",
       "last_commit_at": "2022-09-22T23:43:20.000Z",
-      "stars": 366,
+      "stars": 367,
       "forks": 32,
       "subscribers": 9,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:57.501Z"
+      "repository_data_timestamp": "2022-12-02T02:00:57.365Z"
     },
     {
       "index": 1548,
@@ -28133,12 +28133,12 @@ DATA = {
         "name": "go-yara"
       },
       "created_at": "2015-01-25T01:01:11.000Z",
-      "last_commit_at": "2022-08-03T11:35:08.000Z",
+      "last_commit_at": "2022-12-02T00:31:28.000Z",
       "stars": 277,
       "forks": 99,
       "subscribers": 22,
       "license": "bsd-2-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:57.288Z"
+      "repository_data_timestamp": "2022-12-02T02:00:57.129Z"
     },
     {
       "index": 1549,
@@ -28157,7 +28157,7 @@ DATA = {
       "forks": 7,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:57.335Z"
+      "repository_data_timestamp": "2022-12-02T02:00:57.141Z"
     },
     {
       "index": 1550,
@@ -28176,7 +28176,7 @@ DATA = {
       "forks": 9,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:57.400Z"
+      "repository_data_timestamp": "2022-12-02T02:00:57.219Z"
     },
     {
       "index": 1551,
@@ -28198,12 +28198,12 @@ DATA = {
         "name": "lego"
       },
       "created_at": "2015-06-08T00:36:41.000Z",
-      "last_commit_at": "2022-11-28T17:54:10.000Z",
-      "stars": 5733,
+      "last_commit_at": "2022-12-01T21:54:05.000Z",
+      "stars": 5735,
       "forks": 765,
       "subscribers": 95,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:57.417Z"
+      "repository_data_timestamp": "2022-12-02T02:00:57.279Z"
     },
     {
       "index": 1553,
@@ -28222,7 +28222,7 @@ DATA = {
       "forks": 102,
       "subscribers": 50,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:57.433Z"
+      "repository_data_timestamp": "2022-12-02T02:00:57.311Z"
     },
     {
       "index": 1554,
@@ -28241,7 +28241,7 @@ DATA = {
       "forks": 31,
       "subscribers": 11,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:57.439Z"
+      "repository_data_timestamp": "2022-12-02T02:00:57.331Z"
     },
     {
       "index": 1555,
@@ -28260,7 +28260,7 @@ DATA = {
       "forks": 21,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:57.467Z"
+      "repository_data_timestamp": "2022-12-02T02:00:57.311Z"
     },
     {
       "index": 1556,
@@ -28279,7 +28279,7 @@ DATA = {
       "forks": 29,
       "subscribers": 10,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:57.443Z"
+      "repository_data_timestamp": "2022-12-02T02:00:57.359Z"
     },
     {
       "index": 1557,
@@ -28298,7 +28298,7 @@ DATA = {
       "forks": 2,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:57.505Z"
+      "repository_data_timestamp": "2022-12-02T02:00:57.379Z"
     },
     {
       "index": 1558,
@@ -28317,7 +28317,7 @@ DATA = {
       "forks": 125,
       "subscribers": 33,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:57.583Z"
+      "repository_data_timestamp": "2022-12-02T02:00:57.412Z"
     },
     {
       "index": 1559,
@@ -28336,7 +28336,7 @@ DATA = {
       "forks": 4,
       "subscribers": 3,
       "license": "lgpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:00:57.634Z"
+      "repository_data_timestamp": "2022-12-02T02:00:57.418Z"
     },
     {
       "index": 1560,
@@ -28355,7 +28355,7 @@ DATA = {
       "forks": 27,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:57.704Z"
+      "repository_data_timestamp": "2022-12-02T02:00:57.513Z"
     },
     {
       "index": 1561,
@@ -28374,7 +28374,7 @@ DATA = {
       "forks": 24,
       "subscribers": 8,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:57.721Z"
+      "repository_data_timestamp": "2022-12-02T02:00:57.578Z"
     },
     {
       "index": 1562,
@@ -28393,7 +28393,7 @@ DATA = {
       "forks": 4,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:57.737Z"
+      "repository_data_timestamp": "2022-12-02T02:00:57.599Z"
     },
     {
       "index": 1563,
@@ -28412,7 +28412,7 @@ DATA = {
       "forks": 137,
       "subscribers": 42,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:57.761Z"
+      "repository_data_timestamp": "2022-12-02T02:00:57.615Z"
     },
     {
       "index": 1564,
@@ -28431,7 +28431,7 @@ DATA = {
       "forks": 27,
       "subscribers": 9,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:58.058Z"
+      "repository_data_timestamp": "2022-12-02T02:00:57.967Z"
     },
     {
       "index": 1565,
@@ -28450,7 +28450,7 @@ DATA = {
       "forks": 12,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:57.808Z"
+      "repository_data_timestamp": "2022-12-02T02:00:57.637Z"
     },
     {
       "index": 1566,
@@ -28469,7 +28469,7 @@ DATA = {
       "forks": 8,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:58.126Z"
+      "repository_data_timestamp": "2022-12-02T02:00:57.935Z"
     },
     {
       "index": 1567,
@@ -28488,7 +28488,7 @@ DATA = {
       "forks": 17,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:57.792Z"
+      "repository_data_timestamp": "2022-12-02T02:00:57.726Z"
     },
     {
       "index": 1568,
@@ -28503,11 +28503,11 @@ DATA = {
       },
       "created_at": "2019-05-15T21:22:15.000Z",
       "last_commit_at": "2022-11-19T17:57:35.000Z",
-      "stars": 510,
+      "stars": 511,
       "forks": 47,
       "subscribers": 9,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:57.893Z"
+      "repository_data_timestamp": "2022-12-02T02:00:57.703Z"
     },
     {
       "index": 1569,
@@ -28522,11 +28522,11 @@ DATA = {
       },
       "created_at": "2015-09-05T16:42:41.000Z",
       "last_commit_at": "2022-03-29T22:35:10.000Z",
-      "stars": 677,
+      "stars": 678,
       "forks": 49,
       "subscribers": 31,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:57.939Z"
+      "repository_data_timestamp": "2022-12-02T02:00:57.760Z"
     },
     {
       "index": 1570,
@@ -28545,7 +28545,7 @@ DATA = {
       "forks": 54,
       "subscribers": 9,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:57.999Z"
+      "repository_data_timestamp": "2022-12-02T02:00:57.817Z"
     },
     {
       "index": 1571,
@@ -28564,7 +28564,7 @@ DATA = {
       "forks": 4,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:58.028Z"
+      "repository_data_timestamp": "2022-12-02T02:00:57.868Z"
     },
     {
       "index": 1572,
@@ -28583,7 +28583,7 @@ DATA = {
       "forks": 2,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:58.063Z"
+      "repository_data_timestamp": "2022-12-02T02:00:57.890Z"
     },
     {
       "index": 1573,
@@ -28602,7 +28602,7 @@ DATA = {
       "forks": 7,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:58.057Z"
+      "repository_data_timestamp": "2022-12-02T02:00:57.880Z"
     },
     {
       "index": 1574,
@@ -28621,7 +28621,7 @@ DATA = {
       "forks": 21,
       "subscribers": 11,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:58.126Z"
+      "repository_data_timestamp": "2022-12-02T02:00:57.974Z"
     },
     {
       "index": 1575,
@@ -28640,7 +28640,7 @@ DATA = {
       "forks": 286,
       "subscribers": 52,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:58.095Z"
+      "repository_data_timestamp": "2022-12-02T02:00:57.987Z"
     },
     {
       "index": 1576,
@@ -28659,7 +28659,7 @@ DATA = {
       "forks": 2,
       "subscribers": 2,
       "license": "isc",
-      "repository_data_timestamp": "2022-12-01T02:00:58.184Z"
+      "repository_data_timestamp": "2022-12-02T02:00:58.025Z"
     },
     {
       "index": 1577,
@@ -28674,11 +28674,11 @@ DATA = {
       },
       "created_at": "2014-12-03T11:27:10.000Z",
       "last_commit_at": "2022-11-27T13:07:39.000Z",
-      "stars": 5475,
-      "forks": 742,
+      "stars": 5476,
+      "forks": 743,
       "subscribers": 104,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:58.222Z"
+      "repository_data_timestamp": "2022-12-02T02:00:58.073Z"
     },
     {
       "index": 1578,
@@ -28693,11 +28693,11 @@ DATA = {
       },
       "created_at": "2014-11-23T23:07:23.000Z",
       "last_commit_at": "2022-11-10T08:07:57.000Z",
-      "stars": 8814,
-      "forks": 1573,
+      "stars": 8818,
+      "forks": 1575,
       "subscribers": 216,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:58.285Z"
+      "repository_data_timestamp": "2022-12-02T02:00:58.116Z"
     },
     {
       "index": 1579,
@@ -28712,11 +28712,11 @@ DATA = {
       },
       "created_at": "2016-11-30T00:30:24.000Z",
       "last_commit_at": "2022-11-19T06:05:21.000Z",
-      "stars": 11553,
+      "stars": 11554,
       "forks": 930,
       "subscribers": 229,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:58.312Z"
+      "repository_data_timestamp": "2022-12-02T02:00:58.157Z"
     },
     {
       "index": 1580,
@@ -28731,11 +28731,11 @@ DATA = {
       },
       "created_at": "2013-05-20T05:24:34.000Z",
       "last_commit_at": "2022-11-01T15:25:26.000Z",
-      "stars": 6367,
+      "stars": 6370,
       "forks": 607,
       "subscribers": 71,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:58.350Z"
+      "repository_data_timestamp": "2022-12-02T02:00:58.189Z"
     },
     {
       "index": 1581,
@@ -28754,7 +28754,7 @@ DATA = {
       "forks": 44,
       "subscribers": 10,
       "license": "bsd-2-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:58.379Z"
+      "repository_data_timestamp": "2022-12-02T02:00:58.202Z"
     },
     {
       "index": 1582,
@@ -28773,7 +28773,7 @@ DATA = {
       "forks": 3,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:58.416Z"
+      "repository_data_timestamp": "2022-12-02T02:00:58.542Z"
     },
     {
       "index": 1583,
@@ -28792,7 +28792,7 @@ DATA = {
       "forks": 11,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:58.674Z"
+      "repository_data_timestamp": "2022-12-02T02:00:58.542Z"
     },
     {
       "index": 1584,
@@ -28811,7 +28811,7 @@ DATA = {
       "forks": 1,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:58.462Z"
+      "repository_data_timestamp": "2022-12-02T02:00:58.283Z"
     },
     {
       "index": 1585,
@@ -28830,7 +28830,7 @@ DATA = {
       "forks": 112,
       "subscribers": 52,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:00:58.472Z"
+      "repository_data_timestamp": "2022-12-02T02:00:58.286Z"
     },
     {
       "index": 1586,
@@ -28845,11 +28845,11 @@ DATA = {
       },
       "created_at": "2015-01-13T19:45:03.000Z",
       "last_commit_at": "2022-11-30T23:03:35.000Z",
-      "stars": 44551,
-      "forks": 3459,
+      "stars": 44568,
+      "forks": 3461,
       "subscribers": 808,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:58.482Z"
+      "repository_data_timestamp": "2022-12-02T02:00:58.348Z"
     },
     {
       "index": 1587,
@@ -28876,7 +28876,7 @@ DATA = {
       "forks": 35,
       "subscribers": 3,
       "license": "mpl-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:58.509Z"
+      "repository_data_timestamp": "2022-12-02T02:00:58.354Z"
     },
     {
       "index": 1589,
@@ -28895,7 +28895,7 @@ DATA = {
       "forks": 146,
       "subscribers": 73,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:58.577Z"
+      "repository_data_timestamp": "2022-12-02T02:00:58.413Z"
     },
     {
       "index": 1590,
@@ -28914,7 +28914,7 @@ DATA = {
       "forks": 392,
       "subscribers": 61,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:58.633Z"
+      "repository_data_timestamp": "2022-12-02T02:00:58.448Z"
     },
     {
       "index": 1591,
@@ -28933,7 +28933,7 @@ DATA = {
       "forks": 16,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:58.628Z"
+      "repository_data_timestamp": "2022-12-02T02:00:58.473Z"
     },
     {
       "index": 1592,
@@ -28947,12 +28947,12 @@ DATA = {
         "name": "dummy"
       },
       "created_at": "2021-11-12T06:54:04.000Z",
-      "last_commit_at": "2022-11-30T14:04:34.000Z",
+      "last_commit_at": "2022-12-01T14:06:04.000Z",
       "stars": 164,
       "forks": 8,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:58.674Z"
+      "repository_data_timestamp": "2022-12-02T02:00:58.484Z"
     },
     {
       "index": 1593,
@@ -28966,12 +28966,12 @@ DATA = {
         "name": "easegress"
       },
       "created_at": "2021-05-28T03:02:42.000Z",
-      "last_commit_at": "2022-11-30T03:22:18.000Z",
-      "stars": 4892,
+      "last_commit_at": "2022-12-02T01:06:59.000Z",
+      "stars": 4893,
       "forks": 421,
       "subscribers": 102,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:58.709Z"
+      "repository_data_timestamp": "2022-12-02T02:00:58.591Z"
     },
     {
       "index": 1594,
@@ -28985,12 +28985,12 @@ DATA = {
         "name": "etcd"
       },
       "created_at": "2013-07-06T21:57:21.000Z",
-      "last_commit_at": "2022-12-01T01:57:39.000Z",
-      "stars": 41983,
-      "forks": 8950,
+      "last_commit_at": "2022-12-02T01:50:46.000Z",
+      "stars": 41993,
+      "forks": 8951,
       "subscribers": 1349,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:59.047Z"
+      "repository_data_timestamp": "2022-12-02T02:00:58.880Z"
     },
     {
       "index": 1595,
@@ -29005,11 +29005,11 @@ DATA = {
       },
       "created_at": "2014-01-01T12:51:54.000Z",
       "last_commit_at": "2022-07-16T05:59:43.000Z",
-      "stars": 449,
+      "stars": 448,
       "forks": 27,
-      "subscribers": 12,
+      "subscribers": 13,
       "license": "gpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:00:58.781Z"
+      "repository_data_timestamp": "2022-12-02T02:00:58.668Z"
     },
     {
       "index": 1596,
@@ -29023,12 +29023,12 @@ DATA = {
         "name": "fider"
       },
       "created_at": "2017-01-17T22:55:19.000Z",
-      "last_commit_at": "2022-11-29T20:16:24.000Z",
-      "stars": 2103,
-      "forks": 563,
+      "last_commit_at": "2022-12-01T23:23:41.000Z",
+      "stars": 2104,
+      "forks": 564,
       "subscribers": 35,
       "license": "agpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:00:58.778Z"
+      "repository_data_timestamp": "2022-12-02T02:00:58.652Z"
     },
     {
       "index": 1597,
@@ -29047,7 +29047,7 @@ DATA = {
       "forks": 166,
       "subscribers": 69,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:59.063Z"
+      "repository_data_timestamp": "2022-12-02T02:00:58.997Z"
     },
     {
       "index": 1598,
@@ -29061,12 +29061,12 @@ DATA = {
         "name": "flipt"
       },
       "created_at": "2016-11-05T00:09:07.000Z",
-      "last_commit_at": "2022-11-30T17:24:57.000Z",
+      "last_commit_at": "2022-12-01T19:01:52.000Z",
       "stars": 1941,
       "forks": 107,
       "subscribers": 18,
       "license": "gpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:00:59.108Z"
+      "repository_data_timestamp": "2022-12-02T02:00:59.060Z"
     },
     {
       "index": 1599,
@@ -29085,7 +29085,7 @@ DATA = {
       "forks": 37,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:58.916Z"
+      "repository_data_timestamp": "2022-12-02T02:00:58.756Z"
     },
     {
       "index": 1600,
@@ -29104,7 +29104,7 @@ DATA = {
       "forks": 10,
       "subscribers": 1,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:58.930Z"
+      "repository_data_timestamp": "2022-12-02T02:00:58.764Z"
     },
     {
       "index": 1601,
@@ -29118,12 +29118,12 @@ DATA = {
         "name": "jackal"
       },
       "created_at": "2017-11-13T18:17:48.000Z",
-      "last_commit_at": "2022-11-29T15:09:44.000Z",
+      "last_commit_at": "2022-12-01T19:56:33.000Z",
       "stars": 1360,
       "forks": 128,
       "subscribers": 39,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:58.953Z"
+      "repository_data_timestamp": "2022-12-02T02:00:58.834Z"
     },
     {
       "index": 1602,
@@ -29142,7 +29142,7 @@ DATA = {
       "forks": 12,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:58.989Z"
+      "repository_data_timestamp": "2022-12-02T02:00:58.855Z"
     },
     {
       "index": 1603,
@@ -29156,12 +29156,12 @@ DATA = {
         "name": "minio"
       },
       "created_at": "2015-01-14T19:23:58.000Z",
-      "last_commit_at": "2022-11-30T21:52:26.000Z",
-      "stars": 36512,
+      "last_commit_at": "2022-12-02T00:32:35.000Z",
+      "stars": 36531,
       "forks": 4340,
-      "subscribers": 606,
+      "subscribers": 607,
       "license": "agpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:00:59.007Z"
+      "repository_data_timestamp": "2022-12-02T02:00:58.896Z"
     },
     {
       "index": 1604,
@@ -29180,7 +29180,7 @@ DATA = {
       "forks": 1,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:59.071Z"
+      "repository_data_timestamp": "2022-12-02T02:00:58.938Z"
     },
     {
       "index": 1605,
@@ -29199,7 +29199,7 @@ DATA = {
       "forks": 5,
       "subscribers": 1,
       "license": "mpl-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:59.095Z"
+      "repository_data_timestamp": "2022-12-02T02:00:58.977Z"
     },
     {
       "index": 1606,
@@ -29214,11 +29214,11 @@ DATA = {
       },
       "created_at": "2012-05-12T14:37:08.000Z",
       "last_commit_at": "2022-10-24T03:20:26.000Z",
-      "stars": 22967,
-      "forks": 2809,
+      "stars": 22975,
+      "forks": 2810,
       "subscribers": 849,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:59.387Z"
+      "repository_data_timestamp": "2022-12-02T02:00:59.337Z"
     },
     {
       "index": 1607,
@@ -29237,7 +29237,7 @@ DATA = {
       "forks": 3,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:59.248Z"
+      "repository_data_timestamp": "2022-12-02T02:00:59.049Z"
     },
     {
       "index": 1608,
@@ -29256,7 +29256,7 @@ DATA = {
       "forks": 11,
       "subscribers": 4,
       "license": "mpl-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:59.220Z"
+      "repository_data_timestamp": "2022-12-02T02:00:59.050Z"
     },
     {
       "index": 1609,
@@ -29275,7 +29275,7 @@ DATA = {
       "forks": 2,
       "subscribers": 1,
       "license": "mpl-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:59.241Z"
+      "repository_data_timestamp": "2022-12-02T02:00:59.131Z"
     },
     {
       "index": 1610,
@@ -29289,12 +29289,12 @@ DATA = {
         "name": "roadrunner"
       },
       "created_at": "2017-12-26T16:13:10.000Z",
-      "last_commit_at": "2022-11-30T16:47:45.000Z",
-      "stars": 6888,
+      "last_commit_at": "2022-12-01T12:41:21.000Z",
+      "stars": 6889,
       "forks": 375,
       "subscribers": 154,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:59.563Z"
+      "repository_data_timestamp": "2022-12-02T02:00:59.405Z"
     },
     {
       "index": 1611,
@@ -29309,11 +29309,11 @@ DATA = {
       },
       "created_at": "2019-07-20T10:18:31.000Z",
       "last_commit_at": "2022-11-29T18:29:36.000Z",
-      "stars": 5192,
+      "stars": 5200,
       "forks": 452,
       "subscribers": 84,
       "license": "agpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:00:59.283Z"
+      "repository_data_timestamp": "2022-12-02T02:00:59.183Z"
     },
     {
       "index": 1612,
@@ -29332,7 +29332,7 @@ DATA = {
       "forks": 5,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:59.329Z"
+      "repository_data_timestamp": "2022-12-02T02:00:59.189Z"
     },
     {
       "index": 1613,
@@ -29351,7 +29351,7 @@ DATA = {
       "forks": 163,
       "subscribers": 43,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:59.635Z"
+      "repository_data_timestamp": "2022-12-02T02:00:59.492Z"
     },
     {
       "index": 1614,
@@ -29365,12 +29365,12 @@ DATA = {
         "name": "wish"
       },
       "created_at": "2019-12-19T00:11:55.000Z",
-      "last_commit_at": "2022-11-30T17:55:48.000Z",
-      "stars": 1687,
-      "forks": 30,
+      "last_commit_at": "2022-12-01T14:40:59.000Z",
+      "stars": 1690,
+      "forks": 31,
       "subscribers": 10,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:59.402Z"
+      "repository_data_timestamp": "2022-12-02T02:00:59.257Z"
     },
     {
       "index": 1615,
@@ -29385,11 +29385,11 @@ DATA = {
       },
       "created_at": "2019-04-30T17:28:15.000Z",
       "last_commit_at": "2022-11-17T17:34:01.000Z",
-      "stars": 1140,
+      "stars": 1142,
       "forks": 98,
       "subscribers": 22,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:59.402Z"
+      "repository_data_timestamp": "2022-12-02T02:00:59.284Z"
     },
     {
       "index": 1616,
@@ -29408,7 +29408,7 @@ DATA = {
       "forks": 1,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:59.496Z"
+      "repository_data_timestamp": "2022-12-02T02:00:59.336Z"
     },
     {
       "index": 1617,
@@ -29427,7 +29427,7 @@ DATA = {
       "forks": 10,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:59.528Z"
+      "repository_data_timestamp": "2022-12-02T02:00:59.351Z"
     },
     {
       "index": 1618,
@@ -29442,11 +29442,11 @@ DATA = {
       },
       "created_at": "2020-11-12T03:52:50.000Z",
       "last_commit_at": "2020-12-08T03:14:39.000Z",
-      "stars": 69,
+      "stars": 70,
       "forks": 9,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:59.520Z"
+      "repository_data_timestamp": "2022-12-02T02:00:59.430Z"
     },
     {
       "index": 1619,
@@ -29465,7 +29465,7 @@ DATA = {
       "forks": 39,
       "subscribers": 14,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:59.574Z"
+      "repository_data_timestamp": "2022-12-02T02:00:59.491Z"
     },
     {
       "index": 1620,
@@ -29484,7 +29484,7 @@ DATA = {
       "forks": 17,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:59.619Z"
+      "repository_data_timestamp": "2022-12-02T02:00:59.475Z"
     },
     {
       "index": 1621,
@@ -29503,7 +29503,7 @@ DATA = {
       "forks": 72,
       "subscribers": 21,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:59.673Z"
+      "repository_data_timestamp": "2022-12-02T02:00:59.544Z"
     },
     {
       "index": 1622,
@@ -29518,11 +29518,11 @@ DATA = {
       },
       "created_at": "2019-02-22T17:04:51.000Z",
       "last_commit_at": "2021-05-12T09:29:11.000Z",
-      "stars": 42,
+      "stars": 43,
       "forks": 7,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:59.686Z"
+      "repository_data_timestamp": "2022-12-02T02:00:59.575Z"
     },
     {
       "index": 1623,
@@ -29541,7 +29541,7 @@ DATA = {
       "forks": 1,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:59.706Z"
+      "repository_data_timestamp": "2022-12-02T02:00:59.636Z"
     },
     {
       "index": 1624,
@@ -29560,7 +29560,7 @@ DATA = {
       "forks": 34,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:59.787Z"
+      "repository_data_timestamp": "2022-12-02T02:00:59.629Z"
     },
     {
       "index": 1625,
@@ -29579,7 +29579,7 @@ DATA = {
       "forks": 91,
       "subscribers": 22,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:00:59.818Z"
+      "repository_data_timestamp": "2022-12-02T02:00:59.754Z"
     },
     {
       "index": 1626,
@@ -29598,7 +29598,7 @@ DATA = {
       "forks": 42,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:59.830Z"
+      "repository_data_timestamp": "2022-12-02T02:00:59.695Z"
     },
     {
       "index": 1627,
@@ -29613,11 +29613,11 @@ DATA = {
       },
       "created_at": "2019-05-20T23:27:47.000Z",
       "last_commit_at": "2022-11-03T20:45:18.000Z",
-      "stars": 849,
+      "stars": 853,
       "forks": 121,
       "subscribers": 15,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:59.843Z"
+      "repository_data_timestamp": "2022-12-02T02:00:59.711Z"
     },
     {
       "index": 1628,
@@ -29636,7 +29636,7 @@ DATA = {
       "forks": 231,
       "subscribers": 63,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:59.868Z"
+      "repository_data_timestamp": "2022-12-02T02:00:59.757Z"
     },
     {
       "index": 1629,
@@ -29651,11 +29651,11 @@ DATA = {
       },
       "created_at": "2016-03-06T21:42:01.000Z",
       "last_commit_at": "2022-03-21T19:22:48.000Z",
-      "stars": 2612,
+      "stars": 2611,
       "forks": 140,
       "subscribers": 61,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:59.909Z"
+      "repository_data_timestamp": "2022-12-02T02:00:59.772Z"
     },
     {
       "index": 1630,
@@ -29670,11 +29670,11 @@ DATA = {
       },
       "created_at": "2015-04-22T13:07:59.000Z",
       "last_commit_at": "2022-11-02T03:05:03.000Z",
-      "stars": 502,
+      "stars": 503,
       "forks": 77,
       "subscribers": 13,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:59.924Z"
+      "repository_data_timestamp": "2022-12-02T02:00:59.777Z"
     },
     {
       "index": 1631,
@@ -29693,7 +29693,7 @@ DATA = {
       "forks": 89,
       "subscribers": 57,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:00:59.963Z"
+      "repository_data_timestamp": "2022-12-02T02:00:59.860Z"
     },
     {
       "index": 1632,
@@ -29708,11 +29708,11 @@ DATA = {
       },
       "created_at": "2013-12-15T01:14:48.000Z",
       "last_commit_at": "2022-04-06T21:12:18.000Z",
-      "stars": 168,
+      "stars": 167,
       "forks": 41,
       "subscribers": 13,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:59.956Z"
+      "repository_data_timestamp": "2022-12-02T02:00:59.868Z"
     },
     {
       "index": 1633,
@@ -29727,11 +29727,11 @@ DATA = {
       },
       "created_at": "2013-11-22T01:20:40.000Z",
       "last_commit_at": "2022-11-29T19:04:21.000Z",
-      "stars": 3297,
+      "stars": 3298,
       "forks": 341,
       "subscribers": 36,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:00:59.997Z"
+      "repository_data_timestamp": "2022-12-02T02:00:59.926Z"
     },
     {
       "index": 1634,
@@ -29750,7 +29750,7 @@ DATA = {
       "forks": 1,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:00.074Z"
+      "repository_data_timestamp": "2022-12-02T02:00:59.912Z"
     },
     {
       "index": 1635,
@@ -29765,11 +29765,11 @@ DATA = {
       },
       "created_at": "2018-12-26T22:27:19.000Z",
       "last_commit_at": "2022-11-05T23:25:39.000Z",
-      "stars": 557,
+      "stars": 558,
       "forks": 46,
       "subscribers": 10,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:00.446Z"
+      "repository_data_timestamp": "2022-12-02T02:01:00.654Z"
     },
     {
       "index": 1636,
@@ -29788,7 +29788,7 @@ DATA = {
       "forks": 16,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:00.127Z"
+      "repository_data_timestamp": "2022-12-02T02:00:59.986Z"
     },
     {
       "index": 1637,
@@ -29807,7 +29807,7 @@ DATA = {
       "forks": 2,
       "subscribers": 0,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:00.388Z"
+      "repository_data_timestamp": "2022-12-02T02:01:00.463Z"
     },
     {
       "index": 1638,
@@ -29826,7 +29826,7 @@ DATA = {
       "forks": 31,
       "subscribers": 11,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:00.126Z"
+      "repository_data_timestamp": "2022-12-02T02:01:00.060Z"
     },
     {
       "index": 1639,
@@ -29845,7 +29845,7 @@ DATA = {
       "forks": 0,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:00.146Z"
+      "repository_data_timestamp": "2022-12-02T02:01:00.048Z"
     },
     {
       "index": 1640,
@@ -29864,7 +29864,7 @@ DATA = {
       "forks": 2,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:00.198Z"
+      "repository_data_timestamp": "2022-12-02T02:01:00.075Z"
     },
     {
       "index": 1641,
@@ -29883,7 +29883,7 @@ DATA = {
       "forks": 9,
       "subscribers": 51,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:00.214Z"
+      "repository_data_timestamp": "2022-12-02T02:01:00.067Z"
     },
     {
       "index": 1642,
@@ -29902,7 +29902,7 @@ DATA = {
       "forks": 15,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:00.702Z"
+      "repository_data_timestamp": "2022-12-02T02:01:00.462Z"
     },
     {
       "index": 1643,
@@ -29921,7 +29921,7 @@ DATA = {
       "forks": 11,
       "subscribers": 5,
       "license": "gpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:01:00.258Z"
+      "repository_data_timestamp": "2022-12-02T02:01:00.186Z"
     },
     {
       "index": 1644,
@@ -29940,7 +29940,7 @@ DATA = {
       "forks": 27,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:00.293Z"
+      "repository_data_timestamp": "2022-12-02T02:01:00.208Z"
     },
     {
       "index": 1645,
@@ -29959,7 +29959,7 @@ DATA = {
       "forks": 12,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:00.369Z"
+      "repository_data_timestamp": "2022-12-02T02:01:00.228Z"
     },
     {
       "index": 1646,
@@ -29997,7 +29997,7 @@ DATA = {
       "forks": 9,
       "subscribers": 10,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:00.446Z"
+      "repository_data_timestamp": "2022-12-02T02:01:00.463Z"
     },
     {
       "index": 1648,
@@ -30016,7 +30016,7 @@ DATA = {
       "forks": 53,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:00.479Z"
+      "repository_data_timestamp": "2022-12-02T02:01:00.463Z"
     },
     {
       "index": 1649,
@@ -30035,7 +30035,7 @@ DATA = {
       "forks": 29,
       "subscribers": 18,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:00.701Z"
+      "repository_data_timestamp": "2022-12-02T02:01:00.466Z"
     },
     {
       "index": 1650,
@@ -30054,7 +30054,7 @@ DATA = {
       "forks": 0,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:00.701Z"
+      "repository_data_timestamp": "2022-12-02T02:01:00.468Z"
     },
     {
       "index": 1651,
@@ -30073,7 +30073,7 @@ DATA = {
       "forks": 1,
       "subscribers": 0,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:00.701Z"
+      "repository_data_timestamp": "2022-12-02T02:01:00.704Z"
     },
     {
       "index": 1652,
@@ -30092,7 +30092,7 @@ DATA = {
       "forks": 27,
       "subscribers": 10,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:01.064Z"
+      "repository_data_timestamp": "2022-12-02T02:01:00.986Z"
     },
     {
       "index": 1653,
@@ -30106,12 +30106,12 @@ DATA = {
         "name": "gherkingen"
       },
       "created_at": "2022-01-15T16:10:11.000Z",
-      "last_commit_at": "2022-11-01T06:18:03.000Z",
+      "last_commit_at": "2022-12-01T05:22:38.000Z",
       "stars": 49,
       "forks": 2,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:00.702Z"
+      "repository_data_timestamp": "2022-12-02T02:01:00.761Z"
     },
     {
       "index": 1654,
@@ -30126,11 +30126,11 @@ DATA = {
       },
       "created_at": "2013-08-23T20:53:05.000Z",
       "last_commit_at": "2022-11-19T17:04:50.000Z",
-      "stars": 6626,
+      "stars": 6628,
       "forks": 581,
       "subscribers": 91,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:01.364Z"
+      "repository_data_timestamp": "2022-12-02T02:01:01.114Z"
     },
     {
       "index": 1655,
@@ -30144,12 +30144,12 @@ DATA = {
         "name": "gnomock"
       },
       "created_at": "2020-01-31T14:50:52.000Z",
-      "last_commit_at": "2022-11-30T09:03:10.000Z",
+      "last_commit_at": "2022-12-01T09:04:20.000Z",
       "stars": 997,
       "forks": 41,
       "subscribers": 13,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:00.899Z"
+      "repository_data_timestamp": "2022-12-02T02:01:00.776Z"
     },
     {
       "index": 1656,
@@ -30168,7 +30168,7 @@ DATA = {
       "forks": 9,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:00.927Z"
+      "repository_data_timestamp": "2022-12-02T02:01:00.891Z"
     },
     {
       "index": 1657,
@@ -30183,11 +30183,11 @@ DATA = {
       },
       "created_at": "2017-07-07T19:28:22.000Z",
       "last_commit_at": "2022-11-15T04:56:27.000Z",
-      "stars": 3214,
+      "stars": 3218,
       "forks": 194,
       "subscribers": 31,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:00.981Z"
+      "repository_data_timestamp": "2022-12-02T02:01:00.858Z"
     },
     {
       "index": 1658,
@@ -30206,7 +30206,7 @@ DATA = {
       "forks": 7,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:00.967Z"
+      "repository_data_timestamp": "2022-12-02T02:01:00.854Z"
     },
     {
       "index": 1659,
@@ -30225,7 +30225,7 @@ DATA = {
       "forks": 48,
       "subscribers": 12,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:01.030Z"
+      "repository_data_timestamp": "2022-12-02T02:01:00.862Z"
     },
     {
       "index": 1660,
@@ -30244,7 +30244,7 @@ DATA = {
       "forks": 1,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:01.071Z"
+      "repository_data_timestamp": "2022-12-02T02:01:00.913Z"
     },
     {
       "index": 1661,
@@ -30263,7 +30263,7 @@ DATA = {
       "forks": 2,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:01.076Z"
+      "repository_data_timestamp": "2022-12-02T02:01:00.946Z"
     },
     {
       "index": 1662,
@@ -30278,11 +30278,11 @@ DATA = {
       },
       "created_at": "2018-05-26T15:03:28.000Z",
       "last_commit_at": "2022-11-17T08:57:00.000Z",
-      "stars": 329,
+      "stars": 330,
       "forks": 15,
       "subscribers": 5,
       "license": "bsd-2-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:01.056Z"
+      "repository_data_timestamp": "2022-12-02T02:01:01.002Z"
     },
     {
       "index": 1663,
@@ -30301,7 +30301,7 @@ DATA = {
       "forks": 0,
       "subscribers": 2,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:01.081Z"
+      "repository_data_timestamp": "2022-12-02T02:01:01.119Z"
     },
     {
       "index": 1664,
@@ -30316,11 +30316,11 @@ DATA = {
       },
       "created_at": "2015-12-14T12:52:17.000Z",
       "last_commit_at": "2022-11-17T04:57:43.000Z",
-      "stars": 969,
+      "stars": 971,
       "forks": 67,
       "subscribers": 13,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:01.234Z"
+      "repository_data_timestamp": "2022-12-02T02:01:01.324Z"
     },
     {
       "index": 1665,
@@ -30339,7 +30339,7 @@ DATA = {
       "forks": 73,
       "subscribers": 15,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:01.364Z"
+      "repository_data_timestamp": "2022-12-02T02:01:01.324Z"
     },
     {
       "index": 1666,
@@ -30358,7 +30358,7 @@ DATA = {
       "forks": 86,
       "subscribers": 19,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:01.364Z"
+      "repository_data_timestamp": "2022-12-02T02:01:01.355Z"
     },
     {
       "index": 1667,
@@ -30381,11 +30381,11 @@ DATA = {
       },
       "created_at": "2013-08-21T04:52:28.000Z",
       "last_commit_at": "2022-06-03T05:06:37.000Z",
-      "stars": 7515,
+      "stars": 7521,
       "forks": 531,
       "subscribers": 159,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:01.370Z"
+      "repository_data_timestamp": "2022-12-02T02:01:01.324Z"
     },
     {
       "index": 1669,
@@ -30404,7 +30404,7 @@ DATA = {
       "forks": 5,
       "subscribers": 3,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:01.415Z"
+      "repository_data_timestamp": "2022-12-02T02:01:01.324Z"
     },
     {
       "index": 1670,
@@ -30423,7 +30423,7 @@ DATA = {
       "forks": 200,
       "subscribers": 95,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:01.407Z"
+      "repository_data_timestamp": "2022-12-02T02:01:01.370Z"
     },
     {
       "index": 1671,
@@ -30442,7 +30442,7 @@ DATA = {
       "forks": 41,
       "subscribers": 15,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:01.391Z"
+      "repository_data_timestamp": "2022-12-02T02:01:01.383Z"
     },
     {
       "index": 1672,
@@ -30461,7 +30461,7 @@ DATA = {
       "forks": 3,
       "subscribers": 5,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:01.426Z"
+      "repository_data_timestamp": "2022-12-02T02:01:01.547Z"
     },
     {
       "index": 1673,
@@ -30478,9 +30478,9 @@ DATA = {
       "last_commit_at": "2021-01-15T13:14:48.000Z",
       "stars": 44,
       "forks": 4,
-      "subscribers": 2,
+      "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:01.472Z"
+      "repository_data_timestamp": "2022-12-02T02:01:01.553Z"
     },
     {
       "index": 1674,
@@ -30495,11 +30495,11 @@ DATA = {
       },
       "created_at": "2013-08-23T20:54:42.000Z",
       "last_commit_at": "2022-11-21T01:40:03.000Z",
-      "stars": 1774,
+      "stars": 1775,
       "forks": 268,
       "subscribers": 33,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:01.793Z"
+      "repository_data_timestamp": "2022-12-02T02:01:01.936Z"
     },
     {
       "index": 1675,
@@ -30518,7 +30518,7 @@ DATA = {
       "forks": 3,
       "subscribers": 1,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:01.721Z"
+      "repository_data_timestamp": "2022-12-02T02:01:01.568Z"
     },
     {
       "index": 1676,
@@ -30537,7 +30537,7 @@ DATA = {
       "forks": 17,
       "subscribers": 5,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:02.089Z"
+      "repository_data_timestamp": "2022-12-02T02:01:01.926Z"
     },
     {
       "index": 1677,
@@ -30556,7 +30556,7 @@ DATA = {
       "forks": 7,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:01.683Z"
+      "repository_data_timestamp": "2022-12-02T02:01:01.619Z"
     },
     {
       "index": 1678,
@@ -30575,7 +30575,7 @@ DATA = {
       "forks": 4,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:01.762Z"
+      "repository_data_timestamp": "2022-12-02T02:01:01.653Z"
     },
     {
       "index": 1679,
@@ -30594,7 +30594,7 @@ DATA = {
       "forks": 18,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:01.693Z"
+      "repository_data_timestamp": "2022-12-02T02:01:01.671Z"
     },
     {
       "index": 1680,
@@ -30613,7 +30613,7 @@ DATA = {
       "forks": 41,
       "subscribers": 9,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:01.768Z"
+      "repository_data_timestamp": "2022-12-02T02:01:01.677Z"
     },
     {
       "index": 1681,
@@ -30632,7 +30632,7 @@ DATA = {
       "forks": 5,
       "subscribers": 3,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:01.753Z"
+      "repository_data_timestamp": "2022-12-02T02:01:01.676Z"
     },
     {
       "index": 1682,
@@ -30646,12 +30646,12 @@ DATA = {
         "name": "httpexpect"
       },
       "created_at": "2016-04-29T17:05:20.000Z",
-      "last_commit_at": "2022-11-30T14:53:59.000Z",
-      "stars": 2024,
-      "forks": 176,
+      "last_commit_at": "2022-12-01T19:59:06.000Z",
+      "stars": 2025,
+      "forks": 178,
       "subscribers": 35,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:01.757Z"
+      "repository_data_timestamp": "2022-12-02T02:01:01.711Z"
     },
     {
       "index": 1683,
@@ -30670,7 +30670,7 @@ DATA = {
       "forks": 52,
       "subscribers": 18,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:01.867Z"
+      "repository_data_timestamp": "2022-12-02T02:01:01.943Z"
     },
     {
       "index": 1684,
@@ -30689,7 +30689,7 @@ DATA = {
       "forks": 18,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:02.005Z"
+      "repository_data_timestamp": "2022-12-02T02:01:01.950Z"
     },
     {
       "index": 1685,
@@ -30708,7 +30708,7 @@ DATA = {
       "forks": 0,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:01.984Z"
+      "repository_data_timestamp": "2022-12-02T02:01:01.957Z"
     },
     {
       "index": 1686,
@@ -30727,7 +30727,7 @@ DATA = {
       "forks": 6,
       "subscribers": 6,
       "license": "gpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:01:02.352Z"
+      "repository_data_timestamp": "2022-12-02T02:01:02.420Z"
     },
     {
       "index": 1687,
@@ -30742,11 +30742,11 @@ DATA = {
       },
       "created_at": "2015-08-13T13:36:54.000Z",
       "last_commit_at": "2019-10-13T10:57:48.000Z",
-      "stars": 19,
+      "stars": 20,
       "forks": 1,
       "subscribers": 1,
       "license": "gpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:01:02.113Z"
+      "repository_data_timestamp": "2022-12-02T02:01:01.973Z"
     },
     {
       "index": 1688,
@@ -30765,7 +30765,7 @@ DATA = {
       "forks": 4,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:02.055Z"
+      "repository_data_timestamp": "2022-12-02T02:01:02.050Z"
     },
     {
       "index": 1689,
@@ -30784,7 +30784,7 @@ DATA = {
       "forks": 9,
       "subscribers": 4,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:02.107Z"
+      "repository_data_timestamp": "2022-12-02T02:01:02.004Z"
     },
     {
       "index": 1690,
@@ -30799,11 +30799,11 @@ DATA = {
       },
       "created_at": "2016-04-05T11:33:28.000Z",
       "last_commit_at": "2022-11-28T14:19:31.000Z",
-      "stars": 877,
+      "stars": 878,
       "forks": 68,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:02.280Z"
+      "repository_data_timestamp": "2022-12-02T02:01:02.041Z"
     },
     {
       "index": 1691,
@@ -30818,11 +30818,11 @@ DATA = {
       },
       "created_at": "2012-10-16T16:43:17.000Z",
       "last_commit_at": "2022-11-28T05:49:01.000Z",
-      "stars": 18300,
+      "stars": 18312,
       "forks": 1367,
       "subscribers": 178,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:02.188Z"
+      "repository_data_timestamp": "2022-12-02T02:01:02.226Z"
     },
     {
       "index": 1692,
@@ -30849,7 +30849,7 @@ DATA = {
       "forks": 2,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:02.260Z"
+      "repository_data_timestamp": "2022-12-02T02:01:02.287Z"
     },
     {
       "index": 1694,
@@ -30868,7 +30868,7 @@ DATA = {
       "forks": 20,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:02.290Z"
+      "repository_data_timestamp": "2022-12-02T02:01:02.328Z"
     },
     {
       "index": 1695,
@@ -30887,7 +30887,7 @@ DATA = {
       "forks": 1,
       "subscribers": 0,
       "license": "gpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:01:02.295Z"
+      "repository_data_timestamp": "2022-12-02T02:01:02.248Z"
     },
     {
       "index": 1696,
@@ -30906,7 +30906,7 @@ DATA = {
       "forks": 1,
       "subscribers": 1,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:02.452Z"
+      "repository_data_timestamp": "2022-12-02T02:01:02.313Z"
     },
     {
       "index": 1697,
@@ -30925,7 +30925,7 @@ DATA = {
       "forks": 15,
       "subscribers": 2,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:02.404Z"
+      "repository_data_timestamp": "2022-12-02T02:01:02.277Z"
     },
     {
       "index": 1698,
@@ -30940,11 +30940,11 @@ DATA = {
       },
       "created_at": "2014-05-21T00:12:54.000Z",
       "last_commit_at": "2022-11-10T13:02:47.000Z",
-      "stars": 753,
+      "stars": 755,
       "forks": 78,
       "subscribers": 8,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:02.433Z"
+      "repository_data_timestamp": "2022-12-02T02:01:02.293Z"
     },
     {
       "index": 1699,
@@ -30966,12 +30966,12 @@ DATA = {
         "name": "go-localstack"
       },
       "created_at": "2020-03-18T07:13:02.000Z",
-      "last_commit_at": "2022-12-01T00:29:54.000Z",
+      "last_commit_at": "2022-12-02T00:20:11.000Z",
       "stars": 56,
       "forks": 14,
       "subscribers": 1,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:02.447Z"
+      "repository_data_timestamp": "2022-12-02T02:01:02.342Z"
     },
     {
       "index": 1701,
@@ -30986,11 +30986,11 @@ DATA = {
       },
       "created_at": "2014-02-07T07:59:29.000Z",
       "last_commit_at": "2022-08-26T04:26:23.000Z",
-      "stars": 4846,
+      "stars": 4847,
       "forks": 366,
       "subscribers": 44,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:02.490Z"
+      "repository_data_timestamp": "2022-12-02T02:01:02.415Z"
     },
     {
       "index": 1702,
@@ -31005,11 +31005,11 @@ DATA = {
       },
       "created_at": "2015-07-08T07:34:53.000Z",
       "last_commit_at": "2022-10-10T10:53:57.000Z",
-      "stars": 495,
+      "stars": 496,
       "forks": 35,
       "subscribers": 8,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:02.584Z"
+      "repository_data_timestamp": "2022-12-02T02:01:02.675Z"
     },
     {
       "index": 1703,
@@ -31024,11 +31024,11 @@ DATA = {
       },
       "created_at": "2016-03-02T16:20:26.000Z",
       "last_commit_at": "2022-10-19T21:16:47.000Z",
-      "stars": 1746,
+      "stars": 1747,
       "forks": 90,
       "subscribers": 19,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:02.595Z"
+      "repository_data_timestamp": "2022-12-02T02:01:02.542Z"
     },
     {
       "index": 1704,
@@ -31043,11 +31043,11 @@ DATA = {
       },
       "created_at": "2015-06-12T17:15:11.000Z",
       "last_commit_at": "2022-11-20T18:51:02.000Z",
-      "stars": 8265,
+      "stars": 8269,
       "forks": 582,
       "subscribers": 93,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:02.621Z"
+      "repository_data_timestamp": "2022-12-02T02:01:02.614Z"
     },
     {
       "index": 1705,
@@ -31066,7 +31066,7 @@ DATA = {
       "forks": 14,
       "subscribers": 3,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:02.692Z"
+      "repository_data_timestamp": "2022-12-02T02:01:02.581Z"
     },
     {
       "index": 1706,
@@ -31080,12 +31080,12 @@ DATA = {
         "name": "hoverfly"
       },
       "created_at": "2015-11-30T16:36:31.000Z",
-      "last_commit_at": "2022-11-02T22:26:28.000Z",
-      "stars": 1938,
+      "last_commit_at": "2022-12-01T19:31:43.000Z",
+      "stars": 1939,
       "forks": 190,
       "subscribers": 59,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:02.644Z"
+      "repository_data_timestamp": "2022-12-02T02:01:02.655Z"
     },
     {
       "index": 1707,
@@ -31104,7 +31104,7 @@ DATA = {
       "forks": 93,
       "subscribers": 9,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:02.714Z"
+      "repository_data_timestamp": "2022-12-02T02:01:02.630Z"
     },
     {
       "index": 1708,
@@ -31119,11 +31119,11 @@ DATA = {
       },
       "created_at": "2016-08-03T16:01:35.000Z",
       "last_commit_at": "2022-11-08T07:52:05.000Z",
-      "stars": 469,
+      "stars": 470,
       "forks": 29,
       "subscribers": 10,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:02.737Z"
+      "repository_data_timestamp": "2022-12-02T02:01:02.674Z"
     },
     {
       "index": 1709,
@@ -31138,11 +31138,11 @@ DATA = {
       },
       "created_at": "2014-09-02T16:49:01.000Z",
       "last_commit_at": "2022-11-15T18:51:17.000Z",
-      "stars": 4100,
+      "stars": 4103,
       "forks": 320,
       "subscribers": 32,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:02.768Z"
+      "repository_data_timestamp": "2022-12-02T02:01:02.655Z"
     },
     {
       "index": 1710,
@@ -31161,7 +31161,7 @@ DATA = {
       "forks": 6,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:02.848Z"
+      "repository_data_timestamp": "2022-12-02T02:01:02.719Z"
     },
     {
       "index": 1711,
@@ -31180,7 +31180,7 @@ DATA = {
       "forks": 3,
       "subscribers": 1,
       "license": "gpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:01:02.796Z"
+      "repository_data_timestamp": "2022-12-02T02:01:02.741Z"
     },
     {
       "index": 1712,
@@ -31199,7 +31199,7 @@ DATA = {
       "forks": 0,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:02.921Z"
+      "repository_data_timestamp": "2022-12-02T02:01:02.852Z"
     },
     {
       "index": 1713,
@@ -31218,7 +31218,7 @@ DATA = {
       "forks": 5,
       "subscribers": 85,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:02.890Z"
+      "repository_data_timestamp": "2022-12-02T02:01:02.893Z"
     },
     {
       "index": 1714,
@@ -31237,7 +31237,7 @@ DATA = {
       "forks": 279,
       "subscribers": 84,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:02.950Z"
+      "repository_data_timestamp": "2022-12-02T02:01:02.918Z"
     },
     {
       "index": 1715,
@@ -31252,11 +31252,11 @@ DATA = {
       },
       "created_at": "2014-07-31T16:21:29.000Z",
       "last_commit_at": "2022-11-07T22:21:34.000Z",
-      "stars": 1355,
+      "stars": 1356,
       "forks": 122,
       "subscribers": 29,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:02.985Z"
+      "repository_data_timestamp": "2022-12-02T02:01:02.990Z"
     },
     {
       "index": 1716,
@@ -31275,7 +31275,7 @@ DATA = {
       "forks": 10,
       "subscribers": 13,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:03.000Z"
+      "repository_data_timestamp": "2022-12-02T02:01:02.942Z"
     },
     {
       "index": 1717,
@@ -31294,7 +31294,7 @@ DATA = {
       "forks": 44,
       "subscribers": 21,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:03.037Z"
+      "repository_data_timestamp": "2022-12-02T02:01:02.962Z"
     },
     {
       "index": 1718,
@@ -31309,11 +31309,11 @@ DATA = {
       },
       "created_at": "2017-01-24T14:54:30.000Z",
       "last_commit_at": "2022-11-23T01:15:31.000Z",
-      "stars": 8413,
+      "stars": 8414,
       "forks": 678,
       "subscribers": 160,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:03.388Z"
+      "repository_data_timestamp": "2022-12-02T02:01:03.308Z"
     },
     {
       "index": 1719,
@@ -31332,7 +31332,7 @@ DATA = {
       "forks": 64,
       "subscribers": 25,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:03.080Z"
+      "repository_data_timestamp": "2022-12-02T02:01:02.983Z"
     },
     {
       "index": 1720,
@@ -31351,7 +31351,7 @@ DATA = {
       "forks": 96,
       "subscribers": 23,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:03.372Z"
+      "repository_data_timestamp": "2022-12-02T02:01:03.348Z"
     },
     {
       "index": 1721,
@@ -31366,11 +31366,11 @@ DATA = {
       },
       "created_at": "2020-01-21T20:09:45.000Z",
       "last_commit_at": "2022-12-01T01:34:25.000Z",
-      "stars": 3200,
-      "forks": 229,
+      "stars": 3202,
+      "forks": 230,
       "subscribers": 43,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:03.223Z"
+      "repository_data_timestamp": "2022-12-02T02:01:03.094Z"
     },
     {
       "index": 1722,
@@ -31385,11 +31385,11 @@ DATA = {
       },
       "created_at": "2016-08-22T09:11:16.000Z",
       "last_commit_at": "2022-11-15T11:20:49.000Z",
-      "stars": 2262,
+      "stars": 2263,
       "forks": 307,
       "subscribers": 98,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:03.241Z"
+      "repository_data_timestamp": "2022-12-02T02:01:03.166Z"
     },
     {
       "index": 1723,
@@ -31408,7 +31408,7 @@ DATA = {
       "forks": 60,
       "subscribers": 112,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:03.223Z"
+      "repository_data_timestamp": "2022-12-02T02:01:03.249Z"
     },
     {
       "index": 1724,
@@ -31428,7 +31428,7 @@ DATA = {
       "forks": 2,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:03.285Z"
+      "repository_data_timestamp": "2022-12-02T02:01:03.222Z"
     },
     {
       "index": 1725,
@@ -31448,7 +31448,7 @@ DATA = {
       "forks": 8,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:03.279Z"
+      "repository_data_timestamp": "2022-12-02T02:01:03.242Z"
     },
     {
       "index": 1726,
@@ -31468,7 +31468,7 @@ DATA = {
       "forks": 100,
       "subscribers": 22,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:03.352Z"
+      "repository_data_timestamp": "2022-12-02T02:01:03.282Z"
     },
     {
       "index": 1727,
@@ -31488,7 +31488,7 @@ DATA = {
       "forks": 27,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:03.346Z"
+      "repository_data_timestamp": "2022-12-02T02:01:03.308Z"
     },
     {
       "index": 1728,
@@ -31508,7 +31508,7 @@ DATA = {
       "forks": 215,
       "subscribers": 32,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:03.362Z"
+      "repository_data_timestamp": "2022-12-02T02:01:03.329Z"
     },
     {
       "index": 1729,
@@ -31528,7 +31528,7 @@ DATA = {
       "forks": 29,
       "subscribers": 9,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:03.542Z"
+      "repository_data_timestamp": "2022-12-02T02:01:03.412Z"
     },
     {
       "index": 1730,
@@ -31548,7 +31548,7 @@ DATA = {
       "forks": 3,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:03.542Z"
+      "repository_data_timestamp": "2022-12-02T02:01:03.535Z"
     },
     {
       "index": 1731,
@@ -31568,7 +31568,7 @@ DATA = {
       "forks": 4,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:03.548Z"
+      "repository_data_timestamp": "2022-12-02T02:01:03.539Z"
     },
     {
       "index": 1732,
@@ -31588,7 +31588,7 @@ DATA = {
       "forks": 3,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:03.582Z"
+      "repository_data_timestamp": "2022-12-02T02:01:03.538Z"
     },
     {
       "index": 1733,
@@ -31604,11 +31604,11 @@ DATA = {
       },
       "created_at": "2011-05-27T22:28:58.000Z",
       "last_commit_at": "2022-09-02T00:23:24.000Z",
-      "stars": 5049,
+      "stars": 5050,
       "forks": 598,
       "subscribers": 91,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:03.609Z"
+      "repository_data_timestamp": "2022-12-02T02:01:04.571Z"
     },
     {
       "index": 1734,
@@ -31628,7 +31628,7 @@ DATA = {
       "forks": 38,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:05.269Z"
+      "repository_data_timestamp": "2022-12-02T02:01:04.340Z"
     },
     {
       "index": 1735,
@@ -31648,7 +31648,7 @@ DATA = {
       "forks": 2,
       "subscribers": 1,
       "license": "mpl-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:03.930Z"
+      "repository_data_timestamp": "2022-12-02T02:01:03.884Z"
     },
     {
       "index": 1736,
@@ -31664,11 +31664,11 @@ DATA = {
       },
       "created_at": "2013-02-24T17:45:51.000Z",
       "last_commit_at": "2022-11-21T23:51:48.000Z",
-      "stars": 1350,
+      "stars": 1351,
       "forks": 186,
       "subscribers": 29,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:03.676Z"
+      "repository_data_timestamp": "2022-12-02T02:01:03.610Z"
     },
     {
       "index": 1737,
@@ -31684,11 +31684,11 @@ DATA = {
       },
       "created_at": "2019-04-26T11:24:21.000Z",
       "last_commit_at": "2022-11-15T18:03:32.000Z",
-      "stars": 2432,
+      "stars": 2435,
       "forks": 167,
       "subscribers": 26,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:03.672Z"
+      "repository_data_timestamp": "2022-12-02T02:01:03.635Z"
     },
     {
       "index": 1738,
@@ -31704,11 +31704,11 @@ DATA = {
       },
       "created_at": "2017-02-20T02:54:40.000Z",
       "last_commit_at": "2021-09-02T04:20:26.000Z",
-      "stars": 221,
+      "stars": 220,
       "forks": 17,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:03.691Z"
+      "repository_data_timestamp": "2022-12-02T02:01:03.630Z"
     },
     {
       "index": 1739,
@@ -31724,11 +31724,11 @@ DATA = {
       },
       "created_at": "2018-05-15T13:26:26.000Z",
       "last_commit_at": "2022-11-14T10:07:40.000Z",
-      "stars": 429,
+      "stars": 430,
       "forks": 57,
       "subscribers": 9,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:03.727Z"
+      "repository_data_timestamp": "2022-12-02T02:01:03.672Z"
     },
     {
       "index": 1740,
@@ -31748,7 +31748,7 @@ DATA = {
       "forks": 61,
       "subscribers": 14,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:03.845Z"
+      "repository_data_timestamp": "2022-12-02T02:01:03.728Z"
     },
     {
       "index": 1741,
@@ -31768,7 +31768,7 @@ DATA = {
       "forks": 99,
       "subscribers": 24,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:03.868Z"
+      "repository_data_timestamp": "2022-12-02T02:01:03.853Z"
     },
     {
       "index": 1742,
@@ -31784,11 +31784,11 @@ DATA = {
       },
       "created_at": "2013-02-26T05:05:48.000Z",
       "last_commit_at": "2022-10-26T20:04:03.000Z",
-      "stars": 4040,
+      "stars": 4044,
       "forks": 505,
       "subscribers": 84,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:03.863Z"
+      "repository_data_timestamp": "2022-12-02T02:01:03.835Z"
     },
     {
       "index": 1743,
@@ -31808,7 +31808,7 @@ DATA = {
       "forks": 9,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:03.870Z"
+      "repository_data_timestamp": "2022-12-02T02:01:03.880Z"
     },
     {
       "index": 1744,
@@ -31828,7 +31828,7 @@ DATA = {
       "forks": 5,
       "subscribers": 3,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:03.929Z"
+      "repository_data_timestamp": "2022-12-02T02:01:03.934Z"
     },
     {
       "index": 1745,
@@ -31848,7 +31848,7 @@ DATA = {
       "forks": 64,
       "subscribers": 23,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:04.019Z"
+      "repository_data_timestamp": "2022-12-02T02:01:03.952Z"
     },
     {
       "index": 1746,
@@ -31868,7 +31868,7 @@ DATA = {
       "forks": 19,
       "subscribers": 14,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:04.271Z"
+      "repository_data_timestamp": "2022-12-02T02:01:04.320Z"
     },
     {
       "index": 1747,
@@ -31888,7 +31888,7 @@ DATA = {
       "forks": 2,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:04.007Z"
+      "repository_data_timestamp": "2022-12-02T02:01:03.990Z"
     },
     {
       "index": 1748,
@@ -31908,7 +31908,7 @@ DATA = {
       "forks": 31,
       "subscribers": 10,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:04.047Z"
+      "repository_data_timestamp": "2022-12-02T02:01:04.025Z"
     },
     {
       "index": 1749,
@@ -31928,7 +31928,7 @@ DATA = {
       "forks": 2,
       "subscribers": 1,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:04.433Z"
+      "repository_data_timestamp": "2022-12-02T02:01:04.403Z"
     },
     {
       "index": 1750,
@@ -31948,7 +31948,7 @@ DATA = {
       "forks": 1,
       "subscribers": 0,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:04.154Z"
+      "repository_data_timestamp": "2022-12-02T02:01:04.165Z"
     },
     {
       "index": 1751,
@@ -31968,7 +31968,7 @@ DATA = {
       "forks": 66,
       "subscribers": 11,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:04.161Z"
+      "repository_data_timestamp": "2022-12-02T02:01:04.192Z"
     },
     {
       "index": 1752,
@@ -31988,7 +31988,7 @@ DATA = {
       "forks": 29,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:04.190Z"
+      "repository_data_timestamp": "2022-12-02T02:01:04.186Z"
     },
     {
       "index": 1753,
@@ -32004,11 +32004,11 @@ DATA = {
       },
       "created_at": "2016-01-23T02:44:34.000Z",
       "last_commit_at": "2022-06-19T19:03:57.000Z",
-      "stars": 2000,
+      "stars": 1999,
       "forks": 169,
       "subscribers": 42,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:04.235Z"
+      "repository_data_timestamp": "2022-12-02T02:01:04.241Z"
     },
     {
       "index": 1754,
@@ -32028,7 +32028,7 @@ DATA = {
       "forks": 70,
       "subscribers": 11,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:04.223Z"
+      "repository_data_timestamp": "2022-12-02T02:01:04.265Z"
     },
     {
       "index": 1755,
@@ -32048,7 +32048,7 @@ DATA = {
       "forks": 4,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:04.317Z"
+      "repository_data_timestamp": "2022-12-02T02:01:04.291Z"
     },
     {
       "index": 1756,
@@ -32068,7 +32068,7 @@ DATA = {
       "forks": 1,
       "subscribers": 2,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:04.329Z"
+      "repository_data_timestamp": "2022-12-02T02:01:04.452Z"
     },
     {
       "index": 1757,
@@ -32088,7 +32088,7 @@ DATA = {
       "forks": 3,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:04.374Z"
+      "repository_data_timestamp": "2022-12-02T02:01:04.498Z"
     },
     {
       "index": 1758,
@@ -32108,7 +32108,7 @@ DATA = {
       "forks": 35,
       "subscribers": 9,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:04.480Z"
+      "repository_data_timestamp": "2022-12-02T02:01:04.491Z"
     },
     {
       "index": 1759,
@@ -32128,7 +32128,7 @@ DATA = {
       "forks": 5,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:04.756Z"
+      "repository_data_timestamp": "2022-12-02T02:01:04.818Z"
     },
     {
       "index": 1760,
@@ -32148,7 +32148,7 @@ DATA = {
       "forks": 6,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:04.505Z"
+      "repository_data_timestamp": "2022-12-02T02:01:04.564Z"
     },
     {
       "index": 1761,
@@ -32168,7 +32168,7 @@ DATA = {
       "forks": 34,
       "subscribers": 8,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:04.519Z"
+      "repository_data_timestamp": "2022-12-02T02:01:04.603Z"
     },
     {
       "index": 1762,
@@ -32184,11 +32184,11 @@ DATA = {
       },
       "created_at": "2016-01-16T08:39:09.000Z",
       "last_commit_at": "2022-11-25T12:12:05.000Z",
-      "stars": 5262,
+      "stars": 5267,
       "forks": 281,
       "subscribers": 59,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:04.551Z"
+      "repository_data_timestamp": "2022-12-02T02:01:04.623Z"
     },
     {
       "index": 1763,
@@ -32208,7 +32208,7 @@ DATA = {
       "forks": 0,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:04.577Z"
+      "repository_data_timestamp": "2022-12-02T02:01:04.640Z"
     },
     {
       "index": 1764,
@@ -32228,7 +32228,7 @@ DATA = {
       "forks": 72,
       "subscribers": 25,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:04.624Z"
+      "repository_data_timestamp": "2022-12-02T02:01:04.698Z"
     },
     {
       "index": 1765,
@@ -32248,7 +32248,7 @@ DATA = {
       "forks": 9,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:04.880Z"
+      "repository_data_timestamp": "2022-12-02T02:01:05.047Z"
     },
     {
       "index": 1766,
@@ -32268,7 +32268,7 @@ DATA = {
       "forks": 7,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:04.683Z"
+      "repository_data_timestamp": "2022-12-02T02:01:04.793Z"
     },
     {
       "index": 1767,
@@ -32284,11 +32284,11 @@ DATA = {
       },
       "created_at": "2021-03-28T16:31:41.000Z",
       "last_commit_at": "2022-07-27T17:17:30.000Z",
-      "stars": 19,
+      "stars": 20,
       "forks": 7,
       "subscribers": 4,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:04.723Z"
+      "repository_data_timestamp": "2022-12-02T02:01:04.799Z"
     },
     {
       "index": 1768,
@@ -32308,7 +32308,7 @@ DATA = {
       "forks": 13,
       "subscribers": 3,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:04.783Z"
+      "repository_data_timestamp": "2022-12-02T02:01:04.867Z"
     },
     {
       "index": 1769,
@@ -32328,7 +32328,7 @@ DATA = {
       "forks": 10,
       "subscribers": 1,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:04.783Z"
+      "repository_data_timestamp": "2022-12-02T02:01:04.893Z"
     },
     {
       "index": 1770,
@@ -32348,7 +32348,7 @@ DATA = {
       "forks": 2,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:04.813Z"
+      "repository_data_timestamp": "2022-12-02T02:01:04.919Z"
     },
     {
       "index": 1771,
@@ -32364,11 +32364,11 @@ DATA = {
       },
       "created_at": "2013-11-20T22:15:49.000Z",
       "last_commit_at": "2022-10-12T18:19:08.000Z",
-      "stars": 2527,
+      "stars": 2528,
       "forks": 158,
       "subscribers": 33,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:04.844Z"
+      "repository_data_timestamp": "2022-12-02T02:01:04.925Z"
     },
     {
       "index": 1772,
@@ -32388,7 +32388,7 @@ DATA = {
       "forks": 7,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:04.862Z"
+      "repository_data_timestamp": "2022-12-02T02:01:04.967Z"
     },
     {
       "index": 1773,
@@ -32404,11 +32404,11 @@ DATA = {
       },
       "created_at": "2017-09-29T14:08:49.000Z",
       "last_commit_at": "2022-11-17T07:44:54.000Z",
-      "stars": 18328,
+      "stars": 18339,
       "forks": 1506,
       "subscribers": 325,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:05.237Z"
+      "repository_data_timestamp": "2022-12-02T02:01:05.286Z"
     },
     {
       "index": 1774,
@@ -32428,7 +32428,7 @@ DATA = {
       "forks": 72,
       "subscribers": 21,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:04.973Z"
+      "repository_data_timestamp": "2022-12-02T02:01:05.094Z"
     },
     {
       "index": 1775,
@@ -32448,7 +32448,7 @@ DATA = {
       "forks": 0,
       "subscribers": 1,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:05.018Z"
+      "repository_data_timestamp": "2022-12-02T02:01:05.139Z"
     },
     {
       "index": 1776,
@@ -32464,11 +32464,11 @@ DATA = {
       },
       "created_at": "2012-08-29T02:14:59.000Z",
       "last_commit_at": "2022-11-17T15:09:36.000Z",
-      "stars": 12062,
+      "stars": 12064,
       "forks": 868,
       "subscribers": 254,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:05.056Z"
+      "repository_data_timestamp": "2022-12-02T02:01:05.122Z"
     },
     {
       "index": 1777,
@@ -32488,7 +32488,7 @@ DATA = {
       "forks": 14,
       "subscribers": 6,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:05.071Z"
+      "repository_data_timestamp": "2022-12-02T02:01:05.200Z"
     },
     {
       "index": 1778,
@@ -32508,7 +32508,7 @@ DATA = {
       "forks": 6,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:05.083Z"
+      "repository_data_timestamp": "2022-12-02T02:01:05.187Z"
     },
     {
       "index": 1779,
@@ -32528,7 +32528,7 @@ DATA = {
       "forks": 2,
       "subscribers": 2,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:05.124Z"
+      "repository_data_timestamp": "2022-12-02T02:01:05.226Z"
     },
     {
       "index": 1780,
@@ -32544,11 +32544,11 @@ DATA = {
       },
       "created_at": "2015-01-12T01:28:46.000Z",
       "last_commit_at": "2022-11-22T15:58:54.000Z",
-      "stars": 978,
+      "stars": 981,
       "forks": 108,
       "subscribers": 20,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:05.140Z"
+      "repository_data_timestamp": "2022-12-02T02:01:05.246Z"
     },
     {
       "index": 1781,
@@ -32568,7 +32568,7 @@ DATA = {
       "forks": 30,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:05.151Z"
+      "repository_data_timestamp": "2022-12-02T02:01:05.334Z"
     },
     {
       "index": 1782,
@@ -32588,7 +32588,7 @@ DATA = {
       "forks": 4,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:05.165Z"
+      "repository_data_timestamp": "2022-12-02T02:01:05.339Z"
     },
     {
       "index": 1783,
@@ -32608,7 +32608,7 @@ DATA = {
       "forks": 79,
       "subscribers": 14,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:05.323Z"
+      "repository_data_timestamp": "2022-12-02T02:01:05.372Z"
     },
     {
       "index": 1784,
@@ -32628,7 +32628,7 @@ DATA = {
       "forks": 9,
       "subscribers": 2,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:05.350Z"
+      "repository_data_timestamp": "2022-12-02T02:01:05.503Z"
     },
     {
       "index": 1785,
@@ -32648,7 +32648,7 @@ DATA = {
       "forks": 3,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:05.393Z"
+      "repository_data_timestamp": "2022-12-02T02:01:05.445Z"
     },
     {
       "index": 1786,
@@ -32668,7 +32668,7 @@ DATA = {
       "forks": 5,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:05.388Z"
+      "repository_data_timestamp": "2022-12-02T02:01:05.481Z"
     },
     {
       "index": 1787,
@@ -32688,7 +32688,7 @@ DATA = {
       "forks": 11,
       "subscribers": 7,
       "license": "bsd-2-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:05.517Z"
+      "repository_data_timestamp": "2022-12-02T02:01:05.524Z"
     },
     {
       "index": 1788,
@@ -32708,7 +32708,7 @@ DATA = {
       "forks": 3,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:05.434Z"
+      "repository_data_timestamp": "2022-12-02T02:01:05.575Z"
     },
     {
       "index": 1789,
@@ -32727,7 +32727,7 @@ DATA = {
       "forks": 12,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:05.459Z"
+      "repository_data_timestamp": "2022-12-02T02:01:05.546Z"
     },
     {
       "index": 1790,
@@ -32746,7 +32746,7 @@ DATA = {
       "forks": 15,
       "subscribers": 1,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:05.473Z"
+      "repository_data_timestamp": "2022-12-02T02:01:05.580Z"
     },
     {
       "index": 1791,
@@ -32765,7 +32765,7 @@ DATA = {
       "forks": 252,
       "subscribers": 21,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:05.535Z"
+      "repository_data_timestamp": "2022-12-02T02:01:05.644Z"
     },
     {
       "index": 1792,
@@ -32784,7 +32784,7 @@ DATA = {
       "forks": 1,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:05.630Z"
+      "repository_data_timestamp": "2022-12-02T02:01:05.682Z"
     },
     {
       "index": 1793,
@@ -32798,12 +32798,12 @@ DATA = {
         "name": "aws-sdk-go"
       },
       "created_at": "2014-12-05T05:29:41.000Z",
-      "last_commit_at": "2022-11-30T19:22:48.000Z",
-      "stars": 8036,
-      "forks": 1976,
+      "last_commit_at": "2022-12-01T20:31:14.000Z",
+      "stars": 8061,
+      "forks": 1977,
       "subscribers": 251,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:05.636Z"
+      "repository_data_timestamp": "2022-12-02T02:01:05.707Z"
     },
     {
       "index": 1794,
@@ -32822,7 +32822,7 @@ DATA = {
       "forks": 2,
       "subscribers": 3,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:05.683Z"
+      "repository_data_timestamp": "2022-12-02T02:01:05.749Z"
     },
     {
       "index": 1795,
@@ -32841,7 +32841,7 @@ DATA = {
       "forks": 1,
       "subscribers": 3,
       "license": "bsd-2-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:05.694Z"
+      "repository_data_timestamp": "2022-12-02T02:01:05.786Z"
     },
     {
       "index": 1796,
@@ -32860,7 +32860,7 @@ DATA = {
       "forks": 12,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:05.682Z"
+      "repository_data_timestamp": "2022-12-02T02:01:05.785Z"
     },
     {
       "index": 1797,
@@ -32879,7 +32879,7 @@ DATA = {
       "forks": 51,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:05.730Z"
+      "repository_data_timestamp": "2022-12-02T02:01:05.815Z"
     },
     {
       "index": 1798,
@@ -32898,7 +32898,7 @@ DATA = {
       "forks": 14,
       "subscribers": 36,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:06.049Z"
+      "repository_data_timestamp": "2022-12-02T02:01:06.236Z"
     },
     {
       "index": 1799,
@@ -32917,7 +32917,7 @@ DATA = {
       "forks": 9,
       "subscribers": 19,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:05.785Z"
+      "repository_data_timestamp": "2022-12-02T02:01:05.883Z"
     },
     {
       "index": 1800,
@@ -32936,7 +32936,7 @@ DATA = {
       "forks": 8,
       "subscribers": 8,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:05.845Z"
+      "repository_data_timestamp": "2022-12-02T02:01:05.903Z"
     },
     {
       "index": 1801,
@@ -32955,7 +32955,7 @@ DATA = {
       "forks": 5,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:05.844Z"
+      "repository_data_timestamp": "2022-12-02T02:01:05.952Z"
     },
     {
       "index": 1802,
@@ -32970,11 +32970,11 @@ DATA = {
       },
       "created_at": "2015-11-01T20:51:01.000Z",
       "last_commit_at": "2022-11-30T22:18:25.000Z",
-      "stars": 3539,
+      "stars": 3540,
       "forks": 757,
       "subscribers": 59,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:05.937Z"
+      "repository_data_timestamp": "2022-12-02T02:01:06.003Z"
     },
     {
       "index": 1803,
@@ -32993,7 +32993,7 @@ DATA = {
       "forks": 0,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:05.940Z"
+      "repository_data_timestamp": "2022-12-02T02:01:06.028Z"
     },
     {
       "index": 1804,
@@ -33012,7 +33012,7 @@ DATA = {
       "forks": 98,
       "subscribers": 16,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:05.984Z"
+      "repository_data_timestamp": "2022-12-02T02:01:06.049Z"
     },
     {
       "index": 1805,
@@ -33031,7 +33031,7 @@ DATA = {
       "forks": 463,
       "subscribers": 126,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:05.992Z"
+      "repository_data_timestamp": "2022-12-02T02:01:06.080Z"
     },
     {
       "index": 1806,
@@ -33050,7 +33050,7 @@ DATA = {
       "forks": 0,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:06.009Z"
+      "repository_data_timestamp": "2022-12-02T02:01:06.081Z"
     },
     {
       "index": 1807,
@@ -33069,7 +33069,7 @@ DATA = {
       "forks": 15,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:06.045Z"
+      "repository_data_timestamp": "2022-12-02T02:01:06.126Z"
     },
     {
       "index": 1808,
@@ -33088,7 +33088,7 @@ DATA = {
       "forks": 58,
       "subscribers": 6,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:06.098Z"
+      "repository_data_timestamp": "2022-12-02T02:01:06.168Z"
     },
     {
       "index": 1809,
@@ -33107,7 +33107,7 @@ DATA = {
       "forks": 29,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:06.150Z"
+      "repository_data_timestamp": "2022-12-02T02:01:06.204Z"
     },
     {
       "index": 1810,
@@ -33126,7 +33126,7 @@ DATA = {
       "forks": 4,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:06.468Z"
+      "repository_data_timestamp": "2022-12-02T02:01:06.569Z"
     },
     {
       "index": 1811,
@@ -33145,7 +33145,7 @@ DATA = {
       "forks": 57,
       "subscribers": 13,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:06.232Z"
+      "repository_data_timestamp": "2022-12-02T02:01:06.313Z"
     },
     {
       "index": 1812,
@@ -33159,12 +33159,12 @@ DATA = {
         "name": "go-github"
       },
       "created_at": "2013-05-24T16:42:58.000Z",
-      "last_commit_at": "2022-11-30T05:08:09.000Z",
-      "stars": 8981,
-      "forks": 1866,
+      "last_commit_at": "2022-12-01T22:52:45.000Z",
+      "stars": 8984,
+      "forks": 1865,
       "subscribers": 215,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:06.256Z"
+      "repository_data_timestamp": "2022-12-02T02:01:06.449Z"
     },
     {
       "index": 1813,
@@ -33179,11 +33179,11 @@ DATA = {
       },
       "created_at": "2017-05-27T05:05:31.000Z",
       "last_commit_at": "2022-11-26T19:28:49.000Z",
-      "stars": 949,
+      "stars": 950,
       "forks": 82,
       "subscribers": 21,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:06.538Z"
+      "repository_data_timestamp": "2022-12-02T02:01:06.634Z"
     },
     {
       "index": 1814,
@@ -33202,7 +33202,7 @@ DATA = {
       "forks": 13,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:06.296Z"
+      "repository_data_timestamp": "2022-12-02T02:01:06.386Z"
     },
     {
       "index": 1815,
@@ -33221,7 +33221,7 @@ DATA = {
       "forks": 3,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:06.296Z"
+      "repository_data_timestamp": "2022-12-02T02:01:06.427Z"
     },
     {
       "index": 1816,
@@ -33240,7 +33240,7 @@ DATA = {
       "forks": 2,
       "subscribers": 9,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:06.355Z"
+      "repository_data_timestamp": "2022-12-02T02:01:06.439Z"
     },
     {
       "index": 1817,
@@ -33259,7 +33259,7 @@ DATA = {
       "forks": 1,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:06.341Z"
+      "repository_data_timestamp": "2022-12-02T02:01:06.473Z"
     },
     {
       "index": 1818,
@@ -33278,7 +33278,7 @@ DATA = {
       "forks": 5,
       "subscribers": 0,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:06.404Z"
+      "repository_data_timestamp": "2022-12-02T02:01:06.486Z"
     },
     {
       "index": 1819,
@@ -33297,7 +33297,7 @@ DATA = {
       "forks": 0,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:06.495Z"
+      "repository_data_timestamp": "2022-12-02T02:01:06.541Z"
     },
     {
       "index": 1820,
@@ -33316,7 +33316,7 @@ DATA = {
       "forks": 9,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:06.512Z"
+      "repository_data_timestamp": "2022-12-02T02:01:06.621Z"
     },
     {
       "index": 1821,
@@ -33331,11 +33331,11 @@ DATA = {
       },
       "created_at": "2015-08-20T15:02:46.000Z",
       "last_commit_at": "2022-11-30T02:01:52.000Z",
-      "stars": 1223,
-      "forks": 409,
+      "stars": 1224,
+      "forks": 410,
       "subscribers": 27,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:06.545Z"
+      "repository_data_timestamp": "2022-12-02T02:01:06.709Z"
     },
     {
       "index": 1822,
@@ -33354,7 +33354,7 @@ DATA = {
       "forks": 17,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:06.590Z"
+      "repository_data_timestamp": "2022-12-02T02:01:06.919Z"
     },
     {
       "index": 1823,
@@ -33373,7 +33373,7 @@ DATA = {
       "forks": 132,
       "subscribers": 14,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:06.601Z"
+      "repository_data_timestamp": "2022-12-02T02:01:06.749Z"
     },
     {
       "index": 1824,
@@ -33392,7 +33392,7 @@ DATA = {
       "forks": 2,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:06.652Z"
+      "repository_data_timestamp": "2022-12-02T02:01:06.758Z"
     },
     {
       "index": 1825,
@@ -33411,7 +33411,7 @@ DATA = {
       "forks": 5,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:06.647Z"
+      "repository_data_timestamp": "2022-12-02T02:01:06.762Z"
     },
     {
       "index": 1826,
@@ -33430,7 +33430,7 @@ DATA = {
       "forks": 15,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:06.684Z"
+      "repository_data_timestamp": "2022-12-02T02:01:06.787Z"
     },
     {
       "index": 1827,
@@ -33449,7 +33449,7 @@ DATA = {
       "forks": 0,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:06.738Z"
+      "repository_data_timestamp": "2022-12-02T02:01:06.856Z"
     },
     {
       "index": 1828,
@@ -33468,7 +33468,7 @@ DATA = {
       "forks": 4,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:06.803Z"
+      "repository_data_timestamp": "2022-12-02T02:01:06.911Z"
     },
     {
       "index": 1829,
@@ -33487,7 +33487,7 @@ DATA = {
       "forks": 1,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:06.793Z"
+      "repository_data_timestamp": "2022-12-02T02:01:06.927Z"
     },
     {
       "index": 1830,
@@ -33502,11 +33502,11 @@ DATA = {
       },
       "created_at": "2021-05-25T01:26:09.000Z",
       "last_commit_at": "2022-10-23T08:49:00.000Z",
-      "stars": 7,
+      "stars": 8,
       "forks": 0,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:06.845Z"
+      "repository_data_timestamp": "2022-12-02T02:01:06.967Z"
     },
     {
       "index": 1831,
@@ -33533,7 +33533,7 @@ DATA = {
       "forks": 15,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:06.840Z"
+      "repository_data_timestamp": "2022-12-02T02:01:07.022Z"
     },
     {
       "index": 1829,
@@ -33567,11 +33567,11 @@ DATA = {
       },
       "created_at": "2015-04-11T23:26:07.000Z",
       "last_commit_at": "2022-11-04T22:44:02.000Z",
-      "stars": 1571,
+      "stars": 1570,
       "forks": 318,
       "subscribers": 23,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:06.878Z"
+      "repository_data_timestamp": "2022-12-02T02:01:07.056Z"
     },
     {
       "index": 1835,
@@ -33590,7 +33590,7 @@ DATA = {
       "forks": 14,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:06.944Z"
+      "repository_data_timestamp": "2022-12-02T02:01:07.070Z"
     },
     {
       "index": 1836,
@@ -33609,7 +33609,7 @@ DATA = {
       "forks": 5,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:06.935Z"
+      "repository_data_timestamp": "2022-12-02T02:01:07.084Z"
     },
     {
       "index": 1837,
@@ -33636,7 +33636,7 @@ DATA = {
       "forks": 0,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:06.969Z"
+      "repository_data_timestamp": "2022-12-02T02:01:07.156Z"
     },
     {
       "index": 1839,
@@ -33655,7 +33655,7 @@ DATA = {
       "forks": 0,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:07.024Z"
+      "repository_data_timestamp": "2022-12-02T02:01:07.235Z"
     },
     {
       "index": 1840,
@@ -33674,7 +33674,7 @@ DATA = {
       "forks": 0,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:07.147Z"
+      "repository_data_timestamp": "2022-12-02T02:01:07.235Z"
     },
     {
       "index": 1841,
@@ -33693,7 +33693,7 @@ DATA = {
       "forks": 21,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:07.099Z"
+      "repository_data_timestamp": "2022-12-02T02:01:07.247Z"
     },
     {
       "index": 1842,
@@ -33712,7 +33712,7 @@ DATA = {
       "forks": 14,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:07.125Z"
+      "repository_data_timestamp": "2022-12-02T02:01:07.266Z"
     },
     {
       "index": 1843,
@@ -33731,7 +33731,7 @@ DATA = {
       "forks": 2,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:07.158Z"
+      "repository_data_timestamp": "2022-12-02T02:01:07.310Z"
     },
     {
       "index": 1844,
@@ -33750,7 +33750,7 @@ DATA = {
       "forks": 3,
       "subscribers": 2,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:07.142Z"
+      "repository_data_timestamp": "2022-12-02T02:01:07.352Z"
     },
     {
       "index": 1845,
@@ -33769,7 +33769,7 @@ DATA = {
       "forks": 18,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:07.164Z"
+      "repository_data_timestamp": "2022-12-02T02:01:07.347Z"
     },
     {
       "index": 1846,
@@ -33783,12 +33783,12 @@ DATA = {
         "name": "google-api-go-client"
       },
       "created_at": "2014-11-24T21:45:36.000Z",
-      "last_commit_at": "2022-11-28T01:44:10.000Z",
-      "stars": 3278,
-      "forks": 1018,
-      "subscribers": 188,
+      "last_commit_at": "2022-12-01T20:46:04.000Z",
+      "stars": 3281,
+      "forks": 1020,
+      "subscribers": 189,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:07.570Z"
+      "repository_data_timestamp": "2022-12-02T02:01:07.650Z"
     },
     {
       "index": 1847,
@@ -33807,7 +33807,7 @@ DATA = {
       "forks": 3,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:07.228Z"
+      "repository_data_timestamp": "2022-12-02T02:01:07.359Z"
     },
     {
       "index": 1848,
@@ -33821,12 +33821,12 @@ DATA = {
         "name": "gcloud-golang"
       },
       "created_at": "2014-05-09T11:11:58.000Z",
-      "last_commit_at": "2022-11-30T23:31:11.000Z",
-      "stars": 3108,
+      "last_commit_at": "2022-12-02T00:48:50.000Z",
+      "stars": 3110,
       "forks": 1094,
       "subscribers": 256,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:07.548Z"
+      "repository_data_timestamp": "2022-12-02T02:01:07.688Z"
     },
     {
       "index": 1849,
@@ -33845,7 +33845,7 @@ DATA = {
       "forks": 5,
       "subscribers": 0,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:07.309Z"
+      "repository_data_timestamp": "2022-12-02T02:01:07.518Z"
     },
     {
       "index": 1850,
@@ -33864,7 +33864,7 @@ DATA = {
       "forks": 14,
       "subscribers": 3,
       "license": "lgpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:01:07.387Z"
+      "repository_data_timestamp": "2022-12-02T02:01:07.531Z"
     },
     {
       "index": 1851,
@@ -33883,7 +33883,7 @@ DATA = {
       "forks": 7,
       "subscribers": 3,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:07.417Z"
+      "repository_data_timestamp": "2022-12-02T02:01:07.556Z"
     },
     {
       "index": 1852,
@@ -33902,7 +33902,7 @@ DATA = {
       "forks": 26,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:07.452Z"
+      "repository_data_timestamp": "2022-12-02T02:01:07.563Z"
     },
     {
       "index": 1853,
@@ -33921,7 +33921,7 @@ DATA = {
       "forks": 21,
       "subscribers": 13,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:07.427Z"
+      "repository_data_timestamp": "2022-12-02T02:01:07.619Z"
     },
     {
       "index": 1854,
@@ -33940,7 +33940,7 @@ DATA = {
       "forks": 22,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:07.456Z"
+      "repository_data_timestamp": "2022-12-02T02:01:07.619Z"
     },
     {
       "index": 1855,
@@ -33959,7 +33959,7 @@ DATA = {
       "forks": 38,
       "subscribers": 6,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:07.473Z"
+      "repository_data_timestamp": "2022-12-02T02:01:07.668Z"
     },
     {
       "index": 1856,
@@ -33978,7 +33978,7 @@ DATA = {
       "forks": 15,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:07.530Z"
+      "repository_data_timestamp": "2022-12-02T02:01:07.664Z"
     },
     {
       "index": 1857,
@@ -33997,7 +33997,7 @@ DATA = {
       "forks": 2,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:07.634Z"
+      "repository_data_timestamp": "2022-12-02T02:01:07.824Z"
     },
     {
       "index": 1858,
@@ -34016,7 +34016,7 @@ DATA = {
       "forks": 41,
       "subscribers": 6,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:07.678Z"
+      "repository_data_timestamp": "2022-12-02T02:01:07.805Z"
     },
     {
       "index": 1859,
@@ -34035,7 +34035,7 @@ DATA = {
       "forks": 6,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:07.698Z"
+      "repository_data_timestamp": "2022-12-02T02:01:07.837Z"
     },
     {
       "index": 1860,
@@ -34054,7 +34054,7 @@ DATA = {
       "forks": 1,
       "subscribers": 11,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:07.979Z"
+      "repository_data_timestamp": "2022-12-02T02:01:08.094Z"
     },
     {
       "index": 1861,
@@ -34073,7 +34073,7 @@ DATA = {
       "forks": 22,
       "subscribers": 138,
       "license": null,
-      "repository_data_timestamp": "2022-12-01T02:01:07.757Z"
+      "repository_data_timestamp": "2022-12-02T02:01:07.917Z"
     },
     {
       "index": 1862,
@@ -34092,7 +34092,7 @@ DATA = {
       "forks": 11,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:07.737Z"
+      "repository_data_timestamp": "2022-12-02T02:01:07.923Z"
     },
     {
       "index": 1863,
@@ -34107,11 +34107,11 @@ DATA = {
       },
       "created_at": "2015-05-02T02:36:46.000Z",
       "last_commit_at": "2022-11-30T20:21:26.000Z",
-      "stars": 1772,
+      "stars": 1775,
       "forks": 532,
       "subscribers": 51,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:07.850Z"
+      "repository_data_timestamp": "2022-12-02T02:01:07.943Z"
     },
     {
       "index": 1864,
@@ -34130,7 +34130,7 @@ DATA = {
       "forks": 29,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:07.799Z"
+      "repository_data_timestamp": "2022-12-02T02:01:07.960Z"
     },
     {
       "index": 1865,
@@ -34149,7 +34149,7 @@ DATA = {
       "forks": 0,
       "subscribers": 1,
       "license": null,
-      "repository_data_timestamp": "2022-12-01T02:01:07.870Z"
+      "repository_data_timestamp": "2022-12-02T02:01:07.973Z"
     },
     {
       "index": 1866,
@@ -34168,7 +34168,7 @@ DATA = {
       "forks": 17,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:07.861Z"
+      "repository_data_timestamp": "2022-12-02T02:01:07.988Z"
     },
     {
       "index": 1867,
@@ -34187,7 +34187,7 @@ DATA = {
       "forks": 239,
       "subscribers": 27,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:08.194Z"
+      "repository_data_timestamp": "2022-12-02T02:01:08.369Z"
     },
     {
       "index": 1868,
@@ -34206,7 +34206,7 @@ DATA = {
       "forks": 1,
       "subscribers": 5,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:08.037Z"
+      "repository_data_timestamp": "2022-12-02T02:01:08.122Z"
     },
     {
       "index": 1869,
@@ -34225,7 +34225,7 @@ DATA = {
       "forks": 9,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:07.989Z"
+      "repository_data_timestamp": "2022-12-02T02:01:08.129Z"
     },
     {
       "index": 1870,
@@ -34244,7 +34244,7 @@ DATA = {
       "forks": 2,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:08.030Z"
+      "repository_data_timestamp": "2022-12-02T02:01:08.213Z"
     },
     {
       "index": 1871,
@@ -34263,7 +34263,7 @@ DATA = {
       "forks": 0,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:08.044Z"
+      "repository_data_timestamp": "2022-12-02T02:01:08.194Z"
     },
     {
       "index": 1872,
@@ -34282,7 +34282,7 @@ DATA = {
       "forks": 6,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:08.089Z"
+      "repository_data_timestamp": "2022-12-02T02:01:08.241Z"
     },
     {
       "index": 1873,
@@ -34301,7 +34301,7 @@ DATA = {
       "forks": 18,
       "subscribers": 2,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:08.158Z"
+      "repository_data_timestamp": "2022-12-02T02:01:08.240Z"
     },
     {
       "index": 1874,
@@ -34316,11 +34316,11 @@ DATA = {
       },
       "created_at": "2015-01-24T14:19:00.000Z",
       "last_commit_at": "2022-11-30T14:54:40.000Z",
-      "stars": 4118,
+      "stars": 4120,
       "forks": 1032,
       "subscribers": 55,
       "license": "bsd-2-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:08.158Z"
+      "repository_data_timestamp": "2022-12-02T02:01:08.283Z"
     },
     {
       "index": 1875,
@@ -34339,7 +34339,7 @@ DATA = {
       "forks": 1,
       "subscribers": 0,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:08.158Z"
+      "repository_data_timestamp": "2022-12-02T02:01:08.301Z"
     },
     {
       "index": 1876,
@@ -34358,7 +34358,7 @@ DATA = {
       "forks": 7,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:08.280Z"
+      "repository_data_timestamp": "2022-12-02T02:01:08.392Z"
     },
     {
       "index": 1877,
@@ -34377,7 +34377,7 @@ DATA = {
       "forks": 6,
       "subscribers": 11,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:08.315Z"
+      "repository_data_timestamp": "2022-12-02T02:01:08.440Z"
     },
     {
       "index": 1878,
@@ -34396,7 +34396,7 @@ DATA = {
       "forks": 421,
       "subscribers": 43,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:08.342Z"
+      "repository_data_timestamp": "2022-12-02T02:01:08.434Z"
     },
     {
       "index": 1879,
@@ -34415,7 +34415,7 @@ DATA = {
       "forks": 3,
       "subscribers": 3,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:08.355Z"
+      "repository_data_timestamp": "2022-12-02T02:01:08.484Z"
     },
     {
       "index": 1880,
@@ -34434,7 +34434,7 @@ DATA = {
       "forks": 1,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:08.617Z"
+      "repository_data_timestamp": "2022-12-02T02:01:08.762Z"
     },
     {
       "index": 1881,
@@ -34453,7 +34453,7 @@ DATA = {
       "forks": 6,
       "subscribers": 31,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:08.653Z"
+      "repository_data_timestamp": "2022-12-02T02:01:08.799Z"
     },
     {
       "index": 1882,
@@ -34472,7 +34472,7 @@ DATA = {
       "forks": 65,
       "subscribers": 8,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:08.446Z"
+      "repository_data_timestamp": "2022-12-02T02:01:08.545Z"
     },
     {
       "index": 1883,
@@ -34491,7 +34491,7 @@ DATA = {
       "forks": 1,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:08.459Z"
+      "repository_data_timestamp": "2022-12-02T02:01:08.595Z"
     },
     {
       "index": 1884,
@@ -34510,7 +34510,7 @@ DATA = {
       "forks": 6,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:08.455Z"
+      "repository_data_timestamp": "2022-12-02T02:01:08.620Z"
     },
     {
       "index": 1885,
@@ -34529,7 +34529,7 @@ DATA = {
       "forks": 62,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:08.485Z"
+      "repository_data_timestamp": "2022-12-02T02:01:08.670Z"
     },
     {
       "index": 1886,
@@ -34548,7 +34548,7 @@ DATA = {
       "forks": 13,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:08.554Z"
+      "repository_data_timestamp": "2022-12-02T02:01:08.762Z"
     },
     {
       "index": 1887,
@@ -34567,7 +34567,7 @@ DATA = {
       "forks": 1,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:08.617Z"
+      "repository_data_timestamp": "2022-12-02T02:01:09.757Z"
     },
     {
       "index": 1888,
@@ -34586,7 +34586,7 @@ DATA = {
       "forks": 198,
       "subscribers": 17,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:08.627Z"
+      "repository_data_timestamp": "2022-12-02T02:01:08.744Z"
     },
     {
       "index": 1889,
@@ -34605,7 +34605,7 @@ DATA = {
       "forks": 31,
       "subscribers": 21,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:08.674Z"
+      "repository_data_timestamp": "2022-12-02T02:01:08.771Z"
     },
     {
       "index": 1890,
@@ -34624,7 +34624,7 @@ DATA = {
       "forks": 17,
       "subscribers": 3,
       "license": "bsd-2-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:08.754Z"
+      "repository_data_timestamp": "2022-12-02T02:01:08.819Z"
     },
     {
       "index": 1891,
@@ -34643,7 +34643,7 @@ DATA = {
       "forks": 6,
       "subscribers": 14,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:08.763Z"
+      "repository_data_timestamp": "2022-12-02T02:01:08.910Z"
     },
     {
       "index": 1892,
@@ -34662,7 +34662,7 @@ DATA = {
       "forks": 78,
       "subscribers": 19,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:08.775Z"
+      "repository_data_timestamp": "2022-12-02T02:01:08.915Z"
     },
     {
       "index": 1893,
@@ -34681,7 +34681,7 @@ DATA = {
       "forks": 8,
       "subscribers": 4,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:08.779Z"
+      "repository_data_timestamp": "2022-12-02T02:01:08.957Z"
     },
     {
       "index": 1894,
@@ -34700,7 +34700,7 @@ DATA = {
       "forks": 11,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:08.871Z"
+      "repository_data_timestamp": "2022-12-02T02:01:09.036Z"
     },
     {
       "index": 1895,
@@ -34719,7 +34719,7 @@ DATA = {
       "forks": 1,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:08.938Z"
+      "repository_data_timestamp": "2022-12-02T02:01:09.043Z"
     },
     {
       "index": 1896,
@@ -34738,7 +34738,7 @@ DATA = {
       "forks": 1,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:08.897Z"
+      "repository_data_timestamp": "2022-12-02T02:01:09.054Z"
     },
     {
       "index": 1897,
@@ -34757,7 +34757,7 @@ DATA = {
       "forks": 119,
       "subscribers": 30,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:08.912Z"
+      "repository_data_timestamp": "2022-12-02T02:01:09.066Z"
     },
     {
       "index": 1898,
@@ -34771,12 +34771,12 @@ DATA = {
         "name": "changie"
       },
       "created_at": "2020-12-05T19:38:33.000Z",
-      "last_commit_at": "2022-11-30T10:03:38.000Z",
-      "stars": 399,
+      "last_commit_at": "2022-12-02T01:59:28.000Z",
+      "stars": 403,
       "forks": 21,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:08.938Z"
+      "repository_data_timestamp": "2022-12-02T02:01:09.086Z"
     },
     {
       "index": 1899,
@@ -34795,7 +34795,7 @@ DATA = {
       "forks": 10,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:08.971Z"
+      "repository_data_timestamp": "2022-12-02T02:01:09.098Z"
     },
     {
       "index": 1900,
@@ -34814,7 +34814,7 @@ DATA = {
       "forks": 42,
       "subscribers": 14,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:09.047Z"
+      "repository_data_timestamp": "2022-12-02T02:01:09.184Z"
     },
     {
       "index": 1901,
@@ -34833,7 +34833,7 @@ DATA = {
       "forks": 117,
       "subscribers": 22,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:09.065Z"
+      "repository_data_timestamp": "2022-12-02T02:01:09.215Z"
     },
     {
       "index": 1902,
@@ -34852,7 +34852,7 @@ DATA = {
       "forks": 36,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:09.089Z"
+      "repository_data_timestamp": "2022-12-02T02:01:09.243Z"
     },
     {
       "index": 1903,
@@ -34871,7 +34871,7 @@ DATA = {
       "forks": 52,
       "subscribers": 7,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:09.071Z"
+      "repository_data_timestamp": "2022-12-02T02:01:09.329Z"
     },
     {
       "index": 1904,
@@ -34890,7 +34890,7 @@ DATA = {
       "forks": 14,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:09.454Z"
+      "repository_data_timestamp": "2022-12-02T02:01:09.608Z"
     },
     {
       "index": 1905,
@@ -34909,7 +34909,7 @@ DATA = {
       "forks": 4,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:09.191Z"
+      "repository_data_timestamp": "2022-12-02T02:01:09.351Z"
     },
     {
       "index": 1906,
@@ -34928,7 +34928,7 @@ DATA = {
       "forks": 3,
       "subscribers": 3,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:09.207Z"
+      "repository_data_timestamp": "2022-12-02T02:01:09.376Z"
     },
     {
       "index": 1907,
@@ -34947,7 +34947,7 @@ DATA = {
       "forks": 11,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:09.216Z"
+      "repository_data_timestamp": "2022-12-02T02:01:09.359Z"
     },
     {
       "index": 1908,
@@ -34966,7 +34966,7 @@ DATA = {
       "forks": 41,
       "subscribers": 7,
       "license": "bsd-2-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:09.234Z"
+      "repository_data_timestamp": "2022-12-02T02:01:09.416Z"
     },
     {
       "index": 1909,
@@ -34985,7 +34985,7 @@ DATA = {
       "forks": 2,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:09.276Z"
+      "repository_data_timestamp": "2022-12-02T02:01:09.504Z"
     },
     {
       "index": 1910,
@@ -35000,11 +35000,11 @@ DATA = {
       },
       "created_at": "2019-12-30T22:08:38.000Z",
       "last_commit_at": "2022-11-18T08:08:43.000Z",
-      "stars": 1666,
+      "stars": 1668,
       "forks": 211,
       "subscribers": 23,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:09.344Z"
+      "repository_data_timestamp": "2022-12-02T02:01:09.503Z"
     },
     {
       "index": 1911,
@@ -35023,7 +35023,7 @@ DATA = {
       "forks": 15,
       "subscribers": 4,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:09.344Z"
+      "repository_data_timestamp": "2022-12-02T02:01:09.532Z"
     },
     {
       "index": 1912,
@@ -35042,7 +35042,7 @@ DATA = {
       "forks": 517,
       "subscribers": 169,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:09.375Z"
+      "repository_data_timestamp": "2022-12-02T02:01:09.628Z"
     },
     {
       "index": 1913,
@@ -35061,7 +35061,7 @@ DATA = {
       "forks": 4,
       "subscribers": 1,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:09.376Z"
+      "repository_data_timestamp": "2022-12-02T02:01:09.638Z"
     },
     {
       "index": 1914,
@@ -35080,7 +35080,7 @@ DATA = {
       "forks": 4,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:09.497Z"
+      "repository_data_timestamp": "2022-12-02T02:01:09.654Z"
     },
     {
       "index": 1915,
@@ -35099,7 +35099,7 @@ DATA = {
       "forks": 7,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:09.516Z"
+      "repository_data_timestamp": "2022-12-02T02:01:09.663Z"
     },
     {
       "index": 1916,
@@ -35118,7 +35118,7 @@ DATA = {
       "forks": 18,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:09.539Z"
+      "repository_data_timestamp": "2022-12-02T02:01:09.686Z"
     },
     {
       "index": 1917,
@@ -35137,7 +35137,7 @@ DATA = {
       "forks": 54,
       "subscribers": 20,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:09.542Z"
+      "repository_data_timestamp": "2022-12-02T02:01:09.787Z"
     },
     {
       "index": 1918,
@@ -35152,11 +35152,11 @@ DATA = {
       },
       "created_at": "2020-02-18T18:03:33.000Z",
       "last_commit_at": "2022-11-22T19:01:30.000Z",
-      "stars": 540,
+      "stars": 541,
       "forks": 114,
       "subscribers": 11,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:09.604Z"
+      "repository_data_timestamp": "2022-12-02T02:01:09.924Z"
     },
     {
       "index": 1919,
@@ -35175,7 +35175,7 @@ DATA = {
       "forks": 2,
       "subscribers": 2,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:09.774Z"
+      "repository_data_timestamp": "2022-12-02T02:01:09.811Z"
     },
     {
       "index": 1920,
@@ -35189,12 +35189,12 @@ DATA = {
         "name": "easeprobe"
       },
       "created_at": "2022-02-24T04:55:32.000Z",
-      "last_commit_at": "2022-11-30T02:24:47.000Z",
-      "stars": 1382,
+      "last_commit_at": "2022-12-01T23:03:58.000Z",
+      "stars": 1383,
       "forks": 125,
       "subscribers": 25,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:09.650Z"
+      "repository_data_timestamp": "2022-12-02T02:01:09.913Z"
     },
     {
       "index": 1921,
@@ -35213,7 +35213,7 @@ DATA = {
       "forks": 2,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:09.689Z"
+      "repository_data_timestamp": "2022-12-02T02:01:09.905Z"
     },
     {
       "index": 1922,
@@ -35228,11 +35228,11 @@ DATA = {
       },
       "created_at": "2017-08-19T18:41:56.000Z",
       "last_commit_at": "2022-08-06T06:24:59.000Z",
-      "stars": 546,
+      "stars": 545,
       "forks": 54,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:09.696Z"
+      "repository_data_timestamp": "2022-12-02T02:01:09.943Z"
     },
     {
       "index": 1923,
@@ -35251,7 +35251,7 @@ DATA = {
       "forks": 8,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:09.767Z"
+      "repository_data_timestamp": "2022-12-02T02:01:09.942Z"
     },
     {
       "index": 1924,
@@ -35270,7 +35270,7 @@ DATA = {
       "forks": 150,
       "subscribers": 27,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:09.775Z"
+      "repository_data_timestamp": "2022-12-02T02:01:09.949Z"
     },
     {
       "index": 1925,
@@ -35289,7 +35289,7 @@ DATA = {
       "forks": 4,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:09.815Z"
+      "repository_data_timestamp": "2022-12-02T02:01:09.958Z"
     },
     {
       "index": 1926,
@@ -35308,7 +35308,7 @@ DATA = {
       "forks": 9,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:09.864Z"
+      "repository_data_timestamp": "2022-12-02T02:01:10.044Z"
     },
     {
       "index": 1927,
@@ -35323,11 +35323,11 @@ DATA = {
       },
       "created_at": "2013-10-23T16:04:23.000Z",
       "last_commit_at": "2022-11-30T12:36:28.000Z",
-      "stars": 48452,
-      "forks": 2066,
+      "stars": 48469,
+      "forks": 2067,
       "subscribers": 382,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:09.863Z"
+      "repository_data_timestamp": "2022-12-02T02:01:10.074Z"
     },
     {
       "index": 1928,
@@ -35346,7 +35346,7 @@ DATA = {
       "forks": 5,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:09.916Z"
+      "repository_data_timestamp": "2022-12-02T02:01:10.114Z"
     },
     {
       "index": 1929,
@@ -35365,7 +35365,7 @@ DATA = {
       "forks": 1,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:09.962Z"
+      "repository_data_timestamp": "2022-12-02T02:01:10.205Z"
     },
     {
       "index": 1930,
@@ -35380,11 +35380,11 @@ DATA = {
       },
       "created_at": "2016-06-19T21:17:04.000Z",
       "last_commit_at": "2022-01-31T15:31:34.000Z",
-      "stars": 916,
+      "stars": 917,
       "forks": 52,
       "subscribers": 28,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:09.986Z"
+      "repository_data_timestamp": "2022-12-02T02:01:10.213Z"
     },
     {
       "index": 1931,
@@ -35403,7 +35403,7 @@ DATA = {
       "forks": 52,
       "subscribers": 14,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:09.981Z"
+      "repository_data_timestamp": "2022-12-02T02:01:10.206Z"
     },
     {
       "index": 1932,
@@ -35422,7 +35422,7 @@ DATA = {
       "forks": 3,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:10.073Z"
+      "repository_data_timestamp": "2022-12-02T02:01:10.287Z"
     },
     {
       "index": 1933,
@@ -35441,7 +35441,7 @@ DATA = {
       "forks": 9,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:10.080Z"
+      "repository_data_timestamp": "2022-12-02T02:01:10.249Z"
     },
     {
       "index": 1934,
@@ -35460,7 +35460,7 @@ DATA = {
       "forks": 11,
       "subscribers": 5,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:10.084Z"
+      "repository_data_timestamp": "2022-12-02T02:01:10.256Z"
     },
     {
       "index": 1935,
@@ -35479,7 +35479,7 @@ DATA = {
       "forks": 19,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:10.108Z"
+      "repository_data_timestamp": "2022-12-02T02:01:10.268Z"
     },
     {
       "index": 1936,
@@ -35498,7 +35498,7 @@ DATA = {
       "forks": 0,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:10.171Z"
+      "repository_data_timestamp": "2022-12-02T02:01:10.333Z"
     },
     {
       "index": 1937,
@@ -35517,7 +35517,7 @@ DATA = {
       "forks": 3,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:10.185Z"
+      "repository_data_timestamp": "2022-12-02T02:01:10.344Z"
     },
     {
       "index": 1938,
@@ -35536,7 +35536,7 @@ DATA = {
       "forks": 4,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:10.227Z"
+      "repository_data_timestamp": "2022-12-02T02:01:10.390Z"
     },
     {
       "index": 1939,
@@ -35555,7 +35555,7 @@ DATA = {
       "forks": 36,
       "subscribers": 16,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:10.298Z"
+      "repository_data_timestamp": "2022-12-02T02:01:10.506Z"
     },
     {
       "index": 1940,
@@ -35570,11 +35570,11 @@ DATA = {
       },
       "created_at": "2016-12-30T13:55:15.000Z",
       "last_commit_at": "2022-11-01T19:20:08.000Z",
-      "stars": 4001,
+      "stars": 4003,
       "forks": 244,
       "subscribers": 40,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:10.271Z"
+      "repository_data_timestamp": "2022-12-02T02:01:10.489Z"
     },
     {
       "index": 1941,
@@ -35593,7 +35593,7 @@ DATA = {
       "forks": 5,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:10.313Z"
+      "repository_data_timestamp": "2022-12-02T02:01:10.495Z"
     },
     {
       "index": 1942,
@@ -35612,7 +35612,7 @@ DATA = {
       "forks": 11,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:10.384Z"
+      "repository_data_timestamp": "2022-12-02T02:01:10.533Z"
     },
     {
       "index": 1943,
@@ -35631,7 +35631,7 @@ DATA = {
       "forks": 10,
       "subscribers": 2,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:10.413Z"
+      "repository_data_timestamp": "2022-12-02T02:01:10.539Z"
     },
     {
       "index": 1944,
@@ -35650,7 +35650,7 @@ DATA = {
       "forks": 1,
       "subscribers": 2,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:10.413Z"
+      "repository_data_timestamp": "2022-12-02T02:01:10.538Z"
     },
     {
       "index": 1945,
@@ -35669,7 +35669,7 @@ DATA = {
       "forks": 1,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:10.413Z"
+      "repository_data_timestamp": "2022-12-02T02:01:10.563Z"
     },
     {
       "index": 1946,
@@ -35688,7 +35688,7 @@ DATA = {
       "forks": 35,
       "subscribers": 12,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:10.485Z"
+      "repository_data_timestamp": "2022-12-02T02:01:10.624Z"
     },
     {
       "index": 1939,
@@ -35726,7 +35726,7 @@ DATA = {
       "forks": 58,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:10.560Z"
+      "repository_data_timestamp": "2022-12-02T02:01:10.674Z"
     },
     {
       "index": 1949,
@@ -35745,7 +35745,7 @@ DATA = {
       "forks": 41,
       "subscribers": 14,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:10.573Z"
+      "repository_data_timestamp": "2022-12-02T02:01:10.779Z"
     },
     {
       "index": 1950,
@@ -35764,7 +35764,7 @@ DATA = {
       "forks": 8,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:10.718Z"
+      "repository_data_timestamp": "2022-12-02T02:01:10.772Z"
     },
     {
       "index": 1951,
@@ -35783,7 +35783,7 @@ DATA = {
       "forks": 8,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:10.613Z"
+      "repository_data_timestamp": "2022-12-02T02:01:10.792Z"
     },
     {
       "index": 1952,
@@ -35802,7 +35802,7 @@ DATA = {
       "forks": 3,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:10.698Z"
+      "repository_data_timestamp": "2022-12-02T02:01:10.828Z"
     },
     {
       "index": 1953,
@@ -35821,7 +35821,7 @@ DATA = {
       "forks": 56,
       "subscribers": 28,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:10.727Z"
+      "repository_data_timestamp": "2022-12-02T02:01:10.824Z"
     },
     {
       "index": 1954,
@@ -35836,11 +35836,11 @@ DATA = {
       },
       "created_at": "2014-06-22T23:09:29.000Z",
       "last_commit_at": "2022-10-12T16:00:26.000Z",
-      "stars": 4069,
+      "stars": 4070,
       "forks": 440,
       "subscribers": 245,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:10.711Z"
+      "repository_data_timestamp": "2022-12-02T02:01:10.918Z"
     },
     {
       "index": 1955,
@@ -35859,7 +35859,7 @@ DATA = {
       "forks": 47,
       "subscribers": 20,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:10.727Z"
+      "repository_data_timestamp": "2022-12-02T02:01:10.851Z"
     },
     {
       "index": 1956,
@@ -35878,7 +35878,7 @@ DATA = {
       "forks": 9,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:10.774Z"
+      "repository_data_timestamp": "2022-12-02T02:01:10.880Z"
     },
     {
       "index": 1957,
@@ -35897,7 +35897,7 @@ DATA = {
       "forks": 12,
       "subscribers": 3,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:10.767Z"
+      "repository_data_timestamp": "2022-12-02T02:01:10.901Z"
     },
     {
       "index": 1958,
@@ -35916,7 +35916,7 @@ DATA = {
       "forks": 42,
       "subscribers": 13,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:10.841Z"
+      "repository_data_timestamp": "2022-12-02T02:01:10.949Z"
     },
     {
       "index": 1959,
@@ -35935,7 +35935,7 @@ DATA = {
       "forks": 7,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:10.869Z"
+      "repository_data_timestamp": "2022-12-02T02:01:11.044Z"
     },
     {
       "index": 1960,
@@ -35954,7 +35954,7 @@ DATA = {
       "forks": 8,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:10.908Z"
+      "repository_data_timestamp": "2022-12-02T02:01:11.068Z"
     },
     {
       "index": 1961,
@@ -35968,12 +35968,12 @@ DATA = {
         "name": "goreleaser"
       },
       "created_at": "2016-12-21T17:13:39.000Z",
-      "last_commit_at": "2022-12-01T01:48:05.000Z",
-      "stars": 10972,
+      "last_commit_at": "2022-12-01T12:26:53.000Z",
+      "stars": 10978,
       "forks": 775,
       "subscribers": 107,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:11.019Z"
+      "repository_data_timestamp": "2022-12-02T02:01:11.117Z"
     },
     {
       "index": 1962,
@@ -35992,7 +35992,7 @@ DATA = {
       "forks": 269,
       "subscribers": 101,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:11.323Z"
+      "repository_data_timestamp": "2022-12-02T02:01:11.392Z"
     },
     {
       "index": 1963,
@@ -36011,7 +36011,7 @@ DATA = {
       "forks": 39,
       "subscribers": 7,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:11.055Z"
+      "repository_data_timestamp": "2022-12-02T02:01:11.264Z"
     },
     {
       "index": 1964,
@@ -36030,7 +36030,7 @@ DATA = {
       "forks": 6,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:11.044Z"
+      "repository_data_timestamp": "2022-12-02T02:01:11.147Z"
     },
     {
       "index": 1965,
@@ -36049,7 +36049,7 @@ DATA = {
       "forks": 30,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:11.056Z"
+      "repository_data_timestamp": "2022-12-02T02:01:11.171Z"
     },
     {
       "index": 1966,
@@ -36068,7 +36068,7 @@ DATA = {
       "forks": 14,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:11.068Z"
+      "repository_data_timestamp": "2022-12-02T02:01:11.197Z"
     },
     {
       "index": 1967,
@@ -36087,7 +36087,7 @@ DATA = {
       "forks": 4,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:11.073Z"
+      "repository_data_timestamp": "2022-12-02T02:01:11.216Z"
     },
     {
       "index": 1968,
@@ -36106,7 +36106,7 @@ DATA = {
       "forks": 1,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:11.166Z"
+      "repository_data_timestamp": "2022-12-02T02:01:11.242Z"
     },
     {
       "index": 1969,
@@ -36125,7 +36125,7 @@ DATA = {
       "forks": 41,
       "subscribers": 8,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:11.187Z"
+      "repository_data_timestamp": "2022-12-02T02:01:11.328Z"
     },
     {
       "index": 1970,
@@ -36144,7 +36144,7 @@ DATA = {
       "forks": 36,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:11.192Z"
+      "repository_data_timestamp": "2022-12-02T02:01:11.437Z"
     },
     {
       "index": 1971,
@@ -36163,7 +36163,7 @@ DATA = {
       "forks": 7,
       "subscribers": 8,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:11.294Z"
+      "repository_data_timestamp": "2022-12-02T02:01:11.404Z"
     },
     {
       "index": 1972,
@@ -36182,7 +36182,7 @@ DATA = {
       "forks": 39,
       "subscribers": 11,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:11.330Z"
+      "repository_data_timestamp": "2022-12-02T02:01:11.438Z"
     },
     {
       "index": 1973,
@@ -36201,7 +36201,7 @@ DATA = {
       "forks": 30,
       "subscribers": 17,
       "license": "bsd-2-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:11.367Z"
+      "repository_data_timestamp": "2022-12-02T02:01:11.448Z"
     },
     {
       "index": 1974,
@@ -36215,12 +36215,12 @@ DATA = {
         "name": "hub"
       },
       "created_at": "2009-12-05T22:15:25.000Z",
-      "last_commit_at": "2022-12-01T01:21:10.000Z",
+      "last_commit_at": "2022-12-01T12:58:27.000Z",
       "stars": 22174,
       "forks": 2344,
-      "subscribers": 579,
+      "subscribers": 578,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:11.367Z"
+      "repository_data_timestamp": "2022-12-02T02:01:11.500Z"
     },
     {
       "index": 1975,
@@ -36239,7 +36239,7 @@ DATA = {
       "forks": 448,
       "subscribers": 92,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:11.352Z"
+      "repository_data_timestamp": "2022-12-02T02:01:11.528Z"
     },
     {
       "index": 1976,
@@ -36258,7 +36258,7 @@ DATA = {
       "forks": 50,
       "subscribers": 17,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:11.397Z"
+      "repository_data_timestamp": "2022-12-02T02:01:11.536Z"
     },
     {
       "index": 1977,
@@ -36277,7 +36277,7 @@ DATA = {
       "forks": 2,
       "subscribers": 4,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:11.444Z"
+      "repository_data_timestamp": "2022-12-02T02:01:11.528Z"
     },
     {
       "index": 1978,
@@ -36296,7 +36296,7 @@ DATA = {
       "forks": 5,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:11.494Z"
+      "repository_data_timestamp": "2022-12-02T02:01:11.605Z"
     },
     {
       "index": 1979,
@@ -36311,11 +36311,11 @@ DATA = {
       },
       "created_at": "2015-08-16T22:07:17.000Z",
       "last_commit_at": "2022-08-07T18:24:47.000Z",
-      "stars": 1487,
+      "stars": 1489,
       "forks": 53,
       "subscribers": 18,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:11.497Z"
+      "repository_data_timestamp": "2022-12-02T02:01:11.675Z"
     },
     {
       "index": 1980,
@@ -36330,11 +36330,11 @@ DATA = {
       },
       "created_at": "2018-11-09T09:49:19.000Z",
       "last_commit_at": "2020-11-18T17:04:42.000Z",
-      "stars": 513,
+      "stars": 512,
       "forks": 30,
       "subscribers": 11,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:11.586Z"
+      "repository_data_timestamp": "2022-12-02T02:01:11.699Z"
     },
     {
       "index": 1981,
@@ -36348,12 +36348,12 @@ DATA = {
         "name": "lancet"
       },
       "created_at": "2021-11-28T13:18:19.000Z",
-      "last_commit_at": "2022-11-30T04:35:09.000Z",
-      "stars": 1872,
+      "last_commit_at": "2022-12-01T14:47:04.000Z",
+      "stars": 1874,
       "forks": 215,
       "subscribers": 35,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:11.605Z"
+      "repository_data_timestamp": "2022-12-02T02:01:11.715Z"
     },
     {
       "index": 1982,
@@ -36372,7 +36372,7 @@ DATA = {
       "forks": 2,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:11.848Z"
+      "repository_data_timestamp": "2022-12-02T02:01:11.969Z"
     },
     {
       "index": 1983,
@@ -36387,11 +36387,11 @@ DATA = {
       },
       "created_at": "2019-08-28T18:09:54.000Z",
       "last_commit_at": "2022-01-04T06:30:34.000Z",
-      "stars": 109,
+      "stars": 110,
       "forks": 20,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:11.633Z"
+      "repository_data_timestamp": "2022-12-02T02:01:11.749Z"
     },
     {
       "index": 1984,
@@ -36405,12 +36405,12 @@ DATA = {
         "name": "lo"
       },
       "created_at": "2022-03-02T12:48:45.000Z",
-      "last_commit_at": "2022-11-30T15:47:43.000Z",
-      "stars": 8850,
-      "forks": 370,
+      "last_commit_at": "2022-12-01T06:57:01.000Z",
+      "stars": 8865,
+      "forks": 372,
       "subscribers": 52,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:11.641Z"
+      "repository_data_timestamp": "2022-12-02T02:01:11.799Z"
     },
     {
       "index": 1985,
@@ -36429,7 +36429,7 @@ DATA = {
       "forks": 1,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:11.662Z"
+      "repository_data_timestamp": "2022-12-02T02:01:11.820Z"
     },
     {
       "index": 1986,
@@ -36448,7 +36448,7 @@ DATA = {
       "forks": 12,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:11.687Z"
+      "repository_data_timestamp": "2022-12-02T02:01:11.821Z"
     },
     {
       "index": 1987,
@@ -36463,11 +36463,11 @@ DATA = {
       },
       "created_at": "2019-10-22T20:05:11.000Z",
       "last_commit_at": "2022-09-25T07:14:57.000Z",
-      "stars": 328,
+      "stars": 330,
       "forks": 15,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:11.729Z"
+      "repository_data_timestamp": "2022-12-02T02:01:11.863Z"
     },
     {
       "index": 1988,
@@ -36481,12 +36481,12 @@ DATA = {
         "name": "mc"
       },
       "created_at": "2015-01-16T02:56:51.000Z",
-      "last_commit_at": "2022-11-30T22:10:30.000Z",
+      "last_commit_at": "2022-12-01T18:41:14.000Z",
       "stars": 2303,
-      "forks": 441,
+      "forks": 440,
       "subscribers": 49,
       "license": "agpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:01:11.794Z"
+      "repository_data_timestamp": "2022-12-02T02:01:11.934Z"
     },
     {
       "index": 1989,
@@ -36505,7 +36505,7 @@ DATA = {
       "forks": 245,
       "subscribers": 26,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:11.782Z"
+      "repository_data_timestamp": "2022-12-02T02:01:11.994Z"
     },
     {
       "index": 1990,
@@ -36524,7 +36524,7 @@ DATA = {
       "forks": 9,
       "subscribers": 3,
       "license": "gpl-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:11.863Z"
+      "repository_data_timestamp": "2022-12-02T02:01:11.994Z"
     },
     {
       "index": 1991,
@@ -36543,7 +36543,7 @@ DATA = {
       "forks": 1,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:11.897Z"
+      "repository_data_timestamp": "2022-12-02T02:01:11.996Z"
     },
     {
       "index": 1992,
@@ -36562,7 +36562,7 @@ DATA = {
       "forks": 126,
       "subscribers": 12,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:11.920Z"
+      "repository_data_timestamp": "2022-12-02T02:01:12.011Z"
     },
     {
       "index": 1993,
@@ -36581,7 +36581,7 @@ DATA = {
       "forks": 201,
       "subscribers": 53,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:12.016Z"
+      "repository_data_timestamp": "2022-12-02T02:01:12.095Z"
     },
     {
       "index": 1994,
@@ -36600,7 +36600,7 @@ DATA = {
       "forks": 21,
       "subscribers": 2,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:11.945Z"
+      "repository_data_timestamp": "2022-12-02T02:01:12.116Z"
     },
     {
       "index": 1995,
@@ -36619,7 +36619,7 @@ DATA = {
       "forks": 6,
       "subscribers": 5,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:11.987Z"
+      "repository_data_timestamp": "2022-12-02T02:01:12.116Z"
     },
     {
       "index": 1996,
@@ -36638,7 +36638,7 @@ DATA = {
       "forks": 91,
       "subscribers": 28,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:12.123Z"
+      "repository_data_timestamp": "2022-12-02T02:01:12.155Z"
     },
     {
       "index": 1997,
@@ -36657,7 +36657,7 @@ DATA = {
       "forks": 35,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:12.077Z"
+      "repository_data_timestamp": "2022-12-02T02:01:12.234Z"
     },
     {
       "index": 1998,
@@ -36676,7 +36676,7 @@ DATA = {
       "forks": 12,
       "subscribers": 10,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:12.082Z"
+      "repository_data_timestamp": "2022-12-02T02:01:12.251Z"
     },
     {
       "index": 1999,
@@ -36695,7 +36695,7 @@ DATA = {
       "forks": 3,
       "subscribers": 15,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:12.161Z"
+      "repository_data_timestamp": "2022-12-02T02:01:12.311Z"
     },
     {
       "index": 2000,
@@ -36714,7 +36714,7 @@ DATA = {
       "forks": 14,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:12.134Z"
+      "repository_data_timestamp": "2022-12-02T02:01:12.324Z"
     },
     {
       "index": 2001,
@@ -36733,7 +36733,7 @@ DATA = {
       "forks": 5,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:12.178Z"
+      "repository_data_timestamp": "2022-12-02T02:01:12.356Z"
     },
     {
       "index": 2002,
@@ -36752,7 +36752,7 @@ DATA = {
       "forks": 2,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:12.216Z"
+      "repository_data_timestamp": "2022-12-02T02:01:12.356Z"
     },
     {
       "index": 2003,
@@ -36771,7 +36771,7 @@ DATA = {
       "forks": 8,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:12.328Z"
+      "repository_data_timestamp": "2022-12-02T02:01:12.419Z"
     },
     {
       "index": 2004,
@@ -36790,7 +36790,7 @@ DATA = {
       "forks": 0,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:12.263Z"
+      "repository_data_timestamp": "2022-12-02T02:01:12.425Z"
     },
     {
       "index": 2005,
@@ -36809,7 +36809,7 @@ DATA = {
       "forks": 3,
       "subscribers": 3,
       "license": null,
-      "repository_data_timestamp": "2022-12-01T02:01:12.334Z"
+      "repository_data_timestamp": "2022-12-02T02:01:12.461Z"
     },
     {
       "index": 2006,
@@ -36828,7 +36828,7 @@ DATA = {
       "forks": 1,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:12.405Z"
+      "repository_data_timestamp": "2022-12-02T02:01:12.473Z"
     },
     {
       "index": 2007,
@@ -36847,7 +36847,7 @@ DATA = {
       "forks": 8,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:12.376Z"
+      "repository_data_timestamp": "2022-12-02T02:01:12.561Z"
     },
     {
       "index": 2008,
@@ -36862,11 +36862,11 @@ DATA = {
       },
       "created_at": "2015-02-02T02:14:41.000Z",
       "last_commit_at": "2022-11-12T15:24:43.000Z",
-      "stars": 3309,
+      "stars": 3318,
       "forks": 97,
       "subscribers": 39,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:12.450Z"
+      "repository_data_timestamp": "2022-12-02T02:01:12.542Z"
     },
     {
       "index": 2009,
@@ -36885,7 +36885,7 @@ DATA = {
       "forks": 9,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:12.450Z"
+      "repository_data_timestamp": "2022-12-02T02:01:12.582Z"
     },
     {
       "index": 2010,
@@ -36900,11 +36900,11 @@ DATA = {
       },
       "created_at": "2014-06-06T06:06:32.000Z",
       "last_commit_at": "2022-08-15T01:56:17.000Z",
-      "stars": 7187,
+      "stars": 7188,
       "forks": 235,
       "subscribers": 138,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:12.493Z"
+      "repository_data_timestamp": "2022-12-02T02:01:12.623Z"
     },
     {
       "index": 2011,
@@ -36923,7 +36923,7 @@ DATA = {
       "forks": 16,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:12.497Z"
+      "repository_data_timestamp": "2022-12-02T02:01:12.664Z"
     },
     {
       "index": 2012,
@@ -36942,7 +36942,7 @@ DATA = {
       "forks": 7,
       "subscribers": 17,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:12.536Z"
+      "repository_data_timestamp": "2022-12-02T02:01:12.669Z"
     },
     {
       "index": 2013,
@@ -36961,7 +36961,7 @@ DATA = {
       "forks": 4,
       "subscribers": 4,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:12.563Z"
+      "repository_data_timestamp": "2022-12-02T02:01:12.708Z"
     },
     {
       "index": 2014,
@@ -36980,7 +36980,7 @@ DATA = {
       "forks": 3,
       "subscribers": 2,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:12.654Z"
+      "repository_data_timestamp": "2022-12-02T02:01:12.755Z"
     },
     {
       "index": 2015,
@@ -36995,11 +36995,11 @@ DATA = {
       },
       "created_at": "2017-02-28T01:07:25.000Z",
       "last_commit_at": "2019-11-28T00:03:52.000Z",
-      "stars": 33,
+      "stars": 34,
       "forks": 3,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:12.649Z"
+      "repository_data_timestamp": "2022-12-02T02:01:12.777Z"
     },
     {
       "index": 2016,
@@ -37018,7 +37018,7 @@ DATA = {
       "forks": 0,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:12.703Z"
+      "repository_data_timestamp": "2022-12-02T02:01:12.796Z"
     },
     {
       "index": 2017,
@@ -37037,7 +37037,7 @@ DATA = {
       "forks": 35,
       "subscribers": 6,
       "license": "gpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:01:12.721Z"
+      "repository_data_timestamp": "2022-12-02T02:01:12.820Z"
     },
     {
       "index": 2018,
@@ -37056,7 +37056,7 @@ DATA = {
       "forks": 6,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:12.737Z"
+      "repository_data_timestamp": "2022-12-02T02:01:12.833Z"
     },
     {
       "index": 2019,
@@ -37071,11 +37071,11 @@ DATA = {
       },
       "created_at": "2014-12-21T04:30:42.000Z",
       "last_commit_at": "2019-12-05T09:11:26.000Z",
-      "stars": 420,
+      "stars": 422,
       "forks": 39,
       "subscribers": 16,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:12.772Z"
+      "repository_data_timestamp": "2022-12-02T02:01:12.864Z"
     },
     {
       "index": 2020,
@@ -37094,7 +37094,7 @@ DATA = {
       "forks": 10,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:12.787Z"
+      "repository_data_timestamp": "2022-12-02T02:01:12.889Z"
     },
     {
       "index": 2021,
@@ -37113,7 +37113,7 @@ DATA = {
       "forks": 2,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:12.815Z"
+      "repository_data_timestamp": "2022-12-02T02:01:12.943Z"
     },
     {
       "index": 2022,
@@ -37132,7 +37132,7 @@ DATA = {
       "forks": 14,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:12.845Z"
+      "repository_data_timestamp": "2022-12-02T02:01:12.968Z"
     },
     {
       "index": 2023,
@@ -37151,7 +37151,7 @@ DATA = {
       "forks": 2,
       "subscribers": 41,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:12.887Z"
+      "repository_data_timestamp": "2022-12-02T02:01:12.995Z"
     },
     {
       "index": 2024,
@@ -37170,7 +37170,7 @@ DATA = {
       "forks": 6,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:12.961Z"
+      "repository_data_timestamp": "2022-12-02T02:01:13.037Z"
     },
     {
       "index": 2025,
@@ -37189,7 +37189,7 @@ DATA = {
       "forks": 2,
       "subscribers": 0,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:12.939Z"
+      "repository_data_timestamp": "2022-12-02T02:01:13.077Z"
     },
     {
       "index": 2026,
@@ -37204,11 +37204,11 @@ DATA = {
       },
       "created_at": "2017-07-24T11:48:53.000Z",
       "last_commit_at": "2022-11-15T10:13:42.000Z",
-      "stars": 1295,
+      "stars": 1298,
       "forks": 110,
       "subscribers": 32,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:13.027Z"
+      "repository_data_timestamp": "2022-12-02T02:01:13.133Z"
     },
     {
       "index": 2027,
@@ -37227,7 +37227,7 @@ DATA = {
       "forks": 5,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:13.002Z"
+      "repository_data_timestamp": "2022-12-02T02:01:13.144Z"
     },
     {
       "index": 2028,
@@ -37246,7 +37246,7 @@ DATA = {
       "forks": 7,
       "subscribers": 16,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:13.083Z"
+      "repository_data_timestamp": "2022-12-02T02:01:13.133Z"
     },
     {
       "index": 2029,
@@ -37265,7 +37265,7 @@ DATA = {
       "forks": 13,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:13.045Z"
+      "repository_data_timestamp": "2022-12-02T02:01:13.144Z"
     },
     {
       "index": 2030,
@@ -37284,7 +37284,7 @@ DATA = {
       "forks": 21,
       "subscribers": 8,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:13.077Z"
+      "repository_data_timestamp": "2022-12-02T02:01:13.170Z"
     },
     {
       "index": 2031,
@@ -37303,7 +37303,7 @@ DATA = {
       "forks": 3,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:13.121Z"
+      "repository_data_timestamp": "2022-12-02T02:01:13.229Z"
     },
     {
       "index": 2032,
@@ -37318,11 +37318,11 @@ DATA = {
       },
       "created_at": "2020-07-02T11:02:58.000Z",
       "last_commit_at": "2022-10-30T00:08:06.000Z",
-      "stars": 785,
+      "stars": 786,
       "forks": 50,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:13.137Z"
+      "repository_data_timestamp": "2022-12-02T02:01:13.271Z"
     },
     {
       "index": 2033,
@@ -37341,7 +37341,7 @@ DATA = {
       "forks": 16,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:13.190Z"
+      "repository_data_timestamp": "2022-12-02T02:01:13.286Z"
     },
     {
       "index": 2034,
@@ -37360,7 +37360,7 @@ DATA = {
       "forks": 2,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:13.211Z"
+      "repository_data_timestamp": "2022-12-02T02:01:13.315Z"
     },
     {
       "index": 2035,
@@ -37375,11 +37375,11 @@ DATA = {
       },
       "created_at": "2018-11-17T17:56:03.000Z",
       "last_commit_at": "2022-01-15T22:23:00.000Z",
-      "stars": 41,
+      "stars": 43,
       "forks": 6,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:13.261Z"
+      "repository_data_timestamp": "2022-12-02T02:01:13.399Z"
     },
     {
       "index": 2036,
@@ -37398,7 +37398,7 @@ DATA = {
       "forks": 3,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:13.290Z"
+      "repository_data_timestamp": "2022-12-02T02:01:13.424Z"
     },
     {
       "index": 2037,
@@ -37417,7 +37417,7 @@ DATA = {
       "forks": 5,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:13.300Z"
+      "repository_data_timestamp": "2022-12-02T02:01:13.422Z"
     },
     {
       "index": 2038,
@@ -37436,7 +37436,7 @@ DATA = {
       "forks": 1,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:13.363Z"
+      "repository_data_timestamp": "2022-12-02T02:01:13.453Z"
     },
     {
       "index": 2039,
@@ -37455,7 +37455,7 @@ DATA = {
       "forks": 3,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:13.399Z"
+      "repository_data_timestamp": "2022-12-02T02:01:13.441Z"
     },
     {
       "index": 2040,
@@ -37474,7 +37474,7 @@ DATA = {
       "forks": 2,
       "subscribers": 4,
       "license": "mpl-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:13.394Z"
+      "repository_data_timestamp": "2022-12-02T02:01:13.476Z"
     },
     {
       "index": 2041,
@@ -37489,11 +37489,11 @@ DATA = {
       },
       "created_at": "2013-01-28T19:40:00.000Z",
       "last_commit_at": "2022-11-17T04:19:12.000Z",
-      "stars": 12905,
+      "stars": 12911,
       "forks": 977,
       "subscribers": 195,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:13.417Z"
+      "repository_data_timestamp": "2022-12-02T02:01:13.518Z"
     },
     {
       "index": 2042,
@@ -37512,7 +37512,7 @@ DATA = {
       "forks": 1,
       "subscribers": 3,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:13.442Z"
+      "repository_data_timestamp": "2022-12-02T02:01:13.558Z"
     },
     {
       "index": 2043,
@@ -37531,7 +37531,7 @@ DATA = {
       "forks": 1,
       "subscribers": 0,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:13.513Z"
+      "repository_data_timestamp": "2022-12-02T02:01:13.596Z"
     },
     {
       "index": 2044,
@@ -37550,7 +37550,7 @@ DATA = {
       "forks": 135,
       "subscribers": 42,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:13.528Z"
+      "repository_data_timestamp": "2022-12-02T02:01:13.595Z"
     },
     {
       "index": 2045,
@@ -37569,7 +37569,7 @@ DATA = {
       "forks": 3,
       "subscribers": 3,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:13.593Z"
+      "repository_data_timestamp": "2022-12-02T02:01:13.673Z"
     },
     {
       "index": 2046,
@@ -37588,7 +37588,7 @@ DATA = {
       "forks": 1,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:13.588Z"
+      "repository_data_timestamp": "2022-12-02T02:01:13.714Z"
     },
     {
       "index": 2047,
@@ -37607,7 +37607,7 @@ DATA = {
       "forks": 2,
       "subscribers": 2,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:13.626Z"
+      "repository_data_timestamp": "2022-12-02T02:01:13.756Z"
     },
     {
       "index": 2048,
@@ -37622,11 +37622,11 @@ DATA = {
       },
       "created_at": "2019-04-12T16:49:45.000Z",
       "last_commit_at": "2022-04-20T16:41:33.000Z",
-      "stars": 32,
+      "stars": 33,
       "forks": 3,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:13.673Z"
+      "repository_data_timestamp": "2022-12-02T02:01:13.757Z"
     },
     {
       "index": 2049,
@@ -37645,7 +37645,7 @@ DATA = {
       "forks": 27,
       "subscribers": 15,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:13.707Z"
+      "repository_data_timestamp": "2022-12-02T02:01:13.791Z"
     },
     {
       "index": 2050,
@@ -37664,7 +37664,7 @@ DATA = {
       "forks": 5,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:13.712Z"
+      "repository_data_timestamp": "2022-12-02T02:01:13.791Z"
     },
     {
       "index": 2051,
@@ -37683,7 +37683,7 @@ DATA = {
       "forks": 4,
       "subscribers": 5,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:13.722Z"
+      "repository_data_timestamp": "2022-12-02T02:01:13.837Z"
     },
     {
       "index": 2052,
@@ -37702,7 +37702,7 @@ DATA = {
       "forks": 304,
       "subscribers": 118,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:14.061Z"
+      "repository_data_timestamp": "2022-12-02T02:01:14.148Z"
     },
     {
       "index": 2053,
@@ -37721,7 +37721,7 @@ DATA = {
       "forks": 38,
       "subscribers": 13,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:13.819Z"
+      "repository_data_timestamp": "2022-12-02T02:01:13.888Z"
     },
     {
       "index": 2054,
@@ -37740,7 +37740,7 @@ DATA = {
       "forks": 11,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:13.828Z"
+      "repository_data_timestamp": "2022-12-02T02:01:13.908Z"
     },
     {
       "index": 2055,
@@ -37755,11 +37755,11 @@ DATA = {
       },
       "created_at": "2017-01-30T21:22:00.000Z",
       "last_commit_at": "2022-06-29T04:44:42.000Z",
-      "stars": 10174,
-      "forks": 426,
+      "stars": 10177,
+      "forks": 427,
       "subscribers": 168,
       "license": "agpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:01:13.897Z"
+      "repository_data_timestamp": "2022-12-02T02:01:13.969Z"
     },
     {
       "index": 2056,
@@ -37778,7 +37778,7 @@ DATA = {
       "forks": 12,
       "subscribers": 5,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:13.880Z"
+      "repository_data_timestamp": "2022-12-02T02:01:13.986Z"
     },
     {
       "index": 2057,
@@ -37793,11 +37793,11 @@ DATA = {
       },
       "created_at": "2017-05-19T10:40:45.000Z",
       "last_commit_at": "2019-02-18T15:50:01.000Z",
-      "stars": 35,
+      "stars": 36,
       "forks": 4,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:13.914Z"
+      "repository_data_timestamp": "2022-12-02T02:01:14.036Z"
     },
     {
       "index": 2058,
@@ -37816,7 +37816,7 @@ DATA = {
       "forks": 4,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:13.966Z"
+      "repository_data_timestamp": "2022-12-02T02:01:14.041Z"
     },
     {
       "index": 2059,
@@ -37835,7 +37835,7 @@ DATA = {
       "forks": 7,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:14.026Z"
+      "repository_data_timestamp": "2022-12-02T02:01:14.081Z"
     },
     {
       "index": 2060,
@@ -37854,7 +37854,7 @@ DATA = {
       "forks": 5,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:14.033Z"
+      "repository_data_timestamp": "2022-12-02T02:01:14.078Z"
     },
     {
       "index": 2061,
@@ -37868,12 +37868,12 @@ DATA = {
         "name": "ulid"
       },
       "created_at": "2016-12-06T15:26:52.000Z",
-      "last_commit_at": "2022-11-23T02:10:36.000Z",
-      "stars": 2963,
-      "forks": 128,
+      "last_commit_at": "2022-12-01T18:04:36.000Z",
+      "stars": 2968,
+      "forks": 129,
       "subscribers": 43,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:14.068Z"
+      "repository_data_timestamp": "2022-12-02T02:01:14.123Z"
     },
     {
       "index": 2062,
@@ -37900,7 +37900,7 @@ DATA = {
       "forks": 5,
       "subscribers": 3,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:14.119Z"
+      "repository_data_timestamp": "2022-12-02T02:01:14.176Z"
     },
     {
       "index": 2064,
@@ -37919,7 +37919,7 @@ DATA = {
       "forks": 81,
       "subscribers": 21,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:14.139Z"
+      "repository_data_timestamp": "2022-12-02T02:01:14.198Z"
     },
     {
       "index": 2065,
@@ -37934,11 +37934,11 @@ DATA = {
       },
       "created_at": "2016-02-12T22:17:59.000Z",
       "last_commit_at": "2022-11-13T13:01:54.000Z",
-      "stars": 4007,
+      "stars": 4009,
       "forks": 330,
       "subscribers": 47,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:14.202Z"
+      "repository_data_timestamp": "2022-12-02T02:01:14.290Z"
     },
     {
       "index": 2066,
@@ -37957,7 +37957,7 @@ DATA = {
       "forks": 46,
       "subscribers": 17,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:14.210Z"
+      "repository_data_timestamp": "2022-12-02T02:01:14.274Z"
     },
     {
       "index": 2067,
@@ -37972,11 +37972,11 @@ DATA = {
       },
       "created_at": "2015-11-10T20:32:24.000Z",
       "last_commit_at": "2022-10-27T15:16:27.000Z",
-      "stars": 3104,
-      "forks": 178,
+      "stars": 3114,
+      "forks": 179,
       "subscribers": 34,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:14.236Z"
+      "repository_data_timestamp": "2022-12-02T02:01:14.311Z"
     },
     {
       "index": 2068,
@@ -37995,7 +37995,7 @@ DATA = {
       "forks": 6,
       "subscribers": 0,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:14.269Z"
+      "repository_data_timestamp": "2022-12-02T02:01:14.333Z"
     },
     {
       "index": 2069,
@@ -38014,7 +38014,7 @@ DATA = {
       "forks": 5,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:14.330Z"
+      "repository_data_timestamp": "2022-12-02T02:01:14.344Z"
     },
     {
       "index": 2070,
@@ -38033,7 +38033,7 @@ DATA = {
       "forks": 6,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:14.330Z"
+      "repository_data_timestamp": "2022-12-02T02:01:14.350Z"
     },
     {
       "index": 2071,
@@ -38052,7 +38052,7 @@ DATA = {
       "forks": 544,
       "subscribers": 96,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:14.371Z"
+      "repository_data_timestamp": "2022-12-02T02:01:14.403Z"
     },
     {
       "index": 2072,
@@ -38071,7 +38071,7 @@ DATA = {
       "forks": 109,
       "subscribers": 21,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:14.407Z"
+      "repository_data_timestamp": "2022-12-02T02:01:14.441Z"
     },
     {
       "index": 2073,
@@ -38090,7 +38090,7 @@ DATA = {
       "forks": 11,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:14.440Z"
+      "repository_data_timestamp": "2022-12-02T02:01:14.463Z"
     },
     {
       "index": 2074,
@@ -38105,11 +38105,11 @@ DATA = {
       },
       "created_at": "2016-06-22T03:47:43.000Z",
       "last_commit_at": "2022-09-14T22:24:41.000Z",
-      "stars": 2976,
-      "forks": 189,
+      "stars": 2979,
+      "forks": 190,
       "subscribers": 29,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:14.448Z"
+      "repository_data_timestamp": "2022-12-02T02:01:14.489Z"
     },
     {
       "index": 2075,
@@ -38128,7 +38128,7 @@ DATA = {
       "forks": 8,
       "subscribers": 2,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:14.508Z"
+      "repository_data_timestamp": "2022-12-02T02:01:14.595Z"
     },
     {
       "index": 2076,
@@ -38147,7 +38147,7 @@ DATA = {
       "forks": 96,
       "subscribers": 18,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:14.496Z"
+      "repository_data_timestamp": "2022-12-02T02:01:14.577Z"
     },
     {
       "index": 2077,
@@ -38166,7 +38166,7 @@ DATA = {
       "forks": 22,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:14.514Z"
+      "repository_data_timestamp": "2022-12-02T02:01:14.601Z"
     },
     {
       "index": 2078,
@@ -38181,11 +38181,11 @@ DATA = {
       },
       "created_at": "2015-02-12T16:32:22.000Z",
       "last_commit_at": "2022-11-21T03:08:29.000Z",
-      "stars": 11932,
-      "forks": 1090,
+      "stars": 11936,
+      "forks": 1088,
       "subscribers": 106,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:14.543Z"
+      "repository_data_timestamp": "2022-12-02T02:01:14.646Z"
     },
     {
       "index": 2079,
@@ -38204,7 +38204,7 @@ DATA = {
       "forks": 0,
       "subscribers": 1,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:14.613Z"
+      "repository_data_timestamp": "2022-12-02T02:01:14.640Z"
     },
     {
       "index": 2080,
@@ -38222,7 +38222,7 @@ DATA = {
       "forks": 1,
       "subscribers": 2,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:14.621Z"
+      "repository_data_timestamp": "2022-12-02T02:01:14.660Z"
     },
     {
       "index": 2081,
@@ -38249,7 +38249,7 @@ DATA = {
       "forks": 12,
       "subscribers": 6,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:14.640Z"
+      "repository_data_timestamp": "2022-12-02T02:01:14.707Z"
     },
     {
       "index": 2083,
@@ -38268,7 +38268,7 @@ DATA = {
       "forks": 13,
       "subscribers": 7,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:14.814Z"
+      "repository_data_timestamp": "2022-12-02T02:01:14.723Z"
     },
     {
       "index": 2084,
@@ -38287,7 +38287,7 @@ DATA = {
       "forks": 307,
       "subscribers": 48,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:14.716Z"
+      "repository_data_timestamp": "2022-12-02T02:01:14.788Z"
     },
     {
       "index": 2085,
@@ -38306,7 +38306,7 @@ DATA = {
       "forks": 1,
       "subscribers": 0,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:14.734Z"
+      "repository_data_timestamp": "2022-12-02T02:01:14.783Z"
     },
     {
       "index": 2086,
@@ -38321,11 +38321,11 @@ DATA = {
       },
       "created_at": "2019-12-19T10:27:02.000Z",
       "last_commit_at": "2022-11-30T14:51:42.000Z",
-      "stars": 4061,
-      "forks": 504,
+      "stars": 4064,
+      "forks": 506,
       "subscribers": 43,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:14.788Z"
+      "repository_data_timestamp": "2022-12-02T02:01:14.890Z"
     },
     {
       "index": 2087,
@@ -38344,7 +38344,7 @@ DATA = {
       "forks": 20,
       "subscribers": 88,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:14.818Z"
+      "repository_data_timestamp": "2022-12-02T02:01:14.908Z"
     },
     {
       "index": 2088,
@@ -38363,7 +38363,7 @@ DATA = {
       "forks": 144,
       "subscribers": 21,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:14.789Z"
+      "repository_data_timestamp": "2022-12-02T02:01:14.908Z"
     },
     {
       "index": 2089,
@@ -38382,7 +38382,7 @@ DATA = {
       "forks": 4,
       "subscribers": 4,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:14.865Z"
+      "repository_data_timestamp": "2022-12-02T02:01:14.991Z"
     },
     {
       "index": 2090,
@@ -38401,7 +38401,7 @@ DATA = {
       "forks": 164,
       "subscribers": 30,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:14.889Z"
+      "repository_data_timestamp": "2022-12-02T02:01:14.932Z"
     },
     {
       "index": 2091,
@@ -38420,7 +38420,7 @@ DATA = {
       "forks": 87,
       "subscribers": 9,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:14.911Z"
+      "repository_data_timestamp": "2022-12-02T02:01:14.968Z"
     },
     {
       "index": 2092,
@@ -38439,7 +38439,7 @@ DATA = {
       "forks": 45,
       "subscribers": 19,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:14.910Z"
+      "repository_data_timestamp": "2022-12-02T02:01:15.003Z"
     },
     {
       "index": 2093,
@@ -38458,7 +38458,7 @@ DATA = {
       "forks": 4,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:15.039Z"
+      "repository_data_timestamp": "2022-12-02T02:01:15.053Z"
     },
     {
       "index": 2094,
@@ -38477,7 +38477,7 @@ DATA = {
       "forks": 6,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:15.112Z"
+      "repository_data_timestamp": "2022-12-02T02:01:15.121Z"
     },
     {
       "index": 2095,
@@ -38492,11 +38492,11 @@ DATA = {
       },
       "created_at": "2015-05-21T05:31:14.000Z",
       "last_commit_at": "2022-05-19T23:28:55.000Z",
-      "stars": 1943,
+      "stars": 1944,
       "forks": 353,
       "subscribers": 50,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:15.082Z"
+      "repository_data_timestamp": "2022-12-02T02:01:15.101Z"
     },
     {
       "index": 2096,
@@ -38515,7 +38515,7 @@ DATA = {
       "forks": 102,
       "subscribers": 12,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:15.115Z"
+      "repository_data_timestamp": "2022-12-02T02:01:15.178Z"
     },
     {
       "index": 2097,
@@ -38534,7 +38534,7 @@ DATA = {
       "forks": 47,
       "subscribers": 10,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:15.140Z"
+      "repository_data_timestamp": "2022-12-02T02:01:15.198Z"
     },
     {
       "index": 2098,
@@ -38553,7 +38553,7 @@ DATA = {
       "forks": 5,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:15.150Z"
+      "repository_data_timestamp": "2022-12-02T02:01:15.256Z"
     },
     {
       "index": 2099,
@@ -38570,9 +38570,9 @@ DATA = {
       "last_commit_at": "2022-04-10T11:51:17.000Z",
       "stars": 325,
       "forks": 41,
-      "subscribers": 12,
+      "subscribers": 11,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:15.209Z"
+      "repository_data_timestamp": "2022-12-02T02:01:15.254Z"
     },
     {
       "index": 2100,
@@ -38591,7 +38591,7 @@ DATA = {
       "forks": 263,
       "subscribers": 39,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:15.253Z"
+      "repository_data_timestamp": "2022-12-02T02:01:15.275Z"
     },
     {
       "index": 2101,
@@ -38610,7 +38610,7 @@ DATA = {
       "forks": 13,
       "subscribers": 7,
       "license": "gpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:01:15.296Z"
+      "repository_data_timestamp": "2022-12-02T02:01:15.454Z"
     },
     {
       "index": 2102,
@@ -38625,11 +38625,11 @@ DATA = {
       },
       "created_at": "2016-06-27T04:47:45.000Z",
       "last_commit_at": "2020-09-02T02:31:21.000Z",
-      "stars": 674,
+      "stars": 673,
       "forks": 38,
       "subscribers": 33,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:16.240Z"
+      "repository_data_timestamp": "2022-12-02T02:01:16.286Z"
     },
     {
       "index": 2103,
@@ -38644,11 +38644,11 @@ DATA = {
       },
       "created_at": "2016-11-09T13:02:13.000Z",
       "last_commit_at": "2022-09-08T00:32:17.000Z",
-      "stars": 506,
+      "stars": 507,
       "forks": 35,
       "subscribers": 21,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:15.349Z"
+      "repository_data_timestamp": "2022-12-02T02:01:15.391Z"
     },
     {
       "index": 2104,
@@ -38667,7 +38667,7 @@ DATA = {
       "forks": 43,
       "subscribers": 18,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:15.363Z"
+      "repository_data_timestamp": "2022-12-02T02:01:15.405Z"
     },
     {
       "index": 2105,
@@ -38686,7 +38686,7 @@ DATA = {
       "forks": 0,
       "subscribers": 0,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:15.414Z"
+      "repository_data_timestamp": "2022-12-02T02:01:15.437Z"
     },
     {
       "index": 2106,
@@ -38705,7 +38705,7 @@ DATA = {
       "forks": 14,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:15.457Z"
+      "repository_data_timestamp": "2022-12-02T02:01:15.470Z"
     },
     {
       "index": 2107,
@@ -38724,7 +38724,7 @@ DATA = {
       "forks": 66,
       "subscribers": 23,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:15.447Z"
+      "repository_data_timestamp": "2022-12-02T02:01:15.473Z"
     },
     {
       "index": 2108,
@@ -38743,7 +38743,7 @@ DATA = {
       "forks": 7,
       "subscribers": 1,
       "license": "mpl-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:15.709Z"
+      "repository_data_timestamp": "2022-12-02T02:01:15.764Z"
     },
     {
       "index": 2109,
@@ -38757,12 +38757,12 @@ DATA = {
         "name": "beego"
       },
       "created_at": "2012-02-29T02:32:08.000Z",
-      "last_commit_at": "2022-11-30T02:03:45.000Z",
-      "stars": 29166,
-      "forks": 5544,
+      "last_commit_at": "2022-12-01T10:35:10.000Z",
+      "stars": 29170,
+      "forks": 5547,
       "subscribers": 1209,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:15.474Z"
+      "repository_data_timestamp": "2022-12-02T02:01:15.550Z"
     },
     {
       "index": 2110,
@@ -38777,11 +38777,11 @@ DATA = {
       },
       "created_at": "2014-10-22T17:35:14.000Z",
       "last_commit_at": "2022-11-20T15:00:17.000Z",
-      "stars": 7324,
+      "stars": 7325,
       "forks": 544,
       "subscribers": 170,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:15.762Z"
+      "repository_data_timestamp": "2022-12-02T02:01:16.097Z"
     },
     {
       "index": 2111,
@@ -38800,7 +38800,7 @@ DATA = {
       "forks": 16,
       "subscribers": 23,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:15.780Z"
+      "repository_data_timestamp": "2022-12-02T02:01:15.790Z"
     },
     {
       "index": 2112,
@@ -38815,11 +38815,11 @@ DATA = {
       },
       "created_at": "2015-03-01T17:43:01.000Z",
       "last_commit_at": "2022-11-30T13:47:23.000Z",
-      "stars": 24330,
+      "stars": 24340,
       "forks": 2075,
       "subscribers": 526,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:15.521Z"
+      "repository_data_timestamp": "2022-12-02T02:01:15.551Z"
     },
     {
       "index": 2113,
@@ -38833,12 +38833,12 @@ DATA = {
         "name": "fiber"
       },
       "created_at": "2020-01-16T03:59:20.000Z",
-      "last_commit_at": "2022-11-30T20:56:56.000Z",
-      "stars": 23486,
+      "last_commit_at": "2022-12-01T08:31:12.000Z",
+      "stars": 23504,
       "forks": 1205,
       "subscribers": 260,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:15.664Z"
+      "repository_data_timestamp": "2022-12-02T02:01:15.579Z"
     },
     {
       "index": 2114,
@@ -38857,7 +38857,7 @@ DATA = {
       "forks": 6,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:15.924Z"
+      "repository_data_timestamp": "2022-12-02T02:01:15.973Z"
     },
     {
       "index": 2115,
@@ -38872,11 +38872,11 @@ DATA = {
       },
       "created_at": "2019-04-02T12:24:02.000Z",
       "last_commit_at": "2022-11-30T20:09:57.000Z",
-      "stars": 327,
+      "stars": 328,
       "forks": 40,
       "subscribers": 25,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:15.643Z"
+      "repository_data_timestamp": "2022-12-02T02:01:15.717Z"
     },
     {
       "index": 2116,
@@ -38890,12 +38890,12 @@ DATA = {
         "name": "flamingo-commerce"
       },
       "created_at": "2019-04-02T15:11:57.000Z",
-      "last_commit_at": "2022-11-24T12:58:09.000Z",
-      "stars": 376,
+      "last_commit_at": "2022-12-01T14:11:20.000Z",
+      "stars": 377,
       "forks": 56,
       "subscribers": 24,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:15.661Z"
+      "repository_data_timestamp": "2022-12-02T02:01:15.733Z"
     },
     {
       "index": 2117,
@@ -38910,11 +38910,11 @@ DATA = {
       },
       "created_at": "2020-04-25T01:28:37.000Z",
       "last_commit_at": "2022-11-29T07:00:41.000Z",
-      "stars": 689,
+      "stars": 690,
       "forks": 52,
       "subscribers": 20,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:15.976Z"
+      "repository_data_timestamp": "2022-12-02T02:01:16.047Z"
     },
     {
       "index": 2118,
@@ -38928,12 +38928,12 @@ DATA = {
         "name": "gin"
       },
       "created_at": "2014-06-16T23:57:25.000Z",
-      "last_commit_at": "2022-11-30T04:07:03.000Z",
-      "stars": 64759,
-      "forks": 7102,
-      "subscribers": 1374,
+      "last_commit_at": "2022-12-01T06:10:41.000Z",
+      "stars": 64777,
+      "forks": 7106,
+      "subscribers": 1375,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:15.808Z"
+      "repository_data_timestamp": "2022-12-02T02:01:15.810Z"
     },
     {
       "index": 2119,
@@ -38952,7 +38952,7 @@ DATA = {
       "forks": 29,
       "subscribers": 8,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:15.825Z"
+      "repository_data_timestamp": "2022-12-02T02:01:15.856Z"
     },
     {
       "index": 2120,
@@ -38967,11 +38967,11 @@ DATA = {
       },
       "created_at": "2015-12-15T18:09:36.000Z",
       "last_commit_at": "2021-08-03T10:55:58.000Z",
-      "stars": 3668,
+      "stars": 3667,
       "forks": 237,
       "subscribers": 118,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:15.951Z"
+      "repository_data_timestamp": "2022-12-02T02:01:15.868Z"
     },
     {
       "index": 2121,
@@ -38986,11 +38986,11 @@ DATA = {
       },
       "created_at": "2013-02-19T03:15:45.000Z",
       "last_commit_at": "2021-01-23T18:47:50.000Z",
-      "stars": 3508,
+      "stars": 3509,
       "forks": 391,
       "subscribers": 158,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:15.942Z"
+      "repository_data_timestamp": "2022-12-02T02:01:15.872Z"
     },
     {
       "index": 2122,
@@ -39009,7 +39009,7 @@ DATA = {
       "forks": 16,
       "subscribers": 10,
       "license": null,
-      "repository_data_timestamp": "2022-12-01T02:01:15.934Z"
+      "repository_data_timestamp": "2022-12-02T02:01:15.997Z"
     },
     {
       "index": 2123,
@@ -39028,7 +39028,7 @@ DATA = {
       "forks": 496,
       "subscribers": 160,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:16.019Z"
+      "repository_data_timestamp": "2022-12-02T02:01:16.022Z"
     },
     {
       "index": 2124,
@@ -39047,7 +39047,7 @@ DATA = {
       "forks": 3,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:16.067Z"
+      "repository_data_timestamp": "2022-12-02T02:01:16.072Z"
     },
     {
       "index": 2125,
@@ -39066,7 +39066,7 @@ DATA = {
       "forks": 1,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:16.073Z"
+      "repository_data_timestamp": "2022-12-02T02:01:16.111Z"
     },
     {
       "index": 2126,
@@ -39085,7 +39085,7 @@ DATA = {
       "forks": 7,
       "subscribers": 8,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:16.084Z"
+      "repository_data_timestamp": "2022-12-02T02:01:16.148Z"
     },
     {
       "index": 2127,
@@ -39104,7 +39104,7 @@ DATA = {
       "forks": 29,
       "subscribers": 16,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:16.132Z"
+      "repository_data_timestamp": "2022-12-02T02:01:16.162Z"
     },
     {
       "index": 2128,
@@ -39123,7 +39123,7 @@ DATA = {
       "forks": 24,
       "subscribers": 15,
       "license": "mpl-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:16.234Z"
+      "repository_data_timestamp": "2022-12-02T02:01:16.212Z"
     },
     {
       "index": 2129,
@@ -39142,7 +39142,7 @@ DATA = {
       "forks": 18,
       "subscribers": 21,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:16.233Z"
+      "repository_data_timestamp": "2022-12-02T02:01:16.306Z"
     },
     {
       "index": 2130,
@@ -39161,7 +39161,7 @@ DATA = {
       "forks": 6,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:16.263Z"
+      "repository_data_timestamp": "2022-12-02T02:01:16.344Z"
     },
     {
       "index": 2131,
@@ -39180,7 +39180,7 @@ DATA = {
       "forks": 5,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:16.262Z"
+      "repository_data_timestamp": "2022-12-02T02:01:16.389Z"
     },
     {
       "index": 2132,
@@ -39195,11 +39195,11 @@ DATA = {
       },
       "created_at": "2019-10-21T09:44:34.000Z",
       "last_commit_at": "2022-11-25T15:21:36.000Z",
-      "stars": 1203,
+      "stars": 1206,
       "forks": 51,
       "subscribers": 27,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:16.328Z"
+      "repository_data_timestamp": "2022-12-02T02:01:16.376Z"
     },
     {
       "index": 2133,
@@ -39213,12 +39213,12 @@ DATA = {
         "name": "hertz"
       },
       "created_at": "2022-05-12T14:05:09.000Z",
-      "last_commit_at": "2022-11-30T14:17:16.000Z",
-      "stars": 2672,
-      "forks": 211,
+      "last_commit_at": "2022-12-01T10:41:12.000Z",
+      "stars": 2676,
+      "forks": 213,
       "subscribers": 41,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:16.358Z"
+      "repository_data_timestamp": "2022-12-02T02:01:16.413Z"
     },
     {
       "index": 2134,
@@ -39237,7 +39237,7 @@ DATA = {
       "forks": 27,
       "subscribers": 14,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:16.373Z"
+      "repository_data_timestamp": "2022-12-02T02:01:16.439Z"
     },
     {
       "index": 2135,
@@ -39251,12 +39251,12 @@ DATA = {
         "name": "huma"
       },
       "created_at": "2020-03-08T06:19:51.000Z",
-      "last_commit_at": "2022-11-30T22:04:39.000Z",
+      "last_commit_at": "2022-12-01T21:09:13.000Z",
       "stars": 148,
       "forks": 17,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:16.519Z"
+      "repository_data_timestamp": "2022-12-02T02:01:16.438Z"
     },
     {
       "index": 2136,
@@ -39275,7 +39275,7 @@ DATA = {
       "forks": 289,
       "subscribers": 144,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:16.430Z"
+      "repository_data_timestamp": "2022-12-02T02:01:16.487Z"
     },
     {
       "index": 2137,
@@ -39294,7 +39294,7 @@ DATA = {
       "forks": 40,
       "subscribers": 20,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:16.523Z"
+      "repository_data_timestamp": "2022-12-02T02:01:16.504Z"
     },
     {
       "index": 2138,
@@ -39313,7 +39313,7 @@ DATA = {
       "forks": 15,
       "subscribers": 9,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:16.525Z"
+      "repository_data_timestamp": "2022-12-02T02:01:16.578Z"
     },
     {
       "index": 2139,
@@ -39332,7 +39332,7 @@ DATA = {
       "forks": 42,
       "subscribers": 35,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:16.556Z"
+      "repository_data_timestamp": "2022-12-02T02:01:16.610Z"
     },
     {
       "index": 2140,
@@ -39346,12 +39346,12 @@ DATA = {
         "name": "patron"
       },
       "created_at": "2019-01-30T13:49:54.000Z",
-      "last_commit_at": "2022-11-29T17:30:31.000Z",
+      "last_commit_at": "2022-12-01T11:26:48.000Z",
       "stars": 100,
       "forks": 63,
       "subscribers": 15,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:16.606Z"
+      "repository_data_timestamp": "2022-12-02T02:01:16.682Z"
     },
     {
       "index": 2141,
@@ -39370,7 +39370,7 @@ DATA = {
       "forks": 4,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:16.564Z"
+      "repository_data_timestamp": "2022-12-02T02:01:16.690Z"
     },
     {
       "index": 2142,
@@ -39389,7 +39389,7 @@ DATA = {
       "forks": 108,
       "subscribers": 34,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:17.270Z"
+      "repository_data_timestamp": "2022-12-02T02:01:17.344Z"
     },
     {
       "index": 2143,
@@ -39404,11 +39404,11 @@ DATA = {
       },
       "created_at": "2011-12-09T04:10:26.000Z",
       "last_commit_at": "2022-11-28T09:41:35.000Z",
-      "stars": 12780,
+      "stars": 12782,
       "forks": 1413,
       "subscribers": 525,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:16.615Z"
+      "repository_data_timestamp": "2022-12-02T02:01:16.703Z"
     },
     {
       "index": 2144,
@@ -39427,7 +39427,7 @@ DATA = {
       "forks": 3,
       "subscribers": 2,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:16.718Z"
+      "repository_data_timestamp": "2022-12-02T02:01:16.787Z"
     },
     {
       "index": 2145,
@@ -39442,11 +39442,11 @@ DATA = {
       },
       "created_at": "2020-07-31T02:36:56.000Z",
       "last_commit_at": "2022-11-12T12:17:45.000Z",
-      "stars": 333,
+      "stars": 334,
       "forks": 38,
       "subscribers": 3,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:16.719Z"
+      "repository_data_timestamp": "2022-12-02T02:01:16.792Z"
     },
     {
       "index": 2146,
@@ -39465,7 +39465,7 @@ DATA = {
       "forks": 14,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:16.729Z"
+      "repository_data_timestamp": "2022-12-02T02:01:16.792Z"
     },
     {
       "index": 2147,
@@ -39484,7 +39484,7 @@ DATA = {
       "forks": 107,
       "subscribers": 75,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:16.836Z"
+      "repository_data_timestamp": "2022-12-02T02:01:16.793Z"
     },
     {
       "index": 2148,
@@ -39503,7 +39503,7 @@ DATA = {
       "forks": 77,
       "subscribers": 46,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:16.887Z"
+      "repository_data_timestamp": "2022-12-02T02:01:16.818Z"
     },
     {
       "index": 2149,
@@ -39522,7 +39522,7 @@ DATA = {
       "forks": 43,
       "subscribers": 15,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:16.917Z"
+      "repository_data_timestamp": "2022-12-02T02:01:16.860Z"
     },
     {
       "index": 2150,
@@ -39541,7 +39541,7 @@ DATA = {
       "forks": 164,
       "subscribers": 69,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:16.912Z"
+      "repository_data_timestamp": "2022-12-02T02:01:17.060Z"
     },
     {
       "index": 2151,
@@ -39560,7 +39560,7 @@ DATA = {
       "forks": 6,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:16.930Z"
+      "repository_data_timestamp": "2022-12-02T02:01:17.020Z"
     },
     {
       "index": 2152,
@@ -39575,11 +39575,11 @@ DATA = {
       },
       "created_at": "2015-12-16T07:35:02.000Z",
       "last_commit_at": "2022-06-19T08:54:34.000Z",
-      "stars": 261,
+      "stars": 262,
       "forks": 25,
       "subscribers": 11,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:16.940Z"
+      "repository_data_timestamp": "2022-12-02T02:01:17.028Z"
     },
     {
       "index": 2153,
@@ -39598,7 +39598,7 @@ DATA = {
       "forks": 8,
       "subscribers": 4,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:16.972Z"
+      "repository_data_timestamp": "2022-12-02T02:01:17.044Z"
     },
     {
       "index": 2154,
@@ -39614,11 +39614,11 @@ DATA = {
       },
       "created_at": "2018-02-23T01:52:45.000Z",
       "last_commit_at": "2020-03-13T18:47:59.000Z",
-      "stars": 21,
+      "stars": 22,
       "forks": 6,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:17.015Z"
+      "repository_data_timestamp": "2022-12-02T02:01:17.079Z"
     },
     {
       "index": 2155,
@@ -39634,11 +39634,11 @@ DATA = {
       },
       "created_at": "2014-10-25T03:49:45.000Z",
       "last_commit_at": "2022-10-24T18:31:54.000Z",
-      "stars": 2248,
+      "stars": 2250,
       "forks": 211,
       "subscribers": 30,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:16.998Z"
+      "repository_data_timestamp": "2022-12-02T02:01:17.071Z"
     },
     {
       "index": 2156,
@@ -39658,7 +39658,7 @@ DATA = {
       "forks": 1,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:17.052Z"
+      "repository_data_timestamp": "2022-12-02T02:01:17.104Z"
     },
     {
       "index": 2157,
@@ -39678,7 +39678,7 @@ DATA = {
       "forks": 3,
       "subscribers": 2,
       "license": null,
-      "repository_data_timestamp": "2022-12-01T02:01:17.140Z"
+      "repository_data_timestamp": "2022-12-02T02:01:17.110Z"
     },
     {
       "index": 2158,
@@ -39696,9 +39696,9 @@ DATA = {
       "last_commit_at": "2022-10-24T16:38:27.000Z",
       "stars": 470,
       "forks": 24,
-      "subscribers": 189,
+      "subscribers": 188,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:17.167Z"
+      "repository_data_timestamp": "2022-12-02T02:01:17.140Z"
     },
     {
       "index": 2159,
@@ -39718,7 +39718,7 @@ DATA = {
       "forks": 33,
       "subscribers": 17,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:17.192Z"
+      "repository_data_timestamp": "2022-12-02T02:01:17.135Z"
     },
     {
       "index": 2160,
@@ -39734,11 +39734,11 @@ DATA = {
       },
       "created_at": "2015-10-02T08:12:38.000Z",
       "last_commit_at": "2022-11-28T12:01:29.000Z",
-      "stars": 1673,
+      "stars": 1676,
       "forks": 125,
       "subscribers": 29,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:17.220Z"
+      "repository_data_timestamp": "2022-12-02T02:01:17.314Z"
     },
     {
       "index": 2161,
@@ -39758,7 +39758,7 @@ DATA = {
       "forks": 9,
       "subscribers": 5,
       "license": "mpl-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:17.221Z"
+      "repository_data_timestamp": "2022-12-02T02:01:17.314Z"
     },
     {
       "index": 2162,
@@ -39778,7 +39778,7 @@ DATA = {
       "forks": 1,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:17.223Z"
+      "repository_data_timestamp": "2022-12-02T02:01:17.359Z"
     },
     {
       "index": 2163,
@@ -39798,7 +39798,7 @@ DATA = {
       "forks": 12,
       "subscribers": 3,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:17.314Z"
+      "repository_data_timestamp": "2022-12-02T02:01:17.374Z"
     },
     {
       "index": 2164,
@@ -39818,7 +39818,7 @@ DATA = {
       "forks": 12,
       "subscribers": 1,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:17.314Z"
+      "repository_data_timestamp": "2022-12-02T02:01:17.381Z"
     },
     {
       "index": 2165,
@@ -39834,11 +39834,11 @@ DATA = {
       },
       "created_at": "2015-05-17T15:20:03.000Z",
       "last_commit_at": "2022-11-30T15:46:22.000Z",
-      "stars": 2329,
+      "stars": 2330,
       "forks": 203,
       "subscribers": 45,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:17.333Z"
+      "repository_data_timestamp": "2022-12-02T02:01:17.380Z"
     },
     {
       "index": 2166,
@@ -39858,7 +39858,7 @@ DATA = {
       "forks": 23,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:17.420Z"
+      "repository_data_timestamp": "2022-12-02T02:01:17.409Z"
     },
     {
       "index": 2167,
@@ -39874,11 +39874,11 @@ DATA = {
       },
       "created_at": "2014-05-25T07:27:41.000Z",
       "last_commit_at": "2022-03-30T12:56:24.000Z",
-      "stars": 2694,
+      "stars": 2696,
       "forks": 150,
       "subscribers": 52,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:17.456Z"
+      "repository_data_timestamp": "2022-12-02T02:01:17.426Z"
     },
     {
       "index": 2168,
@@ -39898,7 +39898,7 @@ DATA = {
       "forks": 2,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:17.477Z"
+      "repository_data_timestamp": "2022-12-02T02:01:17.470Z"
     },
     {
       "index": 2169,
@@ -39918,7 +39918,7 @@ DATA = {
       "forks": 4,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:17.504Z"
+      "repository_data_timestamp": "2022-12-02T02:01:17.611Z"
     },
     {
       "index": 2092,
@@ -39958,7 +39958,7 @@ DATA = {
       "forks": 4,
       "subscribers": 5,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:17.523Z"
+      "repository_data_timestamp": "2022-12-02T02:01:17.643Z"
     },
     {
       "index": 2172,
@@ -39978,7 +39978,7 @@ DATA = {
       "forks": 17,
       "subscribers": 12,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:17.565Z"
+      "repository_data_timestamp": "2022-12-02T02:01:17.631Z"
     },
     {
       "index": 2173,
@@ -39998,7 +39998,7 @@ DATA = {
       "forks": 7,
       "subscribers": 4,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:17.590Z"
+      "repository_data_timestamp": "2022-12-02T02:01:17.676Z"
     },
     {
       "index": 2174,
@@ -40018,7 +40018,7 @@ DATA = {
       "forks": 15,
       "subscribers": 5,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:17.601Z"
+      "repository_data_timestamp": "2022-12-02T02:01:17.664Z"
     },
     {
       "index": 2175,
@@ -40038,7 +40038,7 @@ DATA = {
       "forks": 586,
       "subscribers": 241,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:17.645Z"
+      "repository_data_timestamp": "2022-12-02T02:01:17.660Z"
     },
     {
       "index": 2176,
@@ -40054,11 +40054,11 @@ DATA = {
       },
       "created_at": "2014-06-10T16:20:35.000Z",
       "last_commit_at": "2022-11-29T11:33:39.000Z",
-      "stars": 1695,
+      "stars": 1697,
       "forks": 134,
       "subscribers": 38,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:17.747Z"
+      "repository_data_timestamp": "2022-12-02T02:01:17.704Z"
     },
     {
       "index": 2177,
@@ -40078,7 +40078,7 @@ DATA = {
       "forks": 28,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:17.748Z"
+      "repository_data_timestamp": "2022-12-02T02:01:17.708Z"
     },
     {
       "index": 2178,
@@ -40098,7 +40098,7 @@ DATA = {
       "forks": 15,
       "subscribers": 203,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:17.779Z"
+      "repository_data_timestamp": "2022-12-02T02:01:17.779Z"
     },
     {
       "index": 2179,
@@ -40114,11 +40114,11 @@ DATA = {
       },
       "created_at": "2015-03-05T18:02:50.000Z",
       "last_commit_at": "2019-04-07T19:46:42.000Z",
-      "stars": 588,
+      "stars": 587,
       "forks": 50,
       "subscribers": 16,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:17.763Z"
+      "repository_data_timestamp": "2022-12-02T02:01:17.858Z"
     },
     {
       "index": 2180,
@@ -40138,7 +40138,7 @@ DATA = {
       "forks": 13,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:17.780Z"
+      "repository_data_timestamp": "2022-12-02T02:01:17.894Z"
     },
     {
       "index": 2181,
@@ -40158,7 +40158,7 @@ DATA = {
       "forks": 7,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:17.824Z"
+      "repository_data_timestamp": "2022-12-02T02:01:17.925Z"
     },
     {
       "index": 2182,
@@ -40178,7 +40178,7 @@ DATA = {
       "forks": 87,
       "subscribers": 36,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:17.878Z"
+      "repository_data_timestamp": "2022-12-02T02:01:17.946Z"
     },
     {
       "index": 2183,
@@ -40198,7 +40198,7 @@ DATA = {
       "forks": 8,
       "subscribers": 9,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:17.888Z"
+      "repository_data_timestamp": "2022-12-02T02:01:17.945Z"
     },
     {
       "index": 2184,
@@ -40214,11 +40214,11 @@ DATA = {
       },
       "created_at": "2015-10-15T20:46:29.000Z",
       "last_commit_at": "2022-11-09T14:59:53.000Z",
-      "stars": 12690,
-      "forks": 822,
+      "stars": 12708,
+      "forks": 823,
       "subscribers": 194,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:17.869Z"
+      "repository_data_timestamp": "2022-12-02T02:01:17.959Z"
     },
     {
       "index": 2185,
@@ -40234,11 +40234,11 @@ DATA = {
       },
       "created_at": "2015-12-13T09:32:30.000Z",
       "last_commit_at": "2019-04-25T14:24:36.000Z",
-      "stars": 870,
+      "stars": 871,
       "forks": 92,
       "subscribers": 33,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:17.958Z"
+      "repository_data_timestamp": "2022-12-02T02:01:17.990Z"
     },
     {
       "index": 2186,
@@ -40258,7 +40258,7 @@ DATA = {
       "forks": 5,
       "subscribers": 3,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:18.037Z"
+      "repository_data_timestamp": "2022-12-02T02:01:17.971Z"
     },
     {
       "index": 2187,
@@ -40274,11 +40274,11 @@ DATA = {
       },
       "created_at": "2019-06-29T01:44:20.000Z",
       "last_commit_at": "2022-11-13T08:17:29.000Z",
-      "stars": 45,
+      "stars": 46,
       "forks": 6,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:18.036Z"
+      "repository_data_timestamp": "2022-12-02T02:01:17.996Z"
     },
     {
       "index": 2188,
@@ -40298,7 +40298,7 @@ DATA = {
       "forks": 127,
       "subscribers": 59,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:18.067Z"
+      "repository_data_timestamp": "2022-12-02T02:01:18.069Z"
     },
     {
       "index": 2189,
@@ -40314,11 +40314,11 @@ DATA = {
       },
       "created_at": "2015-11-16T00:52:41.000Z",
       "last_commit_at": "2022-07-26T04:51:22.000Z",
-      "stars": 917,
+      "stars": 918,
       "forks": 70,
       "subscribers": 43,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:18.079Z"
+      "repository_data_timestamp": "2022-12-02T02:01:18.139Z"
     },
     {
       "index": 2190,
@@ -40338,7 +40338,7 @@ DATA = {
       "forks": 0,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:18.083Z"
+      "repository_data_timestamp": "2022-12-02T02:01:18.176Z"
     },
     {
       "index": 2191,
@@ -40358,7 +40358,7 @@ DATA = {
       "forks": 2,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:18.126Z"
+      "repository_data_timestamp": "2022-12-02T02:01:18.293Z"
     },
     {
       "index": 2192,
@@ -40378,7 +40378,7 @@ DATA = {
       "forks": 16,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:18.146Z"
+      "repository_data_timestamp": "2022-12-02T02:01:18.231Z"
     },
     {
       "index": 2193,
@@ -40398,7 +40398,7 @@ DATA = {
       "forks": 14,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:18.194Z"
+      "repository_data_timestamp": "2022-12-02T02:01:18.250Z"
     },
     {
       "index": 2194,
@@ -40414,11 +40414,11 @@ DATA = {
       },
       "created_at": "2013-12-05T15:10:55.000Z",
       "last_commit_at": "2022-11-15T19:41:51.000Z",
-      "stars": 14703,
-      "forks": 1384,
+      "stars": 14706,
+      "forks": 1385,
       "subscribers": 318,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:18.174Z"
+      "repository_data_timestamp": "2022-12-02T02:01:18.268Z"
     },
     {
       "index": 2195,
@@ -40434,11 +40434,11 @@ DATA = {
       },
       "created_at": "2014-05-14T20:10:20.000Z",
       "last_commit_at": "2022-10-26T23:49:20.000Z",
-      "stars": 566,
+      "stars": 567,
       "forks": 56,
       "subscribers": 24,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:18.244Z"
+      "repository_data_timestamp": "2022-12-02T02:01:18.258Z"
     },
     {
       "index": 2196,
@@ -40458,7 +40458,7 @@ DATA = {
       "forks": 25,
       "subscribers": 15,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:18.316Z"
+      "repository_data_timestamp": "2022-12-02T02:01:18.276Z"
     },
     {
       "index": 2197,
@@ -40474,11 +40474,11 @@ DATA = {
       },
       "created_at": "2012-10-02T21:32:24.000Z",
       "last_commit_at": "2022-10-09T14:48:05.000Z",
-      "stars": 17749,
+      "stars": 17758,
       "forks": 1604,
-      "subscribers": 313,
+      "subscribers": 312,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:18.329Z"
+      "repository_data_timestamp": "2022-12-02T02:01:18.286Z"
     },
     {
       "index": 2198,
@@ -40498,7 +40498,7 @@ DATA = {
       "forks": 1,
       "subscribers": 1,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:18.377Z"
+      "repository_data_timestamp": "2022-12-02T02:01:18.360Z"
     },
     {
       "index": 2199,
@@ -40518,7 +40518,7 @@ DATA = {
       "forks": 16,
       "subscribers": 2,
       "license": "mpl-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:18.369Z"
+      "repository_data_timestamp": "2022-12-02T02:01:18.420Z"
     },
     {
       "index": 2200,
@@ -40538,7 +40538,7 @@ DATA = {
       "forks": 50,
       "subscribers": 28,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:18.361Z"
+      "repository_data_timestamp": "2022-12-02T02:01:18.466Z"
     },
     {
       "index": 2201,
@@ -40554,11 +40554,11 @@ DATA = {
       },
       "created_at": "2016-09-23T19:57:58.000Z",
       "last_commit_at": "2020-11-19T05:20:04.000Z",
-      "stars": 131,
+      "stars": 132,
       "forks": 12,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:18.430Z"
+      "repository_data_timestamp": "2022-12-02T02:01:18.535Z"
     },
     {
       "index": 2202,
@@ -40578,7 +40578,7 @@ DATA = {
       "forks": 15,
       "subscribers": 28,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:18.453Z"
+      "repository_data_timestamp": "2022-12-02T02:01:18.583Z"
     },
     {
       "index": 2203,
@@ -40594,11 +40594,11 @@ DATA = {
       },
       "created_at": "2015-09-22T03:08:03.000Z",
       "last_commit_at": "2020-10-08T16:23:52.000Z",
-      "stars": 267,
+      "stars": 268,
       "forks": 30,
       "subscribers": 16,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:18.438Z"
+      "repository_data_timestamp": "2022-12-02T02:01:18.553Z"
     },
     {
       "index": 2204,
@@ -40618,7 +40618,7 @@ DATA = {
       "forks": 11,
       "subscribers": 4,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:18.479Z"
+      "repository_data_timestamp": "2022-12-02T02:01:18.550Z"
     },
     {
       "index": 2205,
@@ -40638,7 +40638,7 @@ DATA = {
       "forks": 11,
       "subscribers": 6,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:18.531Z"
+      "repository_data_timestamp": "2022-12-02T02:01:18.582Z"
     },
     {
       "index": 2206,
@@ -40658,7 +40658,7 @@ DATA = {
       "forks": 87,
       "subscribers": 16,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:18.597Z"
+      "repository_data_timestamp": "2022-12-02T02:01:18.591Z"
     },
     {
       "index": 2207,
@@ -40673,11 +40673,11 @@ DATA = {
       },
       "created_at": "2018-06-30T18:37:35.000Z",
       "last_commit_at": "2019-09-26T14:33:41.000Z",
-      "stars": 467,
+      "stars": 466,
       "forks": 56,
       "subscribers": 17,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:18.631Z"
+      "repository_data_timestamp": "2022-12-02T02:01:18.621Z"
     },
     {
       "index": 2208,
@@ -40692,11 +40692,11 @@ DATA = {
       },
       "created_at": "2019-05-05T14:05:55.000Z",
       "last_commit_at": "2020-12-09T22:42:50.000Z",
-      "stars": 191,
+      "stars": 192,
       "forks": 14,
       "subscribers": 7,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:18.640Z"
+      "repository_data_timestamp": "2022-12-02T02:01:18.647Z"
     },
     {
       "index": 2209,
@@ -40710,12 +40710,12 @@ DATA = {
         "name": "tinygo"
       },
       "created_at": "2018-06-07T16:39:19.000Z",
-      "last_commit_at": "2022-11-30T20:10:45.000Z",
-      "stars": 11920,
-      "forks": 667,
+      "last_commit_at": "2022-12-01T21:27:13.000Z",
+      "stars": 11925,
+      "forks": 668,
       "subscribers": 167,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:18.686Z"
+      "repository_data_timestamp": "2022-12-02T02:01:18.715Z"
     },
     {
       "index": 2210,
@@ -40729,12 +40729,12 @@ DATA = {
         "name": "vert"
       },
       "created_at": "2018-03-25T17:26:47.000Z",
-      "last_commit_at": "2022-11-30T07:52:04.000Z",
+      "last_commit_at": "2022-12-01T23:35:29.000Z",
       "stars": 79,
       "forks": 13,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:18.665Z"
+      "repository_data_timestamp": "2022-12-02T02:01:18.748Z"
     },
     {
       "index": 2211,
@@ -40753,7 +40753,7 @@ DATA = {
       "forks": 20,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:18.696Z"
+      "repository_data_timestamp": "2022-12-02T02:01:18.840Z"
     },
     {
       "index": 2212,
@@ -40772,7 +40772,7 @@ DATA = {
       "forks": 12,
       "subscribers": 9,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:18.758Z"
+      "repository_data_timestamp": "2022-12-02T02:01:18.846Z"
     },
     {
       "index": 2213,
@@ -40791,7 +40791,7 @@ DATA = {
       "forks": 13,
       "subscribers": 8,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:18.747Z"
+      "repository_data_timestamp": "2022-12-02T02:01:18.859Z"
     },
     {
       "index": 2214,
@@ -40810,7 +40810,7 @@ DATA = {
       "forks": 162,
       "subscribers": 41,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:18.796Z"
+      "repository_data_timestamp": "2022-12-02T02:01:18.873Z"
     },
     {
       "index": 2215,
@@ -40829,7 +40829,7 @@ DATA = {
       "forks": 2,
       "subscribers": 2,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:18.822Z"
+      "repository_data_timestamp": "2022-12-02T02:01:18.909Z"
     },
     {
       "index": 2216,
@@ -40848,7 +40848,7 @@ DATA = {
       "forks": 11,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:18.910Z"
+      "repository_data_timestamp": "2022-12-02T02:01:18.883Z"
     },
     {
       "index": 2217,
@@ -40867,7 +40867,7 @@ DATA = {
       "forks": 11,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:18.897Z"
+      "repository_data_timestamp": "2022-12-02T02:01:18.908Z"
     },
     {
       "index": 2218,
@@ -40886,7 +40886,7 @@ DATA = {
       "forks": 5,
       "subscribers": 2,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:18.924Z"
+      "repository_data_timestamp": "2022-12-02T02:01:18.923Z"
     },
     {
       "index": 2219,
@@ -40905,7 +40905,7 @@ DATA = {
       "forks": 74,
       "subscribers": 13,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:18.954Z"
+      "repository_data_timestamp": "2022-12-02T02:01:19.035Z"
     },
     {
       "index": 2220,
@@ -40924,7 +40924,7 @@ DATA = {
       "forks": 29,
       "subscribers": 11,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:18.975Z"
+      "repository_data_timestamp": "2022-12-02T02:01:19.059Z"
     },
     {
       "index": 2221,
@@ -40943,7 +40943,7 @@ DATA = {
       "forks": 55,
       "subscribers": 20,
       "license": "gpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:01:18.988Z"
+      "repository_data_timestamp": "2022-12-02T02:01:19.145Z"
     },
     {
       "index": 2222,
@@ -40957,12 +40957,12 @@ DATA = {
         "name": "cosign"
       },
       "created_at": "2021-02-04T12:49:39.000Z",
-      "last_commit_at": "2022-11-30T23:41:05.000Z",
-      "stars": 2792,
+      "last_commit_at": "2022-12-01T22:26:59.000Z",
+      "stars": 2799,
       "forks": 332,
-      "subscribers": 53,
+      "subscribers": 54,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:19.050Z"
+      "repository_data_timestamp": "2022-12-02T02:01:19.138Z"
     },
     {
       "index": 2223,
@@ -40981,7 +40981,7 @@ DATA = {
       "forks": 41,
       "subscribers": 9,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:19.078Z"
+      "repository_data_timestamp": "2022-12-02T02:01:19.161Z"
     },
     {
       "index": 2224,
@@ -41000,7 +41000,7 @@ DATA = {
       "forks": 4,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:19.112Z"
+      "repository_data_timestamp": "2022-12-02T02:01:19.186Z"
     },
     {
       "index": 2225,
@@ -41014,12 +41014,12 @@ DATA = {
         "name": "spire"
       },
       "created_at": "2017-08-11T18:46:51.000Z",
-      "last_commit_at": "2022-12-01T01:09:24.000Z",
-      "stars": 1308,
+      "last_commit_at": "2022-12-02T01:10:40.000Z",
+      "stars": 1310,
       "forks": 339,
       "subscribers": 85,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:19.139Z"
+      "repository_data_timestamp": "2022-12-02T02:01:19.187Z"
     },
     {
       "index": 2226,
@@ -41034,11 +41034,11 @@ DATA = {
       },
       "created_at": "2016-07-10T13:39:02.000Z",
       "last_commit_at": "2017-02-05T09:57:05.000Z",
-      "stars": 175,
+      "stars": 176,
       "forks": 5,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:19.185Z"
+      "repository_data_timestamp": "2022-12-02T02:01:19.206Z"
     },
     {
       "index": 2227,
@@ -41057,7 +41057,7 @@ DATA = {
       "forks": 0,
       "subscribers": 1,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:19.229Z"
+      "repository_data_timestamp": "2022-12-02T02:01:19.211Z"
     },
     {
       "index": 2228,
@@ -41076,7 +41076,7 @@ DATA = {
       "forks": 12,
       "subscribers": 6,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:19.256Z"
+      "repository_data_timestamp": "2022-12-02T02:01:19.245Z"
     },
     {
       "index": 2229,
@@ -41095,7 +41095,7 @@ DATA = {
       "forks": 23,
       "subscribers": 8,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:19.306Z"
+      "repository_data_timestamp": "2022-12-02T02:01:19.369Z"
     },
     {
       "index": 2230,
@@ -41110,11 +41110,11 @@ DATA = {
       },
       "created_at": "2013-02-24T22:32:02.000Z",
       "last_commit_at": "2022-10-04T23:23:55.000Z",
-      "stars": 1960,
+      "stars": 1961,
       "forks": 131,
       "subscribers": 27,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:19.350Z"
+      "repository_data_timestamp": "2022-12-02T02:01:19.390Z"
     },
     {
       "index": 2231,
@@ -41133,7 +41133,7 @@ DATA = {
       "forks": 69,
       "subscribers": 33,
       "license": "bsd-2-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:19.358Z"
+      "repository_data_timestamp": "2022-12-02T02:01:19.420Z"
     },
     {
       "index": 2232,
@@ -41148,11 +41148,11 @@ DATA = {
       },
       "created_at": "2014-01-01T01:09:27.000Z",
       "last_commit_at": "2021-03-10T02:55:53.000Z",
-      "stars": 122,
+      "stars": 123,
       "forks": 17,
       "subscribers": 12,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:19.366Z"
+      "repository_data_timestamp": "2022-12-02T02:01:19.454Z"
     },
     {
       "index": 2233,
@@ -41167,11 +41167,11 @@ DATA = {
       },
       "created_at": "2017-04-12T21:59:16.000Z",
       "last_commit_at": "2021-11-08T16:18:42.000Z",
-      "stars": 636,
+      "stars": 637,
       "forks": 43,
       "subscribers": 11,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:19.412Z"
+      "repository_data_timestamp": "2022-12-02T02:01:19.445Z"
     },
     {
       "index": 2234,
@@ -41190,7 +41190,7 @@ DATA = {
       "forks": 106,
       "subscribers": 19,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:19.441Z"
+      "repository_data_timestamp": "2022-12-02T02:01:19.491Z"
     },
     {
       "index": 2235,
@@ -41209,7 +41209,7 @@ DATA = {
       "forks": 25,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:19.461Z"
+      "repository_data_timestamp": "2022-12-02T02:01:19.508Z"
     },
     {
       "index": 2236,
@@ -41228,7 +41228,7 @@ DATA = {
       "forks": 2,
       "subscribers": 2,
       "license": null,
-      "repository_data_timestamp": "2022-12-01T02:01:19.498Z"
+      "repository_data_timestamp": "2022-12-02T02:01:19.510Z"
     },
     {
       "index": 2237,
@@ -41243,11 +41243,11 @@ DATA = {
       },
       "created_at": "2014-06-30T11:09:01.000Z",
       "last_commit_at": "2022-05-24T14:42:29.000Z",
-      "stars": 668,
+      "stars": 670,
       "forks": 64,
       "subscribers": 17,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:19.504Z"
+      "repository_data_timestamp": "2022-12-02T02:01:19.520Z"
     },
     {
       "index": 2238,
@@ -41282,7 +41282,7 @@ DATA = {
       "forks": 2,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:19.549Z"
+      "repository_data_timestamp": "2022-12-02T02:01:19.545Z"
     },
     {
       "index": 2241,
@@ -41297,11 +41297,11 @@ DATA = {
       },
       "created_at": "2019-10-01T00:34:25.000Z",
       "last_commit_at": "2022-10-31T12:21:56.000Z",
-      "stars": 508,
+      "stars": 509,
       "forks": 36,
       "subscribers": 21,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:19.616Z"
+      "repository_data_timestamp": "2022-12-02T02:01:19.660Z"
     },
     {
       "index": 2242,
@@ -41320,7 +41320,7 @@ DATA = {
       "forks": 528,
       "subscribers": 104,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:19.649Z"
+      "repository_data_timestamp": "2022-12-02T02:01:19.680Z"
     },
     {
       "index": 2243,
@@ -41335,11 +41335,11 @@ DATA = {
       },
       "created_at": "2019-05-26T15:43:12.000Z",
       "last_commit_at": "2022-11-24T15:57:54.000Z",
-      "stars": 1197,
+      "stars": 1199,
       "forks": 122,
       "subscribers": 21,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:19.651Z"
+      "repository_data_timestamp": "2022-12-02T02:01:19.698Z"
     },
     {
       "index": 2244,
@@ -41362,11 +41362,11 @@ DATA = {
       },
       "created_at": "2017-01-24T21:11:01.000Z",
       "last_commit_at": "2022-10-04T23:02:16.000Z",
-      "stars": 5073,
+      "stars": 5082,
       "forks": 325,
       "subscribers": 74,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:19.663Z"
+      "repository_data_timestamp": "2022-12-02T02:01:19.749Z"
     },
     {
       "index": 2246,
@@ -41385,7 +41385,7 @@ DATA = {
       "forks": 11,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:19.718Z"
+      "repository_data_timestamp": "2022-12-02T02:01:19.760Z"
     },
     {
       "index": 2247,
@@ -41404,7 +41404,7 @@ DATA = {
       "forks": 9,
       "subscribers": 5,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:19.752Z"
+      "repository_data_timestamp": "2022-12-02T02:01:19.793Z"
     },
     {
       "index": 2248,
@@ -41423,7 +41423,7 @@ DATA = {
       "forks": 61,
       "subscribers": 30,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:19.758Z"
+      "repository_data_timestamp": "2022-12-02T02:01:19.809Z"
     },
     {
       "index": 2249,
@@ -41438,11 +41438,11 @@ DATA = {
       },
       "created_at": "2017-01-24T21:11:01.000Z",
       "last_commit_at": "2022-10-04T23:02:16.000Z",
-      "stars": 5073,
+      "stars": 5082,
       "forks": 325,
       "subscribers": 74,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:19.814Z"
+      "repository_data_timestamp": "2022-12-02T02:01:19.806Z"
     },
     {
       "index": 2250,
@@ -41461,7 +41461,7 @@ DATA = {
       "forks": 0,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:20.092Z"
+      "repository_data_timestamp": "2022-12-02T02:01:20.115Z"
     },
     {
       "index": 2251,
@@ -41480,7 +41480,7 @@ DATA = {
       "forks": 17,
       "subscribers": 8,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:19.866Z"
+      "repository_data_timestamp": "2022-12-02T02:01:19.874Z"
     },
     {
       "index": 2252,
@@ -41499,7 +41499,7 @@ DATA = {
       "forks": 41,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:19.915Z"
+      "repository_data_timestamp": "2022-12-02T02:01:19.989Z"
     },
     {
       "index": 2253,
@@ -41518,7 +41518,7 @@ DATA = {
       "forks": 25,
       "subscribers": 10,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:19.947Z"
+      "repository_data_timestamp": "2022-12-02T02:01:19.957Z"
     },
     {
       "index": 2254,
@@ -41533,11 +41533,11 @@ DATA = {
       },
       "created_at": "2017-01-24T21:11:01.000Z",
       "last_commit_at": "2022-10-04T23:02:16.000Z",
-      "stars": 5073,
+      "stars": 5082,
       "forks": 325,
       "subscribers": 74,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:19.958Z"
+      "repository_data_timestamp": "2022-12-02T02:01:19.977Z"
     },
     {
       "index": 2255,
@@ -41556,7 +41556,7 @@ DATA = {
       "forks": 5,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:19.983Z"
+      "repository_data_timestamp": "2022-12-02T02:01:20.031Z"
     },
     {
       "index": 2256,
@@ -41575,7 +41575,7 @@ DATA = {
       "forks": 14,
       "subscribers": 7,
       "license": null,
-      "repository_data_timestamp": "2022-12-01T02:01:19.997Z"
+      "repository_data_timestamp": "2022-12-02T02:01:20.055Z"
     },
     {
       "index": 2257,
@@ -41594,7 +41594,7 @@ DATA = {
       "forks": 27,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:20.045Z"
+      "repository_data_timestamp": "2022-12-02T02:01:20.083Z"
     },
     {
       "index": 2258,
@@ -41613,7 +41613,7 @@ DATA = {
       "forks": 0,
       "subscribers": 2,
       "license": null,
-      "repository_data_timestamp": "2022-12-01T02:01:20.070Z"
+      "repository_data_timestamp": "2022-12-02T02:01:20.106Z"
     },
     {
       "index": 2259,
@@ -41640,7 +41640,7 @@ DATA = {
       "forks": 12,
       "subscribers": 4,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:20.183Z"
+      "repository_data_timestamp": "2022-12-02T02:01:20.161Z"
     },
     {
       "index": 2261,
@@ -41659,7 +41659,7 @@ DATA = {
       "forks": 204,
       "subscribers": 55,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:20.183Z"
+      "repository_data_timestamp": "2022-12-02T02:01:20.178Z"
     },
     {
       "index": 2262,
@@ -41678,7 +41678,7 @@ DATA = {
       "forks": 142,
       "subscribers": 43,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:20.192Z"
+      "repository_data_timestamp": "2022-12-02T02:01:20.314Z"
     },
     {
       "index": 2263,
@@ -41697,7 +41697,7 @@ DATA = {
       "forks": 685,
       "subscribers": 192,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:20.234Z"
+      "repository_data_timestamp": "2022-12-02T02:01:20.270Z"
     },
     {
       "index": 2264,
@@ -41711,12 +41711,12 @@ DATA = {
         "name": "goimports-reviser"
       },
       "created_at": "2020-04-08T14:49:07.000Z",
-      "last_commit_at": "2022-11-30T15:23:14.000Z",
+      "last_commit_at": "2022-12-01T16:48:59.000Z",
       "stars": 233,
       "forks": 44,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:20.253Z"
+      "repository_data_timestamp": "2022-12-02T02:01:20.314Z"
     },
     {
       "index": 2265,
@@ -41739,11 +41739,11 @@ DATA = {
       },
       "created_at": "2011-08-27T22:24:39.000Z",
       "last_commit_at": "2020-07-21T18:51:34.000Z",
-      "stars": 3430,
+      "stars": 3429,
       "forks": 313,
       "subscribers": 118,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:20.335Z"
+      "repository_data_timestamp": "2022-12-02T02:01:20.341Z"
     },
     {
       "index": 2267,
@@ -41762,7 +41762,7 @@ DATA = {
       "forks": 1,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:20.335Z"
+      "repository_data_timestamp": "2022-12-02T02:01:20.382Z"
     },
     {
       "index": 2268,
@@ -41781,7 +41781,7 @@ DATA = {
       "forks": 6,
       "subscribers": 4,
       "license": null,
-      "repository_data_timestamp": "2022-12-01T02:01:20.355Z"
+      "repository_data_timestamp": "2022-12-02T02:01:20.408Z"
     },
     {
       "index": 2269,
@@ -41800,7 +41800,7 @@ DATA = {
       "forks": 17,
       "subscribers": 5,
       "license": null,
-      "repository_data_timestamp": "2022-12-01T02:01:20.366Z"
+      "repository_data_timestamp": "2022-12-02T02:01:20.408Z"
     },
     {
       "index": 2270,
@@ -41814,12 +41814,12 @@ DATA = {
         "name": "vim-go"
       },
       "created_at": "2014-03-24T13:12:26.000Z",
-      "last_commit_at": "2022-11-30T19:17:32.000Z",
-      "stars": 15082,
-      "forks": 1466,
+      "last_commit_at": "2022-12-01T03:13:34.000Z",
+      "stars": 15085,
+      "forks": 1467,
       "subscribers": 267,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:20.384Z"
+      "repository_data_timestamp": "2022-12-02T02:01:20.415Z"
     },
     {
       "index": 2271,
@@ -41834,11 +41834,11 @@ DATA = {
       },
       "created_at": "2020-03-06T17:52:04.000Z",
       "last_commit_at": "2022-11-30T22:27:03.000Z",
-      "stars": 3073,
-      "forks": 598,
-      "subscribers": 69,
+      "stars": 3076,
+      "forks": 599,
+      "subscribers": 68,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:20.465Z"
+      "repository_data_timestamp": "2022-12-02T02:01:20.450Z"
     },
     {
       "index": 2272,
@@ -41857,7 +41857,7 @@ DATA = {
       "forks": 46,
       "subscribers": 11,
       "license": null,
-      "repository_data_timestamp": "2022-12-01T02:01:20.493Z"
+      "repository_data_timestamp": "2022-12-02T02:01:20.458Z"
     },
     {
       "index": 2273,
@@ -41876,7 +41876,7 @@ DATA = {
       "forks": 7,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:20.519Z"
+      "repository_data_timestamp": "2022-12-02T02:01:20.572Z"
     },
     {
       "index": 2274,
@@ -41895,7 +41895,7 @@ DATA = {
       "forks": 132,
       "subscribers": 24,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:20.551Z"
+      "repository_data_timestamp": "2022-12-02T02:01:20.612Z"
     },
     {
       "index": 2275,
@@ -41914,7 +41914,7 @@ DATA = {
       "forks": 5,
       "subscribers": 8,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:20.557Z"
+      "repository_data_timestamp": "2022-12-02T02:01:20.633Z"
     },
     {
       "index": 2276,
@@ -41933,7 +41933,7 @@ DATA = {
       "forks": 0,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:20.619Z"
+      "repository_data_timestamp": "2022-12-02T02:01:20.625Z"
     },
     {
       "index": 2277,
@@ -41952,7 +41952,7 @@ DATA = {
       "forks": 9,
       "subscribers": 4,
       "license": null,
-      "repository_data_timestamp": "2022-12-01T02:01:20.647Z"
+      "repository_data_timestamp": "2022-12-02T02:01:20.662Z"
     },
     {
       "index": 2278,
@@ -41967,11 +41967,11 @@ DATA = {
       },
       "created_at": "2016-01-19T05:06:02.000Z",
       "last_commit_at": "2022-09-21T06:49:14.000Z",
-      "stars": 4311,
+      "stars": 4313,
       "forks": 316,
       "subscribers": 80,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:20.651Z"
+      "repository_data_timestamp": "2022-12-02T02:01:20.693Z"
     },
     {
       "index": 2279,
@@ -41990,7 +41990,7 @@ DATA = {
       "forks": 10,
       "subscribers": 7,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:20.691Z"
+      "repository_data_timestamp": "2022-12-02T02:01:20.693Z"
     },
     {
       "index": 2280,
@@ -42009,7 +42009,7 @@ DATA = {
       "forks": 8,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:20.700Z"
+      "repository_data_timestamp": "2022-12-02T02:01:20.720Z"
     },
     {
       "index": 2281,
@@ -42028,7 +42028,7 @@ DATA = {
       "forks": 16,
       "subscribers": 10,
       "license": "gpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:01:20.739Z"
+      "repository_data_timestamp": "2022-12-02T02:01:20.743Z"
     },
     {
       "index": 2282,
@@ -42047,7 +42047,7 @@ DATA = {
       "forks": 32,
       "subscribers": 17,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:21.391Z"
+      "repository_data_timestamp": "2022-12-02T02:01:21.426Z"
     },
     {
       "index": 2283,
@@ -42066,7 +42066,7 @@ DATA = {
       "forks": 47,
       "subscribers": 12,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:20.792Z"
+      "repository_data_timestamp": "2022-12-02T02:01:20.748Z"
     },
     {
       "index": 2284,
@@ -42085,7 +42085,7 @@ DATA = {
       "forks": 15,
       "subscribers": 5,
       "license": null,
-      "repository_data_timestamp": "2022-12-01T02:01:20.826Z"
+      "repository_data_timestamp": "2022-12-02T02:01:20.863Z"
     },
     {
       "index": 2285,
@@ -42104,7 +42104,7 @@ DATA = {
       "forks": 60,
       "subscribers": 15,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:20.836Z"
+      "repository_data_timestamp": "2022-12-02T02:01:20.904Z"
     },
     {
       "index": 2286,
@@ -42123,7 +42123,7 @@ DATA = {
       "forks": 3,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:20.893Z"
+      "repository_data_timestamp": "2022-12-02T02:01:21.015Z"
     },
     {
       "index": 2287,
@@ -42142,7 +42142,7 @@ DATA = {
       "forks": 5,
       "subscribers": 13,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:20.933Z"
+      "repository_data_timestamp": "2022-12-02T02:01:20.993Z"
     },
     {
       "index": 2288,
@@ -42157,11 +42157,11 @@ DATA = {
       },
       "created_at": "2016-09-03T11:31:46.000Z",
       "last_commit_at": "2022-11-16T02:42:37.000Z",
-      "stars": 4535,
-      "forks": 342,
+      "stars": 4537,
+      "forks": 343,
       "subscribers": 78,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:21.195Z"
+      "repository_data_timestamp": "2022-12-02T02:01:21.399Z"
     },
     {
       "index": 2289,
@@ -42180,7 +42180,7 @@ DATA = {
       "forks": 4,
       "subscribers": 3,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:20.938Z"
+      "repository_data_timestamp": "2022-12-02T02:01:21.026Z"
     },
     {
       "index": 2290,
@@ -42199,7 +42199,7 @@ DATA = {
       "forks": 8,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:20.998Z"
+      "repository_data_timestamp": "2022-12-02T02:01:21.045Z"
     },
     {
       "index": 2291,
@@ -42213,12 +42213,12 @@ DATA = {
         "name": "go-swagger"
       },
       "created_at": "2014-11-16T20:13:15.000Z",
-      "last_commit_at": "2022-11-30T15:28:34.000Z",
-      "stars": 8167,
+      "last_commit_at": "2022-12-01T13:25:39.000Z",
+      "stars": 8169,
       "forks": 1180,
       "subscribers": 121,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:20.998Z"
+      "repository_data_timestamp": "2022-12-02T02:01:21.067Z"
     },
     {
       "index": 2292,
@@ -42237,7 +42237,7 @@ DATA = {
       "forks": 10,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:21.033Z"
+      "repository_data_timestamp": "2022-12-02T02:01:21.071Z"
     },
     {
       "index": 2293,
@@ -42256,7 +42256,7 @@ DATA = {
       "forks": 4,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:21.071Z"
+      "repository_data_timestamp": "2022-12-02T02:01:21.121Z"
     },
     {
       "index": 2294,
@@ -42283,7 +42283,7 @@ DATA = {
       "forks": 2,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:21.113Z"
+      "repository_data_timestamp": "2022-12-02T02:01:21.154Z"
     },
     {
       "index": 2296,
@@ -42298,11 +42298,11 @@ DATA = {
       },
       "created_at": "2019-11-10T07:48:02.000Z",
       "last_commit_at": "2021-03-01T23:15:34.000Z",
-      "stars": 114,
+      "stars": 115,
       "forks": 7,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:21.123Z"
+      "repository_data_timestamp": "2022-12-02T02:01:21.175Z"
     },
     {
       "index": 2297,
@@ -42321,7 +42321,7 @@ DATA = {
       "forks": 3,
       "subscribers": 3,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:21.181Z"
+      "repository_data_timestamp": "2022-12-02T02:01:21.293Z"
     },
     {
       "index": 2298,
@@ -42340,7 +42340,7 @@ DATA = {
       "forks": 2,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:21.202Z"
+      "repository_data_timestamp": "2022-12-02T02:01:21.312Z"
     },
     {
       "index": 2299,
@@ -42359,7 +42359,7 @@ DATA = {
       "forks": 318,
       "subscribers": 93,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:21.519Z"
+      "repository_data_timestamp": "2022-12-02T02:01:21.578Z"
     },
     {
       "index": 2300,
@@ -42378,7 +42378,7 @@ DATA = {
       "forks": 21,
       "subscribers": 7,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:21.279Z"
+      "repository_data_timestamp": "2022-12-02T02:01:21.323Z"
     },
     {
       "index": 2301,
@@ -42393,11 +42393,11 @@ DATA = {
       },
       "created_at": "2021-03-02T18:02:41.000Z",
       "last_commit_at": "2022-10-11T20:35:58.000Z",
-      "stars": 127,
+      "stars": 129,
       "forks": 5,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:21.297Z"
+      "repository_data_timestamp": "2022-12-02T02:01:21.360Z"
     },
     {
       "index": 2302,
@@ -42416,7 +42416,7 @@ DATA = {
       "forks": 11,
       "subscribers": 4,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:21.315Z"
+      "repository_data_timestamp": "2022-12-02T02:01:21.360Z"
     },
     {
       "index": 2303,
@@ -42435,7 +42435,7 @@ DATA = {
       "forks": 10,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:21.361Z"
+      "repository_data_timestamp": "2022-12-02T02:01:21.423Z"
     },
     {
       "index": 2304,
@@ -42455,7 +42455,7 @@ DATA = {
       "forks": 15,
       "subscribers": 5,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:21.390Z"
+      "repository_data_timestamp": "2022-12-02T02:01:21.448Z"
     },
     {
       "index": 2305,
@@ -42475,7 +42475,7 @@ DATA = {
       "forks": 4,
       "subscribers": 0,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:21.798Z"
+      "repository_data_timestamp": "2022-12-02T02:01:21.906Z"
     },
     {
       "index": 2306,
@@ -42495,7 +42495,7 @@ DATA = {
       "forks": 81,
       "subscribers": 32,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:21.496Z"
+      "repository_data_timestamp": "2022-12-02T02:01:21.604Z"
     },
     {
       "index": 2307,
@@ -42515,7 +42515,7 @@ DATA = {
       "forks": 7,
       "subscribers": 1,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:21.492Z"
+      "repository_data_timestamp": "2022-12-02T02:01:21.625Z"
     },
     {
       "index": 2308,
@@ -42535,7 +42535,7 @@ DATA = {
       "forks": 16,
       "subscribers": 8,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:21.578Z"
+      "repository_data_timestamp": "2022-12-02T02:01:21.652Z"
     },
     {
       "index": 2309,
@@ -42555,7 +42555,7 @@ DATA = {
       "forks": 10,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:21.589Z"
+      "repository_data_timestamp": "2022-12-02T02:01:21.628Z"
     },
     {
       "index": 2310,
@@ -42575,7 +42575,7 @@ DATA = {
       "forks": 253,
       "subscribers": 83,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:21.617Z"
+      "repository_data_timestamp": "2022-12-02T02:01:21.683Z"
     },
     {
       "index": 2311,
@@ -42595,7 +42595,7 @@ DATA = {
       "forks": 509,
       "subscribers": 144,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:21.663Z"
+      "repository_data_timestamp": "2022-12-02T02:01:21.709Z"
     },
     {
       "index": 2312,
@@ -42615,7 +42615,7 @@ DATA = {
       "forks": 26,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:21.676Z"
+      "repository_data_timestamp": "2022-12-02T02:01:21.709Z"
     },
     {
       "index": 2313,
@@ -42630,12 +42630,12 @@ DATA = {
         "name": "ddosify"
       },
       "created_at": "2021-08-04T07:43:53.000Z",
-      "last_commit_at": "2022-11-28T22:20:51.000Z",
-      "stars": 5131,
-      "forks": 221,
+      "last_commit_at": "2022-12-01T16:08:36.000Z",
+      "stars": 5137,
+      "forks": 222,
       "subscribers": 48,
       "license": "agpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:01:21.683Z"
+      "repository_data_timestamp": "2022-12-02T02:01:21.742Z"
     },
     {
       "index": 2314,
@@ -42655,7 +42655,7 @@ DATA = {
       "forks": 5,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:21.794Z"
+      "repository_data_timestamp": "2022-12-02T02:01:21.893Z"
     },
     {
       "index": 2315,
@@ -42675,7 +42675,7 @@ DATA = {
       "forks": 6,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:21.796Z"
+      "repository_data_timestamp": "2022-12-02T02:01:21.900Z"
     },
     {
       "index": 2316,
@@ -42695,7 +42695,7 @@ DATA = {
       "forks": 16,
       "subscribers": 4,
       "license": "gpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:01:21.822Z"
+      "repository_data_timestamp": "2022-12-02T02:01:21.963Z"
     },
     {
       "index": 2317,
@@ -42715,7 +42715,7 @@ DATA = {
       "forks": 45,
       "subscribers": 19,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:21.866Z"
+      "repository_data_timestamp": "2022-12-02T02:01:21.920Z"
     },
     {
       "index": 2318,
@@ -42735,7 +42735,7 @@ DATA = {
       "forks": 16,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:21.897Z"
+      "repository_data_timestamp": "2022-12-02T02:01:21.957Z"
     },
     {
       "index": 2319,
@@ -42755,7 +42755,7 @@ DATA = {
       "forks": 25,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:21.920Z"
+      "repository_data_timestamp": "2022-12-02T02:01:21.971Z"
     },
     {
       "index": 2320,
@@ -42775,7 +42775,7 @@ DATA = {
       "forks": 13,
       "subscribers": 3,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:21.937Z"
+      "repository_data_timestamp": "2022-12-02T02:01:21.996Z"
     },
     {
       "index": 2321,
@@ -42795,7 +42795,7 @@ DATA = {
       "forks": 55,
       "subscribers": 9,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:21.971Z"
+      "repository_data_timestamp": "2022-12-02T02:01:22.016Z"
     },
     {
       "index": 2322,
@@ -42815,7 +42815,7 @@ DATA = {
       "forks": 50,
       "subscribers": 32,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:21.966Z"
+      "repository_data_timestamp": "2022-12-02T02:01:22.059Z"
     },
     {
       "index": 2323,
@@ -42830,12 +42830,12 @@ DATA = {
         "name": "fleet"
       },
       "created_at": "2020-11-03T22:17:18.000Z",
-      "last_commit_at": "2022-12-01T00:01:07.000Z",
-      "stars": 992,
-      "forks": 193,
+      "last_commit_at": "2022-12-01T23:50:29.000Z",
+      "stars": 994,
+      "forks": 194,
       "subscribers": 25,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:22.085Z"
+      "repository_data_timestamp": "2022-12-02T02:01:22.196Z"
     },
     {
       "index": 2324,
@@ -42855,7 +42855,7 @@ DATA = {
       "forks": 229,
       "subscribers": 107,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:22.109Z"
+      "repository_data_timestamp": "2022-12-02T02:01:22.200Z"
     },
     {
       "index": 2325,
@@ -42870,12 +42870,12 @@ DATA = {
         "name": "ghorg"
       },
       "created_at": "2018-03-29T02:53:05.000Z",
-      "last_commit_at": "2022-11-25T18:29:19.000Z",
+      "last_commit_at": "2022-12-01T14:01:55.000Z",
       "stars": 1139,
       "forks": 127,
       "subscribers": 20,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:22.124Z"
+      "repository_data_timestamp": "2022-12-02T02:01:22.179Z"
     },
     {
       "index": 2326,
@@ -42890,12 +42890,12 @@ DATA = {
         "name": "gitea"
       },
       "created_at": "2016-11-01T02:13:26.000Z",
-      "last_commit_at": "2022-12-01T01:44:13.000Z",
-      "stars": 33530,
-      "forks": 4237,
+      "last_commit_at": "2022-12-02T01:42:46.000Z",
+      "stars": 33543,
+      "forks": 4240,
       "subscribers": 487,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:22.140Z"
+      "repository_data_timestamp": "2022-12-02T02:01:22.222Z"
     },
     {
       "index": 2327,
@@ -42924,7 +42924,7 @@ DATA = {
       "forks": 29,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:22.148Z"
+      "repository_data_timestamp": "2022-12-02T02:01:22.228Z"
     },
     {
       "index": 2329,
@@ -42944,7 +42944,7 @@ DATA = {
       "forks": 5,
       "subscribers": 4,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:22.173Z"
+      "repository_data_timestamp": "2022-12-02T02:01:22.245Z"
     },
     {
       "index": 2330,
@@ -42964,7 +42964,7 @@ DATA = {
       "forks": 139,
       "subscribers": 29,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:22.185Z"
+      "repository_data_timestamp": "2022-12-02T02:01:22.272Z"
     },
     {
       "index": 2331,
@@ -42984,7 +42984,7 @@ DATA = {
       "forks": 18,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:22.233Z"
+      "repository_data_timestamp": "2022-12-02T02:01:22.290Z"
     },
     {
       "index": 2332,
@@ -43004,7 +43004,7 @@ DATA = {
       "forks": 27,
       "subscribers": 17,
       "license": "bsd-2-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:22.252Z"
+      "repository_data_timestamp": "2022-12-02T02:01:22.299Z"
     },
     {
       "index": 2333,
@@ -43020,11 +43020,11 @@ DATA = {
       },
       "created_at": "2014-02-12T01:57:08.000Z",
       "last_commit_at": "2022-11-28T14:37:02.000Z",
-      "stars": 41287,
+      "stars": 41292,
       "forks": 4660,
       "subscribers": 1044,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:23.103Z"
+      "repository_data_timestamp": "2022-12-02T02:01:23.125Z"
     },
     {
       "index": 2334,
@@ -43044,7 +43044,7 @@ DATA = {
       "forks": 35,
       "subscribers": 8,
       "license": null,
-      "repository_data_timestamp": "2022-12-01T02:01:22.248Z"
+      "repository_data_timestamp": "2022-12-02T02:01:22.336Z"
     },
     {
       "index": 2335,
@@ -43064,7 +43064,7 @@ DATA = {
       "forks": 42,
       "subscribers": 10,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:22.649Z"
+      "repository_data_timestamp": "2022-12-02T02:01:22.710Z"
     },
     {
       "index": 2336,
@@ -43080,11 +43080,11 @@ DATA = {
       },
       "created_at": "2013-11-17T03:11:35.000Z",
       "last_commit_at": "2022-09-13T01:53:20.000Z",
-      "stars": 4405,
+      "stars": 4406,
       "forks": 349,
       "subscribers": 77,
       "license": "mpl-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:22.415Z"
+      "repository_data_timestamp": "2022-12-02T02:01:22.488Z"
     },
     {
       "index": 2337,
@@ -43104,7 +43104,7 @@ DATA = {
       "forks": 84,
       "subscribers": 48,
       "license": null,
-      "repository_data_timestamp": "2022-12-01T02:01:22.393Z"
+      "repository_data_timestamp": "2022-12-02T02:01:22.494Z"
     },
     {
       "index": 2338,
@@ -43124,7 +43124,7 @@ DATA = {
       "forks": 9,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:22.456Z"
+      "repository_data_timestamp": "2022-12-02T02:01:22.510Z"
     },
     {
       "index": 2339,
@@ -43140,11 +43140,11 @@ DATA = {
       },
       "created_at": "2011-12-03T02:34:04.000Z",
       "last_commit_at": "2022-09-25T20:35:12.000Z",
-      "stars": 7999,
+      "stars": 8004,
       "forks": 438,
       "subscribers": 155,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:22.452Z"
+      "repository_data_timestamp": "2022-12-02T02:01:22.525Z"
     },
     {
       "index": 2340,
@@ -43160,11 +43160,11 @@ DATA = {
       },
       "created_at": "2016-09-02T10:24:09.000Z",
       "last_commit_at": "2022-11-09T00:38:19.000Z",
-      "stars": 14641,
-      "forks": 1013,
-      "subscribers": 180,
+      "stars": 14648,
+      "forks": 1015,
+      "subscribers": 179,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:22.466Z"
+      "repository_data_timestamp": "2022-12-02T02:01:22.524Z"
     },
     {
       "index": 2341,
@@ -43184,7 +43184,7 @@ DATA = {
       "forks": 9,
       "subscribers": 3,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:22.507Z"
+      "repository_data_timestamp": "2022-12-02T02:01:22.592Z"
     },
     {
       "index": 2342,
@@ -43199,12 +43199,12 @@ DATA = {
         "name": "jenkins-cli"
       },
       "created_at": "2019-06-21T10:19:34.000Z",
-      "last_commit_at": "2022-11-29T14:02:10.000Z",
-      "stars": 339,
+      "last_commit_at": "2022-12-01T14:03:07.000Z",
+      "stars": 340,
       "forks": 76,
       "subscribers": 13,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:22.560Z"
+      "repository_data_timestamp": "2022-12-02T02:01:22.582Z"
     },
     {
       "index": 2343,
@@ -43220,11 +43220,11 @@ DATA = {
       },
       "created_at": "2015-03-19T04:24:19.000Z",
       "last_commit_at": "2022-10-10T06:03:44.000Z",
-      "stars": 1927,
+      "stars": 1926,
       "forks": 182,
       "subscribers": 62,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:22.525Z"
+      "repository_data_timestamp": "2022-12-02T02:01:22.582Z"
     },
     {
       "index": 2344,
@@ -43244,7 +43244,7 @@ DATA = {
       "forks": 18,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:22.546Z"
+      "repository_data_timestamp": "2022-12-02T02:01:22.625Z"
     },
     {
       "index": 2345,
@@ -43259,12 +43259,12 @@ DATA = {
         "name": "ko"
       },
       "created_at": "2019-03-21T19:24:01.000Z",
-      "last_commit_at": "2022-11-30T16:03:06.000Z",
-      "stars": 5336,
-      "forks": 296,
-      "subscribers": 42,
+      "last_commit_at": "2022-12-01T12:58:53.000Z",
+      "stars": 5344,
+      "forks": 298,
+      "subscribers": 43,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:22.984Z"
+      "repository_data_timestamp": "2022-12-02T02:01:23.030Z"
     },
     {
       "index": 2346,
@@ -43284,7 +43284,7 @@ DATA = {
       "forks": 42,
       "subscribers": 12,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:22.713Z"
+      "repository_data_timestamp": "2022-12-02T02:01:22.804Z"
     },
     {
       "index": 2347,
@@ -43299,12 +43299,12 @@ DATA = {
         "name": "kubernetes"
       },
       "created_at": "2014-06-06T22:56:04.000Z",
-      "last_commit_at": "2022-12-01T01:00:48.000Z",
-      "stars": 94135,
-      "forks": 34535,
-      "subscribers": 3267,
+      "last_commit_at": "2022-12-02T01:39:23.000Z",
+      "stars": 94142,
+      "forks": 34546,
+      "subscribers": 3269,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:22.790Z"
+      "repository_data_timestamp": "2022-12-02T02:01:22.811Z"
     },
     {
       "index": 2348,
@@ -43324,7 +43324,7 @@ DATA = {
       "forks": 45,
       "subscribers": 8,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:22.770Z"
+      "repository_data_timestamp": "2022-12-02T02:01:22.837Z"
     },
     {
       "index": 2349,
@@ -43344,7 +43344,7 @@ DATA = {
       "forks": 26,
       "subscribers": 11,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:22.782Z"
+      "repository_data_timestamp": "2022-12-02T02:01:22.816Z"
     },
     {
       "index": 2350,
@@ -43364,7 +43364,7 @@ DATA = {
       "forks": 4,
       "subscribers": 4,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:22.810Z"
+      "repository_data_timestamp": "2022-12-02T02:01:22.859Z"
     },
     {
       "index": 2351,
@@ -43384,7 +43384,7 @@ DATA = {
       "forks": 28,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:22.829Z"
+      "repository_data_timestamp": "2022-12-02T02:01:22.876Z"
     },
     {
       "index": 2352,
@@ -43404,7 +43404,7 @@ DATA = {
       "forks": 3,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:22.885Z"
+      "repository_data_timestamp": "2022-12-02T02:01:22.911Z"
     },
     {
       "index": 2353,
@@ -43420,11 +43420,11 @@ DATA = {
       },
       "created_at": "2021-04-19T10:29:56.000Z",
       "last_commit_at": "2022-12-01T00:18:19.000Z",
-      "stars": 5994,
+      "stars": 6061,
       "forks": 197,
-      "subscribers": 50,
+      "subscribers": 51,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:23.160Z"
+      "repository_data_timestamp": "2022-12-02T02:01:23.174Z"
     },
     {
       "index": 2354,
@@ -43439,12 +43439,12 @@ DATA = {
         "name": "moby"
       },
       "created_at": "2013-01-18T18:10:57.000Z",
-      "last_commit_at": "2022-12-01T01:54:16.000Z",
-      "stars": 64628,
-      "forks": 18380,
+      "last_commit_at": "2022-12-02T00:35:04.000Z",
+      "stars": 64637,
+      "forks": 18382,
       "subscribers": 2987,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:22.958Z"
+      "repository_data_timestamp": "2022-12-02T02:01:22.999Z"
     },
     {
       "index": 2355,
@@ -43460,11 +43460,11 @@ DATA = {
       },
       "created_at": "2013-07-12T09:07:01.000Z",
       "last_commit_at": "2022-11-01T19:40:53.000Z",
-      "stars": 307,
+      "stars": 308,
       "forks": 58,
       "subscribers": 26,
       "license": null,
-      "repository_data_timestamp": "2022-12-01T02:01:23.009Z"
+      "repository_data_timestamp": "2022-12-02T02:01:23.096Z"
     },
     {
       "index": 2356,
@@ -43484,7 +43484,7 @@ DATA = {
       "forks": 13,
       "subscribers": 7,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:23.064Z"
+      "repository_data_timestamp": "2022-12-02T02:01:23.172Z"
     },
     {
       "index": 2357,
@@ -43499,12 +43499,12 @@ DATA = {
         "name": "packer"
       },
       "created_at": "2013-03-23T05:43:03.000Z",
-      "last_commit_at": "2022-12-01T00:34:46.000Z",
-      "stars": 14085,
+      "last_commit_at": "2022-12-02T00:30:55.000Z",
+      "stars": 14089,
       "forks": 3268,
       "subscribers": 474,
       "license": "mpl-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:23.375Z"
+      "repository_data_timestamp": "2022-12-02T02:01:23.430Z"
     },
     {
       "index": 2358,
@@ -43520,11 +43520,11 @@ DATA = {
       },
       "created_at": "2016-10-12T22:59:40.000Z",
       "last_commit_at": "2022-05-18T19:56:58.000Z",
-      "stars": 364,
+      "stars": 363,
       "forks": 34,
       "subscribers": 11,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:23.110Z"
+      "repository_data_timestamp": "2022-12-02T02:01:23.156Z"
     },
     {
       "index": 2359,
@@ -43539,12 +43539,12 @@ DATA = {
         "name": "pomerium"
       },
       "created_at": "2019-01-01T08:04:37.000Z",
-      "last_commit_at": "2022-11-30T22:09:05.000Z",
-      "stars": 3312,
-      "forks": 265,
+      "last_commit_at": "2022-12-01T15:26:59.000Z",
+      "stars": 3315,
+      "forks": 266,
       "subscribers": 35,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:23.129Z"
+      "repository_data_timestamp": "2022-12-02T02:01:23.164Z"
     },
     {
       "index": 2360,
@@ -43564,7 +43564,7 @@ DATA = {
       "forks": 4,
       "subscribers": 3,
       "license": null,
-      "repository_data_timestamp": "2022-12-01T02:01:23.158Z"
+      "repository_data_timestamp": "2022-12-02T02:01:23.193Z"
     },
     {
       "index": 2361,
@@ -43584,7 +43584,7 @@ DATA = {
       "forks": 24,
       "subscribers": 3,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:23.363Z"
+      "repository_data_timestamp": "2022-12-02T02:01:23.292Z"
     },
     {
       "index": 2362,
@@ -43604,7 +43604,7 @@ DATA = {
       "forks": 194,
       "subscribers": 32,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:23.293Z"
+      "repository_data_timestamp": "2022-12-02T02:01:23.336Z"
     },
     {
       "index": 2363,
@@ -43620,11 +43620,11 @@ DATA = {
       },
       "created_at": "2016-11-16T10:31:15.000Z",
       "last_commit_at": "2022-11-07T16:25:34.000Z",
-      "stars": 1385,
+      "stars": 1386,
       "forks": 132,
       "subscribers": 28,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:23.307Z"
+      "repository_data_timestamp": "2022-12-02T02:01:23.409Z"
     },
     {
       "index": 2364,
@@ -43639,12 +43639,12 @@ DATA = {
         "name": "scaleway-cli"
       },
       "created_at": "2015-03-20T09:45:50.000Z",
-      "last_commit_at": "2022-11-30T17:03:17.000Z",
+      "last_commit_at": "2022-12-01T16:55:16.000Z",
       "stars": 786,
       "forks": 135,
       "subscribers": 32,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:23.382Z"
+      "repository_data_timestamp": "2022-12-02T02:01:23.560Z"
     },
     {
       "index": 2365,
@@ -43660,11 +43660,11 @@ DATA = {
       },
       "created_at": "2019-04-20T14:37:03.000Z",
       "last_commit_at": "2022-11-16T17:17:17.000Z",
-      "stars": 3424,
-      "forks": 228,
+      "stars": 3438,
+      "forks": 229,
       "subscribers": 43,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:23.396Z"
+      "repository_data_timestamp": "2022-12-02T02:01:23.435Z"
     },
     {
       "index": 2366,
@@ -43684,7 +43684,7 @@ DATA = {
       "forks": 1,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:23.431Z"
+      "repository_data_timestamp": "2022-12-02T02:01:23.481Z"
     },
     {
       "index": 2367,
@@ -43704,7 +43704,7 @@ DATA = {
       "forks": 50,
       "subscribers": 21,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:23.437Z"
+      "repository_data_timestamp": "2022-12-02T02:01:23.525Z"
     },
     {
       "index": 2368,
@@ -43724,7 +43724,7 @@ DATA = {
       "forks": 201,
       "subscribers": 51,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:23.507Z"
+      "repository_data_timestamp": "2022-12-02T02:01:23.756Z"
     },
     {
       "index": 2369,
@@ -43744,7 +43744,7 @@ DATA = {
       "forks": 43,
       "subscribers": 13,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:23.534Z"
+      "repository_data_timestamp": "2022-12-02T02:01:23.607Z"
     },
     {
       "index": 2370,
@@ -43759,12 +43759,12 @@ DATA = {
         "name": "traefik"
       },
       "created_at": "2015-09-13T19:04:02.000Z",
-      "last_commit_at": "2022-11-30T16:00:57.000Z",
-      "stars": 40580,
-      "forks": 4414,
+      "last_commit_at": "2022-12-01T15:13:16.000Z",
+      "stars": 40588,
+      "forks": 4417,
       "subscribers": 685,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:23.866Z"
+      "repository_data_timestamp": "2022-12-02T02:01:23.916Z"
     },
     {
       "index": 2371,
@@ -43784,7 +43784,7 @@ DATA = {
       "forks": 19,
       "subscribers": 14,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:23.582Z"
+      "repository_data_timestamp": "2022-12-02T02:01:23.663Z"
     },
     {
       "index": 2372,
@@ -43800,11 +43800,11 @@ DATA = {
       },
       "created_at": "2019-11-05T12:59:55.000Z",
       "last_commit_at": "2022-11-23T10:21:59.000Z",
-      "stars": 794,
+      "stars": 795,
       "forks": 60,
       "subscribers": 34,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:23.679Z"
+      "repository_data_timestamp": "2022-12-02T02:01:23.700Z"
     },
     {
       "index": 2373,
@@ -43820,11 +43820,11 @@ DATA = {
       },
       "created_at": "2013-08-13T11:45:21.000Z",
       "last_commit_at": "2022-10-26T23:46:30.000Z",
-      "stars": 20499,
-      "forks": 1262,
+      "stars": 20506,
+      "forks": 1263,
       "subscribers": 320,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:23.667Z"
+      "repository_data_timestamp": "2022-12-02T02:01:23.713Z"
     },
     {
       "index": 2374,
@@ -43844,7 +43844,7 @@ DATA = {
       "forks": 3,
       "subscribers": 1,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:23.688Z"
+      "repository_data_timestamp": "2022-12-02T02:01:23.713Z"
     },
     {
       "index": 2375,
@@ -43860,11 +43860,11 @@ DATA = {
       },
       "created_at": "2015-01-12T20:59:11.000Z",
       "last_commit_at": "2022-10-11T07:06:17.000Z",
-      "stars": 8420,
-      "forks": 713,
+      "stars": 8421,
+      "forks": 714,
       "subscribers": 152,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:23.702Z"
+      "repository_data_timestamp": "2022-12-02T02:01:23.874Z"
     },
     {
       "index": 2376,
@@ -43884,7 +43884,7 @@ DATA = {
       "forks": 36,
       "subscribers": 2,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:24.341Z"
+      "repository_data_timestamp": "2022-12-02T02:01:24.536Z"
     },
     {
       "index": 2377,
@@ -43904,7 +43904,7 @@ DATA = {
       "forks": 20,
       "subscribers": 6,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:23.723Z"
+      "repository_data_timestamp": "2022-12-02T02:01:23.832Z"
     },
     {
       "index": 2378,
@@ -43928,12 +43928,12 @@ DATA = {
         "name": "blocky"
       },
       "created_at": "2019-11-06T09:03:31.000Z",
-      "last_commit_at": "2022-11-30T23:54:47.000Z",
-      "stars": 2078,
+      "last_commit_at": "2022-12-02T01:53:16.000Z",
+      "stars": 2081,
       "forks": 116,
       "subscribers": 27,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:23.753Z"
+      "repository_data_timestamp": "2022-12-02T02:01:23.827Z"
     },
     {
       "index": 2380,
@@ -43953,7 +43953,7 @@ DATA = {
       "forks": 60,
       "subscribers": 39,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:24.096Z"
+      "repository_data_timestamp": "2022-12-02T02:01:24.215Z"
     },
     {
       "index": 2381,
@@ -43973,7 +43973,7 @@ DATA = {
       "forks": 9,
       "subscribers": 3,
       "license": "bsd-2-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:23.819Z"
+      "repository_data_timestamp": "2022-12-02T02:01:23.997Z"
     },
     {
       "index": 2382,
@@ -43989,11 +43989,11 @@ DATA = {
       },
       "created_at": "2015-10-24T20:56:23.000Z",
       "last_commit_at": "2017-06-24T10:34:24.000Z",
-      "stars": 286,
+      "stars": 287,
       "forks": 40,
       "subscribers": 13,
       "license": "gpl-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:23.887Z"
+      "repository_data_timestamp": "2022-12-02T02:01:23.999Z"
     },
     {
       "index": 2383,
@@ -44013,7 +44013,7 @@ DATA = {
       "forks": 160,
       "subscribers": 136,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:23.963Z"
+      "repository_data_timestamp": "2022-12-02T02:01:24.007Z"
     },
     {
       "index": 2384,
@@ -44029,11 +44029,11 @@ DATA = {
       },
       "created_at": "2014-11-12T03:15:58.000Z",
       "last_commit_at": "2022-04-22T20:44:57.000Z",
-      "stars": 9779,
+      "stars": 9780,
       "forks": 381,
       "subscribers": 158,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:23.981Z"
+      "repository_data_timestamp": "2022-12-02T02:01:24.003Z"
     },
     {
       "index": 2385,
@@ -44049,11 +44049,11 @@ DATA = {
       },
       "created_at": "2013-10-01T04:06:09.000Z",
       "last_commit_at": "2022-09-28T14:58:24.000Z",
-      "stars": 7957,
-      "forks": 1382,
+      "stars": 7962,
+      "forks": 1381,
       "subscribers": 251,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:24.023Z"
+      "repository_data_timestamp": "2022-12-02T02:01:24.131Z"
     },
     {
       "index": 2386,
@@ -44073,7 +44073,7 @@ DATA = {
       "forks": 5,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:24.017Z"
+      "repository_data_timestamp": "2022-12-02T02:01:24.121Z"
     },
     {
       "index": 2387,
@@ -44088,12 +44088,12 @@ DATA = {
         "name": "croc"
       },
       "created_at": "2017-10-17T15:20:18.000Z",
-      "last_commit_at": "2022-11-19T04:55:10.000Z",
-      "stars": 21255,
+      "last_commit_at": "2022-12-02T00:47:38.000Z",
+      "stars": 21258,
       "forks": 928,
       "subscribers": 246,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:24.017Z"
+      "repository_data_timestamp": "2022-12-02T02:01:24.131Z"
     },
     {
       "index": 2388,
@@ -44111,9 +44111,9 @@ DATA = {
       "last_commit_at": "2022-10-31T11:21:39.000Z",
       "stars": 1164,
       "forks": 218,
-      "subscribers": 158,
+      "subscribers": 157,
       "license": "cc0-1.0",
-      "repository_data_timestamp": "2022-12-01T02:01:24.434Z"
+      "repository_data_timestamp": "2022-12-02T02:01:24.677Z"
     },
     {
       "index": 2389,
@@ -44129,11 +44129,11 @@ DATA = {
       },
       "created_at": "2016-04-29T23:35:07.000Z",
       "last_commit_at": "2022-11-22T13:54:19.000Z",
-      "stars": 1724,
+      "stars": 1725,
       "forks": 181,
       "subscribers": 55,
       "license": "agpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:01:24.111Z"
+      "repository_data_timestamp": "2022-12-02T02:01:24.217Z"
     },
     {
       "index": 2390,
@@ -44153,7 +44153,7 @@ DATA = {
       "forks": 37,
       "subscribers": 11,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:24.147Z"
+      "repository_data_timestamp": "2022-12-02T02:01:24.267Z"
     },
     {
       "index": 2391,
@@ -44173,7 +44173,7 @@ DATA = {
       "forks": 433,
       "subscribers": 176,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:24.317Z"
+      "repository_data_timestamp": "2022-12-02T02:01:24.316Z"
     },
     {
       "index": 2392,
@@ -44189,11 +44189,11 @@ DATA = {
       },
       "created_at": "2016-02-23T01:28:10.000Z",
       "last_commit_at": "2022-11-23T02:42:54.000Z",
-      "stars": 4401,
-      "forks": 311,
+      "stars": 4403,
+      "forks": 312,
       "subscribers": 96,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:24.211Z"
+      "repository_data_timestamp": "2022-12-02T02:01:24.321Z"
     },
     {
       "index": 2393,
@@ -44213,7 +44213,7 @@ DATA = {
       "forks": 20,
       "subscribers": 5,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:24.242Z"
+      "repository_data_timestamp": "2022-12-02T02:01:24.311Z"
     },
     {
       "index": 2394,
@@ -44233,7 +44233,7 @@ DATA = {
       "forks": 45,
       "subscribers": 15,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:24.685Z"
+      "repository_data_timestamp": "2022-12-02T02:01:24.336Z"
     },
     {
       "index": 2395,
@@ -44253,7 +44253,7 @@ DATA = {
       "forks": 29,
       "subscribers": 22,
       "license": null,
-      "repository_data_timestamp": "2022-12-01T02:01:24.309Z"
+      "repository_data_timestamp": "2022-12-02T02:01:24.439Z"
     },
     {
       "index": 2396,
@@ -44273,7 +44273,7 @@ DATA = {
       "forks": 76,
       "subscribers": 19,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:24.336Z"
+      "repository_data_timestamp": "2022-12-02T02:01:24.405Z"
     },
     {
       "index": 2397,
@@ -44302,7 +44302,7 @@ DATA = {
       "forks": 105,
       "subscribers": 45,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:24.405Z"
+      "repository_data_timestamp": "2022-12-02T02:01:24.448Z"
     },
     {
       "index": 2399,
@@ -44322,7 +44322,7 @@ DATA = {
       "forks": 46,
       "subscribers": 22,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:24.430Z"
+      "repository_data_timestamp": "2022-12-02T02:01:24.559Z"
     },
     {
       "index": 2400,
@@ -44342,7 +44342,7 @@ DATA = {
       "forks": 1,
       "subscribers": 4,
       "license": null,
-      "repository_data_timestamp": "2022-12-01T02:01:24.521Z"
+      "repository_data_timestamp": "2022-12-02T02:01:24.650Z"
     },
     {
       "index": 2401,
@@ -44358,11 +44358,11 @@ DATA = {
       },
       "created_at": "2021-03-12T08:52:52.000Z",
       "last_commit_at": "2022-10-28T22:03:02.000Z",
-      "stars": 464,
+      "stars": 467,
       "forks": 26,
       "subscribers": 6,
       "license": "agpl-3.0",
-      "repository_data_timestamp": "2022-12-01T02:01:24.525Z"
+      "repository_data_timestamp": "2022-12-02T02:01:24.642Z"
     },
     {
       "index": 2402,
@@ -44387,11 +44387,11 @@ DATA = {
       },
       "created_at": "2013-05-30T09:29:07.000Z",
       "last_commit_at": "2022-11-23T02:55:32.000Z",
-      "stars": 16432,
-      "forks": 1667,
-      "subscribers": 470,
+      "stars": 16437,
+      "forks": 1669,
+      "subscribers": 471,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:24.922Z"
+      "repository_data_timestamp": "2022-12-02T02:01:24.898Z"
     },
     {
       "index": 2404,
@@ -44407,11 +44407,11 @@ DATA = {
       },
       "created_at": "2020-08-13T16:05:08.000Z",
       "last_commit_at": "2020-11-28T03:25:36.000Z",
-      "stars": 618,
+      "stars": 619,
       "forks": 93,
       "subscribers": 15,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:24.597Z"
+      "repository_data_timestamp": "2022-12-02T02:01:24.693Z"
     },
     {
       "index": 2405,
@@ -44431,7 +44431,7 @@ DATA = {
       "forks": 1,
       "subscribers": 2,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:24.707Z"
+      "repository_data_timestamp": "2022-12-02T02:01:24.800Z"
     },
     {
       "index": 2406,
@@ -44446,12 +44446,12 @@ DATA = {
         "name": "hugo"
       },
       "created_at": "2013-07-04T15:26:26.000Z",
-      "last_commit_at": "2022-11-30T08:01:39.000Z",
-      "stars": 63962,
-      "forks": 6906,
+      "last_commit_at": "2022-12-01T08:46:00.000Z",
+      "stars": 63980,
+      "forks": 6907,
       "subscribers": 1063,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:24.997Z"
+      "repository_data_timestamp": "2022-12-02T02:01:24.967Z"
     },
     {
       "index": 2407,
@@ -44471,7 +44471,7 @@ DATA = {
       "forks": 21,
       "subscribers": 19,
       "license": "lgpl-2.1",
-      "repository_data_timestamp": "2022-12-01T02:01:24.675Z"
+      "repository_data_timestamp": "2022-12-02T02:01:24.806Z"
     },
     {
       "index": 2408,
@@ -44491,7 +44491,7 @@ DATA = {
       "forks": 73,
       "subscribers": 18,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:24.711Z"
+      "repository_data_timestamp": "2022-12-02T02:01:24.800Z"
     },
     {
       "index": 2409,
@@ -44511,7 +44511,7 @@ DATA = {
       "forks": 21,
       "subscribers": 9,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:24.726Z"
+      "repository_data_timestamp": "2022-12-02T02:01:24.892Z"
     },
     {
       "index": 2410,
@@ -44540,7 +44540,7 @@ DATA = {
       "forks": 55,
       "subscribers": 30,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:25.149Z"
+      "repository_data_timestamp": "2022-12-02T02:01:24.845Z"
     },
     {
       "index": 2412,
@@ -44560,7 +44560,7 @@ DATA = {
       "forks": 118,
       "subscribers": 48,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:24.837Z"
+      "repository_data_timestamp": "2022-12-02T02:01:24.922Z"
     },
     {
       "index": 2413,
@@ -44585,11 +44585,11 @@ DATA = {
       },
       "created_at": "2012-11-19T01:54:25.000Z",
       "last_commit_at": "2022-11-27T12:59:22.000Z",
-      "stars": 7049,
+      "stars": 7051,
       "forks": 969,
       "subscribers": 372,
       "license": "lgpl-2.1",
-      "repository_data_timestamp": "2022-12-01T02:01:24.860Z"
+      "repository_data_timestamp": "2022-12-02T02:01:24.985Z"
     },
     {
       "index": 2415,
@@ -44609,7 +44609,7 @@ DATA = {
       "forks": 64,
       "subscribers": 11,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:24.885Z"
+      "repository_data_timestamp": "2022-12-02T02:01:24.992Z"
     },
     {
       "index": 2416,
@@ -44629,7 +44629,7 @@ DATA = {
       "forks": 230,
       "subscribers": 108,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:24.991Z"
+      "repository_data_timestamp": "2022-12-02T02:01:25.087Z"
     },
     {
       "index": 2417,
@@ -44649,7 +44649,7 @@ DATA = {
       "forks": 2,
       "subscribers": 6,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:25.008Z"
+      "repository_data_timestamp": "2022-12-02T02:01:25.087Z"
     },
     {
       "index": 2418,
@@ -44669,7 +44669,7 @@ DATA = {
       "forks": 16,
       "subscribers": 9,
       "license": "artistic-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:25.012Z"
+      "repository_data_timestamp": "2022-12-02T02:01:25.101Z"
     },
     {
       "index": 2419,
@@ -44685,11 +44685,11 @@ DATA = {
       },
       "created_at": "2015-03-02T22:16:13.000Z",
       "last_commit_at": "2022-03-06T14:12:26.000Z",
-      "stars": 5133,
+      "stars": 5134,
       "forks": 487,
       "subscribers": 147,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:25.055Z"
+      "repository_data_timestamp": "2022-12-02T02:01:25.144Z"
     },
     {
       "index": 2420,
@@ -44709,7 +44709,7 @@ DATA = {
       "forks": 9,
       "subscribers": 8,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:25.118Z"
+      "repository_data_timestamp": "2022-12-02T02:01:25.204Z"
     },
     {
       "index": 2421,
@@ -44729,7 +44729,7 @@ DATA = {
       "forks": 106,
       "subscribers": 28,
       "license": "bsd-3-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:25.566Z"
+      "repository_data_timestamp": "2022-12-02T02:01:25.229Z"
     },
     {
       "index": 2422,
@@ -44744,12 +44744,12 @@ DATA = {
         "name": "plik"
       },
       "created_at": "2015-04-19T18:20:27.000Z",
-      "last_commit_at": "2022-11-25T10:25:53.000Z",
-      "stars": 1126,
-      "forks": 140,
-      "subscribers": 34,
+      "last_commit_at": "2022-12-01T14:33:22.000Z",
+      "stars": 1127,
+      "forks": 141,
+      "subscribers": 35,
       "license": "other",
-      "repository_data_timestamp": "2022-12-01T02:01:25.196Z"
+      "repository_data_timestamp": "2022-12-02T02:01:25.247Z"
     },
     {
       "index": 2423,
@@ -44769,7 +44769,7 @@ DATA = {
       "forks": 1,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:25.213Z"
+      "repository_data_timestamp": "2022-12-02T02:01:25.282Z"
     },
     {
       "index": 2424,
@@ -44784,12 +44784,12 @@ DATA = {
         "name": "restic"
       },
       "created_at": "2014-04-27T14:07:58.000Z",
-      "last_commit_at": "2022-12-01T01:03:43.000Z",
-      "stars": 18618,
-      "forks": 1228,
+      "last_commit_at": "2022-12-01T20:20:58.000Z",
+      "stars": 18626,
+      "forks": 1229,
       "subscribers": 240,
       "license": "bsd-2-clause",
-      "repository_data_timestamp": "2022-12-01T02:01:25.301Z"
+      "repository_data_timestamp": "2022-12-02T02:01:25.275Z"
     },
     {
       "index": 2425,
@@ -44809,7 +44809,7 @@ DATA = {
       "forks": 18,
       "subscribers": 6,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:25.314Z"
+      "repository_data_timestamp": "2022-12-02T02:01:25.292Z"
     },
     {
       "index": 2426,
@@ -44825,11 +44825,11 @@ DATA = {
       },
       "created_at": "2018-03-01T06:44:25.000Z",
       "last_commit_at": "2022-11-22T23:33:37.000Z",
-      "stars": 3971,
-      "forks": 176,
+      "stars": 3973,
+      "forks": 177,
       "subscribers": 26,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:25.319Z"
+      "repository_data_timestamp": "2022-12-02T02:01:25.373Z"
     },
     {
       "index": 2427,
@@ -44844,12 +44844,12 @@ DATA = {
         "name": "seaweedfs"
       },
       "created_at": "2014-07-14T16:41:37.000Z",
-      "last_commit_at": "2022-11-30T15:43:30.000Z",
-      "stars": 15941,
-      "forks": 1895,
+      "last_commit_at": "2022-12-01T22:09:14.000Z",
+      "stars": 15948,
+      "forks": 1896,
       "subscribers": 524,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:25.761Z"
+      "repository_data_timestamp": "2022-12-02T02:01:25.646Z"
     },
     {
       "index": 2428,
@@ -44865,11 +44865,11 @@ DATA = {
       },
       "created_at": "2015-03-11T19:39:09.000Z",
       "last_commit_at": "2022-10-17T18:38:26.000Z",
-      "stars": 1030,
+      "stars": 1032,
       "forks": 109,
       "subscribers": 22,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:25.394Z"
+      "repository_data_timestamp": "2022-12-02T02:01:25.388Z"
     },
     {
       "index": 2429,
@@ -44889,7 +44889,7 @@ DATA = {
       "forks": 303,
       "subscribers": 140,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:25.586Z"
+      "repository_data_timestamp": "2022-12-02T02:01:25.436Z"
     },
     {
       "index": 2430,
@@ -44909,7 +44909,7 @@ DATA = {
       "forks": 1,
       "subscribers": 1,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:25.650Z"
+      "repository_data_timestamp": "2022-12-02T02:01:25.473Z"
     },
     {
       "index": 2431,
@@ -44929,7 +44929,7 @@ DATA = {
       "forks": 176,
       "subscribers": 65,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:25.639Z"
+      "repository_data_timestamp": "2022-12-02T02:01:25.532Z"
     },
     {
       "index": 2432,
@@ -44949,7 +44949,7 @@ DATA = {
       "forks": 4,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:25.650Z"
+      "repository_data_timestamp": "2022-12-02T02:01:25.551Z"
     },
     {
       "index": 2433,
@@ -44965,11 +44965,11 @@ DATA = {
       },
       "created_at": "2013-11-26T09:48:21.000Z",
       "last_commit_at": "2022-11-29T08:45:21.000Z",
-      "stars": 47956,
-      "forks": 3618,
+      "stars": 47967,
+      "forks": 3617,
       "subscribers": 988,
       "license": "mpl-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:25.967Z"
+      "repository_data_timestamp": "2022-12-02T02:01:25.700Z"
     },
     {
       "index": 2434,
@@ -44989,7 +44989,7 @@ DATA = {
       "forks": 19,
       "subscribers": 10,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:25.670Z"
+      "repository_data_timestamp": "2022-12-02T02:01:25.578Z"
     },
     {
       "index": 2435,
@@ -45009,7 +45009,7 @@ DATA = {
       "forks": 19,
       "subscribers": 9,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:25.746Z"
+      "repository_data_timestamp": "2022-12-02T02:01:25.579Z"
     },
     {
       "index": 2436,
@@ -45029,7 +45029,7 @@ DATA = {
       "forks": 4,
       "subscribers": 2,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:25.751Z"
+      "repository_data_timestamp": "2022-12-02T02:01:25.644Z"
     },
     {
       "index": 2437,
@@ -45045,11 +45045,11 @@ DATA = {
       },
       "created_at": "2014-09-04T13:56:38.000Z",
       "last_commit_at": "2022-11-28T09:10:57.000Z",
-      "stars": 8716,
+      "stars": 8717,
       "forks": 411,
       "subscribers": 553,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:25.817Z"
+      "repository_data_timestamp": "2022-12-02T02:01:25.699Z"
     },
     {
       "index": 2438,
@@ -45073,12 +45073,12 @@ DATA = {
         "name": "vaku"
       },
       "created_at": "2018-04-24T04:52:10.000Z",
-      "last_commit_at": "2022-11-28T05:50:34.000Z",
+      "last_commit_at": "2022-12-01T17:04:05.000Z",
       "stars": 141,
       "forks": 16,
       "subscribers": 3,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:25.860Z"
+      "repository_data_timestamp": "2022-12-02T02:01:25.712Z"
     },
     {
       "index": 2440,
@@ -45098,7 +45098,7 @@ DATA = {
       "forks": 208,
       "subscribers": 85,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:26.182Z"
+      "repository_data_timestamp": "2022-12-02T02:01:26.005Z"
     },
     {
       "index": 2441,
@@ -45118,7 +45118,7 @@ DATA = {
       "forks": 16,
       "subscribers": 13,
       "license": "apache-2.0",
-      "repository_data_timestamp": "2022-12-01T02:01:25.952Z"
+      "repository_data_timestamp": "2022-12-02T02:01:25.807Z"
     },
     {
       "index": 2442,
@@ -45138,8 +45138,8 @@ DATA = {
       "forks": 54,
       "subscribers": 5,
       "license": "mit",
-      "repository_data_timestamp": "2022-12-01T02:01:25.952Z"
+      "repository_data_timestamp": "2022-12-02T02:01:25.862Z"
     }
   ],
-  "timestamp": "2022-12-01T02:00:11.497Z"
+  "timestamp": "2022-12-02T02:00:11.673Z"
 };
